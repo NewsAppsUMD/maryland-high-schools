@@ -1,12 +1,4 @@
 #!/usr/bin/env python3
-# /// script
-# requires-python = ">=3.11"
-# dependencies = [
-#   "llm>=0.28",
-#   "llm-anthropic>=0.24",
-#   "pypdf>=6.0",
-# ]
-# ///
 """
 Parse the MPSSAA Fall Record Book PDF into structured CSV / JSON data.
 
