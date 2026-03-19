@@ -87,7 +87,6 @@ class TestClassifiersSynthetic:
     def test_is_year_class_table_positive(self):
         assert is_year_class_table("YEAR CLASS CHAMPION COACH FINALIST COACH")
 
-    @pytest.mark.xfail(reason="Classifier regex expects 'YEAR CLASS CHAMPION' — misses 'Year Class Team Champion' used by indoor track/swimming")
     def test_is_year_class_table_team_champion_variant(self):
         assert is_year_class_table("Year Class Team Champion Coach 2nd Place Coach Site")
 
@@ -170,7 +169,6 @@ class TestClassifiersWinter:
         # Page 4 has Girls Basketball multi-column results
         assert is_multicolumn_results(winter_pages[4])
 
-    @pytest.mark.xfail(reason="Indoor track header is 'Year Class Team Champion' — not matched by current regex")
     def test_year_class_indoor_track(self, winter_pages):
         # Page 22 has indoor track championship table
         assert is_year_class_table(winter_pages[22])
@@ -187,7 +185,6 @@ class TestClassifiersWinter:
         # Page 99 has wrestling sportsmanship
         assert is_sportsmanship(winter_pages[99])
 
-    @pytest.mark.xfail(reason="Swimming header is 'Year Class Team Champion' — not matched by current regex")
     def test_swimming_has_year_class_table(self, winter_pages):
         # Page 62 has swimming team championship table
         assert is_year_class_table(winter_pages[62])

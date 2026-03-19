@@ -159,8 +159,8 @@ def is_school_records(text: str) -> bool:
 
 
 def is_year_class_table(text: str) -> bool:
-    """Cross country / field hockey style with explicit YEAR CLASS header."""
-    return bool(re.search(r"YEAR\s+CLASS\s+CHAMPION", text, re.IGNORECASE))
+    """Championship table with a YEAR CLASS … CHAMPION header (e.g. indoor track: 'Year Class Team Champion')."""
+    return bool(re.search(r"YEAR\s+CLASS\s+(?:\w+\s+)*CHAMPION", text, re.IGNORECASE))
 
 
 def is_multicolumn_results(text: str) -> bool:
