@@ -10,7 +10,9 @@ from pypdf import PdfReader
 
 from parse_record_book import (
     chunked,
+    detect_season,
     is_golf_results,
+    is_individual_results,
     is_individual_xc,
     is_multicolumn_results,
     is_school_records,
@@ -123,6 +125,41 @@ class TestClassifiersSynthetic:
     def test_is_golf_negative(self):
         assert not is_golf_results("YEAR CLASS CHAMPION COACH")
 
+    def test_is_individual_results_track_header(self):
+        assert is_individual_results("Event: 55m Dash\nYear Class Athlete-School-Mark\n2025 4A Fred Colvin—Fairmont Heights 6.6")
+
+    def test_is_individual_results_tennis(self):
+        assert is_individual_results("Year Boys Singles Champion Boys Doubles Champions\n1975 John Olson, Bowie 6-7")
+
+    def test_is_individual_results_swimming(self):
+        assert is_individual_results("Girls 200 Yard Freestyle\n2024 4A-3A Andrea Dworak, James Hubert Blake 1:46.72")
+
+    def test_is_individual_results_negative(self):
+        assert not is_individual_results("ALLEGANY\nCh: 1997, 1998")
+
+    def test_is_multicolumn_lacrosse(self):
+        assert is_multicolumn_results("Class 4A-3A Class 2A-1A\n1990 Severna Park 12-10")
+
+    def test_is_sportsmanship_rejects_incidental_mention(self):
+        # Sportsmanship mentioned deep in text should NOT match
+        padding = "x" * 600
+        assert not is_sportsmanship(padding + "\nSPORTSMANSHIP AWARD\n2024 Allegany")
+
+    def test_is_school_records_uppercase(self):
+        assert is_school_records("Aberdeen (16, 7-15)\nCH: 2003 (2AE)")
+
+    def test_detect_season_fall(self):
+        assert detect_season("pdfs/FallRecordBook2024.pdf") == "fall"
+
+    def test_detect_season_winter(self):
+        assert detect_season("pdfs/Winter record book.pdf") == "winter"
+
+    def test_detect_season_spring(self):
+        assert detect_season("pdfs/Spring record book 2025.pdf") == "spring"
+
+    def test_detect_season_default(self):
+        assert detect_season("pdfs/unknown.pdf") == "fall"
+
 
 # ── Page classifiers on real Fall PDF pages ──────────────────────────────────
 
@@ -189,6 +226,18 @@ class TestClassifiersWinter:
         # Page 62 has swimming team championship table
         assert is_year_class_table(winter_pages[62])
 
+    def test_individual_results_indoor_track(self, winter_pages):
+        # Page 35 has indoor track individual event champions
+        assert is_individual_results(winter_pages[35])
+
+    def test_individual_results_swimming(self, winter_pages):
+        # Page 65 has swimming individual event champions
+        assert is_individual_results(winter_pages[65])
+
+    def test_school_records_football_uppercase(self, fall_pages):
+        # Page 40 has Football school records with CH: format
+        assert is_school_records(fall_pages[40])
+
 
 # ── Page classifiers on real Spring PDF pages ────────────────────────────────
 
@@ -221,6 +270,22 @@ class TestClassifiersSpring:
     def test_boys_lacrosse_school_records(self, spring_pages):
         # Page 18 has Boys Lacrosse school records
         assert is_school_records(spring_pages[18])
+
+    def test_multicolumn_lacrosse(self, spring_pages):
+        # Page 12 has Girls Lacrosse two-column championship results
+        assert is_multicolumn_results(spring_pages[12])
+
+    def test_individual_results_tennis(self, spring_pages):
+        # Page 30 has Tennis individual event results
+        assert is_individual_results(spring_pages[30])
+
+    def test_individual_results_track(self, spring_pages):
+        # Page 50 has Girls Track individual event champions
+        assert is_individual_results(spring_pages[50])
+
+    def test_sportsmanship_not_incidental(self, spring_pages):
+        # Page 12 mentions sportsmanship in trivia but is NOT a sportsmanship page
+        assert not is_sportsmanship(spring_pages[12])
 
 
 # ── Classifier exclusivity ───────────────────────────────────────────────────
@@ -344,6 +409,37 @@ class TestParseSchoolRecords:
         assert 1976 in arundel["champion_years"]
         assert 1977 in arundel["champion_years"]
         assert 2006 in arundel["champion_years"]
+
+    def test_football_uppercase_codes_with_classifications(self):
+        text = (
+            "Allegany (29, 43-21)\n"
+            "CH: 1978 (B), 1980 (B), 1983 (B),\n"
+            "1988 (2A), 1989 (2A)\n"
+            "RU: 1985 (B), 1986 (B)\n"
+            "SF: 1982 (B), 1994 (2A)\n"
+            "QF: 1987 (B), 1998 (1A)\n"
+        )
+        records = parse_school_records([text], "Football")
+        assert len(records) == 1
+        r = records[0]
+        assert r["school"] == "Allegany"
+        assert r["champion_years"] == [1978, 1980, 1983, 1988, 1989]
+        assert r["runner_up_years"] == [1985, 1986]
+        assert r["semifinalist_years"] == [1982, 1994]
+        assert r["quarterfinal_years"] == [1987, 1998]
+
+    def test_fall_football_school_records(self, fall_pages):
+        records = parse_school_records(fall_pages[40:46], "Football")
+        assert len(records) > 50
+        allegany = [r for r in records if r["school"] == "Allegany"][0]
+        assert 1978 in allegany["champion_years"]
+        assert len(allegany["champion_years"]) == 8
+
+    def test_spring_lacrosse_quarterfinals(self, spring_pages):
+        records = parse_school_records(spring_pages[13:15], "Girls Lacrosse")
+        bel_air = [r for r in records if "BEL AIR" in r["school"]]
+        assert len(bel_air) == 1
+        assert bel_air[0].get("quarterfinal_years", []) == [2024, 2025]
 
 
 # ── Championship dedup logic ─────────────────────────────────────────────────

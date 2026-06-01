@@ -1,0 +1,1 @@
+- [Allow uv run without permission](feedback_uv_run.md) — Run uv run python/pytest commands without asking

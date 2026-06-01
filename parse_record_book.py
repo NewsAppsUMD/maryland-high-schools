@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Parse the MPSSAA Fall Record Book PDF into structured CSV / JSON data.
+Parse MPSSAA Record Book PDFs (fall, winter, spring) into structured CSV / JSON data.
 
 Usage:
     uv run parse_record_book.py [PDF_PATH] [OUTPUT_DIR]
 
 Defaults:
     PDF_PATH   = pdfs/FallRecordBook2024.pdf
-    OUTPUT_DIR = data
+    OUTPUT_DIR = data/<season>   (auto-detected from PDF filename)
 
 Requires:
     ANTHROPIC_API_KEY environment variable   (or `llm keys set anthropic`)
@@ -61,6 +61,20 @@ class IndividualChampions(BaseModel):
     champions: list[IndividualChampion]
 
 
+class IndividualResult(BaseModel):
+    sport: str
+    event: str
+    year: int
+    classification: str
+    name: str
+    school: str
+    mark: Optional[str] = None
+
+
+class IndividualResults(BaseModel):
+    results: list[IndividualResult]
+
+
 class GolfResult(BaseModel):
     year: int
     classification: str  # "Combined", "1A/2A", or "3A/4A"
@@ -100,28 +114,33 @@ def get_model() -> llm.Model:
     return _model
 
 
-def llm_extract(prompt: str, schema) -> dict:
+def llm_extract(prompt: str, schema, retries: int = 2) -> dict:
     """Call the LLM with a Pydantic schema and return the parsed dict."""
     model = get_model()
-    response = model.prompt(prompt, schema=schema, stream=False)
 
-    # claude-sonnet-4-6 / claude-opus-4-6: structured output → response.text() is JSON
-    text = response.text().strip()
-    if text:
-        try:
-            return json.loads(text)
-        except json.JSONDecodeError:
-            pass
+    for attempt in range(1, retries + 1):
+        response = model.prompt(prompt, schema=schema, stream=False)
 
-    # Haiku (tool-based schema fallback): result is in tool_calls[0].arguments
-    if response.tool_calls:
-        args = response.tool_calls[0].arguments
-        if isinstance(args, dict):
-            return args
-        return json.loads(args)
+        # claude-sonnet-4-6 / claude-opus-4-6: structured output → response.text() is JSON
+        text = response.text().strip()
+        if text:
+            try:
+                return json.loads(text)
+            except json.JSONDecodeError:
+                pass
+
+        # Haiku (tool-based schema fallback): result is in tool_calls()[0].arguments
+        if response.tool_calls():
+            args = response.tool_calls()[0].arguments
+            if isinstance(args, dict):
+                return args
+            return json.loads(args)
+
+        if attempt < retries:
+            print(f"    (retry {attempt}/{retries} — LLM returned no content)")
 
     raise RuntimeError(
-        f"LLM returned no usable content.\n"
+        f"LLM returned no usable content after {retries} attempts.\n"
         f"text={text!r}\n"
         f"response_json={response.response_json}"
     )
@@ -135,27 +154,60 @@ def load_pages(pdf_path: str) -> list[str]:
     return [page.extract_text() or "" for page in reader.pages]
 
 
-# ── Section map ───────────────────────────────────────────────────────────────
-# Document page numbers → PDF 0-based index is (doc_page + 1).
-# Slices below are [first_idx : last_idx+1] i.e. [doc_page_start+1 : doc_page_end+2].
+# ── Section maps ──────────────────────────────────────────────────────────────
+# PDF 0-based page indices as [start, end) slices.
 
-SECTIONS: dict[str, tuple[int, int]] = {
-    "Girls Cross Country": (3, 13),   # doc pages 2-11
-    "Boys Cross Country":  (13, 27),  # doc pages 12-25
-    "Field Hockey":        (27, 35),  # doc pages 26-33
-    "Football":            (35, 47),  # doc pages 34-45
-    "Golf":                (47, 53),  # doc pages 46-51
-    "Girls Soccer":        (53, 59),  # doc pages 52-57
-    "Boys Soccer":         (59, 66),  # doc pages 58-64
-    "Volleyball":          (66, 77),  # doc pages 65-75
+FALL_SECTIONS: dict[str, tuple[int, int]] = {
+    "Girls Cross Country": (3, 13),
+    "Boys Cross Country":  (13, 27),
+    "Field Hockey":        (27, 35),
+    "Football":            (35, 47),
+    "Golf":                (47, 53),
+    "Girls Soccer":        (53, 59),
+    "Boys Soccer":         (59, 66),
+    "Volleyball":          (66, 77),
 }
+
+WINTER_SECTIONS: dict[str, tuple[int, int]] = {
+    "Girls Basketball":        (3, 11),
+    "Boys Basketball":         (11, 21),
+    "Girls Indoor Track":      (21, 40),
+    "Boys Indoor Track":       (40, 60),
+    "Girls Swimming & Diving": (60, 69),
+    "Boys Swimming & Diving":  (69, 79),
+    "Wrestling":               (79, 100),
+}
+
+SPRING_SECTIONS: dict[str, tuple[int, int]] = {
+    "Baseball":              (3, 11),
+    "Girls Lacrosse":        (11, 16),
+    "Boys Lacrosse":         (16, 22),
+    "Softball":              (22, 29),
+    "Tennis":                (29, 35),
+    "Girls Track and Field": (35, 61),
+    "Boys Track and Field":  (61, 95),
+}
+
+SEASON_SECTIONS = {
+    "fall": FALL_SECTIONS,
+    "winter": WINTER_SECTIONS,
+    "spring": SPRING_SECTIONS,
+}
+
+
+def detect_season(pdf_path: str) -> str:
+    name = Path(pdf_path).stem.lower()
+    for season in ("fall", "winter", "spring"):
+        if season in name:
+            return season
+    return "fall"
 
 
 # ── Page classifiers ──────────────────────────────────────────────────────────
 
 
 def is_school_records(text: str) -> bool:
-    return bool(re.search(r"\bCh:\s*\d{4}", text))
+    return bool(re.search(r"\bCh:\s*\d{4}", text, re.IGNORECASE))
 
 
 def is_year_class_table(text: str) -> bool:
@@ -164,22 +216,37 @@ def is_year_class_table(text: str) -> bool:
 
 
 def is_multicolumn_results(text: str) -> bool:
-    """Football / soccer / volleyball multi-column champion table."""
-    return bool(re.search(r"CLASS\s+(?:4A|AA)\s+CLASS\s+(?:3A|A)", text))
+    """Multi-column champion table (football, soccer, volleyball, lacrosse, etc.)."""
+    return bool(
+        re.search(r"CLASS\s+(?:4A|AA)\s+CLASS\s+(?:3A|A)", text)
+        or re.search(r"Class\s+\dA-\dA\s+Class\s+\dA-\dA", text)
+    )
 
 
 def is_individual_xc(text: str) -> bool:
     return bool(re.search(r"\d+\.\d+\s+MILES?|3\.0 MILES?\s", text, re.IGNORECASE))
 
 
+def is_individual_results(text: str) -> bool:
+    """Detect individual event champion pages (track, swimming, tennis, XC)."""
+    return bool(
+        re.search(r"Athlete[-—]School[-—](?:Mark|Score)", text)
+        or re.search(r"(?:Singles|Doubles)\s+Champion", text)
+        or re.search(r"\d{4}\s+\d[A-Z](?:-\d[A-Z])?\s+[\w\s]+,\s+[\w\s]+\d+:\d+", text)
+        or re.search(r"\d+\.\d+\s+MILES?", text, re.IGNORECASE)
+    )
+
+
 def is_sportsmanship(text: str) -> bool:
-    return bool(re.search(r"SPORTSMANSHIP AWARD", text, re.IGNORECASE)) and bool(
+    # Require the heading near the top of the page to avoid incidental mentions
+    return bool(re.search(r"SPORTSMANSHIP AWARD", text[:500], re.IGNORECASE)) and bool(
         re.search(r"\b(20|19)\d{2}\b", text)
     )
 
 
 def is_golf_results(text: str) -> bool:
-    return bool(re.search(r"Team Champion", text))
+    # Match golf format: "Team Champion......School (score)" — exclude swimming "Year Class Team Champion Coach"
+    return bool(re.search(r"Team Champion\s*\.{3,}", text))
 
 
 # ── School records (regex) ────────────────────────────────────────────────────
@@ -193,17 +260,19 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
     combined = "\n".join(pages_text)
     records: list[dict] = []
 
-    # A school name is an all-caps line that isn't a table header or page number
+    # A school name: either all-caps (e.g. "ALLEGANY") or mixed-case with
+    # parenthetical stats (e.g. "Aberdeen (16, 7-15)" in Football records)
     school_re = re.compile(
         r"^(?!YEAR|CLASS|MPSSAA|HONOR ROLL|TOURNAMENTS|STATE|PREVIOUS|PUBLIC|SOCCER)"
-        r"[A-Z][A-Z\s\.\-\'/&]+$"
+        r"(?:[A-Z][A-Z\s\.\-\'/&]+$|[A-Z][A-Za-z\s\.\-\'/&]+\(\d)"
     )
     status_start_re = re.compile(r"^(Ch|Fn|Sf|RU|QF|RS|RR\d?|CH|SF|RU):")
 
     def get_years(block: list[str], code: str) -> list[int]:
         combined_block = " ".join(block)
-        # Grab everything after "Code:" until the next code or end
-        parts = re.findall(rf"(?i)\b{code}:\s*([\d,\s\n]+)", combined_block)
+        # Grab everything after "Code:" until the next code or end.
+        # Allow parenthetical classifications like "(2AE)" between years.
+        parts = re.findall(rf"(?i)\b{code}:\s*([\d,\s\n\(\)A-Za-z]+?)(?=\b(?:Ch|Fn|Sf|RU|QF|RS|RR\d?|CH|SF)\b:|$)", combined_block)
         years: list[int] = []
         for part in parts:
             years.extend(int(y) for y in re.findall(r"\d{4}", part))
@@ -217,8 +286,9 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
         fn = get_years(block, "Fn")
         sf = get_years(block, "Sf")
         ru = get_years(block, "RU")
+        qf = get_years(block, "Qf")
         if ch or fn or ru:
-            return {
+            rec = {
                 "sport": sport,
                 "school": school,
                 "champion_years": ch,
@@ -226,6 +296,9 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
                 "semifinalist_years": sf,
                 "runner_up_years": ru,
             }
+            if qf:
+                rec["quarterfinal_years"] = qf
+            return rec
         return None
 
     for raw_line in combined.splitlines():
@@ -240,7 +313,8 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
                 rec = flush(current_school, current_block)
                 if rec:
                     records.append(rec)
-            current_school = line
+            # Strip parenthetical stats like "(16, 7-15)" from Football records
+            current_school = re.sub(r"\s*\([\d,\s\-]+\)\s*$", "", line).strip()
             current_block = []
         elif current_school:
             current_block.append(line)
@@ -256,10 +330,15 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
 # ── Championship results (LLM) ────────────────────────────────────────────────
 
 
+def _clean_dot_leaders(text: str) -> str:
+    """Replace dot leaders (......) with a single tab for cleaner LLM input."""
+    return re.sub(r"\.{3,}", "\t", text)
+
+
 def extract_championship_results(
     pages: list[str], sport: str
 ) -> list[dict]:
-    combined = "\n\n--- PAGE BREAK ---\n\n".join(pages)
+    combined = "\n\n--- PAGE BREAK ---\n\n".join(_clean_dot_leaders(p) for p in pages)
     prompt = textwrap.dedent(f"""
         Extract every state championship final result from this MPSSAA {sport} record book text.
 
@@ -276,6 +355,7 @@ def extract_championship_results(
           the coach name is on the following line directly below that column.
         - sport must always be exactly: {sport}
         - Do not invent data. Skip section headers, stats, and non-championship content.
+        - The text may use dot leaders (......) between fields. Ignore the dots and extract the data.
 
         TEXT:
         {combined}
@@ -288,7 +368,7 @@ def extract_championship_results(
 
 
 def extract_individual_xc(pages: list[str], sport: str) -> list[dict]:
-    combined = "\n\n--- PAGE BREAK ---\n\n".join(pages)
+    combined = "\n\n--- PAGE BREAK ---\n\n".join(_clean_dot_leaders(p) for p in pages)
     prompt = textwrap.dedent(f"""
         Extract every individual state cross country champion from this MPSSAA {sport} text.
 
@@ -308,11 +388,39 @@ def extract_individual_xc(pages: list[str], sport: str) -> list[dict]:
     return data.get("champions", [])
 
 
+# ── Individual event results (LLM) ───────────────────────────────────────────
+
+
+def extract_individual_results(pages: list[str], sport: str) -> list[dict]:
+    combined = "\n\n--- PAGE BREAK ---\n\n".join(pages)
+    prompt = textwrap.dedent(f"""
+        Extract every individual event state champion from this MPSSAA {sport} text.
+
+        Rules:
+        - One row per champion: sport, event, year, classification, name, school, mark.
+        - event: the specific event name (e.g. "55m Dash", "200 Yard Freestyle", "Boys Singles",
+          "Shot Put", "High Jump"). Extract from section headers like "Event: 55m Dash".
+        - mark: the performance value (time, distance, score). Examples: "6.6", "11:03.93",
+          "5-09", "38-09 1/4", "1:46.72", "(6-3, 6-3)". Null if not stated.
+        - classification: raw value (e.g. "4A", "3A", "2A", "1A", "4A-3A", "3A-2A-1A").
+        - name: athlete name only (no school). For doubles/relay, join names with " & ".
+        - sport must always be exactly: {sport}
+        - Skip all-time records lists (those showing the single best performance ever).
+          Only include year-by-year state champions (the winner each year per class).
+        - Skip cancelled seasons (COVID etc.).
+
+        TEXT:
+        {combined}
+    """).strip()
+    data = llm_extract(prompt, IndividualResults)
+    return data.get("results", [])
+
+
 # ── Golf results (LLM) ────────────────────────────────────────────────────────
 
 
 def extract_golf_results(pages: list[str]) -> list[dict]:
-    combined = "\n\n--- PAGE BREAK ---\n\n".join(pages)
+    combined = "\n\n--- PAGE BREAK ---\n\n".join(_clean_dot_leaders(p) for p in pages)
     prompt = textwrap.dedent("""
         Extract every annual Golf state championship result from this MPSSAA Golf record book.
 
@@ -380,7 +488,7 @@ def write_csv(path: Path, rows: list[dict], fieldnames: list[str]) -> None:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-CHUNK = 4  # max pages per LLM call
+CHUNK = 2  # max pages per LLM call — smaller chunks improve Haiku reliability
 
 
 def chunked(lst: list, size: int, overlap: int = 1) -> list[list]:
@@ -393,40 +501,51 @@ def chunked(lst: list, size: int, overlap: int = 1) -> list[list]:
 
 def main() -> None:
     pdf_path = sys.argv[1] if len(sys.argv) > 1 else "pdfs/FallRecordBook2024.pdf"
-    out_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("data")
+    season = detect_season(pdf_path)
+    sections = SEASON_SECTIONS[season]
+    out_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("data") / season
 
-    print(f"Loading {pdf_path} …")
+    print(f"Loading {pdf_path} … (season: {season})")
     pages = load_pages(pdf_path)
     print(f"  {len(pages)} pages loaded.\n")
 
     all_championship: list[dict] = []
     all_school_records: list[dict] = []
+    all_individual_xc: list[dict] = []
     all_individual: list[dict] = []
     all_sportsmanship: list[dict] = []
     all_golf: list[dict] = []
 
-    for sport, (start, end) in SECTIONS.items():
+    for sport, (start, end) in sections.items():
         sport_pages = pages[start:end]
         print(f"── {sport}  (PDF indices {start}–{end-1}) ──")
 
         school_record_pages: list[str] = []
         championship_pages: list[str] = []
-        individual_pages: list[str] = []
+        individual_xc_pages: list[str] = []
+        individual_event_pages: list[str] = []
         sportsmanship_pages: list[str] = []
         golf_pages: list[str] = []
 
         for text in sport_pages:
+            classified = False
+            # School records checked first — regex, no LLM cost. A page can
+            # also match a second classifier below (dual-content pages).
+            if is_school_records(text):
+                school_record_pages.append(text)
+                classified = True
             if is_golf_results(text):
                 golf_pages.append(text)
             elif is_sportsmanship(text):
                 sportsmanship_pages.append(text)
+            elif is_individual_results(text) and "Cross Country" not in sport:
+                individual_event_pages.append(text)
             elif is_individual_xc(text):
-                individual_pages.append(text)
+                individual_xc_pages.append(text)
             elif is_year_class_table(text) or is_multicolumn_results(text):
                 championship_pages.append(text)
-            elif is_school_records(text):
-                school_record_pages.append(text)
-            # else: section header, stats, ads → skip
+            elif not classified:
+                pass  # section header, stats, ads → skip
 
         # School records (regex)
         if school_record_pages:
@@ -443,14 +562,23 @@ def main() -> None:
                 all_championship.extend(results)
             print(f"  championship table : {total} rows  ({len(championship_pages)} pages, LLM)")
 
-        # Individual XC (LLM)
-        if individual_pages and "Cross Country" in sport:
+        # Individual XC (LLM) — fall cross country only
+        if individual_xc_pages and "Cross Country" in sport:
             total = 0
-            for chunk in chunked(individual_pages, CHUNK):
+            for chunk in chunked(individual_xc_pages, CHUNK):
                 champs = extract_individual_xc(chunk, sport)
                 total += len(champs)
-                all_individual.extend(champs)
-            print(f"  individual XC      : {total} rows  ({len(individual_pages)} pages, LLM)")
+                all_individual_xc.extend(champs)
+            print(f"  individual XC      : {total} rows  ({len(individual_xc_pages)} pages, LLM)")
+
+        # Individual event results (LLM) — track, swimming, tennis
+        if individual_event_pages:
+            total = 0
+            for chunk in chunked(individual_event_pages, CHUNK):
+                results = extract_individual_results(chunk, sport)
+                total += len(results)
+                all_individual.extend(results)
+            print(f"  individual events  : {total} rows  ({len(individual_event_pages)} pages, LLM)")
 
         # Golf (LLM)
         if golf_pages:
@@ -502,13 +630,19 @@ def main() -> None:
         out_dir / "school_records.csv",
         all_school_records,
         ["sport", "school", "champion_years", "finalist_years",
-         "semifinalist_years", "runner_up_years"],
+         "semifinalist_years", "runner_up_years", "quarterfinal_years"],
     )
     write_csv(
         out_dir / "individual_xc_champions.csv",
-        all_individual,
+        all_individual_xc,
         ["sport", "year", "classification", "name", "school", "time", "distance"],
     )
+    if all_individual:
+        write_csv(
+            out_dir / "individual_results.csv",
+            all_individual,
+            ["sport", "event", "year", "classification", "name", "school", "mark"],
+        )
     write_csv(
         out_dir / "sportsmanship_awards.csv",
         all_sportsmanship,
@@ -528,7 +662,8 @@ def main() -> None:
     record_book = {
         "championship_results": unique_championship,
         "school_records": all_school_records,
-        "individual_xc_champions": all_individual,
+        "individual_xc_champions": all_individual_xc,
+        "individual_results": all_individual,
         "sportsmanship_awards": all_sportsmanship,
         "golf_results": all_golf,
     }
