@@ -145,6 +145,20 @@ def _raw_response_dict(response) -> Optional[dict]:
     return None
 
 
+class TruncationError(Exception):
+    """The model hit its output-token limit, so the response is incomplete.
+
+    Retrying the identical prompt just truncates again; the caller must shrink
+    the input (fewer pages / split the text) and try the pieces separately.
+    """
+
+
+# Explicit output-token ceiling. The model already defaults to this; setting it
+# here documents intent. Raising it only reduces how often a dense page has to
+# be split — it is not a fix on its own, because any fixed cap can be exceeded.
+MAX_TOKENS = 8192
+
+
 def _was_truncated(response) -> bool:
     """True if the model stopped because it hit its output-token limit.
 
@@ -172,23 +186,28 @@ def llm_extract(prompt: str, schema, retries: int = 2) -> dict:
     types are coerced (e.g. year "2024" → 2024). Output that does not conform to
     the schema triggers a retry and, if it never conforms, a loud error — bad
     rows never reach the CSV/JSON silently.
+
+    Raises TruncationError if the model hit its output-token limit, so the caller
+    can split the input rather than retry an identical (and identically
+    truncated) prompt.
     """
     model = get_model()
     last_text = ""
     last_error = ""
 
     for attempt in range(1, retries + 1):
-        response = model.prompt(prompt, schema=schema, stream=False)
-        last_text = response.text().strip()
+        response = model.prompt(prompt, schema=schema, stream=False, max_tokens=MAX_TOKENS)
 
+        # Check truncation first: a truncated response is incomplete no matter
+        # what it parsed to, and retrying the same prompt cannot help.
+        if _was_truncated(response):
+            raise TruncationError("model hit the output-token limit (stop_reason=max_tokens)")
+
+        last_text = response.text().strip()
         data = _raw_response_dict(response)
         if data is not None:
             try:
-                validated = schema.model_validate(data).model_dump()
-                if _was_truncated(response):
-                    print("    ⚠ response hit the output-token limit — rows may be "
-                          "missing (completeness guard will re-extract)")
-                return validated
+                return schema.model_validate(data).model_dump()
             except ValidationError as exc:
                 last_error = str(exc)
                 if attempt < retries:
@@ -799,6 +818,44 @@ def _stamp(rows: list[dict], src: str) -> list[dict]:
     return rows
 
 
+MIN_SPLIT_LINES = 6  # don't try to split a fragment smaller than this
+
+
+def extract_resilient(texts: list[str], extract_fn, label: str) -> list[dict]:
+    """Call extract_fn(texts); on truncation, shrink the input and retry.
+
+    A dense page can produce more JSON than the model's output-token limit, so
+    the response is truncated and unusable. Rather than crash the whole run, we
+    split the input in half and extract the pieces separately, recursing until
+    each piece fits: first by splitting the page list, then (for a single page)
+    by splitting its lines. A fragment that still overflows at minimal size is
+    logged loudly and skipped — the completeness guard and verify_record_book.py
+    surface any resulting gap. Partial data beats aborting with none.
+    """
+    try:
+        return extract_fn(texts)
+    except (TruncationError, RuntimeError) as exc:
+        if len(texts) > 1:
+            mid = len(texts) // 2
+            print(f"  ⚠ {label}: output too large for {len(texts)} pages — splitting")
+            return (
+                extract_resilient(texts[:mid], extract_fn, label)
+                + extract_resilient(texts[mid:], extract_fn, label)
+            )
+
+        lines = texts[0].splitlines()
+        if len(lines) >= MIN_SPLIT_LINES:
+            mid = len(lines) // 2
+            print(f"  ⚠ {label}: single page too large — splitting its text in half")
+            return (
+                extract_resilient(["\n".join(lines[:mid])], extract_fn, label)
+                + extract_resilient(["\n".join(lines[mid:])], extract_fn, label)
+            )
+
+        print(f"  ⚠ {label}: fragment still overflows at minimal size — skipping ({exc})")
+        return []
+
+
 def extract_chunks_complete(
     indexed_pages: list[tuple[int, str]],
     extract_fn,
@@ -822,7 +879,7 @@ def extract_chunks_complete(
     for chunk in chunked(indexed_pages, CHUNK):
         indices = [i for i, _ in chunk]
         texts = [t for _, t in chunk]
-        rows.extend(_stamp(extract_fn(texts), source_label(indices)))
+        rows.extend(_stamp(extract_resilient(texts, extract_fn, label), source_label(indices)))
 
     expected: set[int] = set()
     for _, text in indexed_pages:
@@ -840,7 +897,7 @@ def extract_chunks_complete(
         f"({len(covered) / len(expected):.0%}) — re-extracting page-by-page"
     )
     for idx, text in indexed_pages:
-        rows.extend(_stamp(extract_fn([text]), str(idx)))
+        rows.extend(_stamp(extract_resilient([text], extract_fn, label), str(idx)))
 
     still_missing = sorted(expected - _years_in_rows(rows))
     if still_missing:
@@ -1096,11 +1153,16 @@ def main() -> None:
             all_golf.extend(results)
             print(f"  golf results       : {len(results)} rows  ({len(golf_pages)} pages, LLM)")
 
-        # Sportsmanship (LLM)
+        # Sportsmanship (LLM) — not chunked, but still guarded against truncation
         if sportsmanship_pages:
             src = source_label([i for i, _ in sportsmanship_pages])
             awards = _stamp(
-                extract_sportsmanship([t for _, t in sportsmanship_pages], sport), src
+                extract_resilient(
+                    [t for _, t in sportsmanship_pages],
+                    lambda pgs: extract_sportsmanship(pgs, sport),
+                    f"{sport} sportsmanship",
+                ),
+                src,
             )
             print(f"  sportsmanship      : {len(awards)} awards  ({len(sportsmanship_pages)} pages, LLM)")
             all_sportsmanship.extend(awards)

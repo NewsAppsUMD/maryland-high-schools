@@ -22,6 +22,7 @@ from parse_record_book import (
     detect_season,
     build_meta,
     extract_chunks_complete,
+    extract_resilient,
     FALL_SECTIONS,
     school_records_long,
     source_label,
@@ -39,6 +40,7 @@ from parse_record_book import (
     is_year_class_table,
     llm_extract,
     parse_school_records,
+    TruncationError,
 )
 
 
@@ -70,7 +72,7 @@ class _FakeModel:
         self._responses = list(responses)
         self.calls = 0
 
-    def prompt(self, prompt, schema=None, stream=False):
+    def prompt(self, prompt, schema=None, stream=False, **kwargs):
         self.calls += 1
         return self._responses.pop(0)
 
@@ -609,6 +611,62 @@ class TestLlmExtractValidation:
         patch_model([bad, _FakeResponse(text='{"results": [{"sport": "Y"}]}')])
         with pytest.raises(RuntimeError):
             llm_extract("prompt", ChampionshipResults, retries=2)
+
+    def test_truncation_raises_truncation_error(self, patch_model):
+        # stop_reason=max_tokens must raise TruncationError, not RuntimeError,
+        # and must not retry the identical prompt.
+        model = patch_model([_FakeResponse(tool_args={}, response_json={"stop_reason": "max_tokens"})])
+        with pytest.raises(TruncationError):
+            llm_extract("prompt", ChampionshipResults, retries=2)
+        assert model.calls == 1  # no pointless retry of the same prompt
+
+
+class TestExtractResilient:
+    """extract_resilient must split truncating input instead of crashing."""
+
+    def test_no_split_when_ok(self):
+        calls = []
+        def fn(texts):
+            calls.append(list(texts))
+            return [{"year": 2024}]
+        rows = extract_resilient(["page a", "page b"], fn, "t")
+        assert rows == [{"year": 2024}]
+        assert calls == [["page a", "page b"]]  # single call, no split
+
+    def test_splits_page_list_on_truncation(self):
+        # Truncates on the 2-page call, succeeds on each single page.
+        def fn(texts):
+            if len(texts) > 1:
+                raise TruncationError("too big")
+            return [{"page": texts[0]}]
+        rows = extract_resilient(["A", "B"], fn, "t")
+        assert {r["page"] for r in rows} == {"A", "B"}
+
+    def test_splits_single_page_lines_on_truncation(self):
+        # A single dense page truncates; splitting its lines lets each half through.
+        page = "\n".join(f"line{i}" for i in range(10))
+        def fn(texts):
+            if len(texts[0].splitlines()) > 5:
+                raise TruncationError("too big")
+            return [{"n": len(texts[0].splitlines())}]
+        rows = extract_resilient([page], fn, "t")
+        assert sum(r["n"] for r in rows) == 10  # all lines covered across halves
+
+    def test_skips_when_irreducible(self, capsys):
+        # Always truncates, even at minimal size → warn and return [], never raise.
+        def fn(texts):
+            raise TruncationError("always")
+        rows = extract_resilient(["one\ntwo"], fn, "stubborn")
+        assert rows == []
+        assert "skipping" in capsys.readouterr().out
+
+    def test_runtime_error_also_handled(self):
+        def fn(texts):
+            if len(texts) > 1:
+                raise RuntimeError("no content")
+            return [{"ok": texts[0]}]
+        rows = extract_resilient(["A", "B"], fn, "t")
+        assert len(rows) == 2
 
 
 # ── Section-map sanity check (Fix 4) ─────────────────────────────────────────
