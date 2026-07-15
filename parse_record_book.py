@@ -370,8 +370,12 @@ def is_sportsmanship(text: str) -> bool:
 
 
 def is_golf_results(text: str) -> bool:
-    # Match golf format: "Team Champion......School (score)" — exclude swimming "Year Class Team Champion Coach"
-    return bool(re.search(r"Team Champion\s*\.{3,}", text))
+    # Golf lists "Team Champion......School (score)" in the Combined era and
+    # "Team Champion 1A/2A......School (score)" in the split era (1993+), so allow
+    # a short classification label between the phrase and the dot leaders. The
+    # required dot leaders still exclude swimming's "Year Class Team Champion
+    # Coach" header, which has none.
+    return bool(re.search(r"Team Champion[^\n.]{0,10}\.{3,}", text))
 
 
 # ── School records (regex) ────────────────────────────────────────────────────

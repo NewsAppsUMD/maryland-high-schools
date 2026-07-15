@@ -188,8 +188,17 @@ class TestClassifiersSynthetic:
     def test_is_golf_positive(self):
         assert is_golf_results("Team Champion......Magruder (610)")
 
+    def test_is_golf_positive_split_era(self):
+        # Split era (1993+) puts the classification before the dot leaders.
+        assert is_golf_results("Team Champion 1A/2A..........Cambridge-South Dorchester (695)")
+        assert is_golf_results("Team Champion 3A/4A ............Winston Churchill (637)")
+
     def test_is_golf_negative(self):
         assert not is_golf_results("YEAR CLASS CHAMPION COACH")
+
+    def test_is_golf_negative_swimming_header(self):
+        # Swimming's team-champ header has no dot leaders and must not match golf.
+        assert not is_golf_results("Year Class Team Champion Coach Finalist Coach Site")
 
     def test_is_individual_results_track_header(self):
         assert is_individual_results("Event: 55m Dash\nYear Class Athlete-School-Mark\n2025 4A Fred Colvin—Fairmont Heights 6.6")
@@ -250,8 +259,10 @@ class TestClassifiersFall:
         assert is_individual_xc(fall_pages[10])
 
     def test_golf_results(self, fall_pages):
-        # Page 50 has golf results
+        # Page 50 (Combined era) and pages 51-52 (split era) are all golf results.
         assert is_golf_results(fall_pages[50])
+        assert is_golf_results(fall_pages[51])
+        assert is_golf_results(fall_pages[52])
 
     def test_sportsmanship(self, fall_pages):
         # Page 65 has soccer sportsmanship awards
