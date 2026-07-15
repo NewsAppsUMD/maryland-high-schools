@@ -193,8 +193,10 @@ def check_referential_schools(book: dict) -> dict:
         sport, school = r.get("sport"), r.get("champion_school")
         if not sport or not school:
             continue
-        if school not in records_by_sport.get(sport, set()):
-            per_sport.setdefault(sport, set()).add(school)
+        # Co-champion cells ("A & B") are checked component-by-component.
+        for part in (p.strip() for p in school.split(" & ")):
+            if part and part not in records_by_sport.get(sport, set()):
+                per_sport.setdefault(sport, set()).add(part)
 
     out = {}
     for sport, schools in per_sport.items():

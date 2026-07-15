@@ -135,6 +135,19 @@ class TestReferential:
         assert result["warnings"] == 1
         assert result["sports"]["Soccer"] == ["Ghost School"]
 
+    def test_co_champions_checked_per_component(self):
+        book = _book(
+            championship_results=[
+                {"sport": "FH", "year": 2024, "classification": "4A",
+                 "champion_school": "Real School & Ghost School"},
+            ],
+            school_records=[
+                {"sport": "FH", "school": "Real School", "champion_years": [2024]},
+            ],
+        )
+        result = v.check_referential_schools(book)
+        assert result["sports"]["FH"] == ["Ghost School"]  # only the missing half
+
     def test_matching_school_is_clean(self):
         book = _book(
             championship_results=[

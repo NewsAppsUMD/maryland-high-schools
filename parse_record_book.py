@@ -576,6 +576,98 @@ def extract_sportsmanship(pages: list[str], sport: str) -> list[dict]:
     return data.get("awards", [])
 
 
+# ── School name normalization ─────────────────────────────────────────────────
+
+ALIASES_PATH = Path(__file__).with_name("school_aliases.json")
+
+# School fields to canonicalize per table. Each gets its value replaced with the
+# canonical name and a companion "<field>_slug" added.
+SCHOOL_FIELDS = {
+    "championship_results": ["champion_school", "finalist_school"],
+    "school_records": ["school"],
+    "individual_xc_champions": ["school"],
+    "individual_results": ["school"],
+    "golf_results": ["team_champion_school", "individual_winner_school"],
+    "sportsmanship_awards": ["school"],
+}
+
+
+def load_aliases(path: Path = ALIASES_PATH) -> dict[str, str]:
+    """Load the school alias map (casefolded variant → canonical name)."""
+    if not path.exists():
+        return {}
+    raw = json.loads(path.read_text())
+    return {
+        k.strip().casefold(): v
+        for k, v in raw.items()
+        if not k.startswith("_")
+    }
+
+
+def _titlecase_school(name: str) -> str:
+    """Title-case an ALL-CAPS name, preserving Mc-, hyphen, and slash parts."""
+    def fix_word(word: str) -> str:
+        parts = re.split(r"([-'/.])", word)
+        return "".join(p if p in "-'/." else p.capitalize() for p in parts)
+
+    result = " ".join(fix_word(w) for w in name.split())
+    return re.sub(r"\bMc([a-z])", lambda m: "Mc" + m.group(1).upper(), result)
+
+
+def normalize_school(raw: Optional[str], aliases: dict[str, str]) -> str:
+    """Return the canonical name for a school as printed in a record book.
+
+    Order of precedence, all accuracy-preserving:
+      1. Explicit alias map (case-insensitive) — the only place two differently
+         spelled names are ever merged, and every entry is hand-curated.
+      2. ALL-CAPS names (how school-records pages print them) are title-cased so
+         "ALLEGANY" matches the championship table's "Allegany".
+      3. Mixed-case names pass through unchanged — they are already as the record
+         book printed them, so we never risk corrupting them.
+    Co-champion cells ("A & B") are normalized component-by-component.
+    """
+    name = re.sub(r"\s+", " ", (raw or "").strip())
+    if not name:
+        return ""
+    if " & " in name:
+        return " & ".join(normalize_school(p, aliases) for p in name.split(" & "))
+    canonical = aliases.get(name.casefold())
+    if canonical:
+        return canonical
+    if name.isupper():
+        return _titlecase_school(name)
+    return name
+
+
+def slugify_school(name: str) -> str:
+    """URL-safe slug for website routing, e.g. 'Bethesda-Chevy Chase' → 'bethesda-chevy-chase'."""
+    s = name.casefold().replace("&", " and ").replace("'", "").replace(".", "")
+    return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+
+
+def canonicalize_rows(
+    rows: list[dict],
+    fields: list[str],
+    aliases: dict[str, str],
+    name_map: dict[str, str],
+) -> None:
+    """Canonicalize each school field in-place and add a '<field>_slug' companion.
+
+    Records every raw→canonical change in `name_map` for the audit file, so all
+    name changes are inspectable in one place.
+    """
+    for row in rows:
+        for field in fields:
+            raw = row.get(field)
+            if not raw:
+                continue
+            canonical = normalize_school(raw, aliases)
+            if canonical != raw:
+                name_map[raw] = canonical
+            row[field] = canonical
+            row[f"{field}_slug"] = slugify_school(canonical)
+
+
 # ── CSV helpers ───────────────────────────────────────────────────────────────
 
 
@@ -909,6 +1001,23 @@ def main() -> None:
     )
     print()
 
+    # ── Canonicalize school names ───────────────────────────────────────────────
+    # Give every school field a single canonical spelling (+ url-safe slug) so
+    # the same school joins across tables and the website can route by slug.
+    aliases = load_aliases()
+    name_map: dict[str, str] = {}
+    tables = {
+        "championship_results": unique_championship,
+        "school_records": all_school_records,
+        "individual_xc_champions": all_individual_xc,
+        "individual_results": all_individual,
+        "golf_results": all_golf,
+        "sportsmanship_awards": all_sportsmanship,
+    }
+    for table_name, rows in tables.items():
+        canonicalize_rows(rows, SCHOOL_FIELDS[table_name], aliases, name_map)
+    print(f"School names: {len(name_map)} raw variant(s) mapped to a canonical form.\n")
+
     # ── Write outputs ─────────────────────────────────────────────────────────
     # Every table carries a trailing `source_pages` column so any row can be
     # traced back to the exact PDF page(s) it came from (see pages.jsonl).
@@ -917,8 +1026,8 @@ def main() -> None:
         unique_championship,
         [
             "sport", "year", "classification",
-            "champion_school", "champion_coach",
-            "finalist_school", "finalist_coach",
+            "champion_school", "champion_school_slug", "champion_coach",
+            "finalist_school", "finalist_school_slug", "finalist_coach",
             "score", "champion_undefeated", "co_champion", "notes",
             "source_pages",
         ],
@@ -926,39 +1035,45 @@ def main() -> None:
     write_csv(
         out_dir / "school_records.csv",
         all_school_records,
-        ["sport", "school", "champion_years", "finalist_years",
+        ["sport", "school", "school_slug", "champion_years", "finalist_years",
          "semifinalist_years", "runner_up_years", "quarterfinal_years",
          "source_pages"],
     )
     write_csv(
         out_dir / "individual_xc_champions.csv",
         all_individual_xc,
-        ["sport", "year", "classification", "name", "school", "time", "distance",
-         "source_pages"],
+        ["sport", "year", "classification", "name", "school", "school_slug",
+         "time", "distance", "source_pages"],
     )
     if all_individual:
         write_csv(
             out_dir / "individual_results.csv",
             all_individual,
-            ["sport", "event", "year", "classification", "name", "school", "mark",
-             "source_pages"],
+            ["sport", "event", "year", "classification", "name", "school",
+             "school_slug", "mark", "source_pages"],
         )
     write_csv(
         out_dir / "sportsmanship_awards.csv",
         all_sportsmanship,
-        ["sport", "year", "classification", "school", "source_pages"],
+        ["sport", "year", "classification", "school", "school_slug", "source_pages"],
     )
     write_csv(
         out_dir / "golf_results.csv",
         all_golf,
         [
             "year", "classification",
-            "team_champion_school", "team_score",
-            "individual_winner_name", "individual_winner_school",
+            "team_champion_school", "team_champion_school_slug", "team_score",
+            "individual_winner_name",
+            "individual_winner_school", "individual_winner_school_slug",
             "individual_score", "individual_gender",
             "source_pages",
         ],
     )
+
+    # Audit file: every raw → canonical school-name change applied above.
+    name_map_path = out_dir / "school_name_map.json"
+    name_map_path.write_text(json.dumps(dict(sorted(name_map.items())), indent=2))
+    print(f"  ✓ school_name_map.json  →  {name_map_path}")
 
     # Raw extracted page text, so a row's source_pages can be checked against
     # the PDF's text without re-running the (slow) PDF extraction.
