@@ -8,7 +8,9 @@ No LLM calls are made; only deterministic (regex/logic) code is tested.
 import pytest
 from pypdf import PdfReader
 
+import parse_record_book
 from parse_record_book import (
+    ChampionshipResults,
     chunked,
     detect_season,
     is_golf_results,
@@ -18,8 +20,53 @@ from parse_record_book import (
     is_school_records,
     is_sportsmanship,
     is_year_class_table,
+    llm_extract,
     parse_school_records,
 )
+
+
+# ── Fake LLM response plumbing (no network / no API key) ──────────────────────
+
+
+class _FakeResponse:
+    """Mimics the subset of the llm response object that llm_extract() reads."""
+
+    def __init__(self, *, text="", tool_args=None, response_json=None):
+        self._text = text
+        self._tool_args = tool_args
+        self.response_json = response_json or {}
+
+    def text(self):
+        return self._text
+
+    def tool_calls(self):
+        if self._tool_args is None:
+            return []
+        call = type("Call", (), {"arguments": self._tool_args})()
+        return [call]
+
+
+class _FakeModel:
+    """Returns queued responses in order for each .prompt() call."""
+
+    def __init__(self, responses):
+        self._responses = list(responses)
+        self.calls = 0
+
+    def prompt(self, prompt, schema=None, stream=False):
+        self.calls += 1
+        return self._responses.pop(0)
+
+
+@pytest.fixture
+def patch_model(monkeypatch):
+    def _install(responses):
+        model = _FakeModel(responses)
+        monkeypatch.setattr(parse_record_book, "_model", model)
+        monkeypatch.setattr(parse_record_book, "get_model", lambda: model)
+        return model
+
+    return _install
 
 # ── Helpers to load real PDF pages ────────────────────────────────────────────
 
@@ -492,6 +539,46 @@ class TestChampionshipDedup:
 
     def test_empty(self):
         assert self.dedup([]) == []
+
+
+# ── llm_extract() schema validation ──────────────────────────────────────────
+
+
+class TestLlmExtractValidation:
+    """llm_extract must validate raw model output through the Pydantic schema."""
+
+    def test_applies_defaults_and_coerces_types_from_text(self, patch_model):
+        # Year arrives as a string; boolean flags omitted entirely.
+        raw = '{"results": [{"sport": "Boys Soccer", "year": "2024", '
+        raw += '"classification": "4A", "champion_school": "Churchill"}]}'
+        patch_model([_FakeResponse(text=raw)])
+        out = llm_extract("prompt", ChampionshipResults)
+        row = out["results"][0]
+        assert row["year"] == 2024  # coerced str → int
+        assert row["champion_undefeated"] is False  # default applied
+        assert row["co_champion"] is False
+
+    def test_reads_tool_call_arguments_fallback(self, patch_model):
+        args = {"results": [{"sport": "Football", "year": 1999,
+                             "classification": "1A", "champion_school": "Dunbar"}]}
+        patch_model([_FakeResponse(tool_args=args)])
+        out = llm_extract("prompt", ChampionshipResults)
+        assert out["results"][0]["champion_school"] == "Dunbar"
+
+    def test_retries_then_succeeds_on_invalid_first_response(self, patch_model):
+        bad = _FakeResponse(text='{"results": [{"sport": "X"}]}')  # missing required fields
+        good_args = {"results": [{"sport": "Volleyball", "year": 2010,
+                                  "classification": "2A", "champion_school": "Glenelg"}]}
+        model = patch_model([bad, _FakeResponse(tool_args=good_args)])
+        out = llm_extract("prompt", ChampionshipResults, retries=2)
+        assert model.calls == 2
+        assert out["results"][0]["champion_school"] == "Glenelg"
+
+    def test_raises_when_never_valid(self, patch_model):
+        bad = _FakeResponse(text='{"results": [{"sport": "X"}]}')
+        patch_model([bad, _FakeResponse(text='{"results": [{"sport": "Y"}]}')])
+        with pytest.raises(RuntimeError):
+            llm_extract("prompt", ChampionshipResults, retries=2)
 
 
 # ── Cross-season classifier coverage ─────────────────────────────────────────

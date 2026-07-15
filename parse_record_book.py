@@ -24,7 +24,7 @@ from typing import Optional
 
 import llm
 from pypdf import PdfReader
-from pydantic import BaseModel
+from pydantic import BaseModel, ValidationError
 
 # ── Pydantic schemas ──────────────────────────────────────────────────────────
 
@@ -114,34 +114,65 @@ def get_model() -> llm.Model:
     return _model
 
 
+def _raw_response_dict(response) -> Optional[dict]:
+    """Pull the model's structured output out of an llm response, or None.
+
+    Handles both delivery paths without validating: JSON in the text body
+    (Sonnet/Opus structured output) and the tool-call arguments fallback
+    (Haiku's schema-as-tool mode).
+    """
+    text = response.text().strip()
+    if text:
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError:
+            pass
+
+    if response.tool_calls():
+        args = response.tool_calls()[0].arguments
+        if isinstance(args, dict):
+            return args
+        try:
+            return json.loads(args)
+        except (json.JSONDecodeError, TypeError):
+            pass
+
+    return None
+
+
 def llm_extract(prompt: str, schema, retries: int = 2) -> dict:
-    """Call the LLM with a Pydantic schema and return the parsed dict."""
+    """Call the LLM with a Pydantic schema, validate the result, and return a dict.
+
+    The raw model output is validated through the Pydantic `schema` before being
+    returned, so field defaults are applied (e.g. champion_undefeated=False) and
+    types are coerced (e.g. year "2024" → 2024). Output that does not conform to
+    the schema triggers a retry and, if it never conforms, a loud error — bad
+    rows never reach the CSV/JSON silently.
+    """
     model = get_model()
+    last_text = ""
+    last_error = ""
 
     for attempt in range(1, retries + 1):
         response = model.prompt(prompt, schema=schema, stream=False)
+        last_text = response.text().strip()
 
-        # claude-sonnet-4-6 / claude-opus-4-6: structured output → response.text() is JSON
-        text = response.text().strip()
-        if text:
+        data = _raw_response_dict(response)
+        if data is not None:
             try:
-                return json.loads(text)
-            except json.JSONDecodeError:
-                pass
-
-        # Haiku (tool-based schema fallback): result is in tool_calls()[0].arguments
-        if response.tool_calls():
-            args = response.tool_calls()[0].arguments
-            if isinstance(args, dict):
-                return args
-            return json.loads(args)
-
-        if attempt < retries:
+                return schema.model_validate(data).model_dump()
+            except ValidationError as exc:
+                last_error = str(exc)
+                if attempt < retries:
+                    print(f"    (retry {attempt}/{retries} — schema validation failed)")
+                    continue
+        elif attempt < retries:
             print(f"    (retry {attempt}/{retries} — LLM returned no content)")
 
     raise RuntimeError(
-        f"LLM returned no usable content after {retries} attempts.\n"
-        f"text={text!r}\n"
+        f"LLM returned no schema-valid content after {retries} attempts.\n"
+        f"text={last_text!r}\n"
+        f"validation_error={last_error!r}\n"
         f"response_json={response.response_json}"
     )
 
