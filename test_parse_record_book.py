@@ -20,6 +20,7 @@ from parse_record_book import (
     detect_season,
     extract_chunks_complete,
     FALL_SECTIONS,
+    source_label,
     SPRING_SECTIONS,
     WINTER_SECTIONS,
     is_golf_results,
@@ -673,7 +674,7 @@ class TestExtractChunksComplete:
 
     def test_no_reextract_when_complete(self):
         # One page listing three years; extractor returns all three.
-        pages = ["2001 A\n2002 B\n2003 C"]
+        pages = [(0, "2001 A\n2002 B\n2003 C")]
         calls = []
 
         def extract_fn(pgs):
@@ -689,7 +690,7 @@ class TestExtractChunksComplete:
         # truncation). Page-by-page pass returns everything.
         page1 = "\n".join(f"{y} School{y}" for y in range(2001, 2006))
         page2 = "\n".join(f"{y} School{y}" for y in range(2006, 2011))
-        pages = [page1, page2]
+        pages = [(0, page1), (1, page2)]
 
         state = {"first_multi_page_call": True}
 
@@ -707,9 +708,47 @@ class TestExtractChunksComplete:
         assert "re-extracting page-by-page" in capsys.readouterr().out
 
     def test_no_year_pages_pass_through(self):
-        pages = ["header text with no leading years"]
+        pages = [(0, "header text with no leading years")]
         rows = extract_chunks_complete(pages, lambda pgs: [{"x": 1}], "test")
-        assert rows == [{"x": 1}]
+        assert rows == [{"x": 1, "source_pages": "0"}]
+
+
+# ── Provenance (Fix 6) ────────────────────────────────────────────────────────
+
+
+class TestProvenance:
+    def test_source_label_single_page(self):
+        assert source_label([62]) == "62"
+
+    def test_source_label_span(self):
+        assert source_label([62, 63]) == "62-63"
+
+    def test_source_label_unordered(self):
+        assert source_label([63, 62]) == "62-63"
+
+    def test_chunks_stamped_with_page_range(self):
+        pages = [(62, "2001 A"), (63, "2002 B")]
+        rows = extract_chunks_complete(pages, lambda pgs: [{"year": 2001}], "t")
+        # Single 2-page chunk (CHUNK=2, overlap=1 -> one chunk of both pages)
+        assert rows[0]["source_pages"] == "62-63"
+
+    def test_dedupe_ignores_source_pages_conflict(self, capsys):
+        # Same entry from two overlapping chunks: identical except source_pages.
+        row1 = {"sport": "S", "year": 2016, "classification": "4A",
+                "name": "A", "source_pages": "10-11"}
+        row2 = {"sport": "S", "year": 2016, "classification": "4A",
+                "name": "A", "source_pages": "11-12"}
+        result = dedupe([row1, row2], ("sport", "year", "classification"))
+        assert len(result) == 1
+        assert "CONFLICT" not in capsys.readouterr().out  # provenance diff is not a conflict
+
+    def test_dedupe_still_flags_real_conflict_with_provenance(self, capsys):
+        row1 = {"sport": "S", "year": 2016, "classification": "4A",
+                "name": "A", "source_pages": "10-11"}
+        row2 = {"sport": "S", "year": 2016, "classification": "4A",
+                "name": "B", "source_pages": "11-12"}  # different name = real conflict
+        dedupe([row1, row2], ("sport", "year", "classification"), "t")
+        assert "CONFLICT" in capsys.readouterr().out
 
 
 # ── Cross-season classifier coverage ─────────────────────────────────────────

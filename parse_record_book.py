@@ -592,6 +592,10 @@ def write_csv(path: Path, rows: list[dict], fieldnames: list[str]) -> None:
 
 CHUNK = 2  # max pages per LLM call — smaller chunks improve Haiku reliability
 
+# Row-level provenance fields, excluded from dedupe conflict detection (the same
+# entry from two overlapping chunks legitimately carries different source_pages).
+PROVENANCE_FIELDS = {"source_pages"}
+
 
 def chunked(lst: list, size: int, overlap: int = 1) -> list[list]:
     """Split list into overlapping chunks."""
@@ -628,13 +632,33 @@ def _years_in_rows(rows: list[dict]) -> set[int]:
     return years
 
 
+def source_label(indices) -> str:
+    """Render a set of 0-based PDF page indices as a compact source string.
+
+    A single page → "62"; a contiguous or spanning chunk → "62-63". This is the
+    row-level provenance stamped onto every extracted row so it can be checked
+    against pages.jsonl (and the PDF) without re-parsing.
+    """
+    lo, hi = min(indices), max(indices)
+    return str(lo) if lo == hi else f"{lo}-{hi}"
+
+
+def _stamp(rows: list[dict], src: str) -> list[dict]:
+    for r in rows:
+        r.setdefault("source_pages", src)
+    return rows
+
+
 def extract_chunks_complete(
-    pages: list[str],
+    indexed_pages: list[tuple[int, str]],
     extract_fn,
     label: str,
     threshold: float = 0.9,
 ) -> list[dict]:
     """Run `extract_fn` over chunked pages, then guard against silent row loss.
+
+    `indexed_pages` is a list of (pdf_page_index, page_text) pairs; every row
+    returned is stamped with a `source_pages` provenance string.
 
     The LLM occasionally drops most of a dense table (e.g. Boys Soccer captured
     only 15 of 76 championship years). We compare the distinct years the model
@@ -645,12 +669,14 @@ def extract_chunks_complete(
     human can check them against the PDF — accuracy is never sacrificed silently.
     """
     rows: list[dict] = []
-    for chunk in chunked(pages, CHUNK):
-        rows.extend(extract_fn(chunk))
+    for chunk in chunked(indexed_pages, CHUNK):
+        indices = [i for i, _ in chunk]
+        texts = [t for _, t in chunk]
+        rows.extend(_stamp(extract_fn(texts), source_label(indices)))
 
     expected: set[int] = set()
-    for page in pages:
-        expected |= _table_years_in_text(page)
+    for _, text in indexed_pages:
+        expected |= _table_years_in_text(text)
     if not expected:
         return rows
 
@@ -663,8 +689,8 @@ def extract_chunks_complete(
         f"  ⚠ {label}: captured only {len(covered)}/{len(expected)} table years "
         f"({len(covered) / len(expected):.0%}) — re-extracting page-by-page"
     )
-    for page in pages:
-        rows.extend(extract_fn([page]))
+    for idx, text in indexed_pages:
+        rows.extend(_stamp(extract_fn([text]), str(idx)))
 
     still_missing = sorted(expected - _years_in_rows(rows))
     if still_missing:
@@ -700,7 +726,9 @@ def dedupe(
         differing = sorted(
             k
             for k in set(first) | set(r)
-            if k not in key_fields and first.get(k) != r.get(k)
+            if k not in key_fields
+            and k not in PROVENANCE_FIELDS
+            and first.get(k) != r.get(k)
         )
         if differing:
             conflicts += 1
@@ -771,36 +799,41 @@ def main() -> None:
         sport_pages = pages[start:end]
         print(f"── {sport}  (PDF indices {start}–{end-1}) ──")
 
-        school_record_pages: list[str] = []
-        championship_pages: list[str] = []
-        individual_xc_pages: list[str] = []
-        individual_event_pages: list[str] = []
-        sportsmanship_pages: list[str] = []
-        golf_pages: list[str] = []
+        # Classified pages keep their PDF page index for row-level provenance.
+        school_record_pages: list[tuple[int, str]] = []
+        championship_pages: list[tuple[int, str]] = []
+        individual_xc_pages: list[tuple[int, str]] = []
+        individual_event_pages: list[tuple[int, str]] = []
+        sportsmanship_pages: list[tuple[int, str]] = []
+        golf_pages: list[tuple[int, str]] = []
 
-        for text in sport_pages:
+        for offset, text in enumerate(sport_pages):
+            idx = start + offset
             classified = False
             # School records checked first — regex, no LLM cost. A page can
             # also match a second classifier below (dual-content pages).
             if is_school_records(text):
-                school_record_pages.append(text)
+                school_record_pages.append((idx, text))
                 classified = True
             if is_golf_results(text):
-                golf_pages.append(text)
+                golf_pages.append((idx, text))
             elif is_sportsmanship(text):
-                sportsmanship_pages.append(text)
+                sportsmanship_pages.append((idx, text))
             elif is_individual_results(text) and "Cross Country" not in sport:
-                individual_event_pages.append(text)
+                individual_event_pages.append((idx, text))
             elif is_individual_xc(text):
-                individual_xc_pages.append(text)
+                individual_xc_pages.append((idx, text))
             elif is_year_class_table(text) or is_multicolumn_results(text):
-                championship_pages.append(text)
+                championship_pages.append((idx, text))
             elif not classified:
                 pass  # section header, stats, ads → skip
 
         # School records (regex)
         if school_record_pages:
-            recs = parse_school_records(school_record_pages, sport)
+            src = source_label([i for i, _ in school_record_pages])
+            recs = _stamp(
+                parse_school_records([t for _, t in school_record_pages], sport), src
+            )
             print(f"  school records     : {len(recs)} schools  ({len(school_record_pages)} pages, regex)")
             all_school_records.extend(recs)
 
@@ -844,7 +877,10 @@ def main() -> None:
 
         # Sportsmanship (LLM)
         if sportsmanship_pages:
-            awards = extract_sportsmanship(sportsmanship_pages, sport)
+            src = source_label([i for i, _ in sportsmanship_pages])
+            awards = _stamp(
+                extract_sportsmanship([t for _, t in sportsmanship_pages], sport), src
+            )
             print(f"  sportsmanship      : {len(awards)} awards  ({len(sportsmanship_pages)} pages, LLM)")
             all_sportsmanship.extend(awards)
 
@@ -874,6 +910,8 @@ def main() -> None:
     print()
 
     # ── Write outputs ─────────────────────────────────────────────────────────
+    # Every table carries a trailing `source_pages` column so any row can be
+    # traced back to the exact PDF page(s) it came from (see pages.jsonl).
     write_csv(
         out_dir / "championship_results.csv",
         unique_championship,
@@ -882,29 +920,33 @@ def main() -> None:
             "champion_school", "champion_coach",
             "finalist_school", "finalist_coach",
             "score", "champion_undefeated", "co_champion", "notes",
+            "source_pages",
         ],
     )
     write_csv(
         out_dir / "school_records.csv",
         all_school_records,
         ["sport", "school", "champion_years", "finalist_years",
-         "semifinalist_years", "runner_up_years", "quarterfinal_years"],
+         "semifinalist_years", "runner_up_years", "quarterfinal_years",
+         "source_pages"],
     )
     write_csv(
         out_dir / "individual_xc_champions.csv",
         all_individual_xc,
-        ["sport", "year", "classification", "name", "school", "time", "distance"],
+        ["sport", "year", "classification", "name", "school", "time", "distance",
+         "source_pages"],
     )
     if all_individual:
         write_csv(
             out_dir / "individual_results.csv",
             all_individual,
-            ["sport", "event", "year", "classification", "name", "school", "mark"],
+            ["sport", "event", "year", "classification", "name", "school", "mark",
+             "source_pages"],
         )
     write_csv(
         out_dir / "sportsmanship_awards.csv",
         all_sportsmanship,
-        ["sport", "year", "classification", "school"],
+        ["sport", "year", "classification", "school", "source_pages"],
     )
     write_csv(
         out_dir / "golf_results.csv",
@@ -914,8 +956,17 @@ def main() -> None:
             "team_champion_school", "team_score",
             "individual_winner_name", "individual_winner_school",
             "individual_score", "individual_gender",
+            "source_pages",
         ],
     )
+
+    # Raw extracted page text, so a row's source_pages can be checked against
+    # the PDF's text without re-running the (slow) PDF extraction.
+    pages_path = out_dir / "pages.jsonl"
+    with pages_path.open("w", encoding="utf-8") as f:
+        for i, text in enumerate(pages):
+            f.write(json.dumps({"page": i, "text": text}) + "\n")
+    print(f"  ✓ {len(pages)} pages  →  {pages_path}")
 
     record_book = {
         "championship_results": unique_championship,
