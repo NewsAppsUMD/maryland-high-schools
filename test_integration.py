@@ -51,7 +51,7 @@ def stub_llm(monkeypatch):
 
 def test_full_pipeline_produces_all_artifacts(tmp_path, monkeypatch, stub_llm):
     out_dir = tmp_path / "fall"
-    monkeypatch.setattr(sys, "argv", ["parse", FALL_PDF, str(out_dir)])
+    monkeypatch.setattr(sys, "argv", ["parse", FALL_PDF, str(out_dir), "--no-cache"])
     p.main()
 
     # All expected files exist
@@ -99,7 +99,7 @@ def test_full_pipeline_produces_all_artifacts(tmp_path, monkeypatch, stub_llm):
 
 def test_wide_csv_has_no_list_reprs(tmp_path, monkeypatch, stub_llm):
     out_dir = tmp_path / "fall"
-    monkeypatch.setattr(sys, "argv", ["parse", FALL_PDF, str(out_dir)])
+    monkeypatch.setattr(sys, "argv", ["parse", FALL_PDF, str(out_dir), "--no-cache"])
     p.main()
     text = (out_dir / "school_records.csv").read_text()
     assert "[" not in text and "]" not in text  # no "[1997, 1998]" list reprs

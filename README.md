@@ -74,6 +74,17 @@ Then verify each season (see below).
 > the commands above once an API key is available, then commit the fresh output
 > and its `verification_report.json`.
 
+### Extraction cache
+
+LLM extraction is the expensive part of a run. Results are cached per section in
+`.extraction_cache/` (git-ignored), keyed by the section's input page text and a
+fingerprint of the extraction prompts/logic. On re-run, only sections whose input
+or logic actually changed hit the model — so iterating on one sport (e.g. fixing a
+classifier so different pages feed a section) re-charges just that section, not the
+whole book. Editing classifiers, normalization, aliases, or output code does **not**
+invalidate the cache, because those run outside the cached boundary. Pass
+`--no-cache` to force a full re-extraction.
+
 ## Verification
 
 Accuracy is the priority, so the pipeline verifies itself two ways.

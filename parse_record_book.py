@@ -16,6 +16,8 @@ Requires:
 import argparse
 import csv
 import datetime
+import hashlib
+import inspect
 import json
 import os
 import re
@@ -825,6 +827,81 @@ def _stamp(rows: list[dict], src: str) -> list[dict]:
 MIN_SPLIT_LINES = 6  # don't try to split a fragment smaller than this
 
 
+# ── Extraction cache ──────────────────────────────────────────────────────────
+# LLM extraction is the expensive part; re-running to pick up a one-line fix
+# otherwise re-charges the whole book. We cache each section's extracted rows
+# keyed by (extraction logic, section label, input page text). A section is
+# recomputed only when its input text changes (e.g. a classifier change moved
+# pages in or out) or the extraction logic/prompts change. Normalization, dedup,
+# CSV/JSON output, and verification all run *after* this boundary, so editing
+# them never needs a cache rebuild.
+
+CACHE_ENABLED = False  # off by default; main() turns it on unless --no-cache
+CACHE_DIR = Path(__file__).with_name(".extraction_cache")
+
+
+def _extraction_version() -> str:
+    """Fingerprint of the extraction logic + prompts.
+
+    Hashes the source of the functions and schemas that turn page text into
+    rows, so editing any prompt or the extract/guard/chunk code auto-invalidates
+    the cache. Deliberately excludes classifiers, normalization, and output code
+    — those act outside the cached boundary (classifier changes surface as input
+    text changes instead).
+    """
+    parts: list[str] = [str(MAX_TOKENS), str(CHUNK)]
+    targets = (
+        llm_extract, extract_resilient, _extract_chunks_uncached, chunked,
+        extract_championship_results, extract_individual_xc,
+        extract_individual_results, extract_golf_results, extract_sportsmanship,
+        _table_years_in_text, _years_in_rows,
+        ChampionshipResult, IndividualChampion, IndividualResult,
+        GolfResult, SportsmanshipAward,
+    )
+    parts.extend(_source_fingerprint(t) for t in targets)
+    return hashlib.sha256("".join(parts).encode()).hexdigest()[:16]
+
+
+def _source_fingerprint(obj) -> str:
+    """Best-effort source fingerprint of a function or schema class.
+
+    Prefers real source (captures prompt-text edits, not just logic). Falls back
+    to bytecode + constants (still reflects prompt literals) when source is
+    unavailable — e.g. under monkeypatching or a frozen interpreter — so the
+    cache versioning never crashes.
+    """
+    try:
+        return inspect.getsource(obj)
+    except (OSError, TypeError):
+        code = getattr(obj, "__code__", None)
+        if code is not None:
+            return repr((code.co_code, code.co_consts))
+        return repr((getattr(obj, "__qualname__", repr(obj)),
+                     repr(getattr(obj, "model_fields", None))))
+
+
+def _cache_key(label: str, texts: list[str]) -> str:
+    h = hashlib.sha256()
+    for part in (_extraction_version(), label, *texts):
+        h.update(part.encode())
+        h.update(b"\x00")
+    return h.hexdigest()[:32]
+
+
+def cached_section(label: str, texts: list[str], compute) -> list[dict]:
+    """Return cached rows for (label, texts, extraction-version) or compute + store."""
+    if not CACHE_ENABLED:
+        return compute()
+    path = CACHE_DIR / f"{_cache_key(label, texts)}.json"
+    if path.exists():
+        print(f"  ↳ {label}: cached (no LLM calls)")
+        return json.loads(path.read_text())
+    rows = compute()
+    CACHE_DIR.mkdir(exist_ok=True)
+    path.write_text(json.dumps(rows))
+    return rows
+
+
 def extract_resilient(texts: list[str], extract_fn, label: str) -> list[dict]:
     """Call extract_fn(texts); on truncation, shrink the input and retry.
 
@@ -861,6 +938,25 @@ def extract_resilient(texts: list[str], extract_fn, label: str) -> list[dict]:
 
 
 def extract_chunks_complete(
+    indexed_pages: list[tuple[int, str]],
+    extract_fn,
+    label: str,
+    threshold: float = 0.9,
+) -> list[dict]:
+    """Cache-aware wrapper around the chunked extraction + completeness guard.
+
+    The section is keyed on its input page text, so a cached result is reused on
+    re-run unless the pages (or the extraction logic) changed.
+    """
+    texts = [t for _, t in indexed_pages]
+    return cached_section(
+        label,
+        texts,
+        lambda: _extract_chunks_uncached(indexed_pages, extract_fn, label, threshold),
+    )
+
+
+def _extract_chunks_uncached(
     indexed_pages: list[tuple[int, str]],
     extract_fn,
     label: str,
@@ -1043,11 +1139,17 @@ def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
         "--season", choices=sorted(SEASON_SECTIONS), default=None,
         help="Override season detection (otherwise inferred from the filename).",
     )
+    parser.add_argument(
+        "--no-cache", action="store_true",
+        help="Ignore the extraction cache and re-run every LLM section from scratch.",
+    )
     return parser.parse_args(argv)
 
 
 def main() -> None:
+    global CACHE_ENABLED
     args = parse_args()
+    CACHE_ENABLED = not args.no_cache
     pdf_path = args.pdf_path
     try:
         season = args.season or detect_season(pdf_path)
@@ -1056,6 +1158,8 @@ def main() -> None:
     sections = SEASON_SECTIONS[season]
     out_dir = Path(args.out_dir) if args.out_dir else Path("data") / season
 
+    if CACHE_ENABLED:
+        print(f"Extraction cache: {CACHE_DIR}  (use --no-cache to bypass)")
     print(f"Loading {pdf_path} … (season: {season})")
     pages = load_pages(pdf_path)
     print(f"  {len(pages)} pages loaded.\n")
@@ -1157,14 +1261,20 @@ def main() -> None:
             all_golf.extend(results)
             print(f"  golf results       : {len(results)} rows  ({len(golf_pages)} pages, LLM)")
 
-        # Sportsmanship (LLM) — not chunked, but still guarded against truncation
+        # Sportsmanship (LLM) — not chunked, but still guarded and cached
         if sportsmanship_pages:
             src = source_label([i for i, _ in sportsmanship_pages])
+            sportsmanship_texts = [t for _, t in sportsmanship_pages]
+            label = f"{sport} sportsmanship"
             awards = _stamp(
-                extract_resilient(
-                    [t for _, t in sportsmanship_pages],
-                    lambda pgs: extract_sportsmanship(pgs, sport),
-                    f"{sport} sportsmanship",
+                cached_section(
+                    label,
+                    sportsmanship_texts,
+                    lambda: extract_resilient(
+                        sportsmanship_texts,
+                        lambda pgs: extract_sportsmanship(pgs, sport),
+                        label,
+                    ),
                 ),
                 src,
             )
