@@ -23,11 +23,13 @@ from parse_record_book import (
     build_meta,
     extract_chunks_complete,
     FALL_SECTIONS,
+    school_records_long,
     source_label,
     SPRING_SECTIONS,
     TABLE_NAMES,
     WINTER_SECTIONS,
     write_combined_json,
+    _years_as_strings,
     is_golf_results,
     is_individual_results,
     is_individual_xc,
@@ -754,6 +756,40 @@ class TestProvenance:
                 "name": "B", "source_pages": "11-12"}  # different name = real conflict
         dedupe([row1, row2], ("sport", "year", "classification"), "t")
         assert "CONFLICT" in capsys.readouterr().out
+
+
+# ── School-record CSV shape (Fix 9) ──────────────────────────────────────────
+
+
+class TestSchoolRecordSerialization:
+    RECS = [
+        {"sport": "GXC", "school": "Allegany", "school_slug": "allegany",
+         "champion_years": [1997, 1998], "finalist_years": [1988],
+         "semifinalist_years": [], "runner_up_years": [], "source_pages": "4-5"},
+    ]
+
+    def test_long_format_one_row_per_year(self):
+        long = school_records_long(self.RECS)
+        assert len(long) == 3  # two champion + one finalist
+        champs = [r for r in long if r["result"] == "champion"]
+        assert sorted(r["year"] for r in champs) == [1997, 1998]
+        assert all(r["school_slug"] == "allegany" for r in long)
+        assert all("source_pages" in r for r in long)
+
+    def test_wide_years_joined_not_list_repr(self):
+        wide = _years_as_strings(self.RECS)
+        assert wide[0]["champion_years"] == "1997;1998"
+        assert "[" not in wide[0]["champion_years"]  # never a python list repr
+
+    def test_wide_does_not_mutate_original(self):
+        _years_as_strings(self.RECS)
+        assert self.RECS[0]["champion_years"] == [1997, 1998]  # JSON keeps arrays
+
+    def test_quarterfinal_years_handled_when_present(self):
+        recs = [{"sport": "GLax", "school": "Bel Air", "champion_years": [],
+                 "quarterfinal_years": [2024, 2025]}]
+        long = school_records_long(recs)
+        assert [r["year"] for r in long if r["result"] == "quarterfinal"] == [2024, 2025]
 
 
 # ── Website JSON structure (Fix 8) ───────────────────────────────────────────

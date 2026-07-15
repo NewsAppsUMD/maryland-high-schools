@@ -672,6 +672,60 @@ def canonicalize_rows(
             row[f"{field}_slug"] = slugify_school(canonical)
 
 
+# ── School-record year serialization ─────────────────────────────────────────
+
+# (list field on a school-records row, result label for the long format)
+YEAR_FIELDS = [
+    ("champion_years", "champion"),
+    ("finalist_years", "finalist"),
+    ("semifinalist_years", "semifinalist"),
+    ("runner_up_years", "runner_up"),
+    ("quarterfinal_years", "quarterfinal"),
+]
+
+
+def school_records_long(records: list[dict]) -> list[dict]:
+    """Explode wide school-record rows into one (school, year, result) row each.
+
+    Tidy long format is far easier to query, join, and chart than the wide
+    file's year lists — e.g. "every champion in 2011" is a simple filter.
+    """
+    rows: list[dict] = []
+    for r in records:
+        for field, result in YEAR_FIELDS:
+            for year in r.get(field, []) or []:
+                rows.append(
+                    {
+                        "sport": r.get("sport", ""),
+                        "school": r.get("school", ""),
+                        "school_slug": r.get("school_slug", ""),
+                        "year": year,
+                        "result": result,
+                        "source_pages": r.get("source_pages", ""),
+                    }
+                )
+    return sorted(
+        rows, key=lambda x: (x["sport"], x["school"], x["year"], x["result"])
+    )
+
+
+def _years_as_strings(records: list[dict]) -> list[dict]:
+    """Copy of school-record rows with year lists joined by ';' for CSV output.
+
+    JSON keeps the real arrays; only the wide CSV needs a flat scalar so it
+    never serializes a Python list repr like "[1997, 1998]".
+    """
+    out: list[dict] = []
+    for r in records:
+        row = dict(r)
+        for field, _ in YEAR_FIELDS:
+            value = row.get(field)
+            if isinstance(value, list):
+                row[field] = ";".join(str(y) for y in value)
+        out.append(row)
+    return out
+
+
 # ── CSV helpers ───────────────────────────────────────────────────────────────
 
 
@@ -1109,10 +1163,15 @@ def main() -> None:
     )
     write_csv(
         out_dir / "school_records.csv",
-        all_school_records,
+        _years_as_strings(all_school_records),  # year lists → "1997;1998", never a list repr
         ["sport", "school", "school_slug", "champion_years", "finalist_years",
          "semifinalist_years", "runner_up_years", "quarterfinal_years",
          "source_pages"],
+    )
+    write_csv(
+        out_dir / "school_record_years.csv",
+        school_records_long(all_school_records),  # tidy long format: one row per year
+        ["sport", "school", "school_slug", "year", "result", "source_pages"],
     )
     write_csv(
         out_dir / "individual_xc_champions.csv",
