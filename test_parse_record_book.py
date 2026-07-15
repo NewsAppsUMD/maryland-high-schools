@@ -11,9 +11,13 @@ from pypdf import PdfReader
 import parse_record_book
 from parse_record_book import (
     ChampionshipResults,
+    _table_years_in_text,
+    _was_truncated,
+    _years_in_rows,
     chunked,
     dedupe,
     detect_season,
+    extract_chunks_complete,
     is_golf_results,
     is_individual_results,
     is_individual_xc,
@@ -591,6 +595,84 @@ class TestLlmExtractValidation:
         patch_model([bad, _FakeResponse(text='{"results": [{"sport": "Y"}]}')])
         with pytest.raises(RuntimeError):
             llm_extract("prompt", ChampionshipResults, retries=2)
+
+
+# ── Completeness guard (Fix 3) ───────────────────────────────────────────────
+
+
+class TestTableYearsInText:
+    def test_line_start_years_only(self):
+        text = "1974 Parkdale 28-8\n1975 Arundel 13-7\nMost points in 1985 Finals were 59"
+        # 1985 is mid-line prose, must be ignored
+        assert _table_years_in_text(text) == {1974, 1975}
+
+    def test_indented_year(self):
+        assert _table_years_in_text("   2001 Churchill") == {2001}
+
+    def test_years_in_rows_coerces(self):
+        rows = [{"year": "2001"}, {"year": 2002}, {"year": None}, {}]
+        assert _years_in_rows(rows) == {2001, 2002}
+
+
+class TestWasTruncated:
+    def test_max_tokens_dict(self):
+        assert _was_truncated(_FakeResponse(response_json={"stop_reason": "max_tokens"}))
+
+    def test_length_finish_reason(self):
+        assert _was_truncated(_FakeResponse(response_json={"finish_reason": "length"}))
+
+    def test_list_shape(self):
+        assert _was_truncated(_FakeResponse(response_json=[{"stop_reason": "max_tokens"}]))
+
+    def test_normal_stop(self):
+        assert not _was_truncated(_FakeResponse(response_json={"stop_reason": "end_turn"}))
+
+    def test_missing_json(self):
+        assert not _was_truncated(_FakeResponse(response_json=None))
+
+
+class TestExtractChunksComplete:
+    """The guard must re-extract page-by-page when year coverage falls short."""
+
+    def test_no_reextract_when_complete(self):
+        # One page listing three years; extractor returns all three.
+        pages = ["2001 A\n2002 B\n2003 C"]
+        calls = []
+
+        def extract_fn(pgs):
+            calls.append(len(pgs))
+            return [{"year": 2001}, {"year": 2002}, {"year": 2003}]
+
+        rows = extract_chunks_complete(pages, extract_fn, "test")
+        assert len(rows) == 3
+        assert calls == [1]  # only the initial chunk pass, no re-extract
+
+    def test_reextract_recovers_dropped_years(self, capsys):
+        # Two pages, 10 table years; first pass "drops" all but 2 (simulated
+        # truncation). Page-by-page pass returns everything.
+        page1 = "\n".join(f"{y} School{y}" for y in range(2001, 2006))
+        page2 = "\n".join(f"{y} School{y}" for y in range(2006, 2011))
+        pages = [page1, page2]
+
+        state = {"first_multi_page_call": True}
+
+        def extract_fn(pgs):
+            combined = "\n".join(pgs)
+            years = sorted(_table_years_in_text(combined))
+            if len(pgs) > 1 and state["first_multi_page_call"]:
+                state["first_multi_page_call"] = False
+                return [{"year": years[0]}, {"year": years[1]}]  # drop the rest
+            return [{"year": y} for y in years]
+
+        rows = extract_chunks_complete(pages, extract_fn, "test champ")
+        recovered = _years_in_rows(rows)
+        assert recovered == set(range(2001, 2011))  # all years recovered
+        assert "re-extracting page-by-page" in capsys.readouterr().out
+
+    def test_no_year_pages_pass_through(self):
+        pages = ["header text with no leading years"]
+        rows = extract_chunks_complete(pages, lambda pgs: [{"x": 1}], "test")
+        assert rows == [{"x": 1}]
 
 
 # ── Cross-season classifier coverage ─────────────────────────────────────────

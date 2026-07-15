@@ -140,6 +140,25 @@ def _raw_response_dict(response) -> Optional[dict]:
     return None
 
 
+def _was_truncated(response) -> bool:
+    """True if the model stopped because it hit its output-token limit.
+
+    Truncation drops trailing rows silently, which is exactly the failure mode
+    behind the missing championship years. Anthropic reports this as
+    stop_reason="max_tokens"; we search defensively since the `llm` library's
+    stored JSON shape varies by version.
+    """
+    raw = getattr(response, "response_json", None)
+    candidates = raw if isinstance(raw, list) else [raw]
+    for item in candidates:
+        if not isinstance(item, dict):
+            continue
+        for key in ("stop_reason", "finish_reason"):
+            if item.get(key) in ("max_tokens", "length"):
+                return True
+    return False
+
+
 def llm_extract(prompt: str, schema, retries: int = 2) -> dict:
     """Call the LLM with a Pydantic schema, validate the result, and return a dict.
 
@@ -160,7 +179,11 @@ def llm_extract(prompt: str, schema, retries: int = 2) -> dict:
         data = _raw_response_dict(response)
         if data is not None:
             try:
-                return schema.model_validate(data).model_dump()
+                validated = schema.model_validate(data).model_dump()
+                if _was_truncated(response):
+                    print("    ⚠ response hit the output-token limit — rows may be "
+                          "missing (completeness guard will re-extract)")
+                return validated
             except ValidationError as exc:
                 last_error = str(exc)
                 if attempt < retries:
@@ -530,6 +553,80 @@ def chunked(lst: list, size: int, overlap: int = 1) -> list[list]:
     return [lst[i : i + size] for i in range(0, len(lst), step)]
 
 
+_ROW_YEAR_RE = re.compile(r"\s*(19[2-9]\d|20[0-2]\d)\b")
+
+
+def _table_years_in_text(text: str) -> set[int]:
+    """Years that begin a line — i.e. the year label of a championship-table row.
+
+    Anchoring to line starts ignores incidental years in prose, records, and
+    trivia, giving a clean lower bound on how many distinct years the table
+    covers.
+    """
+    return {
+        int(m.group(1))
+        for line in text.splitlines()
+        if (m := _ROW_YEAR_RE.match(line))
+    }
+
+
+def _years_in_rows(rows: list[dict]) -> set[int]:
+    years: set[int] = set()
+    for r in rows:
+        try:
+            years.add(int(r.get("year")))
+        except (TypeError, ValueError):
+            pass
+    return years
+
+
+def extract_chunks_complete(
+    pages: list[str],
+    extract_fn,
+    label: str,
+    threshold: float = 0.9,
+) -> list[dict]:
+    """Run `extract_fn` over chunked pages, then guard against silent row loss.
+
+    The LLM occasionally drops most of a dense table (e.g. Boys Soccer captured
+    only 15 of 76 championship years). We compare the distinct years the model
+    returned against the distinct years visible at the start of table lines. If
+    coverage is below `threshold`, we re-extract one page at a time (smaller
+    inputs are far more reliable) and merge; duplicate rows are removed later by
+    dedupe(). Any years still missing after the retry are reported loudly so a
+    human can check them against the PDF — accuracy is never sacrificed silently.
+    """
+    rows: list[dict] = []
+    for chunk in chunked(pages, CHUNK):
+        rows.extend(extract_fn(chunk))
+
+    expected: set[int] = set()
+    for page in pages:
+        expected |= _table_years_in_text(page)
+    if not expected:
+        return rows
+
+    got = _years_in_rows(rows)
+    covered = got & expected
+    if len(covered) / len(expected) >= threshold:
+        return rows
+
+    print(
+        f"  ⚠ {label}: captured only {len(covered)}/{len(expected)} table years "
+        f"({len(covered) / len(expected):.0%}) — re-extracting page-by-page"
+    )
+    for page in pages:
+        rows.extend(extract_fn([page]))
+
+    still_missing = sorted(expected - _years_in_rows(rows))
+    if still_missing:
+        print(
+            f"  ⚠ INCOMPLETE {label}: {len(still_missing)} year(s) not captured "
+            f"after retry — verify against PDF: {still_missing}"
+        )
+    return rows
+
+
 def dedupe(
     rows: list[dict], key_fields: tuple[str, ...], label: str = ""
 ) -> list[dict]:
@@ -626,41 +723,43 @@ def main() -> None:
             print(f"  school records     : {len(recs)} schools  ({len(school_record_pages)} pages, regex)")
             all_school_records.extend(recs)
 
-        # Championship results (LLM)
+        # Championship results (LLM) — guarded against silent row loss
         if championship_pages:
-            total = 0
-            for chunk in chunked(championship_pages, CHUNK):
-                results = extract_championship_results(chunk, sport)
-                total += len(results)
-                all_championship.extend(results)
-            print(f"  championship table : {total} rows  ({len(championship_pages)} pages, LLM)")
+            results = extract_chunks_complete(
+                championship_pages,
+                lambda pgs: extract_championship_results(pgs, sport),
+                f"{sport} championship",
+            )
+            all_championship.extend(results)
+            print(f"  championship table : {len(results)} rows  ({len(championship_pages)} pages, LLM)")
 
         # Individual XC (LLM) — fall cross country only
         if individual_xc_pages and "Cross Country" in sport:
-            total = 0
-            for chunk in chunked(individual_xc_pages, CHUNK):
-                champs = extract_individual_xc(chunk, sport)
-                total += len(champs)
-                all_individual_xc.extend(champs)
-            print(f"  individual XC      : {total} rows  ({len(individual_xc_pages)} pages, LLM)")
+            champs = extract_chunks_complete(
+                individual_xc_pages,
+                lambda pgs: extract_individual_xc(pgs, sport),
+                f"{sport} individual XC",
+            )
+            all_individual_xc.extend(champs)
+            print(f"  individual XC      : {len(champs)} rows  ({len(individual_xc_pages)} pages, LLM)")
 
         # Individual event results (LLM) — track, swimming, tennis
         if individual_event_pages:
-            total = 0
-            for chunk in chunked(individual_event_pages, CHUNK):
-                results = extract_individual_results(chunk, sport)
-                total += len(results)
-                all_individual.extend(results)
-            print(f"  individual events  : {total} rows  ({len(individual_event_pages)} pages, LLM)")
+            results = extract_chunks_complete(
+                individual_event_pages,
+                lambda pgs: extract_individual_results(pgs, sport),
+                f"{sport} individual events",
+            )
+            all_individual.extend(results)
+            print(f"  individual events  : {len(results)} rows  ({len(individual_event_pages)} pages, LLM)")
 
         # Golf (LLM)
         if golf_pages:
-            total = 0
-            for chunk in chunked(golf_pages, CHUNK):
-                results = extract_golf_results(chunk)
-                total += len(results)
-                all_golf.extend(results)
-            print(f"  golf results       : {total} rows  ({len(golf_pages)} pages, LLM)")
+            results = extract_chunks_complete(
+                golf_pages, lambda pgs: extract_golf_results(pgs), f"{sport} golf"
+            )
+            all_golf.extend(results)
+            print(f"  golf results       : {len(results)} rows  ({len(golf_pages)} pages, LLM)")
 
         # Sportsmanship (LLM)
         if sportsmanship_pages:
