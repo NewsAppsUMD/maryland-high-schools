@@ -530,6 +530,48 @@ def chunked(lst: list, size: int, overlap: int = 1) -> list[list]:
     return [lst[i : i + size] for i in range(0, len(lst), step)]
 
 
+def dedupe(
+    rows: list[dict], key_fields: tuple[str, ...], label: str = ""
+) -> list[dict]:
+    """Drop rows sharing a key, keeping the first occurrence.
+
+    Chunks overlap by one page, so the same entry can be extracted twice; this
+    removes those repeats. When two rows share a key but disagree on any other
+    field, a CONFLICT warning names both — a silent first-wins choice could
+    otherwise hide a real extraction discrepancy, and accuracy is the priority.
+    """
+    seen: dict[tuple, dict] = {}
+    unique: list[dict] = []
+    conflicts = 0
+
+    for r in rows:
+        key = tuple(r.get(k, "") for k in key_fields)
+        if key not in seen:
+            seen[key] = r
+            unique.append(r)
+            continue
+
+        first = seen[key]
+        differing = sorted(
+            k
+            for k in set(first) | set(r)
+            if k not in key_fields and first.get(k) != r.get(k)
+        )
+        if differing:
+            conflicts += 1
+            kept = ", ".join(f"{k}={first.get(k)!r}" for k in differing)
+            dropped = ", ".join(f"{k}={r.get(k)!r}" for k in differing)
+            print(f"  ⚠ CONFLICT [{label}] key={key}")
+            print(f"      kept:    {kept}")
+            print(f"      dropped: {dropped}")
+
+    removed = len(rows) - len(unique)
+    if removed:
+        note = f" ({conflicts} with conflicting fields)" if conflicts else ""
+        print(f"  {label}: {len(rows)} → {len(unique)} after dedup{note}")
+    return unique
+
+
 def main() -> None:
     pdf_path = sys.argv[1] if len(sys.argv) > 1 else "pdfs/FallRecordBook2024.pdf"
     season = detect_season(pdf_path)
@@ -628,23 +670,28 @@ def main() -> None:
 
         print()
 
-    # De-duplicate championship results
-    seen: set[tuple] = set()
-    unique_championship: list[dict] = []
-    for r in all_championship:
-        key = (
-            r.get("sport", ""),
-            r.get("year", ""),
-            r.get("classification", ""),
-            r.get("champion_school", ""),
-        )
-        if key not in seen:
-            seen.add(key)
-            unique_championship.append(r)
-    print(
-        f"Championship results: {len(all_championship)} extracted → "
-        f"{len(unique_championship)} after dedup\n"
+    # De-duplicate every LLM-extracted table (chunks overlap by one page).
+    print("De-duplicating LLM-extracted tables:")
+    unique_championship = dedupe(
+        all_championship,
+        ("sport", "year", "classification", "champion_school"),
+        "championship_results",
     )
+    all_individual_xc = dedupe(
+        all_individual_xc, ("sport", "year", "classification"), "individual_xc_champions"
+    )
+    all_individual = dedupe(
+        all_individual,
+        ("sport", "event", "year", "classification"),
+        "individual_results",
+    )
+    all_golf = dedupe(
+        all_golf, ("year", "classification", "individual_gender"), "golf_results"
+    )
+    all_sportsmanship = dedupe(
+        all_sportsmanship, ("sport", "year", "classification"), "sportsmanship_awards"
+    )
+    print()
 
     # ── Write outputs ─────────────────────────────────────────────────────────
     write_csv(

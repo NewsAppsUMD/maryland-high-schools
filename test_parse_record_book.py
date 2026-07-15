@@ -12,6 +12,7 @@ import parse_record_book
 from parse_record_book import (
     ChampionshipResults,
     chunked,
+    dedupe,
     detect_season,
     is_golf_results,
     is_individual_results,
@@ -489,44 +490,30 @@ class TestParseSchoolRecords:
         assert bel_air[0].get("quarterfinal_years", []) == [2024, 2025]
 
 
-# ── Championship dedup logic ─────────────────────────────────────────────────
+# ── dedupe() helper ──────────────────────────────────────────────────────────
+
+CHAMP_KEY = ("sport", "year", "classification", "champion_school")
 
 
-class TestChampionshipDedup:
-    """Test the dedup logic used in main() extracted here for unit testing."""
-
-    @staticmethod
-    def dedup(results: list[dict]) -> list[dict]:
-        seen: set[tuple] = set()
-        unique: list[dict] = []
-        for r in results:
-            key = (
-                r.get("sport", ""),
-                r.get("year", ""),
-                r.get("classification", ""),
-                r.get("champion_school", ""),
-            )
-            if key not in seen:
-                seen.add(key)
-                unique.append(r)
-        return unique
+class TestDedupe:
+    """Test the shared dedupe() helper used for all LLM-extracted tables."""
 
     def test_no_dupes(self):
         results = [
             {"sport": "Soccer", "year": 2024, "classification": "4A", "champion_school": "Churchill"},
             {"sport": "Soccer", "year": 2024, "classification": "3A", "champion_school": "Broadneck"},
         ]
-        assert len(self.dedup(results)) == 2
+        assert len(dedupe(results, CHAMP_KEY)) == 2
 
     def test_removes_exact_dupes(self):
         row = {"sport": "Soccer", "year": 2024, "classification": "4A", "champion_school": "Churchill"}
         results = [row, dict(row)]  # same data
-        assert len(self.dedup(results)) == 1
+        assert len(dedupe(results, CHAMP_KEY)) == 1
 
     def test_preserves_first_occurrence(self):
         row1 = {"sport": "Soccer", "year": 2024, "classification": "4A", "champion_school": "Churchill", "score": "2-0"}
         row2 = {"sport": "Soccer", "year": 2024, "classification": "4A", "champion_school": "Churchill", "score": "2-1"}
-        result = self.dedup([row1, row2])
+        result = dedupe([row1, row2], CHAMP_KEY)
         assert len(result) == 1
         assert result[0]["score"] == "2-0"
 
@@ -535,10 +522,35 @@ class TestChampionshipDedup:
             {"sport": "Soccer", "year": 2023, "classification": "4A", "champion_school": "Churchill"},
             {"sport": "Soccer", "year": 2024, "classification": "4A", "champion_school": "Churchill"},
         ]
-        assert len(self.dedup(results)) == 2
+        assert len(dedupe(results, CHAMP_KEY)) == 2
 
     def test_empty(self):
-        assert self.dedup([]) == []
+        assert dedupe([], CHAMP_KEY) == []
+
+    def test_conflict_is_reported(self, capsys):
+        # Same key, differing score → must print a CONFLICT warning.
+        row1 = {"sport": "Soccer", "year": 2024, "classification": "4A", "champion_school": "Churchill", "score": "2-0"}
+        row2 = {"sport": "Soccer", "year": 2024, "classification": "4A", "champion_school": "Churchill", "score": "2-1"}
+        result = dedupe([row1, row2], CHAMP_KEY, label="championship_results")
+        assert len(result) == 1
+        out = capsys.readouterr().out
+        assert "CONFLICT" in out
+        assert "2-0" in out and "2-1" in out
+
+    def test_exact_dupe_is_not_flagged_as_conflict(self, capsys):
+        row = {"sport": "Soccer", "year": 2024, "classification": "4A", "champion_school": "Churchill", "score": "2-0"}
+        dedupe([row, dict(row)], CHAMP_KEY, label="championship_results")
+        assert "CONFLICT" not in capsys.readouterr().out
+
+    def test_xc_overlap_dupes_removed(self):
+        # Reproduces the chunk-overlap duplication seen in individual_xc output.
+        rows = [
+            {"sport": "Girls Cross Country", "year": 2016, "classification": "4A", "name": "A", "school": "X"},
+            {"sport": "Girls Cross Country", "year": 2016, "classification": "4A", "name": "A", "school": "X"},
+            {"sport": "Girls Cross Country", "year": 2016, "classification": "3A", "name": "B", "school": "Y"},
+        ]
+        result = dedupe(rows, ("sport", "year", "classification"))
+        assert len(result) == 2
 
 
 # ── llm_extract() schema validation ──────────────────────────────────────────
