@@ -5,6 +5,8 @@ to verify that classifiers and parsers work across all three seasons.
 No LLM calls are made; only deterministic (regex/logic) code is tested.
 """
 
+import json
+
 import pytest
 from pypdf import PdfReader
 
@@ -18,11 +20,14 @@ from parse_record_book import (
     chunked,
     dedupe,
     detect_season,
+    build_meta,
     extract_chunks_complete,
     FALL_SECTIONS,
     source_label,
     SPRING_SECTIONS,
+    TABLE_NAMES,
     WINTER_SECTIONS,
+    write_combined_json,
     is_golf_results,
     is_individual_results,
     is_individual_xc,
@@ -749,6 +754,44 @@ class TestProvenance:
                 "name": "B", "source_pages": "11-12"}  # different name = real conflict
         dedupe([row1, row2], ("sport", "year", "classification"), "t")
         assert "CONFLICT" in capsys.readouterr().out
+
+
+# ── Website JSON structure (Fix 8) ───────────────────────────────────────────
+
+
+class TestBuildMeta:
+    def test_meta_fields(self):
+        tables = {n: [] for n in TABLE_NAMES}
+        tables["championship_results"] = [{"a": 1}, {"a": 2}]
+        report = {"summary": {"errors": 0, "warnings": 3, "passed": True}}
+        meta = build_meta("fall", "pdfs/FallRecordBook2024.pdf", tables, report)
+        assert meta["season"] == "fall"
+        assert meta["source_pdf"] == "FallRecordBook2024.pdf"
+        assert meta["row_counts"]["championship_results"] == 2
+        assert meta["verification"]["passed"] is True
+        # generated_at must be ISO-parseable
+        import datetime as _dt
+        assert _dt.datetime.fromisoformat(meta["generated_at"])
+
+
+class TestWriteCombinedJson:
+    def test_merges_seasons_and_tags_rows(self, tmp_path):
+        (tmp_path / "fall").mkdir()
+        (tmp_path / "winter").mkdir()
+        (tmp_path / "fall" / "record_book.json").write_text(
+            json.dumps({"championship_results": [{"sport": "Soccer", "year": 2024}]})
+        )
+        (tmp_path / "winter" / "record_book.json").write_text(
+            json.dumps({"championship_results": [{"sport": "Basketball", "year": 2023}]})
+        )
+        path = write_combined_json(tmp_path)
+        combined = json.loads(path.read_text())
+        assert combined["meta"]["seasons"] == ["fall", "winter"]
+        seasons = {r["season"] for r in combined["championship_results"]}
+        assert seasons == {"fall", "winter"}
+
+    def test_no_seasons_returns_none(self, tmp_path):
+        assert write_combined_json(tmp_path) is None
 
 
 # ── Cross-season classifier coverage ─────────────────────────────────────────

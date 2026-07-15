@@ -15,9 +15,11 @@ Requires:
 
 import argparse
 import csv
+import datetime
 import json
 import os
 import re
+import subprocess
 import sys
 import textwrap
 from pathlib import Path
@@ -26,6 +28,8 @@ from typing import Optional
 import llm
 from pypdf import PdfReader
 from pydantic import BaseModel, ValidationError
+
+import verify_record_book
 
 # ── Pydantic schemas ──────────────────────────────────────────────────────────
 
@@ -837,6 +841,77 @@ def dedupe(
     return unique
 
 
+TABLE_NAMES = [
+    "championship_results",
+    "school_records",
+    "individual_xc_champions",
+    "individual_results",
+    "sportsmanship_awards",
+    "golf_results",
+]
+
+
+def git_commit() -> Optional[str]:
+    """Short git commit of the parser, or None outside a git checkout."""
+    try:
+        out = subprocess.run(
+            ["git", "rev-parse", "--short", "HEAD"],
+            cwd=Path(__file__).parent,
+            capture_output=True,
+            text=True,
+            timeout=5,
+        )
+        return out.stdout.strip() or None
+    except Exception:
+        return None
+
+
+def build_meta(season: str, pdf_path: str, tables: dict, report: dict) -> dict:
+    """Self-describing metadata block for record_book.json."""
+    return {
+        "season": season,
+        "source_pdf": Path(pdf_path).name,
+        "generated_at": datetime.datetime.now().astimezone().isoformat(timespec="seconds"),
+        "parser_commit": git_commit(),
+        "row_counts": {name: len(tables.get(name, [])) for name in TABLE_NAMES},
+        "verification": report.get("summary", {}),
+    }
+
+
+def write_combined_json(data_root: Path) -> Optional[Path]:
+    """Merge every data/<season>/record_book.json into a single data/all.json.
+
+    Each row is tagged with its season so the website can load one file and
+    filter/group client-side. Reflects whatever seasons currently exist on disk.
+    """
+    combined: dict[str, list] = {name: [] for name in TABLE_NAMES}
+    seasons: list[str] = []
+    for season in SEASON_SECTIONS:
+        book_path = data_root / season / "record_book.json"
+        if not book_path.exists():
+            continue
+        seasons.append(season)
+        book = json.loads(book_path.read_text())
+        for name in TABLE_NAMES:
+            for row in book.get(name, []):
+                combined[name].append({"season": season, **row})
+    if not seasons:
+        return None
+
+    out = {
+        "meta": {
+            "seasons": seasons,
+            "generated_at": datetime.datetime.now().astimezone().isoformat(timespec="seconds"),
+            "row_counts": {name: len(rows) for name, rows in combined.items()},
+        },
+        **combined,
+    }
+    all_path = data_root / "all.json"
+    all_path.write_text(json.dumps(out, indent=2, default=str))
+    print(f"  ✓ combined {len(seasons)} season(s)  →  {all_path}")
+    return all_path
+
+
 def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Parse an MPSSAA Record Book PDF into structured CSV / JSON."
@@ -1091,10 +1166,22 @@ def main() -> None:
         "sportsmanship_awards": all_sportsmanship,
         "golf_results": all_golf,
     }
+
+    # Self-describing metadata for the website / downstream consumers, including
+    # an embedded verification summary so a consumer can tell at a glance
+    # whether the data passed the cross-checks.
+    report = verify_record_book.build_report(record_book, out_dir)
+    (out_dir / "verification_report.json").write_text(json.dumps(report, indent=2))
+    record_book = {
+        "meta": build_meta(season, pdf_path, record_book, report),
+        **record_book,
+    }
     json_path = out_dir / "record_book.json"
     json_path.parent.mkdir(parents=True, exist_ok=True)
     json_path.write_text(json.dumps(record_book, indent=2, default=str))
     print(f"  ✓ record_book.json  →  {json_path}")
+
+    write_combined_json(out_dir.parent)
     print("\nDone.")
 
 
