@@ -13,6 +13,7 @@ Requires:
     ANTHROPIC_API_KEY environment variable   (or `llm keys set anthropic`)
 """
 
+import argparse
 import csv
 import json
 import os
@@ -250,11 +251,58 @@ SEASON_SECTIONS = {
 
 
 def detect_season(pdf_path: str) -> str:
+    """Infer the season from the PDF filename.
+
+    Raises ValueError when the filename matches no known season. Silently
+    defaulting to "fall" would mis-slice a winter/spring PDF with the wrong
+    page ranges and quietly produce wrong data; callers can pass an explicit
+    --season instead.
+    """
     name = Path(pdf_path).stem.lower()
     for season in ("fall", "winter", "spring"):
         if season in name:
             return season
-    return "fall"
+    raise ValueError(
+        f"Cannot detect season from filename {Path(pdf_path).name!r}. "
+        f"Expected one of 'fall', 'winter', 'spring' in the name, "
+        f"or pass --season explicitly."
+    )
+
+
+def _normalize_text(text: str) -> str:
+    """Lowercase, treat '&' as 'and', and collapse whitespace (incl. line wraps)."""
+    return re.sub(r"\s+", " ", text.replace("&", " and ")).lower()
+
+
+def _section_keyword(sport: str) -> str:
+    """The distinctive part of a sport name, minus any Girls/Boys prefix."""
+    return _normalize_text(re.sub(r"^(?:Girls|Boys)\s+", "", sport))
+
+
+def check_section_map(pages: list[str], sections: dict[str, tuple[int, int]]) -> list[str]:
+    """Return a list of problems if the page ranges don't line up with `pages`.
+
+    Each sport's name must appear somewhere within its assigned page range; if
+    it doesn't, the hardcoded ranges are almost certainly stale for this PDF
+    edition (page numbers shifted), which would silently mis-slice every sport.
+    This is a cheap guard that turns a silent-wrong-data failure into a loud,
+    actionable error.
+    """
+    problems: list[str] = []
+    n = len(pages)
+    for sport, (start, end) in sections.items():
+        if start >= n:
+            problems.append(
+                f"{sport}: range {start}–{end - 1} starts past the last page ({n - 1})"
+            )
+            continue
+        window = _normalize_text(" ".join(pages[start:end]))
+        if _section_keyword(sport) not in window:
+            problems.append(
+                f"{sport}: name not found in pages {start}–{end - 1} "
+                f"(page ranges may be stale for this PDF edition)"
+            )
+    return problems
 
 
 # ── Page classifiers ──────────────────────────────────────────────────────────
@@ -669,15 +717,48 @@ def dedupe(
     return unique
 
 
+def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Parse an MPSSAA Record Book PDF into structured CSV / JSON."
+    )
+    parser.add_argument(
+        "pdf_path", nargs="?", default="pdfs/FallRecordBook2024.pdf",
+        help="Path to the record book PDF (default: pdfs/FallRecordBook2024.pdf)",
+    )
+    parser.add_argument(
+        "out_dir", nargs="?", default=None,
+        help="Output directory (default: data/<season>)",
+    )
+    parser.add_argument(
+        "--season", choices=sorted(SEASON_SECTIONS), default=None,
+        help="Override season detection (otherwise inferred from the filename).",
+    )
+    return parser.parse_args(argv)
+
+
 def main() -> None:
-    pdf_path = sys.argv[1] if len(sys.argv) > 1 else "pdfs/FallRecordBook2024.pdf"
-    season = detect_season(pdf_path)
+    args = parse_args()
+    pdf_path = args.pdf_path
+    try:
+        season = args.season or detect_season(pdf_path)
+    except ValueError as exc:
+        raise SystemExit(f"Error: {exc}")
     sections = SEASON_SECTIONS[season]
-    out_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("data") / season
+    out_dir = Path(args.out_dir) if args.out_dir else Path("data") / season
 
     print(f"Loading {pdf_path} … (season: {season})")
     pages = load_pages(pdf_path)
     print(f"  {len(pages)} pages loaded.\n")
+
+    section_problems = check_section_map(pages, sections)
+    if section_problems:
+        detail = "\n  - ".join(section_problems)
+        raise SystemExit(
+            f"Error: section page ranges do not match this PDF (season={season}):\n"
+            f"  - {detail}\n"
+            f"The hardcoded ranges in {season.upper()}_SECTIONS are likely stale for "
+            f"this edition. Update them before parsing to avoid silently wrong data."
+        )
 
     all_championship: list[dict] = []
     all_school_records: list[dict] = []

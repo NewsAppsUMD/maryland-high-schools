@@ -14,10 +14,14 @@ from parse_record_book import (
     _table_years_in_text,
     _was_truncated,
     _years_in_rows,
+    check_section_map,
     chunked,
     dedupe,
     detect_season,
     extract_chunks_complete,
+    FALL_SECTIONS,
+    SPRING_SECTIONS,
+    WINTER_SECTIONS,
     is_golf_results,
     is_individual_results,
     is_individual_xc,
@@ -209,8 +213,10 @@ class TestClassifiersSynthetic:
     def test_detect_season_spring(self):
         assert detect_season("pdfs/Spring record book 2025.pdf") == "spring"
 
-    def test_detect_season_default(self):
-        assert detect_season("pdfs/unknown.pdf") == "fall"
+    def test_detect_season_unknown_raises(self):
+        # Silently defaulting to fall would mis-slice a non-fall PDF.
+        with pytest.raises(ValueError):
+            detect_season("pdfs/unknown.pdf")
 
 
 # ── Page classifiers on real Fall PDF pages ──────────────────────────────────
@@ -595,6 +601,37 @@ class TestLlmExtractValidation:
         patch_model([bad, _FakeResponse(text='{"results": [{"sport": "Y"}]}')])
         with pytest.raises(RuntimeError):
             llm_extract("prompt", ChampionshipResults, retries=2)
+
+
+# ── Section-map sanity check (Fix 4) ─────────────────────────────────────────
+
+
+class TestCheckSectionMap:
+    def test_fall_ranges_are_valid(self, fall_pages):
+        assert check_section_map(fall_pages, FALL_SECTIONS) == []
+
+    def test_winter_ranges_are_valid(self, winter_pages):
+        assert check_section_map(winter_pages, WINTER_SECTIONS) == []
+
+    def test_spring_ranges_are_valid(self, spring_pages):
+        assert check_section_map(spring_pages, SPRING_SECTIONS) == []
+
+    def test_detects_swapped_ranges(self, fall_pages):
+        # Point "Football" at the Golf pages — the name won't be found there.
+        bad = {"Football": (47, 53)}  # golf's real range
+        problems = check_section_map(fall_pages, bad)
+        assert len(problems) == 1
+        assert "Football" in problems[0]
+
+    def test_detects_range_past_end(self, fall_pages):
+        bad = {"Football": (999, 1005)}
+        problems = check_section_map(fall_pages, bad)
+        assert len(problems) == 1
+        assert "past the last page" in problems[0]
+
+    def test_handles_ampersand_and_wrapped_names(self, winter_pages):
+        # "Girls Swimming & Diving" renders as "Swimming &\nDiving" in the PDF.
+        assert check_section_map(winter_pages, {"Girls Swimming & Diving": (60, 69)}) == []
 
 
 # ── Completeness guard (Fix 3) ───────────────────────────────────────────────
