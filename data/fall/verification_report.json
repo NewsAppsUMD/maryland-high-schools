@@ -1,0 +1,373 @@
+{
+  "data_dir": "data/fall",
+  "source": "record_book.json",
+  "row_counts": {
+    "championship_results": 1402,
+    "school_records": 667,
+    "individual_xc_champions": 457,
+    "individual_results": 0,
+    "golf_results": 171,
+    "sportsmanship_awards": 134
+  },
+  "summary": {
+    "errors": 0,
+    "warnings": 163,
+    "passed": true
+  },
+  "checks": {
+    "cross_path_champion_years": {
+      "errors": 0,
+      "sports": {
+        "Boys Cross Country": {
+          "table_year_count": 77,
+          "record_year_count": 77,
+          "coverage": 1.0,
+          "missing_from_championship_table": [],
+          "in_table_not_in_records": [],
+          "status": "ok"
+        },
+        "Boys Soccer": {
+          "table_year_count": 78,
+          "record_year_count": 55,
+          "coverage": 1.0,
+          "missing_from_championship_table": [],
+          "in_table_not_in_records": [
+            1918,
+            1919,
+            1920,
+            1921,
+            1922,
+            1923,
+            1924,
+            1925,
+            1926,
+            1927,
+            1928,
+            1929,
+            1930,
+            1931,
+            1932,
+            1933,
+            1934,
+            1935,
+            1936,
+            1937,
+            1946,
+            1947,
+            1948
+          ],
+          "status": "ok"
+        },
+        "Field Hockey": {
+          "table_year_count": 52,
+          "record_year_count": 49,
+          "coverage": 1.0,
+          "missing_from_championship_table": [],
+          "in_table_not_in_records": [
+            1946,
+            1947,
+            1948
+          ],
+          "status": "ok"
+        },
+        "Football": {
+          "table_year_count": 50,
+          "record_year_count": 50,
+          "coverage": 1.0,
+          "missing_from_championship_table": [],
+          "in_table_not_in_records": [],
+          "status": "ok"
+        },
+        "Girls Cross Country": {
+          "table_year_count": 49,
+          "record_year_count": 49,
+          "coverage": 1.0,
+          "missing_from_championship_table": [],
+          "in_table_not_in_records": [],
+          "status": "ok"
+        },
+        "Girls Soccer": {
+          "table_year_count": 35,
+          "record_year_count": 35,
+          "coverage": 1.0,
+          "missing_from_championship_table": [],
+          "in_table_not_in_records": [],
+          "status": "ok"
+        },
+        "Golf": {
+          "table_year_count": 53,
+          "record_year_count": 53,
+          "coverage": 1.0,
+          "missing_from_championship_table": [],
+          "in_table_not_in_records": [],
+          "status": "ok"
+        },
+        "Volleyball": {
+          "table_year_count": 51,
+          "record_year_count": 49,
+          "coverage": 1.0,
+          "missing_from_championship_table": [],
+          "in_table_not_in_records": [
+            1948,
+            1949
+          ],
+          "status": "ok"
+        }
+      }
+    },
+    "duplicate_keys": {
+      "errors": 0,
+      "tables": {
+        "championship_results": {
+          "row_count": 1402,
+          "duplicate_key_count": 0,
+          "duplicates": {}
+        },
+        "school_records": {
+          "row_count": 667,
+          "duplicate_key_count": 0,
+          "duplicates": {}
+        },
+        "individual_xc_champions": {
+          "row_count": 457,
+          "duplicate_key_count": 0,
+          "duplicates": {}
+        },
+        "individual_results": {
+          "row_count": 0,
+          "duplicate_key_count": 0,
+          "duplicates": {}
+        },
+        "golf_results": {
+          "row_count": 171,
+          "duplicate_key_count": 0,
+          "duplicates": {}
+        },
+        "sportsmanship_awards": {
+          "row_count": 134,
+          "duplicate_key_count": 0,
+          "duplicates": {}
+        }
+      }
+    },
+    "continuity": {
+      "warnings": 80,
+      "sports": {
+        "Boys Cross Country": {
+          "span": [
+            1946,
+            2024
+          ],
+          "missing_years": [
+            1951
+          ]
+        },
+        "Boys Soccer": {
+          "span": [
+            1918,
+            2024
+          ],
+          "missing_years": [
+            1938,
+            1939,
+            1940,
+            1941,
+            1942,
+            1943,
+            1944,
+            1945,
+            1949,
+            1950,
+            1951,
+            1952,
+            1953,
+            1954,
+            1955,
+            1956,
+            1957,
+            1958,
+            1959,
+            1960,
+            1961,
+            1962,
+            1963,
+            1964,
+            1965,
+            1966,
+            1967,
+            1968
+          ]
+        },
+        "Field Hockey": {
+          "span": [
+            1946,
+            2024
+          ],
+          "missing_years": [
+            1949,
+            1950,
+            1951,
+            1952,
+            1953,
+            1954,
+            1955,
+            1956,
+            1957,
+            1958,
+            1959,
+            1960,
+            1961,
+            1962,
+            1963,
+            1964,
+            1965,
+            1966,
+            1967,
+            1968,
+            1969,
+            1970,
+            1971,
+            1972,
+            1973,
+            1974
+          ]
+        },
+        "Volleyball": {
+          "span": [
+            1948,
+            2024
+          ],
+          "missing_years": [
+            1950,
+            1951,
+            1952,
+            1953,
+            1954,
+            1955,
+            1956,
+            1957,
+            1958,
+            1959,
+            1960,
+            1961,
+            1962,
+            1963,
+            1964,
+            1965,
+            1966,
+            1967,
+            1968,
+            1969,
+            1970,
+            1971,
+            1972,
+            1973,
+            1974
+          ]
+        }
+      }
+    },
+    "referential_schools": {
+      "warnings": 83,
+      "sports": {
+        "Girls Cross Country": [
+          "Churchill",
+          "Kennedy",
+          "Northern-Calvert",
+          "Northern-Garrett",
+          "Seneca Valley",
+          "Southern Garrett",
+          "Whitman",
+          "Woodward"
+        ],
+        "Boys Cross Country": [
+          "Central-PG",
+          "DuVal",
+          "Havre de Grace Consolidated",
+          "Northern-Garrett",
+          "Northwestern-PG",
+          "Southern Garrett"
+        ],
+        "Field Hockey": [
+          "Chesapeake-AA",
+          "Kennedy",
+          "Magruder",
+          "Northern-Calvert"
+        ],
+        "Football": [
+          "Cambridge-SD",
+          "Churchill",
+          "Douglass-PG",
+          "Dr. Henry A. Wise, Jr.",
+          "Dunbar",
+          "Edmondson",
+          "Forestville",
+          "Frederick Douglass-PG",
+          "J. M. Bennett",
+          "Kennedy",
+          "Lackey",
+          "Magruder",
+          "McDonough",
+          "Mergenthaler Vo-Tech",
+          "Milford Mill",
+          "North Point",
+          "Northern-Calvert",
+          "Paul Laurence Dunbar",
+          "R. Montgomery",
+          "Thomas Johnson",
+          "Valley"
+        ],
+        "Girls Soccer": [
+          "Havre de Grace",
+          "Northern-Calvert",
+          "Queen Anne's",
+          "Smithburg",
+          "Thomas Johnson"
+        ],
+        "Boys Soccer": [
+          "Andover/Hereford",
+          "Barton",
+          "Bruce",
+          "Catonsville",
+          "Centreville",
+          "Chesapeake-AA",
+          "Chestertown",
+          "Churchill",
+          "Delmar",
+          "Federalsburg",
+          "Glenelg/Rockville",
+          "Greenbelt",
+          "Hancock",
+          "Havre de Grace",
+          "Hereford/Mt. Savage",
+          "Hereford/Pocomoke",
+          "Howard/Kennedy",
+          "J.M. Bennett",
+          "Linganore/Thomas Stone",
+          "Magruder",
+          "Northwestern",
+          "Northwestern-PG",
+          "Oakland Mills/Woodward",
+          "Pocomoke/Sparrows Point",
+          "River Hill/Towson",
+          "Rockville/Towson",
+          "Sherwood/Elkton",
+          "Thomas Johnson/Walter Johnson",
+          "Thomas Wootton",
+          "Towson/Sherwood",
+          "Whitman",
+          "Woodward"
+        ],
+        "Volleyball": [
+          "<unknown>",
+          "DuVal",
+          "North East-C",
+          "North East-Cecil",
+          "Northern-Calvert",
+          "Sparks",
+          "Woodlawn"
+        ]
+      }
+    }
+  }
+}

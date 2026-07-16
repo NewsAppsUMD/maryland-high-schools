@@ -1,135 +1,135 @@
-sport,year,classification,school
-Boys Cross Country,2016,4A,Digital Harbor
-Boys Cross Country,2016,3A,Reservoir
-Boys Cross Country,2016,2A,Catoctin
-Boys Cross Country,2016,1A,Snow Hill
-Boys Cross Country,2017,4A,Gaithersburg
-Boys Cross Country,2017,3A,Reservoir
-Boys Cross Country,2017,2A,Hereford
-Boys Cross Country,2017,1A,Boonsboro
-Boys Cross Country,2018,4A,Urbana
-Boys Cross Country,2018,3A,North Hagerstown
-Boys Cross Country,2018,2A,Poolesville
-Boys Cross Country,2018,1A,Cambridge-South Dorchester
-Boys Cross Country,2019,4A,Gaithersburg
-Boys Cross Country,2019,3A,North Hagerstown
-Boys Cross Country,2019,2A,Kent Island
-Boys Cross Country,2019,1A,Brunswick
-Boys Cross Country,2021,4A,Gaithersburg
-Boys Cross Country,2021,3A,Towson
-Boys Cross Country,2021,2A,Poolesville
-Boys Cross Country,2021,1A,Cambridge-South Dorchester
-Boys Cross Country,2022,4A,Dulaney
-Boys Cross Country,2022,3A,Towson
-Boys Cross Country,2022,2A,Liberty
-Boys Cross Country,2022,1A,Brunswick
-Boys Cross Country,2023,4A,Frederick
-Boys Cross Country,2023,3A,James H. Blake
-Boys Cross Country,2023,2A,Poolesville
-Boys Cross Country,2023,1A,Carver Center for A&T
-Boys Cross Country,2024,4A,Urbana
-Boys Cross Country,2024,3A,Sherwood
-Boys Cross Country,2024,2A,Randallstown
-Boys Cross Country,2024,1A,Brunswick
-Field Hockey,2009,,Paint Branch
-Field Hockey,2010,,River Hill
-Field Hockey,2011,,Mount Hebron
-Field Hockey,2012,,Walter Johnson
-Field Hockey,2013,,Dulaney
-Field Hockey,2014,,Kent Island
-Field Hockey,2015,,Kent Island
-Field Hockey,2016,,South River
-Field Hockey,2017,,James H. Blake
-Field Hockey,2018,,Kent Island
-Field Hockey,2019,,River Hill
-Field Hockey,2021,,Manchester Valley
-Field Hockey,2022,,Crofton
-Field Hockey,2023,,Northern-Cal
-Field Hockey,2024,,Manchester Valley
-Football,2024,,Northern Garrett Huskies
-Football,2007,,Arundel
-Football,2008,,Linganore
-Football,2009,,Eastern Technical
-Football,2010,,Middletown
-Football,2011,,F. Douglass - PG
-Football,2012,,Middletown
-Football,2013,,Patuxent
-Football,2014,,F. Douglass - PG
-Football,2015,,Howard
-Football,2016,,Havre de Grace
-Football,2017,,"Dr. Henry Wise, Jr."
-Football,2018,,F. Douglass - PG
-Football,2019,,Northwest
-Football,2021,,Mountain Ridge
-Football,2022,,Arundel
-Football,2023,,Stephen Decatur
-Boys Soccer,2002,,Winston Churchill
-Girls Soccer,2002,,Century
-Boys Soccer,2003,,Kenwood
-Girls Soccer,2003,,Urbana
-Boys Soccer,2004,,Sherwood
-Girls Soccer,2004,,Whitman
-Boys Soccer,2005,,Pocomoke
-Girls Soccer,2005,,Middletown
-Boys Soccer,2006,,Sparrows Point
-Girls Soccer,2006,,Glenelg
-Boys Soccer,2007,,Poolesville
-Girls Soccer,2007,,Urbana
-Boys Soccer,2008,,Boonsboro
-Girls Soccer,2008,,Bethesda-CC
-Boys Soccer,2009,,Hereford
-Girls Soccer,2009,,Harford Technical
-Boys Soccer,2010,,Mountain Ridge
-Girls Soccer,2010,,Mountain Ridge
-Boys Soccer,2011,,Watkins Mill
-Girls Soccer,2011,,Southern-AA
-Boys Soccer,2012,,Brunswick
-Girls Soccer,2012,,Middletown
-Boys Soccer,2013,,Urbana
-Girls Soccer,2013,,Century
-Boys Soccer,2014,,Brunswick
-Girls Soccer,2014,,Howard
-Boys Soccer,2015,,Meade
-Girls Soccer,2015,,Bel Air
-Boys Soccer,2016,,Urbana
-Girls Soccer,2016,,Walter Johnson
-Boys Soccer,2017,,Great Mills
-Girls Soccer,2017,,River Hill
-Boys Soccer,2018,,Oakdale
-Girls Soccer,2018,,Smithsburg
-Boys Soccer,2019,,Mountain Ridge
-Girls Soccer,2019,,Severna Park
-Boys Soccer,2021,,Northwestern
-Girls Soccer,2021,,Walt Whitman
-Boys Soccer,2022,,Glenelg
-Girls Soccer,2022,,Quince Orchard
-Boys Soccer,2023,,South River
-Girls Soccer,2023,,Montgomery Blair
-Boys Soccer,2024,,Montgomery Blair
-Girls Soccer,2024,,Queen Anne's
-Volleyball,1998,,Centennial
-Volleyball,1999,,Northern-Cal
-Volleyball,2000,,Fallston
-Volleyball,2001,,Gaithersburg
-Volleyball,2002,,James M. Bennett
-Volleyball,2003,,Towson
-Volleyball,2004,,Rising Sun
-Volleyball,2005,,Rising Sun
-Volleyball,2006,,Catonsville
-Volleyball,2007,,Thomas S. Wootton
-Volleyball,2008,,River Hill
-Volleyball,2009,,Catoctin
-Volleyball,2010,,Colonel Richardson
-Volleyball,2011,,La Plata
-Volleyball,2012,,Eleanor Roosevelt
-Volleyball,2013,,High Point
-Volleyball,2014,,Severna Park
-Volleyball,2015,,Towson
-Volleyball,2016,,Bowie
-Volleyball,2017,,Smithsburg
-Volleyball,2018,,Western STES
-Volleyball,2019,,Arundel
-Volleyball,2021,,Mountain Ridge
-Volleyball,2022,,Liberty
-Volleyball,2023,,North Hagerstown
-Volleyball,2024,,Richard Montgomery
+sport,year,classification,school,school_slug,source_pages
+Boys Cross Country,2016,4A,Digital Harbor,digital-harbor,26
+Boys Cross Country,2016,3A,Reservoir,reservoir,26
+Boys Cross Country,2016,2A,Catoctin,catoctin,26
+Boys Cross Country,2016,1A,Snow Hill,snow-hill,26
+Boys Cross Country,2017,4A,Gaithersburg,gaithersburg,26
+Boys Cross Country,2017,3A,Reservoir,reservoir,26
+Boys Cross Country,2017,2A,Hereford,hereford,26
+Boys Cross Country,2017,1A,Boonsboro,boonsboro,26
+Boys Cross Country,2018,4A,Urbana,urbana,26
+Boys Cross Country,2018,3A,North Hagerstown,north-hagerstown,26
+Boys Cross Country,2018,2A,Poolesville,poolesville,26
+Boys Cross Country,2018,1A,Cambridge-South Dorchester,cambridge-south-dorchester,26
+Boys Cross Country,2019,4A,Gaithersburg,gaithersburg,26
+Boys Cross Country,2019,3A,North Hagerstown,north-hagerstown,26
+Boys Cross Country,2019,2A,Kent Island,kent-island,26
+Boys Cross Country,2019,1A,Brunswick,brunswick,26
+Boys Cross Country,2021,4A,Gaithersburg,gaithersburg,26
+Boys Cross Country,2021,3A,Towson,towson,26
+Boys Cross Country,2021,2A,Poolesville,poolesville,26
+Boys Cross Country,2021,1A,Cambridge-South Dorchester,cambridge-south-dorchester,26
+Boys Cross Country,2022,4A,Dulaney,dulaney,26
+Boys Cross Country,2022,3A,Towson,towson,26
+Boys Cross Country,2022,2A,Liberty,liberty,26
+Boys Cross Country,2022,1A,Brunswick,brunswick,26
+Boys Cross Country,2023,4A,Frederick,frederick,26
+Boys Cross Country,2023,3A,James H. Blake,james-h-blake,26
+Boys Cross Country,2023,2A,Poolesville,poolesville,26
+Boys Cross Country,2023,1A,Carver Center for A&T,carver-center-for-a-and-t,26
+Boys Cross Country,2024,4A,Urbana,urbana,26
+Boys Cross Country,2024,3A,Sherwood,sherwood,26
+Boys Cross Country,2024,2A,Randallstown,randallstown,26
+Boys Cross Country,2024,1A,Brunswick,brunswick,26
+Field Hockey,2009,,Paint Branch,paint-branch,34
+Field Hockey,2010,,River Hill,river-hill,34
+Field Hockey,2011,,Mount Hebron,mount-hebron,34
+Field Hockey,2012,,Walter Johnson,walter-johnson,34
+Field Hockey,2013,,Dulaney,dulaney,34
+Field Hockey,2014,,Kent Island,kent-island,34
+Field Hockey,2015,,Kent Island,kent-island,34
+Field Hockey,2016,,South River,south-river,34
+Field Hockey,2017,,James H. Blake,james-h-blake,34
+Field Hockey,2018,,Kent Island,kent-island,34
+Field Hockey,2019,,River Hill,river-hill,34
+Field Hockey,2021,,Manchester Valley,manchester-valley,34
+Field Hockey,2022,,Crofton,crofton,34
+Field Hockey,2023,,Northern-Calvert,northern-calvert,34
+Field Hockey,2024,,Manchester Valley,manchester-valley,34
+Football,2024,,Northern Garrett Huskies,northern-garrett-huskies,46
+Football,2007,,Arundel,arundel,46
+Football,2008,,Linganore,linganore,46
+Football,2009,,Eastern Technical,eastern-technical,46
+Football,2010,,Middletown,middletown,46
+Football,2011,,F. Douglass - PG,f-douglass-pg,46
+Football,2012,,Middletown,middletown,46
+Football,2013,,Patuxent,patuxent,46
+Football,2014,,F. Douglass - PG,f-douglass-pg,46
+Football,2015,,Howard,howard,46
+Football,2016,,Havre de Grace,havre-de-grace,46
+Football,2017,,"Dr. Henry Wise, Jr.",dr-henry-wise-jr,46
+Football,2018,,F. Douglass - PG,f-douglass-pg,46
+Football,2019,,Northwest,northwest,46
+Football,2021,,Mountain Ridge,mountain-ridge,46
+Football,2022,,Arundel,arundel,46
+Football,2023,,Stephen Decatur,stephen-decatur,46
+Boys Soccer,2002,,Winston Churchill,winston-churchill,65
+Girls Soccer,2002,,Century,century,65
+Boys Soccer,2003,,Kenwood,kenwood,65
+Girls Soccer,2003,,Urbana,urbana,65
+Boys Soccer,2004,,Sherwood,sherwood,65
+Girls Soccer,2004,,Whitman,whitman,65
+Boys Soccer,2005,,Pocomoke,pocomoke,65
+Girls Soccer,2005,,Middletown,middletown,65
+Boys Soccer,2006,,Sparrows Point,sparrows-point,65
+Girls Soccer,2006,,Glenelg,glenelg,65
+Boys Soccer,2007,,Poolesville,poolesville,65
+Girls Soccer,2007,,Urbana,urbana,65
+Boys Soccer,2008,,Boonsboro,boonsboro,65
+Girls Soccer,2008,,Bethesda-Chevy Chase,bethesda-chevy-chase,65
+Boys Soccer,2009,,Hereford,hereford,65
+Girls Soccer,2009,,Harford Technical,harford-technical,65
+Boys Soccer,2010,,Mountain Ridge,mountain-ridge,65
+Girls Soccer,2010,,Mountain Ridge,mountain-ridge,65
+Boys Soccer,2011,,Watkins Mill,watkins-mill,65
+Girls Soccer,2011,,Southern-AA,southern-aa,65
+Boys Soccer,2012,,Brunswick,brunswick,65
+Girls Soccer,2012,,Middletown,middletown,65
+Boys Soccer,2013,,Urbana,urbana,65
+Girls Soccer,2013,,Century,century,65
+Boys Soccer,2014,,Brunswick,brunswick,65
+Girls Soccer,2014,,Howard,howard,65
+Boys Soccer,2015,,Meade,meade,65
+Girls Soccer,2015,,Bel Air,bel-air,65
+Boys Soccer,2016,,Urbana,urbana,65
+Girls Soccer,2016,,Walter Johnson,walter-johnson,65
+Boys Soccer,2017,,Great Mills,great-mills,65
+Girls Soccer,2017,,River Hill,river-hill,65
+Boys Soccer,2018,,Oakdale,oakdale,65
+Girls Soccer,2018,,Smithsburg,smithsburg,65
+Boys Soccer,2019,,Mountain Ridge,mountain-ridge,65
+Girls Soccer,2019,,Severna Park,severna-park,65
+Boys Soccer,2021,,Northwestern,northwestern,65
+Girls Soccer,2021,,Walt Whitman,walt-whitman,65
+Boys Soccer,2022,,Glenelg,glenelg,65
+Girls Soccer,2022,,Quince Orchard,quince-orchard,65
+Boys Soccer,2023,,South River,south-river,65
+Girls Soccer,2023,,Montgomery Blair,montgomery-blair,65
+Boys Soccer,2024,,Montgomery Blair,montgomery-blair,65
+Girls Soccer,2024,,Queen Anne's,queen-annes,65
+Volleyball,1998,,Centennial,centennial,76
+Volleyball,1999,,Northern-Calvert,northern-calvert,76
+Volleyball,2000,,Fallston,fallston,76
+Volleyball,2001,,Gaithersburg,gaithersburg,76
+Volleyball,2002,,James M. Bennett,james-m-bennett,76
+Volleyball,2003,,Towson,towson,76
+Volleyball,2004,,Rising Sun,rising-sun,76
+Volleyball,2005,,Rising Sun,rising-sun,76
+Volleyball,2006,,Catonsville,catonsville,76
+Volleyball,2007,,Thomas S. Wootton,thomas-s-wootton,76
+Volleyball,2008,,River Hill,river-hill,76
+Volleyball,2009,,Catoctin,catoctin,76
+Volleyball,2010,,Colonel Richardson,colonel-richardson,76
+Volleyball,2011,,La Plata,la-plata,76
+Volleyball,2012,,Eleanor Roosevelt,eleanor-roosevelt,76
+Volleyball,2013,,High Point,high-point,76
+Volleyball,2014,,Severna Park,severna-park,76
+Volleyball,2015,,Towson,towson,76
+Volleyball,2016,,Bowie,bowie,76
+Volleyball,2017,,Smithsburg,smithsburg,76
+Volleyball,2018,,Western STES,western-stes,76
+Volleyball,2019,,Arundel,arundel,76
+Volleyball,2021,,Mountain Ridge,mountain-ridge,76
+Volleyball,2022,,Liberty,liberty,76
+Volleyball,2023,,North Hagerstown,north-hagerstown,76
+Volleyball,2024,,Richard Montgomery,richard-montgomery,76

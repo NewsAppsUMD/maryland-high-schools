@@ -1,117 +1,458 @@
-sport,year,classification,name,school,time,distance
-Girls Cross Country,2007,4A,Teshika Rivers,E. Roosevelt,19:17,3.0 Miles
-Girls Cross Country,2007,3A,Kristen Malloy,Hereford,19:36,3.0 Miles
-Girls Cross Country,2007,2A,Katie Harman,River Hill,19:54,3.0 Miles
-Girls Cross Country,2007,1A,Lauryn MacFawn,Allegany,19:38,3.0 Miles
-Girls Cross Country,2008,4A,Anna Bosse,Walter Johnson,19:38,3.0 Miles
-Girls Cross Country,2008,3A,Addie Tousley,Bethesda-Chevy Chase,19:59,3.0 Miles
-Girls Cross Country,2008,2A,Maura Linde,Century,19:48,3.0 Miles
-Girls Cross Country,2008,1A,Sara Fisher,Brunswick,20:11,3.0 Miles
-Girls Cross Country,2009,4A,Jessie Rubin,Wootton,19:48,3.0 Miles
-Girls Cross Country,2009,3A,Becky Yep,Mount Hebron,20:25,3.0 Miles
-Girls Cross Country,2009,2A,Maura Linde,Century,20:07,3.0 Miles
-Girls Cross Country,2009,1A,Jennifer Cleary,Bohemia Manor,20:46,3.0 Miles
-Girls Cross Country,2010,4A,Anna Ryba,Walt Whitman,19:16,3.0 Miles
-Girls Cross Country,2010,3A,Erin Causey,Hereford,19:59,3.0 Miles
-Girls Cross Country,2010,2A,Maura Linde,Century,19:10,3.0 Miles
-Girls Cross Country,2010,1A,Emily Ruppel,Loch Raven,20:30,3.0 Miles
-Girls Cross Country,2011,4A,Carolyn Guiot,Walt Whitman,19:28,3.0 Miles
-Girls Cross Country,2011,3A,Emily Mulhern,Urbana,19:53,3.0 Miles
-Girls Cross Country,2011,2A,Hannah Oneda,Winters Mill,18:28,3.0 Miles
-Girls Cross Country,2011,1A,Jordan Dodson,Perryville,19:56,3.0 Miles
-Girls Cross Country,2012,4A,Caroline Beakes,Bethesda-Chevy Chase,19:17.4,3.0 Miles
-Girls Cross Country,2012,3A,Emily Mulhern,Urbana,19:20.1,3.0 Miles
-Girls Cross Country,2012,2A,Brit Lang,Oakland Mills,19:21.8,3.0 Miles
-Girls Cross Country,2012,1A,Sarah Zielinski,Boonsboro,19:48.6,3.0 Miles
-Girls Cross Country,2013,4A,Isabel Griffith,Dulaney,18:26.2,3.0 Miles
-Girls Cross Country,2013,3A,Shreya Nalubola,Centennial,18:41.1,3.0 Miles
-Girls Cross Country,2013,2A,Meggan Grams,Boonsboro,18:54.6,3.0 Miles
-Girls Cross Country,2013,1A,Katie Leisher,Manchester Valley,19:30.9,3.0 Miles
-Girls Cross Country,2014,4A,Nora McUmber,Bethesda-CC,18:39.9,3.0 Miles
-Girls Cross Country,2014,3A,Emily Mulhern,Urbana,19:02.1,3.0 Miles
-Girls Cross Country,2014,2A,Hayley Jackson,Patuxent,18:48.5,3.0 Miles
-Girls Cross Country,2014,1A,Katie Leisher,Manchester Valley,19:41.6,3.0 Miles
-Girls Cross Country,2015,4A,Maria Coffin,Annapolis,18:25.3,3.0 Miles
-Girls Cross Country,2015,3A,Annie Imhof,Great Mills,19:25.2,3.0 Miles
-Girls Cross Country,2015,2A,Hayley Jackson,Patuxent,18:23.5,3.0 Miles
-Girls Cross Country,2015,1A,Haley Wright,Boonsboro,19:33.7,3.0 Miles
-Girls Cross Country,2016,4A,Maria Coffin,Annapolis,17:49.4,3.0 Miles
-Girls Cross Country,2016,3A,Haley Cummins,C. Milton Wright,18:41.6,3.0 Miles
-Girls Cross Country,2016,2A,Hayley Jackson,Patuxent,18:19.5,3.0 Miles
-Girls Cross Country,2016,1A,Ana Rhoten,Northern-G,20:10.0,3.0 Miles
-Girls Cross Country,2017,4A,Abigail Green,Walter Johnson,18:17.16,3.0 Miles
-Girls Cross Country,2017,3A,Haley Cummins,C. Milton Wright,19:00.30,3.0 Miles
-Girls Cross Country,2017,2A,Emily Konkus,Hereford,19:40.44,3.0 Miles
-Girls Cross Country,2017,1A,Ashley Betz,Patterson Mill,20:18.12,3.0 Miles
-Girls Cross Country,2018,4A,Bronwyn Patterson,South River,19:06.19,3.0 Miles
-Girls Cross Country,2018,3A,Oakley Olson,Huntingtown,18:59.60,3.0 Miles
-Girls Cross Country,2018,2A,Emily Konkus,Hereford,19:38.03,3.0 Miles
-Girls Cross Country,2018,1A,Sarah Condon,Cambridge/SD,20:52.82,3.0 Miles
-Girls Cross Country,2019,4A,Jenna Goldberg,Walter Johnson,17:50.47,3.0 Miles
-Girls Cross Country,2019,3A,Oakley Olson,Northern-Calvert,18:49.23,3.0 Miles
-Girls Cross Country,2019,2A,Erin McQuitty,Middletown,19:06.75,3.0 Miles
-Girls Cross Country,2019,1A,Daylie Younker,Smithsburg,20:26.13,3.0 Miles
-Girls Cross Country,2021,4A,Varri Higgins,Bethesda-Chevy Chase,18:37.4,3.0 Miles
-Girls Cross Country,2021,3A,Caroline Gregory,Frederick,18:35.7,3.0 Miles
-Girls Cross Country,2021,2A,Daisy B. Dastrup,Poolesville,19:40.1,3.0 Miles
-Girls Cross Country,2021,1A,Lydia Nelson,Northern-Garrett,20:27.8,3.0 Miles
-Girls Cross Country,2022,4A,Elena Blodnikar,Leonardtown,18:58.8,3.0 Miles
-Girls Cross Country,2022,3A,Hannah Toth,Westminster,19:08,3.0 Miles
-Girls Cross Country,2022,2A,Estelle Snider,Hereford,19:29.8,3.0 Miles
-Girls Cross Country,2022,1A,Mary Delaney,Mountain Ridge,19:57.9,3.0 Miles
-Girls Cross Country,2023,4A,Caroline Gregory,Frederick,18:30.71,3.0 Miles
-Girls Cross Country,2023,3A,Carter Brotherton,Great Mills,18:33.65,3.0 Miles
-Girls Cross Country,2023,2A,Taylor Colson,Century,18:51.54,3.0 Miles
-Girls Cross Country,2023,1A,Cora Gentzel,Smithsburg,19:43.05,3.0 Miles
-Girls Cross Country,2024,4A,Emma Colavito,Richard Montgomery,18:53.80,3.0 Miles
-Girls Cross Country,2024,3A,Lauren Stine,North Hagerstown,18:23.46,3.0 Miles
-Girls Cross Country,2024,2A,Riley Herdson,Centennial,19:12.54,3.0 Miles
-Girls Cross Country,2024,1A,Isabel Devos,Harford Technical,19:32.29,3.0 Miles
-Girls Cross Country,2016,4A,Maria Coffin,Annapolis,17:49.40,3.0 Miles
-Girls Cross Country,2023,3A,Carter Brotherton,Great Mills,18:33.65,3.0 Miles
-Girls Cross Country,2016,2A,Hayley Jackson,Patuxent,18:19.50,3.0 Miles
-Girls Cross Country,2024,1A,Isabel Devos,Harford Technical,19:32.29,3.0 Miles
-Boys Cross Country,2014,4A,Evan Woods,Walt Whitman,15:49.1,3.0 Miles
-Boys Cross Country,2014,3A,Nick Fransham,North Harford,15:41.3,3.0 Miles
-Boys Cross Country,2014,2A,Zach Gascho,Catoctin,16:24.2,3.0 Miles
-Boys Cross Country,2014,1A,Ty Franks,Bohemia Manor,16:26.1,3.0 Miles
-Boys Cross Country,2015,4A,Eric Walz,Dulaney,16:06.0,3.0 Miles
-Boys Cross Country,2015,3A,Matt Bennett,Northern-C,16:14.8,3.0 Miles
-Boys Cross Country,2015,2A,Brian Cave,South Carroll,16:33.7,3.0 Miles
-Boys Cross Country,2015,1A,Will Merritt,Smithsburg,16:50.0,3.0 Miles
-Boys Cross Country,2016,4A,Rohann Asfaw,Richard Montgomery,16:04.2,3.0 Miles
-Boys Cross Country,2016,3A,Ryan Lockett,Poolesville,16:00.7,3.0 Miles
-Boys Cross Country,2016,2A,Taylor Baranoski,Eastern Technical,16:03.9,3.0 Miles
-Boys Cross Country,2016,1A,Will Merritt,Smithsburg,15:54.6,3.0 Miles
-Boys Cross Country,2017,4A,Adam Nakasaka,Bethesda-CC,15:50.63,3.0 Miles
-Boys Cross Country,2017,3A,Kieran McDermott,Bel Air,15:59.19,3.0 Miles
-Boys Cross Country,2017,2A,Ryan Lockett,Poolesville,16:13.07,3.0 Miles
-Boys Cross Country,2017,1A,Zachary Laird,Bohemia Manor,16:09.17,3.0 Miles
-Boys Cross Country,2018,4A,Obsaa Feda,Northwood,15:44.05,3.0 Miles
-Boys Cross Country,2018,3A,Michael Belmaggio,Linganore,16:16.21,3.0 Miles
-Boys Cross Country,2018,2A,Anish Nanjappa,River Hill,15:58.08,3.0 Miles
-Boys Cross Country,2018,1A,Zachary Laird,Bohemia Manor,16:36.36,3.0 Miles
-Boys Cross Country,2019,4A,Sam Keeny,South River,15:34.98,3.0 Miles
-Boys Cross Country,2019,3A,Anish Nanjappa,River Hill,15:45.64,3.0 Miles
-Boys Cross Country,2019,2A,Kyle Lund,Oakdale,15:47.76,3.0 Miles
-Boys Cross Country,2019,1A,Zane Chalker,Williamsport,16:00.47,3.0 Miles
-Boys Cross Country,2021,4A,Luke Coffin,Annapolis,16:14.4,3.0 Miles
-Boys Cross Country,2021,3A,Antonio Camacho-Bucks,Centennial,15:51.4,3.0 Miles
-Boys Cross Country,2021,2A,Ethan Aidam,Oakland Mills,16:43.6,3.0 Miles
-Boys Cross Country,2021,1A,John Condon,Cambridge-SD,16:55.2,3.0 Miles
-Boys Cross Country,2022,4A,Tyler Dailey,Dulaney,16:25.2,3.0 Miles
-Boys Cross Country,2022,3A,Henry Hopper,Wilde Lake,16:11.7,3.0 Miles
-Boys Cross Country,2022,2A,Ethan Aidam,Oakland Mills,16:45.7,3.0 Miles
-Boys Cross Country,2022,1A,Alexander Contreras,Catoctin,17:07.6,3.0 Miles
-Boys Cross Country,2023,4A,James Partlow,Gov. Thomas Johnson,15:39.28,3.0 Miles
-Boys Cross Country,2023,3A,Kieran Mischke,Towson,15:50.1,3.0 Miles
-Boys Cross Country,2023,2A,Eric Penkala,Southern-AA,15:47.8,3.0 Miles
-Boys Cross Country,2023,1A,Gregory Schellberg,Liberty,16:35.0,3.0 Miles
-Boys Cross Country,2024,4A,Mateo Gros-Slovinsky,Walt Whitman,15:44.74,3.0 Miles
-Boys Cross Country,2024,3A,Tsedeke Jacovics,Old Mill,15:52.04,3.0 Miles
-Boys Cross Country,2024,2A,Eric Penkala,Southern-AA,15:37.37,3.0 Miles
-Boys Cross Country,2024,1A,Gregory Schellberg,Liberty,16:19.22,3.0 Miles
-Boys Cross Country,2019,4A,Sam Keeny,South River,15:34.98,3.0 Miles
-Boys Cross Country,2014,3A,Nick Fransham,North Harford,15:41.30,3.0 Miles
-Boys Cross Country,2024,2A,Eric Penkala,Southern-AA,15:37.37,3.0 Miles
-Boys Cross Country,2016,1A,Will Merritt,Smithsburg,15:54.60,3.0 Miles
+sport,year,classification,name,school,school_slug,time,distance,source_pages
+Girls Cross Country,1975,Combined,Mary Walsh,Northwood,northwood,15:07.0,2.5 Miles,10-11
+Girls Cross Country,1976,AA,Debbie Pavick,Dulaney,dulaney,12:36.2,2.0 Miles,10-11
+Girls Cross Country,1976,ABC,Mary Walsh,Northwood,northwood,12:01.3,2.0 Miles,10-11
+Girls Cross Country,1977,AA,Jill Haworth,Bowie,bowie,11:20.0,2.0 Miles,10-11
+Girls Cross Country,1977,ABC,Jeannette Simms,Smithsburg,smithsburg,11:52.0,2.0 Miles,10-11
+Girls Cross Country,1978,AA,Jill Haworth,Bowie,bowie,11:26.3,2.0 Miles,10-11
+Girls Cross Country,1978,A,Jill Cotton,Eleanor Roosevelt,eleanor-roosevelt,11:43.7,2.0 Miles,10-11
+Girls Cross Country,1978,B,Colleen Desmond,Damascus,damascus,11:59.7,2.0 Miles,10-11
+Girls Cross Country,1978,C,Jeannette Simms,Smithsburg,smithsburg,11:54.5,2.0 Miles,10-11
+Girls Cross Country,1979,AA,Karin Wagner,Lansdowne,lansdowne,12:20.0,2.0 Miles,10-11
+Girls Cross Country,1979,A,Mary Cassidy,Gaithersburg,gaithersburg,12:21.7,2.0 Miles,10-11
+Girls Cross Country,1979,B,Debbie Paladino,Centennial,centennial,12:39.4,2.0 Miles,10-11
+Girls Cross Country,1979,C,Shelly Smith,Williamsport,williamsport,13:06.8,2.0 Miles,10-11
+Girls Cross Country,1980,AA,Kris Kavetski,Bowie,bowie,12:13.6,2.0 Miles,10-11
+Girls Cross Country,1980,A,Sue Kinnecome,Northwood,northwood,12:23.8,2.0 Miles,10-11
+Girls Cross Country,1980,B,Alyssa Terry,Wilde Lake,wilde-lake,12:14.6,2.0 Miles,10-11
+Girls Cross Country,1980,C,Shelly Smith,Williamsport,williamsport,12:59.3,2.0 Miles,10-11
+Girls Cross Country,1981,AA,Kris Kavetski,Bowie,bowie,12:15.3,2.0 Miles,10-11
+Girls Cross Country,1981,A,Meagen Jensen,Towson,towson,12:54.8,2.0 Miles,10-11
+Girls Cross Country,1981,B,Tammy Walder,Hereford,hereford,12:13.4,2.0 Miles,10-11
+Girls Cross Country,1981,C,Yvette Lemkuhl,Boonsboro,boonsboro,13:14.0,2.0 Miles,10-11
+Girls Cross Country,1982,AA,Betsy Schmid,Springbrook,springbrook,15:20.0,2.5 Miles,10-11
+Girls Cross Country,1982,A,Beth Jacobson,Kennedy,kennedy,15:19.0,2.5 Miles,10-11
+Girls Cross Country,1982,B,Cindy Kearns,Woodward,woodward,14:59.0,2.5 Miles,10-11
+Girls Cross Country,1982,C,Yvette Lemkuhl,Boonsboro,boonsboro,15:52.0,2.5 Miles,10-11
+Girls Cross Country,1983,AA,Tammy Devore,Churchill,churchill,14:46.0,2.5 Miles,10-11
+Girls Cross Country,1983,A,Beth Jacobson,Kennedy,kennedy,15:04.0,2.5 Miles,10-11
+Girls Cross Country,1983,B,Zenny Koehler,Aberdeen,aberdeen,15:24.0,2.5 Miles,10-11
+Girls Cross Country,1983,C,Jennifer Amyx,Walkersville,walkersville,15:39.0,2.5 Miles,10-11
+Girls Cross Country,1984,AA,Ann Hoefler,Springbrook,springbrook,14:29.0,2.5 Miles,10-11
+Girls Cross Country,1984,A,Beth Jacobson,Kennedy,kennedy,14:43.0,2.5 Miles,10-11
+Girls Cross Country,1984,B,Kathy Beresh,North Harford,north-harford,15:24.0,2.5 Miles,10-11
+Girls Cross Country,1984,C,Sharon Webb,Smithsburg,smithsburg,15:43.0,2.5 Miles,10-11
+Girls Cross Country,1985,AA,Robin Quinlan,Bowie,bowie,15:42.0,2.5 Miles,10-11
+Girls Cross Country,1985,A,Kim Brackeen,Douglass,douglass,15:44.0,2.5 Miles,10-11
+Girls Cross Country,1985,B,Kathy Beresh,North Harford,north-harford,15:52.0,2.5 Miles,10-11
+Girls Cross Country,1985,C,Sharon Webb,Smithsburg,smithsburg,16:35.0,2.5 Miles,10-11
+Girls Cross Country,1986,AA,Virginia Mattingly,Whitman,whitman,16:05.0,3.0 Miles,10-11
+Girls Cross Country,1986,A,Latashia Key,N. Hagerstown,n-hagerstown,16:37.0,3.0 Miles,10-11
+Girls Cross Country,1986,B-C,Mary Leffel,Hereford,hereford,15:45.0,3.0 Miles,10-11
+Girls Cross Country,1987,AA,Robin Quinlan,Bowie,bowie,18:32.0,3.0 Miles,10-11
+Girls Cross Country,1987,A,Jenny Athey,Laurel,laurel,19:18.0,3.0 Miles,10-11
+Girls Cross Country,1987,B-C,Steffi Rausch,Howard,howard,19:06.0,3.0 Miles,10-11
+Girls Cross Country,1988,4A,Kim Many,Kennedy,kennedy,18:25.0,3.0 Miles,10-11
+Girls Cross Country,1988,3A,Vikki Bernhardt,Loch Raven,loch-raven,19:25.0,3.0 Miles,10-11
+Girls Cross Country,1988,2A-1A,Jenny Howard,Fallston,fallston,19:17.0,3.0 Miles,10-11
+Girls Cross Country,1989,4A,Laura Herath,Severna Park,severna-park,19:31.0,3.0 Miles,10-11
+Girls Cross Country,1989,3A,Amanda Cox,Centennial,centennial,20:15.0,3.0 Miles,10-11
+Girls Cross Country,1989,2A,Jenny Howard,Fallston,fallston,18:55.0,3.0 Miles,10-11
+Girls Cross Country,1989,1A,Lora Price,Brunswick,brunswick,20:11.0,3.0 Miles,10-11
+Girls Cross Country,1990,4A,Amanda White,Dulaney,dulaney,18:43.0,3.0 Miles,10-11
+Girls Cross Country,1990,3A,Amanda Cox,Centennial,centennial,21:46.0,3.0 Miles,10-11
+Girls Cross Country,1990,2A,Jenny Howard,Fallston,fallston,19:40.0,3.0 Miles,10-11
+Girls Cross Country,1990,1A,Jackie Semler,Boonsboro,boonsboro,21:08.0,3.0 Miles,10-11
+Girls Cross Country,1991,4A,Amanda White,Dulaney,dulaney,17:25.3,3.0 Miles,10-11
+Girls Cross Country,1991,3A,Tonya Watson,Kennedy,kennedy,19:20.5,3.0 Miles,10-11
+Girls Cross Country,1991,2A,Michelle Barrett,Allegany,allegany,18:39.1,3.0 Miles,10-11
+Girls Cross Country,1991,1A,Adrian Unger,Brunswick,brunswick,19:06.9,3.0 Miles,10-11
+Girls Cross Country,1992,4A,Amanda White,Dulaney,dulaney,17:18.3,3.0 Miles,10-11
+Girls Cross Country,1992,3A,Sally Glynn,Walter Johnson,walter-johnson,18:37.7,3.0 Miles,10-11
+Girls Cross Country,1992,2A,Alicia Adams,Glenelg,glenelg,19:36.7,3.0 Miles,10-11
+Girls Cross Country,1992,1A,Adrian Unger,Brunswick,brunswick,19:10.5,3.0 Miles,10-11
+Girls Cross Country,1993,4A,Kristen Nicolini,Annapolis,annapolis,18:26.2,3.0 Miles,10-11
+Girls Cross Country,1993,3A,Sally Glynn,Walter Johnson,walter-johnson,17:24.0,3.0 Miles,10-11
+Girls Cross Country,1993,2A,Bridget Olp,Catonsville,catonsville,18:54.3,3.0 Miles,10-11
+Girls Cross Country,1993,1A,Adrian Unger,Brunswick,brunswick,19:26.3,3.0 Miles,10-11
+Girls Cross Country,1994,4A,Krissy Jost,Perry Hall,perry-hall,20:18,3.1 Miles,10-11
+Girls Cross Country,1994,3A,Sally Glynn,Walter Johnson,walter-johnson,19:00,3.1 Miles,10-11
+Girls Cross Country,1994,2A,Dana Strickland,Atholton,atholton,21:49,3.1 Miles,10-11
+Girls Cross Country,1994,1A,Adrian Unger,Brunswick,brunswick,21:35,3.1 Miles,10-11
+Girls Cross Country,1995,4A,Sarah Wassner,Watkins Mill,watkins-mill,20:02,3.0 Miles,10-11
+Girls Cross Country,1995,3A,Sally Glynn,Walter Johnson,walter-johnson,19:29,3.0 Miles,10-11
+Girls Cross Country,1995,2A,Kristen Ritter,Linganore,linganore,19:50,3.0 Miles,10-11
+Girls Cross Country,1995,1A,Elizabeth Lowrie,Urbana,urbana,20:09,3.0 Miles,10-11
+Girls Cross Country,1996,4A,Katy Orifici,Springbrook,springbrook,20:36,3.0 Miles,10-11
+Girls Cross Country,1996,3A,Jennifer Ford,Thos. Johnson,thos-johnson,19:54,3.0 Miles,10-11
+Girls Cross Country,1996,2A,Martha Nelson,Bethesda-Chevy Chase,bethesda-chevy-chase,20:12,3.0 Miles,10-11
+Girls Cross Country,1996,1A,Elizabeth Lowrie,Urbana,urbana,20:24,3.0 Miles,10-11
+Girls Cross Country,1997,4A,Claudin Hull,Quince Orchard,quince-orchard,20:22,3.0 Miles,10-11
+Girls Cross Country,1997,3A,Kelly Coogan,C. Milton Wright,c-milton-wright,19:18,3.0 Miles,10-11
+Girls Cross Country,1997,2A,Randy Buzzell,Middletown,middletown,19:36,3.0 Miles,10-11
+Girls Cross Country,1997,1A,Kjetil Lowe,Poolesville,poolesville,20:33,3.0 Miles,10-11
+Girls Cross Country,1998,4A,Claudin Hull,Quince Orchard,quince-orchard,19:45,3.0 Miles,10-11
+Girls Cross Country,1998,3A,Colleen Lawson,North Carroll,north-carroll,19:58,3.0 Miles,10-11
+Girls Cross Country,1998,2A,Kari McCarty,N. Hagerstown,n-hagerstown,19:49,3.0 Miles,10-11
+Girls Cross Country,1998,1A,Erin Davis,Allegany,allegany,20:59,3.0 Miles,10-11
+Girls Cross Country,1999,4A,Tenke Zoltani,Dulaney,dulaney,19:05,3.0 Miles,10-11
+Girls Cross Country,1999,3A,Colleen Lawson,North Carroll,north-carroll,19:38,3.0 Miles,10-11
+Girls Cross Country,1999,2A,Emily Buzzell,Middletown,middletown,18:58,3.0 Miles,10-11
+Girls Cross Country,1999,1A,Nori Sams,Allegany,allegany,20:49,3.0 Miles,10-11
+Girls Cross Country,2000,4A,Karen Pulliam,Quince Orchard,quince-orchard,18:52,3.0 Miles,10-11
+Girls Cross Country,2000,3A,Lee McDuff,River Hill,river-hill,20:00,3.0 Miles,10-11
+Girls Cross Country,2000,2A,Cori Koch,Towson,towson,19:28,3.0 Miles,10-11
+Girls Cross Country,2000,1A,Carrie Selmer,Glenelg,glenelg,20:49,3.0 Miles,10-11
+Girls Cross Country,2001,4A,Karen Pulliam,Quince Orchard,quince-orchard,19:27,3.0 Miles,10-11
+Girls Cross Country,2001,3A,Ashley St. Denis,Walter Johnson,walter-johnson,19:27,3.0 Miles,10-11
+Girls Cross Country,2001,2A,Cori Koch,Towson,towson,19:45,3.0 Miles,10-11
+Girls Cross Country,2001,1A,Jennifer Patton,Westmar,westmar,20:21,3.0 Miles,10-11
+Girls Cross Country,2002,4A,Lauren Centrowitz,Broadneck,broadneck,19:10,3.0 Miles,10-11
+Girls Cross Country,2002,3A,Ashley St. Denis,Walter Johnson,walter-johnson,20:04,3.0 Miles,10-11
+Girls Cross Country,2002,2A,Beth Catherwood,Bethesda-Chevy Chase,bethesda-chevy-chase,19:59,3.0 Miles,10-11
+Girls Cross Country,2002,1A,Rachel Armstrong,Beall,beall,20:04,3.0 Miles,10-11
+Girls Cross Country,2003,4A,Lauren Centrowitz,Broadneck,broadneck,19:02,3.0 Miles,10-11
+Girls Cross Country,2003,3A,Alison Barnes,C. Milton Wright,c-milton-wright,19:47,3.0 Miles,10-11
+Girls Cross Country,2003,2A,Jesica Hanlin,North Hagerstown,north-hagerstown,20:22,3.0 Miles,10-11
+Girls Cross Country,2003,1A,Ashley Lockard,Clear Spring,clear-spring,20:03,3.0 Miles,10-11
+Girls Cross Country,2004,4A,Halsey Sinclair,Montgomery Blair,montgomery-blair,19:52,3.0 Miles,10-11
+Girls Cross Country,2004,3A,Amy Watson,North Carroll,north-carroll,20:15,3.0 Miles,10-11
+Girls Cross Country,2004,2A,Allison Smith,Atholton,atholton,19:38,3.0 Miles,10-11
+Girls Cross Country,2004,1A,Ashley Lockard,Clear Spring,clear-spring,20:36,3.0 Miles,10-11
+Girls Cross Country,2005,4A,Marika Walker,Eleanor Roosevelt,eleanor-roosevelt,19:19,3.0 Miles,10-11
+Girls Cross Country,2005,3A,Katie Hursey,North Carroll,north-carroll,19:13,3.0 Miles,10-11
+Girls Cross Country,2005,2A,Allison Smith,Atholton,atholton,19:25,3.0 Miles,10-11
+Girls Cross Country,2005,1A,Lauryn MacFawn,Allegany,allegany,20:16,3.0 Miles,10-11
+Girls Cross Country,2006,4A,Marika Walker,E Roosevelt,e-roosevelt,19:15,3.0 Miles,10-11
+Girls Cross Country,2006,3A,Liz McCarter,Mount Hebron,mount-hebron,19:50,3.0 Miles,10-11
+Girls Cross Country,2006,2A,Allison Smith,Atholton,atholton,19:30,3.0 Miles,10-11
+Girls Cross Country,2006,1A,Lauryn MacFawn,Allegany,allegany,21:01,3.0 Miles,10-11
+Girls Cross Country,2007,4A,Teshika Rivers,Eleanor Roosevelt,eleanor-roosevelt,19:17,3.0 Miles,10-11
+Girls Cross Country,2007,3A,Kristen Malloy,Hereford,hereford,19:36,3.0 Miles,10-11
+Girls Cross Country,2007,2A,Katie Harman,River Hill,river-hill,19:54,3.0 Miles,10-11
+Girls Cross Country,2007,1A,Lauryn MacFawn,Allegany,allegany,19:38,3.0 Miles,10-11
+Girls Cross Country,2008,4A,Anna Bosse,Walter Johnson,walter-johnson,19:38,3.0 Miles,10-11
+Girls Cross Country,2008,3A,Addie Tousley,Bethesda-Chevy Chase,bethesda-chevy-chase,19:59,3.0 Miles,10-11
+Girls Cross Country,2008,2A,Maura Linde,Century,century,19:48,3.0 Miles,10-11
+Girls Cross Country,2008,1A,Sara Fisher,Brunswick,brunswick,20:11,3.0 Miles,10-11
+Girls Cross Country,2009,4A,Jessie Rubin,Wootton,wootton,19:48,3.0 Miles,10-11
+Girls Cross Country,2009,3A,Becky Yep,Mount Hebron,mount-hebron,20:25,3.0 Miles,10-11
+Girls Cross Country,2009,2A,Maura Linde,Century,century,20:07,3.0 Miles,10-11
+Girls Cross Country,2009,1A,Jennifer Cleary,Bohemia Manor,bohemia-manor,20:46,3.0 Miles,10-11
+Girls Cross Country,2010,4A,Anna Ryba,Walt Whitman,walt-whitman,19:16,3.0 Miles,10-11
+Girls Cross Country,2010,3A,Erin Causey,Hereford,hereford,19:59,3.0 Miles,10-11
+Girls Cross Country,2010,2A,Maura Linde,Century,century,19:10,3.0 Miles,10-11
+Girls Cross Country,2010,1A,Emily Ruppel,Loch Raven,loch-raven,20:30,3.0 Miles,10-11
+Girls Cross Country,2011,4A,Carolyn Guiot,Walt Whitman,walt-whitman,19:28,3.0 Miles,10-11
+Girls Cross Country,2011,3A,Emily Mulhern,Urbana,urbana,19:53,3.0 Miles,10-11
+Girls Cross Country,2011,2A,Hannah Oneda,Winters Mill,winters-mill,18:28,3.0 Miles,10-11
+Girls Cross Country,2011,1A,Jordan Dodson,Perryville,perryville,19:56,3.0 Miles,10-11
+Girls Cross Country,2012,4A,Caroline Beakes,Bethesda-Chevy Chase,bethesda-chevy-chase,19:17.4,3.0 Miles,10-11
+Girls Cross Country,2012,3A,Emily Mulhern,Urbana,urbana,19:20.1,3.0 Miles,10-11
+Girls Cross Country,2012,2A,Brit Lang,Oakland Mills,oakland-mills,19:21.8,3.0 Miles,10-11
+Girls Cross Country,2012,1A,Sarah Zielinski,Boonsboro,boonsboro,19:48.6,3.0 Miles,10-11
+Girls Cross Country,2013,4A,Isabel Griffith,Dulaney,dulaney,18:26.2,3.0 Miles,10-11
+Girls Cross Country,2013,3A,Shreya Nalubola,Centennial,centennial,18:41.1,3.0 Miles,10-11
+Girls Cross Country,2013,2A,Meggan Grams,Boonsboro,boonsboro,18:54.6,3.0 Miles,10-11
+Girls Cross Country,2013,1A,Katie Leisher,Manchester Valley,manchester-valley,19:30.9,3.0 Miles,10-11
+Girls Cross Country,2014,4A,Nora McUmber,Bethesda-Chevy Chase,bethesda-chevy-chase,18:39.9,3.0 Miles,10-11
+Girls Cross Country,2014,3A,Emily Mulhern,Urbana,urbana,19:02.1,3.0 Miles,10-11
+Girls Cross Country,2014,2A,Hayley Jackson,Patuxent,patuxent,18:48.5,3.0 Miles,10-11
+Girls Cross Country,2014,1A,Katie Leisher,Manchester Valley,manchester-valley,19:41.6,3.0 Miles,10-11
+Girls Cross Country,2015,4A,Maria Coffin,Annapolis,annapolis,18:25.3,3.0 Miles,10-11
+Girls Cross Country,2015,3A,Annie Imhof,Great Mills,great-mills,19:25.2,3.0 Miles,10-11
+Girls Cross Country,2015,2A,Hayley Jackson,Patuxent,patuxent,18:23.5,3.0 Miles,10-11
+Girls Cross Country,2015,1A,Haley Wright,Boonsboro,boonsboro,19:33.7,3.0 Miles,10-11
+Girls Cross Country,2016,4A,Maria Coffin,Annapolis,annapolis,17:49.4,3.0 Miles,10-11
+Girls Cross Country,2016,3A,Haley Cummins,C. Milton Wright,c-milton-wright,18:41.6,3.0 Miles,10-11
+Girls Cross Country,2016,2A,Hayley Jackson,Patuxent,patuxent,18:19.5,3.0 Miles,10-11
+Girls Cross Country,2016,1A,Ana Rhoten,Northern-G,northern-g,20:10.0,3.0 Miles,10-11
+Girls Cross Country,2017,4A,Abigail Green,Walter Johnson,walter-johnson,18:17.16,3.0 Miles,10-11
+Girls Cross Country,2017,3A,Haley Cummins,C. Milton Wright,c-milton-wright,19:00.30,3.0 Miles,10-11
+Girls Cross Country,2017,2A,Emily Konkus,Hereford,hereford,19:40.44,3.0 Miles,10-11
+Girls Cross Country,2017,1A,Ashley Betz,Patterson Mill,patterson-mill,20:18.12,3.0 Miles,10-11
+Girls Cross Country,2018,4A,Bronwyn Patterson,South River,south-river,19:06.19,3.0 Miles,10-11
+Girls Cross Country,2018,3A,Oakley Olson,Huntingtown,huntingtown,18:59.60,3.0 Miles,10-11
+Girls Cross Country,2018,2A,Emily Konkus,Hereford,hereford,19:38.03,3.0 Miles,10-11
+Girls Cross Country,2018,1A,Sarah Condon,Cambridge-South Dorchester,cambridge-south-dorchester,20:52.82,3.0 Miles,10-11
+Girls Cross Country,2019,4A,Jenna Goldberg,Walter Johnson,walter-johnson,17:50.47,3.0 Miles,10-11
+Girls Cross Country,2019,3A,Oakley Olson,Northern-Calvert,northern-calvert,18:49.23,3.0 Miles,10-11
+Girls Cross Country,2019,2A,Erin McQuitty,Middletown,middletown,19:06.75,3.0 Miles,10-11
+Girls Cross Country,2019,1A,Daylie Younker,Smithsburg,smithsburg,20:26.13,3.0 Miles,10-11
+Girls Cross Country,2021,4A,Varri Higgins,Bethesda-Chevy Chase,bethesda-chevy-chase,18:37.4,3.0 Miles,10-11
+Girls Cross Country,2021,3A,Caroline Gregory,Frederick,frederick,18:35.7,3.0 Miles,10-11
+Girls Cross Country,2021,2A,Daisy B. Dastrup,Poolesville,poolesville,19:40.1,3.0 Miles,10-11
+Girls Cross Country,2021,1A,Lydia Nelson,Northern-Garrett,northern-garrett,20:27.8,3.0 Miles,10-11
+Girls Cross Country,2022,4A,Elena Blodnikar,Leonardtown,leonardtown,18:58.8,3.0 Miles,10-11
+Girls Cross Country,2022,3A,Hannah Toth,Westminster,westminster,19:08,3.0 Miles,10-11
+Girls Cross Country,2022,2A,Estelle Snider,Hereford,hereford,19:29.8,3.0 Miles,10-11
+Girls Cross Country,2022,1A,Mary Delaney,Mountain Ridge,mountain-ridge,19:57.9,3.0 Miles,10-11
+Girls Cross Country,2023,4A,Caroline Gregory,Frederick,frederick,18:30.71,3.0 Miles,10-11
+Girls Cross Country,2023,3A,Carter Brotherton,Great Mills,great-mills,18:33.65,3.0 Miles,10-11
+Girls Cross Country,2023,2A,Taylor Colson,Century,century,18:51.54,3.0 Miles,10-11
+Girls Cross Country,2023,1A,Cora Gentzel,Smithsburg,smithsburg,19:43.05,3.0 Miles,10-11
+Girls Cross Country,2024,4A,Emma Colavito,Richard Montgomery,richard-montgomery,18:53.80,3.0 Miles,10-11
+Girls Cross Country,2024,3A,Lauren Stine,North Hagerstown,north-hagerstown,18:23.46,3.0 Miles,10-11
+Girls Cross Country,2024,2A,Riley Herdson,Centennial,centennial,19:12.54,3.0 Miles,10-11
+Girls Cross Country,2024,1A,Isabel Devos,Harford Technical,harford-technical,19:32.29,3.0 Miles,10-11
+Boys Cross Country,1946,A,Gunther Schmidt,Catonsville,catonsville,7:20.0,1.5 Miles,22-23
+Boys Cross Country,1946,B,Johnny Meredith,Dundalk,dundalk,7:27.0,1.5 Miles,22-23
+Boys Cross Country,1946,C,Herman Deener,Brunswick,brunswick,7:41.0,1.5 Miles,22-23
+Boys Cross Country,1946,D,James Haltman,Pittsville,pittsville,7:55.0,1.5 Miles,22-23
+Boys Cross Country,1947,A,Al Buehler,Hagerstown,hagerstown,8:07.5,1.5 Miles,22-23
+Boys Cross Country,1947,B,Charles Riley,Bel Air,bel-air,8:16.8,1.5 Miles,22-23
+Boys Cross Country,1947,C,Herman Deener,Brunswick,brunswick,9:04.0,1.5 Miles,22-23
+Boys Cross Country,1948,A,Frank Kane,Dundalk,dundalk,8:15.1,1.5 Miles,22-23
+Boys Cross Country,1948,B,Robert Green,Bel Air,bel-air,8:22.0,1.5 Miles,22-23
+Boys Cross Country,1948,C,Herman Deener,Brunswick,brunswick,9:33.4,1.5 Miles,22-23
+Boys Cross Country,1948,D,Albert Adkins,Pittsville,pittsville,8:44.0,1.5 Miles,22-23
+Boys Cross Country,1949,A,Frank Kane,Dundalk,dundalk,7:58.9,1.5 Miles,22-23
+Boys Cross Country,1949,B,Eldon Husband,Elkridge,elkridge,8:36.2,1.5 Miles,22-23
+Boys Cross Country,1949,C,Alvin Cordrey,Pittsville,pittsville,9:04.0,1.5 Miles,22-23
+Boys Cross Country,1950,A,Hollis Almony,Towson,towson,7:51.0,1.5 Miles,22-23
+Boys Cross Country,1952,A,Dick Lindeman,Catonsville,catonsville,11:02.0,2.0 Miles,22-23
+Boys Cross Country,1952,B,Gerald McGuire,Sollers Point,sollers-point,10:33.5,2.0 Miles,22-23
+Boys Cross Country,1953,A,Dick Lindeman,Catonsville,catonsville,10:47.6,2.0 Miles,22-23
+Boys Cross Country,1954,A,Ed Vachino,Kenwood,kenwood,10:43.6,2.0 Miles,22-23
+Boys Cross Country,1955,A,Ed Vachino,Kenwood,kenwood,10:41.5,2.0 Miles,22-23
+Boys Cross Country,1956,A,Sal Ranieri,Kenwood,kenwood,11:04.9,2.0 Miles,22-23
+Boys Cross Country,1957,A,Dave Witten,Blair,blair,11:06.2,2.0 Miles,22-23
+Boys Cross Country,1957,B,Jerry Martin,Hereford,hereford,11:40.3,2.0 Miles,22-23
+Boys Cross Country,1958,A,Sal Ranieri,Kenwood,kenwood,10:51.1,2.0 Miles,22-23
+Boys Cross Country,1958,B,Glen Thompson,Hereford,hereford,11:05.1,2.0 Miles,22-23
+Boys Cross Country,1959,A,Ramsey Thomas,Catonsville,catonsville,11:00.3,2.0 Miles,22-23
+Boys Cross Country,1959,B,Johnson,Damascus,damascus,11:35.5,2.0 Miles,22-23
+Boys Cross Country,1960,AA,Irvin Hock,Dundalk,dundalk,10:45.3,2.0 Miles,22-23
+Boys Cross Country,1960,B,Gene Garrett,Hereford,hereford,11:19.8,2.0 Miles,22-23
+Boys Cross Country,1961,AA,Charlie Harris,Dundalk,dundalk,10:41.0,2.0 Miles,22-23
+Boys Cross Country,1961,B,J. Glover,Edgewood,edgewood,10:53.0,2.0 Miles,22-23
+Boys Cross Country,1962,AA,John Lawlor,Northwood,northwood,10:12.8,2.0 Miles,22-23
+Boys Cross Country,1962,A,K. Dahms,Springbrook,springbrook,10:42.8,2.0 Miles,22-23
+Boys Cross Country,1962,B,Jeff Rowland,Hereford,hereford,12:42.6,2.0 Miles,22-23
+Boys Cross Country,1963,AA,Dave Patrick,Kenwood,kenwood,10:40.0,2.0 Miles,22-23
+Boys Cross Country,1963,A,J. Amoss,Bel Air,bel-air,10:42.8,2.0 Miles,22-23
+Boys Cross Country,1963,B,L. Gardner,Sykesville,sykesville,11:15.0,2.0 Miles,22-23
+Boys Cross Country,1964,AA,Wayne Vaughn,S. Hagerstown,s-hagerstown,13:01.0,2.5 Miles,22-23
+Boys Cross Country,1964,A,George Minarak,Perry Hall,perry-hall,13:29.2,2.5 Miles,22-23
+Boys Cross Country,1964,B,L. Gardner,Sykesville,sykesville,,2.5 Miles,22-23
+Boys Cross Country,1965,AA,Byron Beam,Kenwood,kenwood,13:12.8,2.5 Miles,22-23
+Boys Cross Country,1965,A,Bruce Chilcote,Brooklyn Park,brooklyn-park,13:47.0,2.5 Miles,22-23
+Boys Cross Country,1965,B,Donald Draper,Middletown,middletown,13:55.0,2.5 Miles,22-23
+Boys Cross Country,1965,C,Oliver Lane,Somerset,somerset,14:10.0,2.5 Miles,22-23
+Boys Cross Country,1966,AA,Bob Gray,Crossland,crossland,13:17.0,2.5 Miles,22-23
+Boys Cross Country,1966,A,Bruce Chilcote,Brooklyn Park,brooklyn-park,14:08.0,2.5 Miles,22-23
+Boys Cross Country,1966,B,Bobby Brooks,Brunswick,brunswick,14:33.0,2.5 Miles,22-23
+Boys Cross Country,1967,AA,Byron Beam,Kenwood,kenwood,13:36.1,2.5 Miles,22-23
+Boys Cross Country,1967,A,Joe Lucas,Churchill,churchill,13:36.0,2.5 Miles,22-23
+Boys Cross Country,1967,B,Bobby Brooks,Brunswick,brunswick,14:23.5,2.5 Miles,22-23
+Boys Cross Country,1968,AA,James Ruckert,High Point,high-point,13:46.0,2.5 Miles,22-23
+Boys Cross Country,1968,A,Kenneth Sunday,Thomas Johnson,thomas-johnson,14:20.0,2.5 Miles,22-23
+Boys Cross Country,1968,B,Ed Snodgrass,North Harford,north-harford,14:35.0,2.5 Miles,22-23
+Boys Cross Country,1968,C,Andre Hager,Poolesville,poolesville,14:47.0,2.5 Miles,22-23
+Boys Cross Country,1969,AA,Mike Fertig,Whitman,whitman,12:41.2,2.5 Miles,22-23
+Boys Cross Country,1969,A,Steve Kirk,Allegany,allegany,13:15.7,2.5 Miles,22-23
+Boys Cross Country,1969,B,Ed Snodgrass,North Harford,north-harford,13:49.0,2.5 Miles,22-23
+Boys Cross Country,1969,C,Jesse Hinton,Mount Hebron,mount-hebron,14:13.0,2.5 Miles,22-23
+Boys Cross Country,1970,AA,Marvin Nestor,Overlea,overlea,12:58.0,2.5 Miles,22-23
+Boys Cross Country,1970,A,Dale Bateman,Laurel,laurel,12:46.0,2.5 Miles,22-23
+Boys Cross Country,1970,B,Scott Cornwell,Hereford,hereford,13:12.0,2.5 Miles,22-23
+Boys Cross Country,1970,C,Jim Draper,Smithsburg,smithsburg,13:44.0,2.5 Miles,22-23
+Boys Cross Country,1971,AA,Gordon Oliver,Bethesda-Chevy Chase,bethesda-chevy-chase,12:21.5,2.5 Miles,22-23
+Boys Cross Country,1971,A,Steve Smith,Einstein,einstein,12:57.0,2.5 Miles,22-23
+Boys Cross Country,1971,B,Greg Cornwell,Hereford,hereford,12:59.0,2.5 Miles,22-23
+Boys Cross Country,1971,C,Kirk Davis,Wilde Lake,wilde-lake,13:28.0,2.5 Miles,22-23
+Boys Cross Country,1972,AA,Jeff Smith,Towson,towson,12:47.0,2.5 Miles,22-23
+Boys Cross Country,1972,A,John Lott,Milford Mill,milford-mill,13:08.0,2.5 Miles,22-23
+Boys Cross Country,1972,B,Dave Cornwell,Hereford,hereford,13:17.0,2.5 Miles,22-23
+Boys Cross Country,1972,C,David Shaffer,Middletown,middletown,14:01.0,2.5 Miles,22-23
+Boys Cross Country,1973,AA,Jim Peterson,Wheaton,wheaton,14:56.0,3.0 Miles,22-23
+Boys Cross Country,1973,A,Ed Boggess,Kennedy,kennedy,15:17.0,3.0 Miles,22-23
+Boys Cross Country,1973,B,Dave Cornwell,Hereford,hereford,15:29.0,3.0 Miles,22-23
+Boys Cross Country,1973,C,David Shaffer,Middletown,middletown,16:12.0,3.0 Miles,22-23
+Boys Cross Country,1974,AA,Jack Magee,Towson,towson,15:03.0,3.0 Miles,22-23
+Boys Cross Country,1974,A,Ed Boggess,Kennedy,kennedy,15:01.0,3.0 Miles,22-23
+Boys Cross Country,1974,B,Dave Cornwell,Hereford,hereford,15:06.0,3.0 Miles,22-23
+Boys Cross Country,1974,C,Dennis Albright,Beall,beall,16:20.0,3.0 Miles,22-23
+Boys Cross Country,1975,AA,Richard Brady,Whitman,whitman,15:30.0,3.0 Miles,22-23
+Boys Cross Country,1975,A,John Holcomb,Kennedy,kennedy,15:53.0,3.0 Miles,22-23
+Boys Cross Country,1975,B,Randy Mitchell,Kent County,kent-county,15:20.0,3.0 Miles,22-23
+Boys Cross Country,1975,C,Dave Adams,Beall,beall,16:13.0,3.0 Miles,22-23
+Boys Cross Country,1976,AA,Mike Sheely,Kenwood,kenwood,15:34.5,3.0 Miles,22-23
+Boys Cross Country,1976,A,Mike Porter,Franklin,franklin,15:40.0,3.0 Miles,22-23
+Boys Cross Country,1976,B,Randy Mitchell,Kent County,kent-county,16:14.0,3.0 Miles,22-23
+Boys Cross Country,1976,C,John Blankenfield,Beall,beall,,3.0 Miles,22-23
+Boys Cross Country,1977,AA,Karsten Schultz,Westminster,westminster,14:59.0,3.0 Miles,22-23
+Boys Cross Country,1977,A,Gary Hopkins,Einstein,einstein,15:10.0,3.0 Miles,22-23
+Boys Cross Country,1977,B,John Cornwell,Hereford,hereford,15:22.0,3.0 Miles,22-23
+Boys Cross Country,1977,C,Derick Winfield,Beall,beall,16:00.0,3.0 Miles,22-23
+Boys Cross Country,1978,AA,Kelly Long,Westminster,westminster,15:27.9,3.0 Miles,22-23
+Boys Cross Country,1978,A,Tom Cuff,Seneca Valley,seneca-valley,15:24.7,3.0 Miles,22-23
+Boys Cross Country,1978,B,Barry Holden,Williamsport,williamsport,15:46.1,3.0 Miles,22-23
+Boys Cross Country,1978,C,Mike Sterling,Crisfield,crisfield,16:12.5,3.0 Miles,22-23
+Boys Cross Country,1979,AA,Mike Burney,High Point,high-point,16:14.5,3.0 Miles,22-23
+Boys Cross Country,1979,A,Doug Rohrer,Seneca Valley,seneca-valley,16:12.3,3.0 Miles,22-23
+Boys Cross Country,1979,B,John Wheeler,Cambridge-South Dorchester,cambridge-south-dorchester,16:39.4,3.0 Miles,22-23
+Boys Cross Country,1979,C,Mike Sterling,Crisfield,crisfield,16:41.4,3.0 Miles,22-23
+Boys Cross Country,1980,AA,Robby Raisbeck,High Point,high-point,15:14.0,3.0 Miles,22-23
+Boys Cross Country,1980,A,Paul Kolb,Walter Johnson,walter-johnson,15:47.0,3.0 Miles,22-23
+Boys Cross Country,1980,B,Scott Sheppard,North Harford,north-harford,15:52.5,3.0 Miles,22-23
+Boys Cross Country,1980,C,Brian Shell,Harford Vo-Tech,harford-vo-tech,15:52.3,3.0 Miles,22-23
+Boys Cross Country,1981,AA,Steve Kartalia,Westminster,westminster,15:30.2,3.0 Miles,22-23
+Boys Cross Country,1981,A,Rob Hovermale,N. Hagerstown,n-hagerstown,15:27.2,3.0 Miles,22-23
+Boys Cross Country,1981,B,Mike Clearly,Frederick,frederick,15:21.3,3.0 Miles,22-23
+Boys Cross Country,1981,C,Brian Shell,Harford Vo-Tech,harford-vo-tech,15:33.0,3.0 Miles,22-23
+Boys Cross Country,1982,AA,Steve Kartalia,Westminster,westminster,15:30.4,3.0 Miles,22-23
+Boys Cross Country,1982,A,Willie McBeath,Rockville,rockville,15:38.0,3.0 Miles,22-23
+Boys Cross Country,1982,B,Ken Fowler,Centennial,centennial,15:55.0,3.0 Miles,22-23
+Boys Cross Country,1982,C,Rod Young,Hammond,hammond,16:08.0,3.0 Miles,22-23
+Boys Cross Country,1983,AA,Kris Herdt,Whitman,whitman,15:26.0,3.0 Miles,22-23
+Boys Cross Country,1983,A,Scott Mace,N. Hagerstown,n-hagerstown,15:26.0,3.0 Miles,22-23
+Boys Cross Country,1983,B,John Scherer,Glenelg,glenelg,15:01.0,3.0 Miles,22-23
+Boys Cross Country,1983,C,Tom Dudley,Beall,beall,16:26.0,3.0 Miles,22-23
+Boys Cross Country,1984,AA,Eric Meleney,Whitman,whitman,15:57.0,3.0 Miles,22-23
+Boys Cross Country,1984,A,Kirk Young,Central-PG,central-pg,15:40.0,3.0 Miles,22-23
+Boys Cross Country,1984,B,Richard Kestner,North Harford,north-harford,15:50.0,3.0 Miles,22-23
+Boys Cross Country,1984,C,Tom Nave,Middletown,middletown,16:32.0,3.0 Miles,22-23
+Boys Cross Country,1985,AA,Duncan Manville,Bethesda-Chevy Chase,bethesda-chevy-chase,15:26.0,3.0 Miles,22-23
+Boys Cross Country,1985,A,Lindsay Duvall,Towson,towson,16:00.0,3.0 Miles,22-23
+Boys Cross Country,1985,B,Richard Williams,Wicomico,wicomico,16:06.0,3.0 Miles,22-23
+Boys Cross Country,1985,C,Chris Stone,Sparrows Point,sparrows-point,16:33.0,3.0 Miles,22-23
+Boys Cross Country,1986,AA,Jeff Campbell,Randallstown,randallstown,15:40.0,3.0 Miles,22-23
+Boys Cross Country,1986,A,Tim Sonner,R. Montgomery,r-montgomery,16:19.0,3.0 Miles,22-23
+Boys Cross Country,1986,B-C,Kevin Farrell,Middletown,middletown,16:15.0,3.0 Miles,22-23
+Boys Cross Country,1987,AA,Jeff Campbell,Randallstown,randallstown,15:35.0,3.0 Miles,22-23
+Boys Cross Country,1987,A,Chris Neglia,Thomas Johnson,thomas-johnson,16:07.0,3.0 Miles,22-23
+Boys Cross Country,1987,B-C,Patrick Hayden,Oakland Mills,oakland-mills,16:14.0,3.0 Miles,22-23
+Boys Cross Country,1988,4A,Jeff Campbell,Randallstown,randallstown,15:17.0,3.0 Miles,22-23
+Boys Cross Country,1988,3A,Brian Horn,Loch Raven,loch-raven,16:15.0,3.0 Miles,22-23
+Boys Cross Country,1988,2A-1A,Pat Rodrigues,Centennial,centennial,15:53.0,3.0 Miles,22-23
+Boys Cross Country,1989,4A,Thomas Ross,La Plata,la-plata,16:30.0,3.0 Miles,22-23
+Boys Cross Country,1989,3A,Pat Rodrigues,Centennial,centennial,16:18.0,3.0 Miles,22-23
+Boys Cross Country,1989,2A,Matt Holthaus,Wilde Lake,wilde-lake,16:09.0,3.0 Miles,22-23
+Boys Cross Country,1989,1A,Russ Adams,Brunswick,brunswick,16:27.0,3.0 Miles,22-23
+Boys Cross Country,1990,4A,Pascal Dobert,Whitman,whitman,17:30.0,3.0 Miles,22-23
+Boys Cross Country,1990,3A,Pat Rodrigues,Centennial,centennial,16:53.0,3.0 Miles,22-23
+Boys Cross Country,1990,2A,Brian Horn,Loch Raven,loch-raven,17:11.0,3.0 Miles,22-23
+Boys Cross Country,1990,1A,MIke Mamo,Milford Mill,milford-mill,17:17.0,3.0 Miles,22-23
+Boys Cross Country,1991,4A,Troy Harry,Quince Orchard,quince-orchard,16:02.8,3.0 Miles,22-23
+Boys Cross Country,1991,3A,Pascal Dobert,Whitman,whitman,15:22.3,3.0 Miles,22-23
+Boys Cross Country,1991,2A,Gerard Hogan,Glenelg,glenelg,15:53.5,3.0 Miles,22-23
+Boys Cross Country,1991,1A,Jim Clarius,Francis Scott Key,francis-scott-key,16:30.8,3.0 Miles,22-23
+Boys Cross Country,1992,4A,Troy Harry,Quince Orchard,quince-orchard,16:03.4,3.0 Miles,22-23
+Boys Cross Country,1992,3A,Bryan Townsend,Atholton,atholton,16:07.5,3.0 Miles,22-23
+Boys Cross Country,1992,2A,Edward Hogan,Glenelg,glenelg,16:01.3,3.0 Miles,22-23
+Boys Cross Country,1992,1A,Bobby Simmons,Joppatowne,joppatowne,16:28.7,3.0 Miles,22-23
+Boys Cross Country,1993,4A,Jason Reckner,Old Mill,old-mill,16:07.8,3.0 Miles,22-23
+Boys Cross Country,1993,3A,Josh Orenstein,Walter Johnson,walter-johnson,16:00.5,3.0 Miles,22-23
+Boys Cross Country,1993,2A,Jamie Davies,Catonsville,catonsville,15:52.4,3.0 Miles,22-23
+Boys Cross Country,1993,1A,Bobby Simmons,Joppatowne,joppatowne,16:23.3,3.0 Miles,22-23
+Boys Cross Country,1994,4A,Mike Recek,Westminster,westminster,18:16,3.1 Miles,22-23
+Boys Cross Country,1994,3A,Jonathan Hayes,Linganore,linganore,18:05,3.1 Miles,22-23
+Boys Cross Country,1994,2A,Gregory Curtis,Oakland Mills,oakland-mills,17:41,3.1 Miles,22-23
+Boys Cross Country,1994,1A,Brian Schnebly,Clear Spring,clear-spring,17:44,3.1 Miles,22-23
+Boys Cross Country,1995,4A,Nick Gramsky,Northern—C,northern-c,17:00,3.0 Miles,22-23
+Boys Cross Country,1995,3A,Joe Smith,Parkville,parkville,16:49,3.0 Miles,22-23
+Boys Cross Country,1995,2A,Justin Taylor,Allegany,allegany,17:01,3.0 Miles,22-23
+Boys Cross Country,1995,1A,Mark Schnebly,Clear Spring,clear-spring,17:05,3.0 Miles,22-23
+Boys Cross Country,1996,4A,Ed Tufaro,Whitman,whitman,16:45,3.0 Miles,22-23
+Boys Cross Country,1996,3A,Jeff Olenick,Centennial,centennial,16:52,3.0 Miles,22-23
+Boys Cross Country,1996,2A,Justin Taylor,Allegany,allegany,16:48,3.0 Miles,22-23
+Boys Cross Country,1996,1A,Tim Mason,Clear Spring,clear-spring,17:05,3.0 Miles,22-23
+Boys Cross Country,1997,4A,Jason Santucci,Westminster,westminster,16:46,3.0 Miles,22-23
+Boys Cross Country,1997,3A,David Glynn,Walter Johnson,walter-johnson,17:07,3.0 Miles,22-23
+Boys Cross Country,1997,2A,Jarrett Van Tine,Bethesda-Chevy Chase,bethesda-chevy-chase,16:58,3.0 Miles,22-23
+Boys Cross Country,1997,1A,Tim Mason,Clear Spring,clear-spring,17:50,3.0 Miles,22-23
+Boys Cross Country,1998,4A,Jason Santucci,Westminster,westminster,16:39,3.0 Miles,22-23
+Boys Cross Country,1998,3A,David Glynn,Walter Johnson,walter-johnson,16:36,3.0 Miles,22-23
+Boys Cross Country,1998,2A,Jarrett Van Tine,Bethesda-Chevy Chase,bethesda-chevy-chase,16:27,3.0 Miles,22-23
+Boys Cross Country,1998,1A,Zach Bittinger,Westmar,westmar,16:58,3.0 Miles,22-23
+Boys Cross Country,1999,4A,Marcus Hershberger,Gaithersburg,gaithersburg,16:29,3.0 Miles,22-23
+Boys Cross Country,1999,3A,Michael Styczynski,River Hill,river-hill,16:22,3.0 Miles,22-23
+Boys Cross Country,1999,2A,Scott Herrick,Linganore,linganore,16:41,3.0 Miles,22-23
+Boys Cross Country,1999,1A,Ryan Foster,Beall,beall,16:35,3.0 Miles,22-23
+Boys Cross Country,2000,4A,Marcus Hershberger,Gaithersburg,gaithersburg,16:27,3.0 Miles,22-23
+Boys Cross Country,2000,3A,William Christian,Great Mills,great-mills,16:10,3.0 Miles,22-23
+Boys Cross Country,2000,2A,Brian Murphy,Urbana,urbana,16:24,3.0 Miles,22-23
+Boys Cross Country,2000,1A,Izudin Mehmedovic,Oakland Mills,oakland-mills,16:25,3.0 Miles,22-23
+Boys Cross Country,2001,4A,Pat Bailey,C. Milton Wright,c-milton-wright,16:39,3.0 Miles,22-23
+Boys Cross Country,2001,3A,Shane Stroup,River Hill,river-hill,16:03,3.0 Miles,22-23
+Boys Cross Country,2001,2A,Justin Faith,Fort Hill,fort-hill,17:01,3.0 Miles,22-23
+Boys Cross Country,2001,1A,Izudin Mehmedovic,Oakland Mills,oakland-mills,16:34,3.0 Miles,22-23
+Boys Cross Country,2002,4A,Pat Bailey,C. Milton Wright,c-milton-wright,16:12,3.0 Miles,22-23
+Boys Cross Country,2002,3A,Kurt Kuehne,Urbana,urbana,16:34,3.0 Miles,22-23
+Boys Cross Country,2002,2A,Zach Vasow,Bethesda-Chevy Chase,bethesda-chevy-chase,16:59,3.0 Miles,22-23
+Boys Cross Country,2002,1A,Jordan Davis,Allegany,allegany,17:07,3.0 Miles,22-23
+Boys Cross Country,2003,4A,Ricky Flynn,Damascus,damascus,16:35,3.0 Miles,22-23
+Boys Cross Country,2003,3A,Kurt Kuehne,Urbana,urbana,16:47,3.0 Miles,22-23
+Boys Cross Country,2003,2A,Phil Diven,South Carroll,south-carroll,17:22,3.0 Miles,22-23
+Boys Cross Country,2003,1A,Dan Dewitt,Beall,beall,17:24,3.0 Miles,22-23
+Boys Cross Country,2004,4A,Matt Centrowitz,Broadneck,broadneck,16:38,3.0 Miles,22-23
+Boys Cross Country,2004,3A,William Eden,Annapolis,annapolis,16:41,3.0 Miles,22-23
+Boys Cross Country,2004,2A,Andrew Revelle,Atholton,atholton,17:26,3.0 Miles,22-23
+Boys Cross Country,2004,1A,Dan DeWitt,Beall,beall,17:16,3.0 Miles,22-23
+Boys Cross Country,2005,4A,Matt Centrowitz,Broadneck,broadneck,16:01,3.0 Miles,22-23
+Boys Cross Country,2005,3A,Kyle Ryan,Linganore,linganore,16:36,3.0 Miles,22-23
+Boys Cross Country,2005,2A,Andrew Revelle,Atholton,atholton,16:45,3.0 Miles,22-23
+Boys Cross Country,2005,1A,Mohamed Khelalfa,Fort Hill,fort-hill,17:23,3.0 Miles,22-23
+Boys Cross Country,2006,4A,Matt Centrowitz,Broadneck,broadneck,16:03,3.0 Miles,22-23
+Boys Cross Country,2006,3A,Christopher Bowie,Bcc,bcc,16:47,3.0 Miles,22-23
+Boys Cross Country,2006,2A,Andre Revelle,Atholton,atholton,16:17,3.0 Miles,22-23
+Boys Cross Country,2006,1A,Ryan Bowser,Northern-G,northern-g,16:55,3.0 Miles,22-23
+Boys Cross Country,2007,4A,Andrew Palmer,Whitman,whitman,16:36,3.0 Miles,22-23
+Boys Cross Country,2007,3A,Joey Thompson,Howard,howard,16:16,3.0 Miles,22-23
+Boys Cross Country,2007,2A,Kyle Andrews,Oakland Mills,oakland-mills,16:33,3.0 Miles,22-23
+Boys Cross Country,2007,1A,Ryan Bowser,Northern-G,northern-g,16:39,3.0 Miles,22-23
+Boys Cross Country,2008,4A,Solomon Haile,Sherwood,sherwood,15:43,3.0 Miles,22-23
+Boys Cross Country,2008,3A,Graham Bazell,Atholton,atholton,16:29,3.0 Miles,22-23
+Boys Cross Country,2008,2A,Craig Morgan,River Hill,river-hill,16:46,3.0 Miles,22-23
+Boys Cross Country,2008,1A,Jake Zamostny,South Carroll,south-carroll,16:58,3.0 Miles,22-23
+Boys Cross Country,2009,4A,Andrew Palmer,Whitman,whitman,16:48,3.0 Miles,22-23
+Boys Cross Country,2009,3A,Tyler Ostrowski,Chopticon,chopticon,17:12,3.0 Miles,22-23
+Boys Cross Country,2009,2A,Robby Creese,Glenelg,glenelg,17:30,3.0 Miles,22-23
+Boys Cross Country,2009,1A,David Wilson,Smithsburg,smithsburg,16:38,3.0 Miles,22-23
+Boys Cross Country,2010,4A,Chris Miller,Northwest,northwest,16:09,3.0 Miles,22-23
+Boys Cross Country,2010,3A,Mason Rivera,Hereford,hereford,16:27,3.0 Miles,22-23
+Boys Cross Country,2010,2A,Robby Creese,Glenelg,glenelg,16:46,3.0 Miles,22-23
+Boys Cross Country,2010,1A,Ian MacFawn,Allegany,allegany,16:47,3.0 Miles,22-23
+Boys Cross Country,2011,4A,Scott Sheehan,Walter Johnson,walter-johnson,16:29,3.0 Miles,22-23
+Boys Cross Country,2011,3A,Braden Bruning,Linganore,linganore,16:21,3.0 Miles,22-23
+Boys Cross Country,2011,2A,Austin McGinley,Rising Sun,rising-sun,16:21,3.0 Miles,22-23
+Boys Cross Country,2011,1A,Ryan Pfarr,Bohemia Manor,bohemia-manor,17:15,3.0 Miles,22-23
+Boys Cross Country,2012,4A,Will Bertrand,Clarksburg,clarksburg,16:02.7,3.0 Miles,22-23
+Boys Cross Country,2012,3A,Harry Bullen,Annapolis,annapolis,16:19.5,3.0 Miles,22-23
+Boys Cross Country,2012,2A,David Dorsey,Catoctin,catoctin,16:25.2,3.0 Miles,22-23
+Boys Cross Country,2012,1A,Ty Franks,Bohemia Manor,bohemia-manor,16:58.8,3.0 Miles,22-23
+Boys Cross Country,2013,4A,Ryan Forsyth,Severna Park,severna-park,15:41.3,3.0 Miles,22-23
+Boys Cross Country,2013,3A,Ben Freed,Thomas Johnson,thomas-johnson,16:06.9,3.0 Miles,22-23
+Boys Cross Country,2013,2A,Chase Weaverling,Poolesville,poolesville,15:42.8,3.0 Miles,22-23
+Boys Cross Country,2013,1A,Ty Franks,Bohemia Manor,bohemia-manor,16:20.8,3.0 Miles,22-23
+Boys Cross Country,2014,4A,Evan Woods,Walt Whitman,walt-whitman,15:49.1,3.0 Miles,23-24
+Boys Cross Country,2014,3A,Nick Fransham,North Harford,north-harford,15:41.3,3.0 Miles,23-24
+Boys Cross Country,2014,2A,Zach Gascho,Catoctin,catoctin,16:24.2,3.0 Miles,23-24
+Boys Cross Country,2014,1A,Ty Franks,Bohemia Manor,bohemia-manor,16:26.1,3.0 Miles,23-24
+Boys Cross Country,2015,4A,Eric Walz,Dulaney,dulaney,16:06.0,3.0 Miles,23-24
+Boys Cross Country,2015,3A,Matt Bennett,Northern-C,northern-c,16:14.8,3.0 Miles,23-24
+Boys Cross Country,2015,2A,Brian Cave,South Carroll,south-carroll,16:33.7,3.0 Miles,23-24
+Boys Cross Country,2015,1A,Will Merritt,Smithsburg,smithsburg,16:50.0,3.0 Miles,23-24
+Boys Cross Country,2016,4A,Rohann Asfaw,Richard Montgomery,richard-montgomery,16:04.2,3.0 Miles,23-24
+Boys Cross Country,2016,3A,Ryan Lockett,Poolesville,poolesville,16:00.7,3.0 Miles,23-24
+Boys Cross Country,2016,2A,Taylor Baranoski,Eastern Technical,eastern-technical,16:03.9,3.0 Miles,23-24
+Boys Cross Country,2016,1A,Will Merritt,Smithsburg,smithsburg,15:54.6,3.0 Miles,23-24
+Boys Cross Country,2017,4A,Adam Nakasaka,Bethesda-Chevy Chase,bethesda-chevy-chase,15:50.63,3.0 Miles,23-24
+Boys Cross Country,2017,3A,Kieran McDermott,Bel Air,bel-air,15:59.19,3.0 Miles,23-24
+Boys Cross Country,2017,2A,Ryan Lockett,Poolesville,poolesville,16:13.07,3.0 Miles,23-24
+Boys Cross Country,2017,1A,Zachary Laird,Bohemia Manor,bohemia-manor,16:09.17,3.0 Miles,23-24
+Boys Cross Country,2018,4A,Obsaa Feda,Northwood,northwood,15:44.05,3.0 Miles,23-24
+Boys Cross Country,2018,3A,Michael Belmaggio,Linganore,linganore,16:16.21,3.0 Miles,23-24
+Boys Cross Country,2018,2A,Anish Nanjappa,River Hill,river-hill,15:58.08,3.0 Miles,23-24
+Boys Cross Country,2018,1A,Zachary Laird,Bohemia Manor,bohemia-manor,16:36.36,3.0 Miles,23-24
+Boys Cross Country,2019,4A,Sam Keeny,South River,south-river,15:34.98,3.0 Miles,23-24
+Boys Cross Country,2019,3A,Anish Nanjappa,River Hill,river-hill,15:45.64,3.0 Miles,23-24
+Boys Cross Country,2019,2A,Kyle Lund,Oakdale,oakdale,15:47.76,3.0 Miles,23-24
+Boys Cross Country,2019,1A,Zane Chalker,Williamsport,williamsport,16:00.47,3.0 Miles,23-24
+Boys Cross Country,2021,4A,Luke Coffin,Annapolis,annapolis,16:14.4,3.0 Miles,23-24
+Boys Cross Country,2021,3A,Antonio Camacho-Bucks,Centennial,centennial,15:51.4,3.0 Miles,23-24
+Boys Cross Country,2021,2A,Ethan Aidam,Oakland Mills,oakland-mills,16:43.6,3.0 Miles,23-24
+Boys Cross Country,2021,1A,John Condon,Cambridge-SD,cambridge-sd,16:55.2,3.0 Miles,23-24
+Boys Cross Country,2022,4A,Tyler Dailey,Dulaney,dulaney,16:25.2,3.0 Miles,23-24
+Boys Cross Country,2022,3A,Henry Hopper,Wilde Lake,wilde-lake,16:11.7,3.0 Miles,23-24
+Boys Cross Country,2022,2A,Ethan Aidam,Oakland Mills,oakland-mills,16:45.7,3.0 Miles,23-24
+Boys Cross Country,2022,1A,Alexander Contreras,Catoctin,catoctin,17:07.6,3.0 Miles,23-24
+Boys Cross Country,2023,4A,James Partlow,Governor Thomas Johnson,governor-thomas-johnson,15:39.28,3.0 Miles,23-24
+Boys Cross Country,2023,3A,Kieran Mischke,Towson,towson,15:50.1,3.0 Miles,23-24
+Boys Cross Country,2023,2A,Eric Penkala,Southern-AA,southern-aa,15:47.8,3.0 Miles,23-24
+Boys Cross Country,2023,1A,Gregory Schellberg,Liberty,liberty,16:35.0,3.0 Miles,23-24
+Boys Cross Country,2024,4A,Mateo Gros-Slovinsky,Walt Whitman,walt-whitman,15:44.74,3.0 Miles,23-24
+Boys Cross Country,2024,3A,Tsedeke Jacovics,Old Mill,old-mill,15:52.04,3.0 Miles,23-24
+Boys Cross Country,2024,2A,Eric Penkala,Southern-AA,southern-aa,15:37.37,3.0 Miles,23-24
+Boys Cross Country,2024,1A,Gregory Schellberg,Liberty,liberty,16:19.22,3.0 Miles,23-24

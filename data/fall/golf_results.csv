@@ -1,40 +1,172 @@
-year,classification,team_champion_school,team_score,individual_winner_name,individual_winner_school,individual_score,individual_gender
-1971,Combined,Magruder,610,Frank Reese,Parkdale,146,
-1972,Combined,Frederick,627,Paul Rapley,Churchill,148,
-1973,Combined,Magruder,677,Al Roberts,Sherwood,153,
-1974,Combined,Gaithersburg,632,Matt Sughrue,Churchill,147,
-1975,Combined,Walt Whitman,646,David Hughes,Whitman,153,
-1976,Combined,Winston Churchill,630,Regan O'Rourke,Churchill,150,
-1977,Combined,Walt Whitman,307,Webb Heintzelman,Whitman,69,
-1978,Combined,Robert E. Peary,657,Pete Hiskey,Northwestern,143,
-1979,Combined,Walt Whitman,635,Webb Heintzelman,Whitman,144,
-1980,Combined,Sherwood,641,Joe Venari,Atholton,147,
-1981,Combined,Bowie,658,Doug Monroe,Whitman,145,
-1982,Combined,Seneca Valley,699,Don Slebodnick,High Point,147,male
-1982,Combined,Seneca Valley,699,Sandy Persinger,Dundalk,164,female
-1983,Combined,Thomas S.Wootton,649,Mike Watson,Wootton,147,male
-1983,Combined,Thomas S.Wootton,649,Clare Dolan,Seneca Valley,156,female
-1984,Combined,Seneca Valley,627,Doug Ridgeway,Magruder,149,male
-1984,Combined,Seneca Valley,627,Clare Dolan,Seneca Valley,149,female
-1985,Combined,Gaithersburg,657,Dave Patterson,Dulaney,154,male
-1985,Combined,Gaithersburg,657,Tara Hipp,Gaithersburg,168,female
-1986,Combined,Bowie,668,Dave Patterson,Dulaney,149,male
-1986,Combined,Bowie,668,Kim Cayce,Churchill,164,female
-1987,Combined,Churchill,665,Scooter Clark,Paint Branch,157,male
-1987,Combined,Churchill,665,Kim Cayce,Churchill,161,female
-1988,Combined,Winston Churchill,632,Clint Buytenhuys,Churchill,149,male
-1988,Combined,Winston Churchill,632,Kim Cayce,Churchill,161,female
-1989,Combined,Quince Orchard,657,Mike Rymer,Eleanor Roosevelt,144,male
-1989,Combined,Quince Orchard,657,Alicia Denney,Wootton,197,female
-1990,Combined,Walt Whitman,649,Jim Cangiano,Poolesville,149,male
-1990,Combined,Walt Whitman,649,Angela Wacker,Smithsburg,192,female
-1991,Combined,Arundel,655,Colyn Keller,Walkersville,141,male
-1991,Combined,Arundel,655,Kristen Dollenberg,Dulaney,167,female
-1992,Combined,Arundel,629,Gary Carpenter,Arundel,141,male
-1992,Combined,Arundel,629,Kristen Dollenberg,Dulaney,164,female
-1993,1A/2A,Damascus,680,,,,
-1993,3A/4A,Quince Orchard,620,Bart Mease,Quince Orchard,143,male
-1993,3A/4A,Quince Orchard,620,Wendy Spry,Old Mill,174,female
-1994,1A/2A,Walkersville,681,,,,
-1994,3A/4A,Sherwood,626,Keith Unikel,Churchill,145,male
-1994,3A/4A,Sherwood,626,Julie Russum,Queen Anne's,171,female
+year,classification,team_champion_school,team_champion_school_slug,team_score,individual_winner_name,individual_winner_school,individual_winner_school_slug,individual_score,individual_gender,source_pages
+1971,Combined,Magruder,magruder,610,Frank Reese,Parkdale,parkdale,146,,50-51
+1972,Combined,Frederick,frederick,627,Paul Rapley,Churchill,churchill,148,,50-51
+1973,Combined,Magruder,magruder,677,Al Roberts,Sherwood,sherwood,153,,50-51
+1974,Combined,Gaithersburg,gaithersburg,632,Matt Sughrue,Churchill,churchill,147,,50-51
+1975,Combined,Walt Whitman,walt-whitman,646,David Hughes,Whitman,whitman,153,,50-51
+1976,Combined,Winston Churchill,winston-churchill,630,Regan O'Rourke,Churchill,churchill,150,,50-51
+1977,Combined,Walt Whitman,walt-whitman,307,Webb Heintzelman,Whitman,whitman,69,,50-51
+1978,Combined,Robert E. Peary,robert-e-peary,657,Pete Hiskey,Northwestern,northwestern,143,,50-51
+1979,Combined,Walt Whitman,walt-whitman,635,Webb Heintzelman,Whitman,whitman,144,,50-51
+1980,Combined,Sherwood,sherwood,641,Joe Venari,Atholton,atholton,147,,50-51
+1981,Combined,Bowie,bowie,658,Doug Monroe,Whitman,whitman,145,,50-51
+1982,Combined,Seneca Valley,seneca-valley,699,Don Slebodnick,High Point,high-point,147,male,50-51
+1982,Combined,Seneca Valley,seneca-valley,699,Sandy Persinger,Dundalk,dundalk,164,female,50-51
+1983,Combined,Thomas S.Wootton,thomas-swootton,649,Mike Watson,Wootton,wootton,147,male,50-51
+1983,Combined,Thomas S.Wootton,thomas-swootton,649,Clare Dolan,Seneca Valley,seneca-valley,156,female,50-51
+1984,Combined,Seneca Valley,seneca-valley,627,Doug Ridgeway,Magruder,magruder,149,male,50-51
+1984,Combined,Seneca Valley,seneca-valley,627,Clare Dolan,Seneca Valley,seneca-valley,149,female,50-51
+1985,Combined,Gaithersburg,gaithersburg,657,Dave Patterson,Dulaney,dulaney,154,male,50-51
+1985,Combined,Gaithersburg,gaithersburg,657,Tara Hipp,Gaithersburg,gaithersburg,168,female,50-51
+1986,Combined,Bowie,bowie,668,Dave Patterson,Dulaney,dulaney,149,male,50-51
+1986,Combined,Bowie,bowie,668,Kim Cayce,Churchill,churchill,164,female,50-51
+1987,Combined,Churchill,churchill,665,Scooter Clark,Paint Branch,paint-branch,157,male,50-51
+1987,Combined,Churchill,churchill,665,Kim Cayce,Churchill,churchill,161,female,50-51
+1988,Combined,Winston Churchill,winston-churchill,632,Clint Buytenhuys,Churchill,churchill,149,male,50-51
+1988,Combined,Winston Churchill,winston-churchill,632,Kim Cayce,Churchill,churchill,161,female,50-51
+1989,Combined,Quince Orchard,quince-orchard,657,Mike Rymer,Eleanor Roosevelt,eleanor-roosevelt,144,male,50-51
+1989,Combined,Quince Orchard,quince-orchard,657,Alicia Denney,Wootton,wootton,197,female,50-51
+1990,Combined,Walt Whitman,walt-whitman,649,Jim Cangiano,Poolesville,poolesville,149,male,50-51
+1990,Combined,Walt Whitman,walt-whitman,649,Angela Wacker,Smithsburg,smithsburg,192,female,50-51
+1991,Combined,Arundel,arundel,655,Colyn Keller,Walkersville,walkersville,141,male,50-51
+1991,Combined,Arundel,arundel,655,Kristen Dollenberg,Dulaney,dulaney,167,female,50-51
+1992,Combined,Arundel,arundel,629,Gary Carpenter,Arundel,arundel,141,male,50-51
+1992,Combined,Arundel,arundel,629,Kristen Dollenberg,Dulaney,dulaney,164,female,50-51
+1993,1A/2A,Damascus,damascus,680,,,,,,50-51
+1993,3A/4A,Quince Orchard,quince-orchard,620,Bart Mease,Quince Orchard,quince-orchard,143,male,50-51
+1993,3A/4A,Quince Orchard,quince-orchard,620,Wendy Spry,Old Mill,old-mill,174,female,50-51
+1994,1A/2A,Walkersville,walkersville,681,,,,,,50-51
+1994,3A/4A,Sherwood,sherwood,626,Keith Unikel,Churchill,churchill,145,male,50-51
+1994,3A/4A,Sherwood,sherwood,626,Julie Russum,Queen Anne's,queen-annes,171,female,50-51
+1995,1A/2A,Cambridge-South Dorchester,cambridge-south-dorchester,695,,,,,,50-51
+1995,3A/4A,Winston Churchill,winston-churchill,637,Keith Unikel,Churchill,churchill,150,male,50-51
+1995,3A/4A,Winston Churchill,winston-churchill,637,Jessica Fernandez,Patapsco,patapsco,173,female,50-51
+1996,1A/2A,Middletown,middletown,676,,,,,,50-51
+1996,3A/4A,Thomas S. Wootton,thomas-s-wootton,638,Charles Hong,Whitman,whitman,141,male,50-51
+1996,3A/4A,Thomas S. Wootton,thomas-s-wootton,638,Jenelle D'Alessandro,LaPlata,laplata,162,female,50-51
+1997,1A/2A,North Caroline,north-caroline,674,,,,,,50-51
+1997,3A/4A,Thomas S. Wootton,thomas-s-wootton,629,Brit Musser,Wootton,wootton,139,male,50-51
+1997,3A/4A,Thomas S. Wootton,thomas-s-wootton,629,Erin Clasper,Wootton,wootton,169,female,50-51
+1998,1A/2A,Walkersville,walkersville,648,,,,,,50-51
+1998,3A/4A,Winston Churchill,winston-churchill,635,Jimmy Cunningham,Walkersville,walkersville,143,male,50-51
+1998,3A/4A,Winston Churchill,winston-churchill,635,Erin Clasper,,,163,female,50-51
+1999,1A/2A,Walkersville,walkersville,660,,,,,,50-51
+1999,3A/4A,Walt Whitman,walt-whitman,605,John Scott Rattan,Watkins Mill,watkins-mill,145,male,50-51
+1999,3A/4A,Walt Whitman,walt-whitman,605,Calli Vance,Arundel,arundel,159,female,50-51
+2000,1A/2A,Pikesville,pikesville,658,,,,,,50-51
+2000,3A/4A,Dulaney,dulaney,637,Sejji Jarai,Smithsburg,smithsburg,141,male,50-51
+2000,3A/4A,Dulaney,dulaney,637,Ashley Grier,Smithsburg,smithsburg,158,female,50-51
+2001,1A/2A,Pikesville,pikesville,642,,,,,,50-51
+2001,3A/4A,McDonough,mcdonough,609,Joe Gross,McDonough,mcdonough,144,male,50-51
+2001,3A/4A,McDonough,mcdonough,609,Stephanie Connelly,Northeast,northeast,148,female,50-51
+2002,1A/2A,J.M. Bennett,jm-bennett,319,Brian Carneal,Northeast,northeast,68,male,50-51
+2002,1A/2A,J.M. Bennett,jm-bennett,319,Stephanie Connelly,Northeast,northeast,74,female,50-51
+2002,3A/4A,Winston Churchill,winston-churchill,307,,,,,,50-51
+2003,1A/2A,J.M. Bennett,jm-bennett,318,Patrick Hinch,Aberdeen,aberdeen,75,male,50-51
+2003,1A/2A,J.M. Bennett,jm-bennett,318,Michelle Grilli,Pikesville,pikesville,75,female,50-51
+2003,3A/4A,Winston Churchill,winston-churchill,303,Joe Gross,LaPlata,laplata,70,male,50-51
+2003,3A/4A,Winston Churchill,winston-churchill,303,Christina Gonzalez,Great Mills,great-mills,71,female,50-51
+2004,1A/2A,Parkside,parkside,655,,,,,,50-51
+2004,3A/4A,Winston Churchill,winston-churchill,608,Wilbert Lynn,City,city,140,male,50-51
+2004,3A/4A,Winston Churchill,winston-churchill,608,Stephanie Connelly,Northeast,northeast,144,female,50-51
+2005,1A/2A,Smithsburg,smithsburg,321,,,,72,male,50-51
+2005,3A/4A,Winston Churchill,winston-churchill,306,Kelly Lynch,Severna Park,severna-park,75,female,50-51
+2006,1A/2A,Glenelg,glenelg,662,,,,,,50-51
+2006,3A/4A,Winston Churchill,winston-churchill,604,Josh Eure,South River,south-river,142,male,50-51
+2006,3A/4A,Winston Churchill,winston-churchill,604,Lauren Smith,Arundel,arundel,149,female,50-51
+2007,1A/2A,Liberty,liberty,633,,,,,,50-51
+2007,3A/4A,Walt Whitman,walt-whitman,596,Alex Hoffman,Middletown,middletown,141,male,50-51
+2007,3A/4A,Walt Whitman,walt-whitman,596,Caroline Sweet,Eleanor Roosevelt,eleanor-roosevelt,140,female,50-51
+2008,1A/2A,North Point,north-point,659,,,,,,50-51
+2008,3A/4A,Winston Churchill,winston-churchill,662,Josh Eure,South River,south-river,147,male,50-51
+2008,3A/4A,Winston Churchill,winston-churchill,662,Haeun Lee,Smithsburg,smithsburg,156,female,50-51
+2009,1A/2A,Middletown,middletown,695,,,,,,50-51
+2009,3A/4A,Urbana,urbana,652,Alex Hoffman,Middletown,middletown,146,male,50-51
+2009,3A/4A,Urbana,urbana,652,Diana Brown,Churchill,churchill,154,female,50-51
+2010,1A/2A,North Carroll,north-carroll,632,,,,,,50-51
+2010,3A/4A,Urbana,urbana,618,Connor Tendall,Wootton,wootton,143,male,50-51
+2010,3A/4A,Urbana,urbana,618,Elyse Smidinger,Arundel,arundel,143,female,50-51
+2011,1A/2A,McDonough,mcdonough,648,,,,,,50-51
+2011,3A/4A,Urbana,urbana,615,Tyler Silberberg,Wilde Lake,wilde-lake,142,male,50-51
+2011,3A/4A,Urbana,urbana,615,Elyse Smidinger,Arundel,arundel,145,female,50-51
+2012,1A/2A,Marriotts Ridge,marriotts-ridge,611,,,,,,50-51
+2012,3A/4A,Thomas S. Wootton,thomas-s-wootton,603,Bennett Buch,Marriotts Ridge,marriotts-ridge,138,male,50-51
+2012,3A/4A,Thomas S. Wootton,thomas-s-wootton,603,Bryana Nguyen,Atholton,atholton,144,female,50-51
+1995,1A/2A,Cambridge-South Dorchester,cambridge-south-dorchester,695,Keith Unikel,Churchill,churchill,150,male,51-52
+1995,1A/2A,Cambridge-South Dorchester,cambridge-south-dorchester,695,Jessica Fernandez,Patapsco,patapsco,173,female,51-52
+1996,1A/2A,Middletown,middletown,676,Charles Hong,Whitman,whitman,141,male,51-52
+1996,1A/2A,Middletown,middletown,676,Jenelle D'Alessandro,LaPlata,laplata,162,female,51-52
+1997,1A/2A,North Caroline,north-caroline,674,Brit Musser,Wootton,wootton,139,male,51-52
+1997,1A/2A,North Caroline,north-caroline,674,Erin Clasper,Wootton,wootton,169,female,51-52
+1998,1A/2A,Walkersville,walkersville,648,Jimmy Cunningham,Walkersville,walkersville,143,male,51-52
+1998,1A/2A,Walkersville,walkersville,648,Erin Clasper,,,163,female,51-52
+1999,1A/2A,Walkersville,walkersville,660,John Scott Rattan,Watkins Mill,watkins-mill,145,male,51-52
+1999,1A/2A,Walkersville,walkersville,660,Calli Vance,Arundel,arundel,159,female,51-52
+2000,1A/2A,Pikesville,pikesville,658,Sejji Jarai,Smithsburg,smithsburg,141,male,51-52
+2000,1A/2A,Pikesville,pikesville,658,Ashley Grier,Smithsburg,smithsburg,158,female,51-52
+2001,1A/2A,Pikesville,pikesville,642,Joe Gross,McDonough,mcdonough,144,male,51-52
+2001,1A/2A,Pikesville,pikesville,642,Stephanie Connelly,Northeast,northeast,148,female,51-52
+2002,3A/4A,Winston Churchill,winston-churchill,307,Brian Carneal,Northeast,northeast,68,male,51-52
+2002,3A/4A,Winston Churchill,winston-churchill,307,Stephanie Connelly,Northeast,northeast,74,female,51-52
+2004,1A/2A,Parkside,parkside,655,Wilbert Lynn,City,city,140,male,51-52
+2004,1A/2A,Parkside,parkside,655,Stephanie Connelly,Northeast,northeast,144,female,51-52
+2005,1A/2A,Smithsburg,smithsburg,321,Kelly Lynch,Severna Park,severna-park,75,female,51-52
+2005,3A/4A,Winston Churchill,winston-churchill,306,"Vincent Hancock, Patrick Hinch, Sam Hoffer, Devin Kay, Taylor Murdoch",,,72,male,51-52
+2006,1A/2A,Glenelg,glenelg,662,Josh Eure,South River,south-river,142,male,51-52
+2006,1A/2A,Glenelg,glenelg,662,Lauren Smith,Arundel,arundel,149,female,51-52
+2007,1A/2A,Liberty,liberty,633,Alex Hoffman,Middletown,middletown,141,male,51-52
+2007,1A/2A,Liberty,liberty,633,Caroline Sweet,Eleanor Roosevelt,eleanor-roosevelt,140,female,51-52
+2008,1A/2A,North Point,north-point,659,Josh Eure,South River,south-river,147,male,51-52
+2008,1A/2A,North Point,north-point,659,Haeun Lee,Smithsburg,smithsburg,156,female,51-52
+2009,1A/2A,Middletown,middletown,695,Alex Hoffman,Middletown,middletown,146,male,51-52
+2009,1A/2A,Middletown,middletown,695,Diana Brown,Churchill,churchill,154,female,51-52
+2010,1A/2A,North Carroll,north-carroll,632,Connor Tendall,Wootton,wootton,143,male,51-52
+2010,1A/2A,North Carroll,north-carroll,632,Elyse Smidinger,Arundel,arundel,143,female,51-52
+2011,1A/2A,McDonough,mcdonough,648,Tyler Silberberg,Wilde Lake,wilde-lake,142,male,51-52
+2011,1A/2A,McDonough,mcdonough,648,Elyse Smidinger,Arundel,arundel,145,female,51-52
+2012,1A/2A,Marriotts Ridge,marriotts-ridge,611,Bennett Buch,Marriotts Ridge,marriotts-ridge,138,male,51-52
+2012,1A/2A,Marriotts Ridge,marriotts-ridge,611,Bryana Nguyen,Atholton,atholton,144,female,51-52
+2013,1A/2A,Marriotts Ridge,marriotts-ridge,614,Steven Segrist,Glenelg,glenelg,146,male,51-52
+2013,1A/2A,Marriotts Ridge,marriotts-ridge,614,Bryana Nguyen,Atholton,atholton,134,female,51-52
+2013,3A/4A,Thomas S. Wootton,thomas-s-wootton,633,Steven Segrist,Glenelg,glenelg,146,male,51-52
+2013,3A/4A,Thomas S. Wootton,thomas-s-wootton,633,Bryana Nguyen,Atholton,atholton,134,female,51-52
+2014,1A/2A,Marriotts Ridge,marriotts-ridge,631,Graham Hutchinson,Walt Whitman,walt-whitman,141,male,51-52
+2014,1A/2A,Marriotts Ridge,marriotts-ridge,631,Delaney Shah,Thomas S. Wootton,thomas-s-wootton,148,female,51-52
+2014,3A/4A,Winston Churchill,winston-churchill,603,Graham Hutchinson,Walt Whitman,walt-whitman,141,male,51-52
+2014,3A/4A,Winston Churchill,winston-churchill,603,Delaney Shah,Thomas S. Wootton,thomas-s-wootton,148,female,51-52
+2015,1A/2A,Marriotts Ridge,marriotts-ridge,600,Adam Gray,Winston Churchill,winston-churchill,139,male,51-52
+2015,1A/2A,Marriotts Ridge,marriotts-ridge,600,Delaney Shah,Thomas S. Wootton,thomas-s-wootton,142,female,51-52
+2015,3A/4A,Winston Churchill,winston-churchill,572,Adam Gray,Winston Churchill,winston-churchill,139,male,51-52
+2015,3A/4A,Winston Churchill,winston-churchill,572,Delaney Shah,Thomas S. Wootton,thomas-s-wootton,142,female,51-52
+2016,1A/2A,Marriotts Ridge,marriotts-ridge,633,Nick Roberson,Bethesda-Chevy Chase,bethesda-chevy-chase,144,male,51-52
+2016,1A/2A,Marriotts Ridge,marriotts-ridge,633,Lena Capoccia,W. Churchill,w-churchill,151,female,51-52
+2016,3A/4A,Winston Churchill,winston-churchill,632,Nick Roberson,Bethesda-Chevy Chase,bethesda-chevy-chase,144,male,51-52
+2016,3A/4A,Winston Churchill,winston-churchill,632,Lena Capoccia,W. Churchill,w-churchill,151,female,51-52
+2017,1A/2A,Marriotts Ridge,marriotts-ridge,625,David Stephens,Marriotts Ridge,marriotts-ridge,153,male,51-52
+2017,1A/2A,Marriotts Ridge,marriotts-ridge,625,Faith McIlvain,Marriotts Ridge,marriotts-ridge,147,female,51-52
+2017,3A/4A,Walt Whitman,walt-whitman,605,Brad Riley,Sherwood,sherwood,145,male,51-52
+2017,3A/4A,Walt Whitman,walt-whitman,605,Bailey Davis,North Point,north-point,146,female,51-52
+2018,1A/2A,Marriotts Ridge,marriotts-ridge,628,Kevin Hickey,River Hill,river-hill,148,male,51-52
+2018,1A/2A,Marriotts Ridge,marriotts-ridge,628,Faith McIlvain,Marriotts Ridge,marriotts-ridge,153,female,51-52
+2018,3A/4A,Urbana,urbana,619,Edward Coffren,Northern-C,northern-c,148,male,51-52
+2018,3A/4A,Urbana,urbana,619,Bailey Davis,North Point,north-point,147,female,51-52
+2019,1A/2A,Oakdale,oakdale,659,Gavin Ganter,La Plata,la-plata,149,male,51-52
+2019,1A/2A,Oakdale,oakdale,659,Paula Moon,Patterson Mill,patterson-mill,159,female,51-52
+2019,3A/4A,Winston Churchill,winston-churchill,603,Jake Griffin,Walter Johnson,walter-johnson,141,male,51-52
+2019,3A/4A,Winston Churchill,winston-churchill,603,Bailey Davis,North Point,north-point,145,female,51-52
+2021,1A/2A,Poolesville,poolesville,669,Noah Wallace,North East-Cecil,north-east-cecil,145,male,51-52
+2021,1A/2A,Poolesville,poolesville,669,Olivia Cong,Poolesville,poolesville,144,female,51-52
+2021,3A/4A,Urbana,urbana,620,Benjamin Siriboury,River Hill,river-hill,138,male,51-52
+2021,3A/4A,Urbana,urbana,620,Helen Yeung,River Hill,river-hill,146,female,51-52
+2022,1A/2A,Poolesville,poolesville,635,Noah Wallace,North East-Cecil,north-east-cecil,140,male,51-52
+2022,1A/2A,Poolesville,poolesville,635,Olivia Cong,Poolesville,poolesville,141,female,51-52
+2022,3A/4A,River Hill,river-hill,576,Benjamin Siriboury,River Hill,river-hill,132,male,51-52
+2022,3A/4A,River Hill,river-hill,576,Helen Yeung,River Hill,river-hill,136,female,51-52
+2023,1A/2A,South Carroll,south-carroll,633,Noah Wallace,North East-Cecil,north-east-cecil,148,male,51-52
+2023,1A/2A,South Carroll,south-carroll,633,Olivia Cong,Poolesville,poolesville,137,female,51-52
+2023,3A/4A,River Hill,river-hill,572,Owen Newberry,Crofton,crofton,142,male,51-52
+2023,3A/4A,River Hill,river-hill,572,Helen Yeung,River Hill,river-hill,132,female,51-52
+2024,1A/2A,South Carroll,south-carroll,633,Jack Geyer,C. Milton Wright,c-milton-wright,141,male,51-52
+2024,1A/2A,South Carroll,south-carroll,633,Piper Meredith,Boonsboro,boonsboro,150,female,51-52
+2024,3A/4A,Winston Churchill,winston-churchill,598,George Williamson,Marriotts Ridge,marriotts-ridge,141,male,51-52
+2024,3A/4A,Winston Churchill,winston-churchill,598,Zoe Cusack,Winston Churchill,winston-churchill,137,female,51-52
