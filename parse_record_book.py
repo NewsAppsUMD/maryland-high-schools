@@ -1358,7 +1358,7 @@ def main(argv=None) -> None:
             rows = _extract_route("stat_records", pairs, sport, args.pdf,
                                   refresh=args.refresh, offline=args.offline)
             all_stat_records.extend(rows)
-            print(f"  stat records        : {len(rows)} rows  "
+            print(f"  stat records       : {len(rows)} rows  "
                   f"({len(pairs)} pages, LLM)")
             if not rows:
                 stat_zero.append((sport, sorted(i + 1 for i, _ in pairs)))
