@@ -1365,3 +1365,11 @@ class TestStatRecordSchema:
         assert r.value is None
         assert r.co_holder is None
 
+
+def test_stat_records_prompt_returns_schema():
+    from parse_record_book import _stat_records_prompt, StatResults
+    prompt, schema = _stat_records_prompt(["some page text"], "Football")
+    assert schema is StatResults
+    assert "stat" in prompt.lower() or "record" in prompt.lower()
+    assert "some page text" in prompt
+

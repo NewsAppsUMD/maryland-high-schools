@@ -1000,6 +1000,58 @@ def _sportsmanship_prompt(pages: list[str], sport: str) -> tuple[str, type]:
     return prompt, SportsmanshipAwards
 
 
+def _stat_records_prompt(pages: list[str], sport: str) -> tuple[str, type]:
+    combined = "\n".join(pages)
+    prompt = textwrap.dedent(f"""
+        Extract every all-time statistical superlative record from this
+        {sport} record-book page. These are NOT year-by-year champions; they are
+        all-time records like "Most Touchdowns, Season", "Consecutive Wins",
+        "Most Points - final game", "Runs Scored - Game", "Most Tournament
+        Appearances", "Longest Rivalries", and ranked qualifier lists like
+        "32-Plus Point Scorers" or "Tournament Appearances (10 minimum)".
+
+        Rules:
+        - sport must always be exactly: {sport}
+        - category: "team" when the record is under a TEAM RECORDS heading or
+          is a team/school record; "individual" when under INDIVIDUAL RECORDS
+          or it is a player record; null if the page does not split that way.
+        - record: a concise canonical description of the record, e.g.
+          "Most Touchdowns, Season", "Most Points - final game",
+          "Runs Scored - Game", "Most Tournament Appearances",
+          "Consecutive Wins", "32-Plus Point Scorers".
+        - value: the mark exactly as printed — a count ("98"), a decimal
+          ("15.7"), a fraction ("18/18" or "1.000, 18/18"), or a range. Keep as
+          a string; do not convert to a number.
+        - holder: the entity that holds the record — a player name for
+          individual records, a school for team records, or "SchoolA v SchoolB"
+          for rivalry records.
+        - school: the school. For team records this is the school; for
+          individual records this is the player's school.
+        - year: the year or year-range exactly as printed — "2016",
+          "2015-2018", "1998-2001", "1988 & 2015". Keep as a string. null if
+          no year is given.
+        - co_holder: true when this row is one of multiple tied holders for the
+          same record (e.g. "Hereford 2002 & Fort Hill 2016"). Emit ONE row per
+          holder, each with co_holder=true. Do not join tied holders into one
+          row. Emit co_holder=false for a solo record (a record with a single
+          holder) — do not leave it null.
+        - notes: extra context that is not the value or year — opponent
+          ("vs. Westmar"), game count ("(14 games)"), round ("semifinal",
+          "Sf", "F"), or caveats ("*No 2020 season", "Prior to formation of
+          MPSSAA"). null if none.
+        - For ranked qualifier lists (e.g. "Tournament Appearances (10
+          minimum)" listing many schools, or "32-Plus Point Scorers" listing
+          many players), emit one row per listed entry with the same record
+          description and the entry's value/holder/school/year.
+        - Skip prose commentary, "Did You Know" trivia sentences, and any
+          non-record text.
+
+        TEXT:
+        {combined}
+    """).strip()
+    return prompt, StatResults
+
+
 # route → (prompt builder, schema, result-key within the parsed JSON)
 EXTRACTORS: dict[str, tuple] = {
     "championship":        (_championship_prompt, ChampionshipResults, "results"),
@@ -1007,6 +1059,7 @@ EXTRACTORS: dict[str, tuple] = {
     "individual_results":  (_individual_results_prompt, IndividualResults, "results"),
     "golf":                 (_golf_prompt, GolfResults, "results"),
     "sportsmanship":       (_sportsmanship_prompt, SportsmanshipAwards, "awards"),
+    "stat_records":          (_stat_records_prompt, StatResults, "results"),
 }
 
 
