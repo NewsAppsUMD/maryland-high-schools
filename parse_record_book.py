@@ -106,6 +106,22 @@ class SportsmanshipAwards(BaseModel):
     awards: list[SportsmanshipAward]
 
 
+class StatRecord(BaseModel):
+    sport: str
+    category: Optional[str] = None  # "team" | "individual" | None
+    record: str
+    value: Optional[str] = None
+    holder: Optional[str] = None      # player name (individual) or school (team)
+    school: Optional[str] = None
+    year: Optional[str] = None        # "2016", "2015-2018", "1988 & 2015"
+    co_holder: Optional[bool] = None
+    notes: Optional[str] = None
+
+
+class StatResults(BaseModel):
+    results: list[StatRecord]
+
+
 # ── LLM ───────────────────────────────────────────────────────────────────────
 # Extraction runs against GLM-5.2 served by a local Ollama daemon (cloud tag).
 # Reached via the llm-ollama plugin; the model_id is the Ollama model name.

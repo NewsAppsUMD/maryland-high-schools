@@ -1269,3 +1269,31 @@ class TestFindSectionsIntegration:
         texts = load_page_titles(SPRING_PDF, _divider_candidates(pages), pages)
         assert find_sections(texts, "spring") == SPRING_SECTIONS
 
+
+class TestStatRecordSchema:
+    def test_stat_record_schema_accepts_full_row(self):
+        from parse_record_book import StatRecord, StatResults
+        row = StatRecord(
+            sport="Football",
+            category="team",
+            record="Most Touchdowns, Season",
+            value="98",
+            holder="Fort Hill",
+            school="Fort Hill",
+            year="2016",
+            co_holder=False,
+            notes=None,
+        )
+        page = StatResults(results=[row])
+        assert len(page.results) == 1
+        assert page.results[0].record == "Most Touchdowns, Season"
+        assert page.results[0].value == "98"
+
+    def test_stat_record_schema_optional_fields(self):
+        from parse_record_book import StatRecord
+        r = StatRecord(sport="Baseball", record="Runs Scored - Game")
+        # category/value/holder/school/year/notes are optional; co_holder optional
+        assert r.category is None
+        assert r.value is None
+        assert r.co_holder is None
+
