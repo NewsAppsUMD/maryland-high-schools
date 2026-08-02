@@ -32,6 +32,7 @@ TABLE_ORDER = [
     "individual_results",
     "golf_results",
     "sportsmanship_awards",
+    "stat_records",
 ]
 
 
