@@ -1001,7 +1001,7 @@ def _sportsmanship_prompt(pages: list[str], sport: str) -> tuple[str, type]:
 
 
 def _stat_records_prompt(pages: list[str], sport: str) -> tuple[str, type]:
-    combined = "\n".join(pages)
+    combined = "\n".join(_clean_dot_leaders(p) for p in pages)
     prompt = textwrap.dedent(f"""
         Extract every all-time statistical superlative record from this
         {sport} record-book page. These are NOT year-by-year champions; they are
@@ -1012,6 +1012,9 @@ def _stat_records_prompt(pages: list[str], sport: str) -> tuple[str, type]:
 
         Rules:
         - sport must always be exactly: {sport}
+        - The text may use dot leaders (......) between the record name and its
+          value/holder; treat the dots (rendered as tabs) as whitespace separating
+          fields, not as part of any value.
         - category: "team" when the record is under a TEAM RECORDS heading or
           is a team/school record; "individual" when under INDIVIDUAL RECORDS
           or it is a player record; null if the page does not split that way.
