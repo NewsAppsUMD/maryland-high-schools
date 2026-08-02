@@ -680,6 +680,7 @@ DEDUP_KEYS: dict[str, tuple[str, ...]] = {
     "individual_results": ("sport", "event", "year", "classification"),
     "golf_results": ("year", "classification", "individual_gender"),
     "sportsmanship_awards": ("sport", "year", "classification", "school"),
+    "stat_records": ("sport", "category", "record", "holder", "year"),
 }
 
 
@@ -1188,6 +1189,7 @@ CHUNK_SIZES = {
     # Sportsmanship: all pages in one call so the dual Boys/Girls detection in
     # the prompt sees every page of the sport together.
     "sportsmanship": 64,
+    "stat_records": 1,
 }
 
 
@@ -1294,6 +1296,7 @@ def main(argv=None) -> None:
     all_individual: list[dict] = []
     all_sportsmanship: list[dict] = []
     all_golf: list[dict] = []
+    all_stat_records: list[dict] = []
 
     for sport, (start, end) in sections.items():
         print(f"── {sport}  (PDF indices {start}–{end - 1}) ──")
@@ -1343,6 +1346,15 @@ def main(argv=None) -> None:
                                   refresh=args.refresh, offline=args.offline)
             all_golf.extend(rows)
             print(f"  golf results       : {len(rows)} rows  "
+                  f"({len(pairs)} pages, LLM)")
+
+        # Stat records (LLM) — team-sport all-time superlatives
+        if routed.get("stat_records"):
+            pairs = routed["stat_records"]
+            rows = _extract_route("stat_records", pairs, sport, args.pdf,
+                                  refresh=args.refresh, offline=args.offline)
+            all_stat_records.extend(rows)
+            print(f"  stat records        : {len(rows)} rows  "
                   f"({len(pairs)} pages, LLM)")
 
         # Sportsmanship (LLM) — all pages in one call (dual Boys/Girls detection)

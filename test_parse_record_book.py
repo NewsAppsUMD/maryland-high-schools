@@ -1366,6 +1366,26 @@ class TestStatRecordSchema:
         assert r.co_holder is None
 
 
+def test_stat_records_dedup_key_collapses_duplicates():
+    from parse_record_book import dedup, DEDUP_KEYS
+    rows = [
+        {"sport": "Football", "category": "team", "record": "Most TDs, Season",
+         "value": "98", "holder": "Fort Hill", "school": "Fort Hill",
+         "year": "2016", "co_holder": False, "notes": None},
+        {"sport": "Football", "category": "team", "record": "Most TDs, Season",
+         "value": "98", "holder": "Fort Hill", "school": "Fort Hill",
+         "year": "2016", "co_holder": False, "notes": None},
+        {"sport": "Football", "category": "team", "record": "Most TDs, Season",
+         "value": "95", "holder": "Damascus", "school": "Damascus",
+         "year": "2015", "co_holder": True, "notes": None},
+    ]
+    out, warns = dedup(rows, DEDUP_KEYS["stat_records"], "stat_records")
+    # duplicate (same holder/year) collapsed; distinct co-holder kept
+    assert len(out) == 2
+    holders = {r["holder"] for r in out}
+    assert holders == {"Fort Hill", "Damascus"}
+
+
 def test_stat_records_prompt_returns_schema():
     from parse_record_book import _stat_records_prompt, StatResults
     prompt, schema = _stat_records_prompt(["some page text"], "Football")
