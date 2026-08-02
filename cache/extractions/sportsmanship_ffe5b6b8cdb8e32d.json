@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "extractor": "sportsmanship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      47
+    ],
+    "extracted_at": "2026-08-02T14:31:43Z"
+  },
+  "rows": [
+    {
+      "sport": "Football",
+      "year": 2007,
+      "classification": null,
+      "school": "Arundel"
+    },
+    {
+      "sport": "Football",
+      "year": 2008,
+      "classification": null,
+      "school": "Linganore"
+    },
+    {
+      "sport": "Football",
+      "year": 2009,
+      "classification": null,
+      "school": "Eastern Technical"
+    },
+    {
+      "sport": "Football",
+      "year": 2010,
+      "classification": null,
+      "school": "Middletown"
+    },
+    {
+      "sport": "Football",
+      "year": 2011,
+      "classification": null,
+      "school": "F. Douglass - PG"
+    },
+    {
+      "sport": "Football",
+      "year": 2012,
+      "classification": null,
+      "school": "Middletown"
+    },
+    {
+      "sport": "Football",
+      "year": 2013,
+      "classification": null,
+      "school": "Patuxent"
+    },
+    {
+      "sport": "Football",
+      "year": 2014,
+      "classification": null,
+      "school": "F. Douglass - PG"
+    },
+    {
+      "sport": "Football",
+      "year": 2015,
+      "classification": null,
+      "school": "Howard"
+    },
+    {
+      "sport": "Football",
+      "year": 2016,
+      "classification": null,
+      "school": "Havre de Grace"
+    },
+    {
+      "sport": "Football",
+      "year": 2017,
+      "classification": null,
+      "school": "Dr. Henry Wise, Jr."
+    },
+    {
+      "sport": "Football",
+      "year": 2018,
+      "classification": null,
+      "school": "F. Douglass - PG"
+    },
+    {
+      "sport": "Football",
+      "year": 2019,
+      "classification": null,
+      "school": "Northwest"
+    },
+    {
+      "sport": "Football",
+      "year": 2021,
+      "classification": null,
+      "school": "Mountain Ridge"
+    },
+    {
+      "sport": "Football",
+      "year": 2022,
+      "classification": null,
+      "school": "Arundel"
+    },
+    {
+      "sport": "Football",
+      "year": 2023,
+      "classification": null,
+      "school": "Stephen Decatur"
+    },
+    {
+      "sport": "Football",
+      "year": 2024,
+      "classification": null,
+      "school": "Northern Garrett Huskies"
+    }
+  ]
+}

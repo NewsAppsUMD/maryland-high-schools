@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "extractor": "sportsmanship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      35
+    ],
+    "extracted_at": "2026-08-02T05:29:22Z"
+  },
+  "rows": [
+    {
+      "sport": "Field Hockey",
+      "year": 2009,
+      "classification": null,
+      "school": "Paint Branch"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2010,
+      "classification": null,
+      "school": "River Hill"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2011,
+      "classification": null,
+      "school": "Mount Hebron"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2012,
+      "classification": null,
+      "school": "Walter Johnson"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2013,
+      "classification": null,
+      "school": "Dulaney"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2014,
+      "classification": null,
+      "school": "Kent Island"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2015,
+      "classification": null,
+      "school": "Kent Island"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2016,
+      "classification": null,
+      "school": "South River"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2017,
+      "classification": null,
+      "school": "James H. Blake"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2018,
+      "classification": null,
+      "school": "Kent Island"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2019,
+      "classification": null,
+      "school": "River Hill"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2021,
+      "classification": null,
+      "school": "Manchester Valley"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2022,
+      "classification": null,
+      "school": "Crofton"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2023,
+      "classification": null,
+      "school": "Northern-Cal"
+    },
+    {
+      "sport": "Field Hockey",
+      "year": 2024,
+      "classification": null,
+      "school": "Manchester Valley"
+    }
+  ]
+}

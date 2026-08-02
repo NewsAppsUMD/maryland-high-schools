@@ -1,0 +1,2092 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      58
+    ],
+    "extracted_at": "2026-08-02T20:40:44Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1973,
+      "classification": "Comb",
+      "name": "Lee Ann Carey",
+      "school": "SMI",
+      "mark": "5-01 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1974,
+      "classification": "Comb",
+      "name": "Diane Sasser",
+      "school": "PKD",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1975,
+      "classification": "Comb",
+      "name": "Aneyeus Robinson",
+      "school": "SPB",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Aneyeus Robinson",
+      "school": "SPB",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Jalene Chase",
+      "school": "OLM",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Kathy Kurris",
+      "school": "WCH",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1977,
+      "classification": "A",
+      "name": "Jalene Chase",
+      "school": "OLM",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1977,
+      "classification": "B",
+      "name": "Juanita Alston",
+      "school": "CEN",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1977,
+      "classification": "C",
+      "name": "Kim Brooks",
+      "school": "CLR",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Brenda Perry",
+      "school": "WES",
+      "mark": "5-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1978,
+      "classification": "A",
+      "name": "Juanita Alston",
+      "school": "CEN",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1978,
+      "classification": "B",
+      "name": "Anita Abiba",
+      "school": "CTT",
+      "mark": "5-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1978,
+      "classification": "C",
+      "name": "Susan Striby",
+      "school": "COCK",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Lisa Kipple",
+      "school": "CRO",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1979,
+      "classification": "A",
+      "name": "Laurie Swoff",
+      "school": "BCC",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1979,
+      "classification": "B",
+      "name": "Diane Woolson",
+      "school": "ATH",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1979,
+      "classification": "C",
+      "name": "Gail Scriber",
+      "school": "LEO",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Myrtle Chester",
+      "school": "LAU",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1980,
+      "classification": "A",
+      "name": "Gail Scribner",
+      "school": "LEO",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1980,
+      "classification": "B",
+      "name": "Belinda Pearman",
+      "school": "SHG",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1980,
+      "classification": "C",
+      "name": "Kelly Richardson",
+      "school": "CTT",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Wanda Johnson",
+      "school": "PKD",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1981,
+      "classification": "A",
+      "name": "Monica Kuhn",
+      "school": "CWW",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1981,
+      "classification": "B",
+      "name": "Rhonda Rawlings",
+      "school": "NOC",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1981,
+      "classification": "C",
+      "name": "Christy Larsen",
+      "school": "LIN",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Kira Kiladis",
+      "school": "PEH",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1982,
+      "classification": "A",
+      "name": "Rhonda Rawlings",
+      "school": "NOC",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1982,
+      "classification": "B",
+      "name": "Monica Kuhn",
+      "school": "CWW",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1982,
+      "classification": "C",
+      "name": "Heather Smith",
+      "school": "NDC",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Lynn Warner",
+      "school": "HPT",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1983,
+      "classification": "A",
+      "name": "Ginny Hanlon",
+      "school": "SHE",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1983,
+      "classification": "B",
+      "name": "Monica Kuhn",
+      "school": "CWW",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1983,
+      "classification": "C",
+      "name": "Heather Smith",
+      "school": "NDC",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Sue Hopper",
+      "school": "OLM",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1984,
+      "classification": "A",
+      "name": "Ginny Hanlon",
+      "school": "SHE",
+      "mark": "5-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1984,
+      "classification": "B",
+      "name": "Sheila Fearnow",
+      "school": "WIL",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1984,
+      "classification": "C",
+      "name": "Kelly Lowery",
+      "school": "BOO",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Sue Hopper",
+      "school": "OLM",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1985,
+      "classification": "A",
+      "name": "Ginny Hanlon",
+      "school": "SHE",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1985,
+      "classification": "B",
+      "name": "Lori Amos",
+      "school": "MLM",
+      "mark": "5-04 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1985,
+      "classification": "C",
+      "name": "Kelly Lowery",
+      "school": "BOO",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Amy Ellis",
+      "school": "CRO",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1986,
+      "classification": "A",
+      "name": "Jackie McKendree",
+      "school": "MDU",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1986,
+      "classification": "B",
+      "name": "Kelli Myers",
+      "school": "WIL",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1986,
+      "classification": "C",
+      "name": "Bobby Jo Delphy",
+      "school": "CTT",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Dena Wilson",
+      "school": "SEP",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1987,
+      "classification": "A",
+      "name": "Dawn Yates",
+      "school": "CAL",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1987,
+      "classification": "B",
+      "name": "Tanya Hughes",
+      "school": "GTM",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1987,
+      "classification": "C",
+      "name": "Bobby Jo Delphy",
+      "school": "CTT",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Jessica Rosenbaum",
+      "school": "WES",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1988,
+      "classification": "A",
+      "name": "Marianne Carpenter",
+      "school": "MDU",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1988,
+      "classification": "B",
+      "name": "Tanya Hughes",
+      "school": "GTM",
+      "mark": "5-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1988,
+      "classification": "C",
+      "name": "Bobby Jo Delphy",
+      "school": "CTT",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Rachel Doering",
+      "school": "PEH",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Robyn Bouch",
+      "school": "LIN",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Tanya Hughes",
+      "school": "GTM",
+      "mark": "6-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Bobby Jo Delphy",
+      "school": "CTT",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Andrea Dritschillo",
+      "school": "WWH",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Tanya Hughes",
+      "school": "GTM",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Tracy Tyler",
+      "school": "JMB",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Tia Jackson",
+      "school": "MAR",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Andrea Dritschillo",
+      "school": "WWH",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Julie Kamperman",
+      "school": "FRA",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Shayla Zinn",
+      "school": "WIC",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Nicole Wyant",
+      "school": "EAS",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Kenya Warfield",
+      "school": "WES",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Mona Jackson",
+      "school": "HOW",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Tish Campbell",
+      "school": "NHG",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Chandra Booker",
+      "school": "PEV",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Kenya Warfield",
+      "school": "WES",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Mona Jackson",
+      "school": "HOW",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Tish Campbell",
+      "school": "NHG",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Amy Bidle",
+      "school": "BOO",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Kristin Wimbrow",
+      "school": "OLM",
+      "mark": "5-04 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Courtney Blatchley",
+      "school": "LAP",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Vicki Osinga",
+      "school": "LIB",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Chandra Booker",
+      "school": "PEV",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Kristen Wimbrow",
+      "school": "OLM",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Nana Jeffrey-Idun",
+      "school": "WHE",
+      "mark": "5-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Vicki Osinga",
+      "school": "LIB",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Amy Bidle",
+      "school": "BOO",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Michelle June",
+      "school": "MEA",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Kacey Childs",
+      "school": "DAM",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Suzanne Custer",
+      "school": "LIN",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Kathy Messner",
+      "school": "CTT",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Vanessa Jones",
+      "school": "SHE",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Michelle Henry",
+      "school": "MDU",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Jessica Freeman",
+      "school": "SRI",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Kathy Messner",
+      "school": "CTT",
+      "mark": "5-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Stephanie Kuehne",
+      "school": "DUL",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Sarah White",
+      "school": "PKV",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Ginger Robertson",
+      "school": "BOO",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Nosozi Kakembo",
+      "school": "HAM",
+      "mark": "4-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Del'Rhea Godwin",
+      "school": "GLB",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Tianna Goldring",
+      "school": "LAP",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Cynthia Nicholls",
+      "school": "LGR",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Meghan Walsh",
+      "school": "HDG",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Stephanie Kuehne",
+      "school": "DUL",
+      "mark": "5-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Lori Ashton",
+      "school": "MDU",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Nasozi Kakembo",
+      "school": "HAM",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Jen Frey",
+      "school": "BOO",
+      "mark": "5-00 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Anna Routzahn",
+      "school": "FRE",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2001,
+      "classification": "3A",
+      "name": "AAjah Showell",
+      "school": "MDU",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Ashley Wall",
+      "school": "ATH",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Sarah Harris",
+      "school": "BOO",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Anna Routzahn",
+      "school": "FRE",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Maleka Diggs",
+      "school": "ANN",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2002,
+      "classification": "2A",
+      "name": "K. T. Hessler",
+      "school": "WLK",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Sarah Harris",
+      "school": "BOO",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Anna Routzahn",
+      "school": "FRE",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Toni Aluko",
+      "school": "PBR",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Ashley Thompson",
+      "school": "LAC",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Heather Graham",
+      "school": "POO",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Vicki Collier",
+      "school": "LAR",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Toni Aluko",
+      "school": "PBR",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Jessica Carey",
+      "school": "PKS",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Jessica Yu",
+      "school": "SMI",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Heather Patton",
+      "school": "CHF",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Tinsley Stokes",
+      "school": "NCL",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Jessica Carey",
+      "school": "PKS",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Amber Porter",
+      "school": "NCN",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Audrey Gariepy",
+      "school": "WCH",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Chelsea Neal",
+      "school": "LAC",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Ashley Thompson",
+      "school": "MDU",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Sarah Stephens",
+      "school": "SOG",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Audrey Gariepy-Bogui",
+      "school": "WCH",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Eryn Donaldson",
+      "school": "MTH",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Amina Smith",
+      "school": "PTX",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Cayla Broadwater",
+      "school": "WIL",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Amber Melville",
+      "school": "NCL",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Shaunte Boney",
+      "school": "LAR",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Amina Smith",
+      "school": "PTX",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Cayla Broadwater",
+      "school": "WIL",
+      "mark": "5-07 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Amber Melville",
+      "school": "NCL",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Maya Torain",
+      "school": "CAT",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Amina Smith",
+      "school": "PTX",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Cayla Broadwater",
+      "school": "WIL",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Kayla Ravenscroft",
+      "school": "NCT",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Maya Torain",
+      "school": "CAT",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Amina Smith",
+      "school": "PTX",
+      "mark": "5-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Erika Hurd",
+      "school": "MVM",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Alexandra Holston",
+      "school": "SHE",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Thea Lafond",
+      "school": "JFK",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Amber Melville",
+      "school": "NCL",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Erika Hurd",
+      "school": "MVM",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Tabitha Pyatt",
+      "school": "BPI",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Breana Brownfield",
+      "school": "GTJ",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Hannah Stone",
+      "school": "CTT",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Erika Hurd",
+      "school": "MVM",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Tabitha Pyatt",
+      "school": "BPI",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Sydeny Biniak",
+      "school": "HOW",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Abby Stultz",
+      "school": "OAD",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Kaitlin Isabell",
+      "school": "SPP",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Reilly Wagner",
+      "school": "SRI",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Tabitha Pyatt",
+      "school": "BPI",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Felecia Clements",
+      "school": "MID",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Crystal Parker",
+      "school": "CEN",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Naja McAdam",
+      "school": "CLK",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Nala Gilbert",
+      "school": "FRA",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Abby Stultz",
+      "school": "OAD",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Rosie Cicmancec",
+      "school": "BRN",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Dejah Grant",
+      "school": "CHF",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Chelsea Wright",
+      "school": "SHG",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Felicia Clements",
+      "school": "MID",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Rosie Cicmancec",
+      "school": "BRN",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Taylor Wright",
+      "school": "NWM",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Kelly Garriott",
+      "school": "MVM",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Beyonce Kelly",
+      "school": "HVT",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Rosie Cicmancec",
+      "school": "BRN",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Taylor Wright",
+      "school": "NWM",
+      "mark": "5-08 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Kathleen Gallagher",
+      "school": "LIN",
+      "mark": "5-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Beyonce Kelly",
+      "school": "HVT",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Rosie Cicmancec",
+      "school": "BRN",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Taylor Wright",
+      "school": "NWM",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Allie Droneberger",
+      "school": "LIN",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Beyonce Kelly",
+      "school": "HVT",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Endia Scales",
+      "school": "FRI",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Maya Murchison",
+      "school": "ARU",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Lizzie Lopez",
+      "school": "HER",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Alycia Rivera",
+      "school": "SEV",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Brooklyne Noel",
+      "school": "FTH",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Dylan Countiss",
+      "school": "LEO",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Ruth Smith",
+      "school": "HOW",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Lizzie Lopez",
+      "school": "HER",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Ashleigh Porter",
+      "school": "FSK",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Sierra Swangin",
+      "school": "JHB",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Victoria Marston",
+      "school": "CRF",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Hailey Eliott",
+      "school": "WIC",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Ashleigh Porter",
+      "school": "FSK",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Casey Gish",
+      "school": "BDN",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Sierra Swangin",
+      "school": "JHB",
+      "mark": "5-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Aiyana Smalley",
+      "school": "PTX",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Maeleigh Plummer",
+      "school": "FTH",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Ava Morales",
+      "school": "FRE",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Sierra Swangin",
+      "school": "JHB",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Aiyana Smalley",
+      "school": "PTX",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Maeleigh Plummer",
+      "school": "FTH",
+      "mark": "4-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Karen (K.C.) Allen",
+      "school": "CAL",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Erin Nett",
+      "school": "BAR",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Natalie Dye",
+      "school": "MID",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Kate MacFarlane",
+      "school": "HER",
+      "mark": "9-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Katie Bolac",
+      "school": "GAI",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Karen (K.C.) Allen",
+      "school": "CAL",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Natalie Dye",
+      "school": "MID",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Lori Tvarkunas",
+      "school": "GLG",
+      "mark": "9-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Jodi Taetle",
+      "school": "GAI",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Karen (K.C.) Allen",
+      "school": "CAL",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Natalie Dyw",
+      "school": "MID",
+      "mark": "10-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Lori Tvarkunas",
+      "school": "GLG",
+      "mark": "11-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Rebekah Harrison",
+      "school": "SPB",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Katherine Service",
+      "school": "CAL",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Lauren Graff",
+      "school": "URB",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Sarah McDonald",
+      "school": "WIL",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Jodi Taetle",
+      "school": "GAI",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Christine Mazella",
+      "school": "NOC",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Lauren Graff",
+      "school": "URB",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Kierney Hiteshew",
+      "school": "OAK",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Allison Long",
+      "school": "GTJ",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Lauren Graff",
+      "school": "URB",
+      "mark": "11-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Adrianne Showell",
+      "school": "STD",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Meghan Walsh",
+      "school": "RIS",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Brittany Crum",
+      "school": "GTJ",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Lindsay Winter",
+      "school": "NCL",
+      "mark": "10-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Adrianne Showell",
+      "school": "STD",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Angie Hall",
+      "school": "RIS",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Heather Milford",
+      "school": "CHA",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Liz Mullin",
+      "school": "LIN",
+      "mark": "8-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Rachel Knapstein",
+      "school": "NHF",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Lacie Johnson",
+      "school": "WIL",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Heather Millford",
+      "school": "CHA",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Linsey Vollmer",
+      "school": "FAL",
+      "mark": "9-06"
+    }
+  ]
+}

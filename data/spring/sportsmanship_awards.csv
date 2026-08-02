@@ -1,0 +1,72 @@
+sport,year,classification,school,source_pdf,source_pages,extracted_at,extraction_model
+Baseball,2009,,Fallston HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2010,,Clear Spring HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2011,,North Harford HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2012,,Patuxent HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2013,,South River HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2014,,Sparrows Point HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2015,,North Harford HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2016,,Williamsport HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2017,,Fallston HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2018,,St. Michaels HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2019,,Sherwood HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2021,,Sparrows Point HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2022,,Towson HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2023,,Parkside HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2024,,Baltimore Polytechnic Inst.,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Baseball,2025,,Parkside HS,pdfs/Spring record book 2025.pdf,7,2026-08-02T05:22:49Z,glm-5.2:cloud
+Boys Lacrosse,1998,,Centennial,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,1999,,Queen Anne's,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2000,,Queen Anne's,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2001,,C. Milton Wright,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2002,,Pikesville,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2003,,Glenelg,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2004,,Westminster,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2005,,Parkside,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2006,,Urbana,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2007,,Parkside,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2008,,Southern-AA,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2009,,South River,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2010,,Queen Anne's,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2011,,Middletown,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2012,,Glenelg,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2013,,Century,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2014,,North East-C,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2015,,North East-C,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2016,,Northern-Calvert,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2017,,Liberty,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2018,,Eleanor Roosevelt,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2019,,Westminster,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2021,,Catonsville,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2022,,Smithsburg,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2023,,Sherwood,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2024,,Towson,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Boys Lacrosse,2025,,Middletown,pdfs/Spring record book 2025.pdf,22,2026-08-02T20:21:00Z,glm-5.2:cloud
+Softball,1997,,Henry E. Lackey,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,1998,,Eleanor Roosevelt,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,1999,,Catoctin,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2000,,Catonsville,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2001,,Northeast-AA,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2002,,Catoctin,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2003,,Dulaney & North County,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2004,,Glenelg & Hereford,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2005,,Tuscarora,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2006,,Huntingtown,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2007,,Hereford,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2008,,Franklin,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2009,,North Carroll,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2010,,Easton,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2011,,C. Milton Wright,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2012,,Lansdowne,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2013,,River Hill,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2014,,Bohemia Manor,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2015,,Leonardtown,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2016,,Montgomery Blair,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2017,,Pikesville,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2018,,Reservoir,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2019,,Walt Whitman,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2021,,Reservoir,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2022,,Century & Damascus,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2023,,Dulaney,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2024,,Mardela,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud
+Softball,2025,,Glenelg,pdfs/Spring record book 2025.pdf,29,2026-08-02T05:23:23Z,glm-5.2:cloud

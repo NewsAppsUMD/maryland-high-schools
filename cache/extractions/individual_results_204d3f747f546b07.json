@@ -1,0 +1,2011 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      55
+    ],
+    "extracted_at": "2026-08-02T19:47:14Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2001,
+      "classification": "4A-3A",
+      "name": "Patrick Bailey",
+      "school": "C.M. Wright",
+      "mark": "9:36.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2001,
+      "classification": "3A-2A",
+      "name": "William Christian",
+      "school": "Great Mills",
+      "mark": "9:36.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2001,
+      "classification": "2A-1A",
+      "name": "Jon Goldsmith",
+      "school": "Glenelg",
+      "mark": "9:49.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2002,
+      "classification": "4A-3A",
+      "name": "Patrick Bailey",
+      "school": "C.M. Wright",
+      "mark": "9:45.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2002,
+      "classification": "3A-2A",
+      "name": "Matt Sanders",
+      "school": "Mount Hebron",
+      "mark": "9:49.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2002,
+      "classification": "2A-1A",
+      "name": "Izudin Mehmedovic",
+      "school": "Oakland Mills",
+      "mark": "10:00.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2003,
+      "classification": "4A-3A",
+      "name": "Awit Yohannes",
+      "school": "Magruder",
+      "mark": "9:44.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2003,
+      "classification": "3A-2A",
+      "name": "William Eden",
+      "school": "Annapolis",
+      "mark": "9:50.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2003,
+      "classification": "2A-1A",
+      "name": "Justin Myers",
+      "school": "Middletown",
+      "mark": "10:28.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2004,
+      "classification": "4A-3A",
+      "name": "William Eden",
+      "school": "Annapolis",
+      "mark": "9:48.62"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2004,
+      "classification": "3A-2A",
+      "name": "Ryan Murphy",
+      "school": "Northern-C",
+      "mark": "9:54.03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2004,
+      "classification": "2A-1A",
+      "name": "Devin Hewitt",
+      "school": "Wiilamsport",
+      "mark": "10:18.92"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2005,
+      "classification": "4A-3A",
+      "name": "Andrew Jesien",
+      "school": "Walter Johnson",
+      "mark": "9:32.15"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2005,
+      "classification": "3A-2A",
+      "name": "Hemagiri Arumugam",
+      "school": "N. Hagerstown",
+      "mark": "10:01.74"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2005,
+      "classification": "2A-1A",
+      "name": "Daniel Dewitt",
+      "school": "Beall",
+      "mark": "10:20.28"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2006,
+      "classification": "4A-3A",
+      "name": "Mikias Gelagle",
+      "school": "E Roosevelt",
+      "mark": "9:32.16"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2006,
+      "classification": "3A-2A",
+      "name": "Travis Boccher",
+      "school": "Wilde Lake",
+      "mark": "9:47.78"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2006,
+      "classification": "2A-1A",
+      "name": "Hemagiri Arumugam",
+      "school": "N.Hagerstown",
+      "mark": "9:53.57"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2007,
+      "classification": "4A-3A",
+      "name": "William Palmer",
+      "school": "Walt Whitman",
+      "mark": "9:44.85"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2007,
+      "classification": "3A-2A",
+      "name": "Graham Bazell",
+      "school": "Atholton",
+      "mark": "9:30.06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2007,
+      "classification": "2A-1A",
+      "name": "Dustin Adams",
+      "school": "Clear Spring",
+      "mark": "10:02.25"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Neal Darmody",
+      "school": "Quince Orchard",
+      "mark": "9:34.45"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Mason Campbell",
+      "school": "Towson",
+      "mark": "9:36.99"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Zach Weinstein",
+      "school": "Mount Hebron",
+      "mark": "9:58.86"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Michael Lilley",
+      "school": "Williamsport",
+      "mark": "10:02.10"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Solomon Haile",
+      "school": "Sherwood",
+      "mark": "9:19.74"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Michael Lynch",
+      "school": "Atholton",
+      "mark": "9:25.53"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Craig Morgan",
+      "school": "River Hill",
+      "mark": "9:44.05"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Michael Lilley",
+      "school": "Williamsport",
+      "mark": "9:49.81"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Jimmy Miller",
+      "school": "Urbana",
+      "mark": "9:46.35"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Kikanae Punyua",
+      "school": "Wilde Lake",
+      "mark": "9:35.93"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Robbie Creese",
+      "school": "Glenelg",
+      "mark": "9:56.66"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2010,
+      "classification": "1A",
+      "name": "David Wilson",
+      "school": "Smithsburg",
+      "mark": "9:31.42"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Alex Willett",
+      "school": "Walter Johnson",
+      "mark": "9:33.34"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Conor Spaulding",
+      "school": "Quince Orchard",
+      "mark": "9:46.84"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Robbie Creese",
+      "school": "Glenelg",
+      "mark": "9:37.46"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Evan Hardy",
+      "school": "Williamsport",
+      "mark": "10:00.57"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Justin Ahalt",
+      "school": "Eleanor Roosevelt",
+      "mark": "9:37.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Braden Bruning",
+      "school": "Linganore",
+      "mark": "9:38.37"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Evan Hardy",
+      "school": "Williamsport",
+      "mark": "9:35.61"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Luke Daigneault",
+      "school": "Smithsburg",
+      "mark": "10:00.08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Vincent Ciattei",
+      "school": "Perry Hall",
+      "mark": "9:30.28"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Harry Bullen",
+      "school": "Annapolis",
+      "mark": "9:27.05"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Chase Weaverling",
+      "school": "Poolesville",
+      "mark": "9:46.81"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Ty Franks",
+      "school": "Bohemia Manor",
+      "mark": "10:21.42"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Ryan Forsyth",
+      "school": "Severna Park",
+      "mark": "9:16.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Alec Font",
+      "school": "Centennial",
+      "mark": "9:41.18"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Chase Weaverling",
+      "school": "Poolesville",
+      "mark": "9:29.76"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Ty Franks",
+      "school": "Bohemia Manor",
+      "mark": "10:17.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Eric Walz",
+      "school": "Dulaney",
+      "mark": "9:37.97"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2015,
+      "classification": "3A",
+      "name": "David Eisenhauer",
+      "school": "Wilde Lake",
+      "mark": "9:30.31"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Zach Gascho",
+      "school": "Catoctin",
+      "mark": "10:05.06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Ty Franks",
+      "school": "Bohemia Manor",
+      "mark": "10:18.35"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Eric Walz",
+      "school": "Dulaney",
+      "mark": "9:38.30"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Darren Harman",
+      "school": "South Hagerstown",
+      "mark": "9:35.11"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Jay Hall",
+      "school": "Westlake",
+      "mark": "10:02.35"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Will Merritt",
+      "school": "Smithsburg",
+      "mark": "10:08.77"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Rohan Asfaw",
+      "school": "Richard Montgomery",
+      "mark": "9:43.66"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Ryan Lockett",
+      "school": "Poolesville",
+      "mark": "9:41.04"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Jay Hall",
+      "school": "Westlake",
+      "mark": "9:41.99"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Ben Hartings",
+      "school": "Boonsboro",
+      "mark": "10:18.16"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Adam Nakasaka",
+      "school": "Bethesda-Chevy Chase",
+      "mark": "9:26.21"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Michael Belmaggio",
+      "school": "Linganore",
+      "mark": "9:47.46"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Anish Nanjappa",
+      "school": "River Hill",
+      "mark": "9:40.29"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Declan Horner",
+      "school": "Southern-Garrett",
+      "mark": "10:18.09"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Eldad Mulugeta",
+      "school": "Northwood",
+      "mark": "9:17.94"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Michael Belmaggio",
+      "school": "Linganore",
+      "mark": "9:39.08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Justin Diehl",
+      "school": "Calvert",
+      "mark": "9:28.63"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Henry Schmidt",
+      "school": "Boonsboro",
+      "mark": "10:09.09"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2020,
+      "classification": "4A",
+      "name": "Sam Keeny",
+      "school": "South River",
+      "mark": "9:21.94"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2020,
+      "classification": "3A",
+      "name": "Anish Nanjappa",
+      "school": "River Hill",
+      "mark": "9:33.72"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2020,
+      "classification": "2A",
+      "name": "Zane Chalker",
+      "school": "Williamsport",
+      "mark": "9:52.47"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2020,
+      "classification": "1A",
+      "name": "Day Leone",
+      "school": "Bohemia Manor",
+      "mark": "10:19.90"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Tucker Sangster",
+      "school": "Arundel",
+      "mark": "9:45.43"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2022,
+      "classification": "3A",
+      "name": "John Sears",
+      "school": "Linganore",
+      "mark": "9:52.22"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Ethan Aidam",
+      "school": "Oakland Mills",
+      "mark": "10:09.78"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Sean Milligan",
+      "school": "Smithsburg",
+      "mark": "10:22.97"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Liam Hagerty",
+      "school": "Severna Park",
+      "mark": "9:35.70"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Henry Hopper",
+      "school": "Wilde Lake",
+      "mark": "9:37.87"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Ethan Aidam",
+      "school": "Oakland Mills",
+      "mark": "10:03.23"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Alexander Contreras",
+      "school": "Catoctin",
+      "mark": "10:26.74"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2024,
+      "classification": "4A",
+      "name": "James Partlow",
+      "school": "Gov. Thomas Johnson",
+      "mark": "9:15.77"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Joseph Ensor",
+      "school": "Howard",
+      "mark": "9:43.55"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Eric Penkala",
+      "school": "Southern-AA",
+      "mark": "9:31.39"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Gabriel Riling",
+      "school": "Catoctin",
+      "mark": "10:05.42"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Kieran White",
+      "school": "Parkdale",
+      "mark": "9:33.88"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Theodore Brown",
+      "school": "Towson",
+      "mark": "9:44.15"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Eric Penkala",
+      "school": "Southern-AA",
+      "mark": "9:44.91"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "3200 m",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Gregory Schellberg",
+      "school": "Liberty",
+      "mark": "9:57.84"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "Tom Gwaltney",
+      "school": "Dundalk",
+      "mark": "7.6 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Matt Jacobs",
+      "school": "B-CC",
+      "mark": "6.6 (50m)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1973,
+      "classification": "ABC",
+      "name": "Chuck Wills",
+      "school": "Thomas Johnson",
+      "mark": "6.6 (50m)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Roger Geary",
+      "school": "Woodlawn",
+      "mark": "6.2 (50m)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1974,
+      "classification": "ABC",
+      "name": "Chuck Wills",
+      "school": "Thomas Johnson",
+      "mark": "6.4 (50m)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Michael Holston",
+      "school": "Bladensburg",
+      "mark": "6.4 (50m)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1975,
+      "classification": "ABC",
+      "name": "Leroy Walker",
+      "school": "Friendly",
+      "mark": "6.4 (50m)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Brock Ware",
+      "school": "Churchill",
+      "mark": "6.2 (50m)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Rawle Ashley",
+      "school": "Fairmont Heights",
+      "mark": "6.5 (50m)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Cookie Hughes",
+      "school": "Woodlawn",
+      "mark": "7.5 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1977,
+      "classification": "ABC",
+      "name": "Mike Tyler",
+      "school": "Old Mill",
+      "mark": "7.3 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Leon Jones",
+      "school": "Old Mill",
+      "mark": "7.5 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1978,
+      "classification": "ABC",
+      "name": "Marvin Kelly",
+      "school": "J.M. Bennett",
+      "mark": "7.4 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Skip Robinson",
+      "school": "Peary",
+      "mark": "7.4 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1979,
+      "classification": "ABC",
+      "name": "John Smith",
+      "school": "Richard Montgomery",
+      "mark": "7.7 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Bruce Wample",
+      "school": "Annapolis",
+      "mark": "7.4 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1980,
+      "classification": "A",
+      "name": "Morris Walker",
+      "school": "Central-PG",
+      "mark": "7.5 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1980,
+      "classification": "BC",
+      "name": "John Martin",
+      "school": "Sparrows Point",
+      "mark": "7.6 (55m)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Daryl Watson",
+      "school": "Oxon Hill",
+      "mark": "7.2 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1981,
+      "classification": "A",
+      "name": "Tony Kiser",
+      "school": "Milford Mill",
+      "mark": "7.4 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1981,
+      "classification": "BC",
+      "name": "Charlton Marshall",
+      "school": "Oakland Mills",
+      "mark": "7.6 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Barry Fikes",
+      "school": "Crossland",
+      "mark": "7.56 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1982,
+      "classification": "A",
+      "name": "Gerald Hinton",
+      "school": "Peary",
+      "mark": "8.00 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1982,
+      "classification": "BC",
+      "name": "Tony Kiser",
+      "school": "Milford Mill",
+      "mark": "7.64 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Tony Butts",
+      "school": "Northwestern-PG",
+      "mark": "7.82 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1983,
+      "classification": "A",
+      "name": "Ronald Tyler",
+      "school": "Peary",
+      "mark": "7.80 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1983,
+      "classification": "BC",
+      "name": "Maynard Hurd",
+      "school": "Frederick",
+      "mark": "7.7 (60y)"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Lionel Montgomery",
+      "school": "Old Mill",
+      "mark": "7.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1984,
+      "classification": "A",
+      "name": "Kenny Lewis",
+      "school": "Douglass-PG",
+      "mark": "7.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1984,
+      "classification": "BC",
+      "name": "Steve Style",
+      "school": "Forestville",
+      "mark": "7.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Bruce Reid",
+      "school": "Annapolis",
+      "mark": "7.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1985,
+      "classification": "A",
+      "name": "John White",
+      "school": "Paint Branch",
+      "mark": "7.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1985,
+      "classification": "BC",
+      "name": "Sam Harris",
+      "school": "Howard",
+      "mark": "7.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1986,
+      "classification": "Combined",
+      "name": "Bart Bailey",
+      "school": "Suitland",
+      "mark": "7.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1987,
+      "classification": "AA",
+      "name": "T.J. Robinson",
+      "school": "Woodlawn",
+      "mark": "7.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1987,
+      "classification": "A",
+      "name": "Chris Felton",
+      "school": "Queen Anne's",
+      "mark": "7.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1987,
+      "classification": "BC",
+      "name": "Kelly Davis",
+      "school": "Centennial",
+      "mark": "7.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Jerry Roney",
+      "school": "Woodlawn",
+      "mark": "7.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1988,
+      "classification": "A",
+      "name": "Chris Felton",
+      "school": "Queen Anne's",
+      "mark": "7.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1988,
+      "classification": "BC",
+      "name": "Kelly Davis",
+      "school": "Centennial",
+      "mark": "7.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Gerald Taylor",
+      "school": "Woodlawn",
+      "mark": "7.57"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Tim Riverbark",
+      "school": "Sherwood",
+      "mark": "8.01"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1989,
+      "classification": "2A-1A",
+      "name": "Shannon Flowers",
+      "school": "Milford Mill",
+      "mark": "7.73"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Michael Sye",
+      "school": "Woodlawn",
+      "mark": "7.56"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Tony Humenik",
+      "school": "Great Mills",
+      "mark": "7.94"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1990,
+      "classification": "2A-1A",
+      "name": "Chip Hardick",
+      "school": "Damascus",
+      "mark": "8.10"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Rocky McMillan",
+      "school": "Old Mill",
+      "mark": "7.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Tyrone McKoy",
+      "school": "Surrattsville",
+      "mark": "7.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1991,
+      "classification": "2A-1A",
+      "name": "Dave Royal",
+      "school": "Milford Mill",
+      "mark": "7.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Rocky McMillan",
+      "school": "Old Mill",
+      "mark": "7.72"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Jesse Patterson",
+      "school": "B-CC",
+      "mark": "7.80"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1992,
+      "classification": "2A-1A",
+      "name": "Heath Crone",
+      "school": "Smithsburg",
+      "mark": "7.60"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Ernest Payton",
+      "school": "Suitland",
+      "mark": "7.64"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Jesse Patterson",
+      "school": "B-CC",
+      "mark": "7.97"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1993,
+      "classification": "2A-1A",
+      "name": "Robert Sharps",
+      "school": "Hammond",
+      "mark": "7.69"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Todd Sheridan",
+      "school": "Churchill",
+      "mark": "7.96"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Alex Galifianakis",
+      "school": "J.M. Bennett",
+      "mark": "7.70"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1994,
+      "classification": "2A-1A",
+      "name": "Desmond Doherty",
+      "school": "Fairmont Heights",
+      "mark": "7.79"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1995,
+      "classification": "4A",
+      "name": "James Carter",
+      "school": "Mergenthaler",
+      "mark": "7.58"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Daniel Thompson",
+      "school": "Douglass-PG",
+      "mark": "7.89"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1995,
+      "classification": "2A-1A",
+      "name": "Kyle Walker",
+      "school": "Oakland Mills",
+      "mark": "7.60"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Jack Jeffries",
+      "school": "Largo",
+      "mark": "7.49"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Craig Thompson",
+      "school": "Woodlawn",
+      "mark": "7.61"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1996,
+      "classification": "2A-1A",
+      "name": "Larry Scroggins",
+      "school": "Baltimore Polytechnic",
+      "mark": "7.83"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1997,
+      "classification": "4A-3A",
+      "name": "Malcolm Vaughn",
+      "school": "Meade",
+      "mark": "7.61"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1997,
+      "classification": "3A-2A",
+      "name": "Jeff McKelvin",
+      "school": "Randallstown",
+      "mark": "7.40"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1997,
+      "classification": "2A-1A",
+      "name": "Boyd Ouden",
+      "school": "Central-PG",
+      "mark": "8.21"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1998,
+      "classification": "4A-3A",
+      "name": "Matt McGuire",
+      "school": "Richard Montgomery",
+      "mark": "7.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1998,
+      "classification": "3A-2A",
+      "name": "Joel Brown",
+      "school": "Woodlawn",
+      "mark": "7.62"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1998,
+      "classification": "2A-1A",
+      "name": "Arnold Henry",
+      "school": "Polytechnic",
+      "mark": "7.70"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1999,
+      "classification": "4A-3A",
+      "name": "Dwight Thomas",
+      "school": "High Point",
+      "mark": "7.40"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1999,
+      "classification": "3A-2A",
+      "name": "Joel Brown",
+      "school": "Woodlawn",
+      "mark": "7.40"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 1999,
+      "classification": "2A-1A",
+      "name": "Jerod Void",
+      "school": "Surrattsville",
+      "mark": "7.60"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2000,
+      "classification": "4A-3A",
+      "name": "Jared Craig",
+      "school": "Westminster",
+      "mark": "7.51"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2000,
+      "classification": "3A-2A",
+      "name": "Matt Metz",
+      "school": "Urbana",
+      "mark": "8.06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2000,
+      "classification": "2A-1A",
+      "name": "Jerod Void",
+      "school": "Surrattsville",
+      "mark": "7.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2001,
+      "classification": "4A-3A",
+      "name": "Ronnie Beard",
+      "school": "Frederick",
+      "mark": "7.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2001,
+      "classification": "3A-2A",
+      "name": "Ryan Blackwell",
+      "school": "Howard",
+      "mark": "7.80"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2001,
+      "classification": "2A-1A",
+      "name": "Jerod Void",
+      "school": "Surrattsville",
+      "mark": "7.48"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2002,
+      "classification": "4A-3A",
+      "name": "Deyon Williams",
+      "school": "Suitland",
+      "mark": "7.51"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2002,
+      "classification": "3A-2A",
+      "name": "Mike Brown",
+      "school": "Annapolis",
+      "mark": "7.80"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2002,
+      "classification": "2A-1A",
+      "name": "Dan Robinson",
+      "school": "Boonsboro",
+      "mark": "8.15"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2003,
+      "classification": "4A-3A",
+      "name": "Ronnie Beard",
+      "school": "Frederick",
+      "mark": "7.40"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2003,
+      "classification": "3A-2A",
+      "name": "Quinton Brown",
+      "school": "Frederick",
+      "mark": "7.79"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2003,
+      "classification": "2A-1A",
+      "name": "Dan Robinson",
+      "school": "Boonsboro",
+      "mark": "7.67"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2004,
+      "classification": "4A-3A",
+      "name": "Bryan Jones",
+      "school": "Arundel",
+      "mark": "7.48"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2004,
+      "classification": "3A-2A",
+      "name": "Steve Knight",
+      "school": "Calvert",
+      "mark": "7.46"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2004,
+      "classification": "2A-1A",
+      "name": "Dan Robinson",
+      "school": "Boonsboro",
+      "mark": "7.72"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2005,
+      "classification": "4A-3A",
+      "name": "Brett Brown",
+      "school": "C.H. Flowers",
+      "mark": "7.61"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2005,
+      "classification": "3A-2A",
+      "name": "Carnal Pugh",
+      "school": "Gwynn Park",
+      "mark": "7.93"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2005,
+      "classification": "2A-1A",
+      "name": "Chris Jones",
+      "school": "Century",
+      "mark": "7.71"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2006,
+      "classification": "4A-3A",
+      "name": "Carnal Pugh",
+      "school": "Oxon Hill",
+      "mark": "7.64"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2006,
+      "classification": "3A-2A",
+      "name": "Jack Hutchison",
+      "school": "Kent Island",
+      "mark": "7.57"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2006,
+      "classification": "2A-1A",
+      "name": "Garrett Summers",
+      "school": "Fairmont Heights",
+      "mark": "7.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2007,
+      "classification": "4A-3A",
+      "name": "Tyler Jackson",
+      "school": "Richard Montgomery",
+      "mark": "7.71"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2007,
+      "classification": "3A-2A",
+      "name": "Zach Ray",
+      "school": "Huntingtown",
+      "mark": "7.45"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2007,
+      "classification": "2A-1A",
+      "name": "Jermol Dix",
+      "school": "Western STES",
+      "mark": "7.78"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Ernest Cooper",
+      "school": "Henry Wise",
+      "mark": "7.57"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Antonio Ricchiuto",
+      "school": "Huntingtown",
+      "mark": "7.96"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Mark Cover",
+      "school": "Eastern Technical",
+      "mark": "7.77"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Jermol Dix",
+      "school": "Western STES",
+      "mark": "7.85"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Trae Proctor",
+      "school": "Thomas Stone",
+      "mark": "7.66"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Robert Moore",
+      "school": "Largo",
+      "mark": "7.85"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Kenneth Andoll",
+      "school": "Polytechnic",
+      "mark": "7.78"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Justin Bowie",
+      "school": "Williamsport",
+      "mark": "7.92"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Marquis Woodyard",
+      "school": "Thomas Johnson",
+      "mark": "7.41"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Javar Cruz",
+      "school": "Frederick",
+      "mark": "7.69"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Austin Strine",
+      "school": "Middletown",
+      "mark": "7.85"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Christopher Jackson",
+      "school": "Forest Park",
+      "mark": "7.72"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Kyle Smith",
+      "school": "Oxon Hill",
+      "mark": "7.66"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Jeremy Dorsey",
+      "school": "Linganore",
+      "mark": "7.58"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Oyetemiosje Eyeguokan",
+      "school": "Randallstown",
+      "mark": "7.76"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Aaron Dove",
+      "school": "Carver-B",
+      "mark": "7.98"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Uche Oparaku",
+      "school": "DuVal",
+      "mark": "7.73"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Dondre Echols",
+      "school": "Potomac",
+      "mark": "7.20"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Kyle Smith",
+      "school": "Douglass-PG",
+      "mark": "7.64"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Zach Dell",
+      "school": "North Carroll",
+      "mark": "8.18"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Kevin Random",
+      "school": "Meade",
+      "mark": "7.71"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Marcus Foster",
+      "school": "Tuscarora",
+      "mark": "7.66"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Julian Woods",
+      "school": "Century",
+      "mark": "7.56"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Daniel Lewis",
+      "school": "Pikesville",
+      "mark": "8.06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Devon Gutrick",
+      "school": "North Point",
+      "mark": "7.59"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Robert Carter",
+      "school": "Long Reach",
+      "mark": "7.55"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Jamal Cody",
+      "school": "Hereford",
+      "mark": "7.89"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Daniel Lewis",
+      "school": "Pikesville",
+      "mark": "8.01"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Shyheim Wright",
+      "school": "Northwest",
+      "mark": "7.27"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Robert Miller",
+      "school": "City College",
+      "mark": "7.46"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Bryan Howell",
+      "school": "Loch Raven",
+      "mark": "7.77"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Michale Reyes",
+      "school": "Fairmont Heights",
+      "mark": "8.29"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Shyheim Wright",
+      "school": "Northwest",
+      "mark": "7.39"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Casimir Tawiah",
+      "school": "Great Mills",
+      "mark": "7.39"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Jalen Elliott",
+      "school": "Westlake",
+      "mark": "7.49"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "55 m Hurdles",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Michale Reyes",
+      "school": "Fairmont Heights",
+      "mark": "8.12"
+    }
+  ]
+}

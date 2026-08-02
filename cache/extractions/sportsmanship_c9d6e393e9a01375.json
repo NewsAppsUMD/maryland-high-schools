@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "extractor": "sportsmanship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      66
+    ],
+    "extracted_at": "2026-08-02T14:35:46Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Soccer",
+      "year": 2002,
+      "classification": null,
+      "school": "Winston Churchill"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2002,
+      "classification": null,
+      "school": "Century"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2003,
+      "classification": null,
+      "school": "Kenwood"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2003,
+      "classification": null,
+      "school": "Urbana"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2004,
+      "classification": null,
+      "school": "Sherwood"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2004,
+      "classification": null,
+      "school": "Whitman"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2005,
+      "classification": null,
+      "school": "Pocomoke"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2005,
+      "classification": null,
+      "school": "Middletown"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2006,
+      "classification": null,
+      "school": "Sparrows Point"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2006,
+      "classification": null,
+      "school": "Glenelg"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2007,
+      "classification": null,
+      "school": "Poolesville"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2007,
+      "classification": null,
+      "school": "Urbana"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2008,
+      "classification": null,
+      "school": "Boonsboro"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2008,
+      "classification": null,
+      "school": "Bethesda-CC"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2009,
+      "classification": null,
+      "school": "Hereford"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2009,
+      "classification": null,
+      "school": "Harford Technical"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2010,
+      "classification": null,
+      "school": "Mountain Ridge"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2010,
+      "classification": null,
+      "school": "Mountain Ridge"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2011,
+      "classification": null,
+      "school": "Watkins Mill"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2011,
+      "classification": null,
+      "school": "Southern-AA"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2012,
+      "classification": null,
+      "school": "Brunswick"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2012,
+      "classification": null,
+      "school": "Middletown"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2013,
+      "classification": null,
+      "school": "Urbana"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2013,
+      "classification": null,
+      "school": "Century"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2014,
+      "classification": null,
+      "school": "Brunswick"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2014,
+      "classification": null,
+      "school": "Howard"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2015,
+      "classification": null,
+      "school": "Meade"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2015,
+      "classification": null,
+      "school": "Bel Air"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2016,
+      "classification": null,
+      "school": "Urbana"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2016,
+      "classification": null,
+      "school": "Walter Johnson"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2017,
+      "classification": null,
+      "school": "Great Mills"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2017,
+      "classification": null,
+      "school": "River Hill"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2018,
+      "classification": null,
+      "school": "Oakdale"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2018,
+      "classification": null,
+      "school": "Smithsburg"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2019,
+      "classification": null,
+      "school": "Mountain Ridge"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2019,
+      "classification": null,
+      "school": "Severna Park"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2021,
+      "classification": null,
+      "school": "Northwestern"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2021,
+      "classification": null,
+      "school": "Walt Whitman"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2022,
+      "classification": null,
+      "school": "Glenelg"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2022,
+      "classification": null,
+      "school": "Quince Orchard"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2023,
+      "classification": null,
+      "school": "South River"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2023,
+      "classification": null,
+      "school": "Montgomery Blair"
+    },
+    {
+      "sport": "Boys Soccer",
+      "year": 2024,
+      "classification": null,
+      "school": "Montgomery Blair"
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2024,
+      "classification": null,
+      "school": "Queen Anne's"
+    }
+  ]
+}

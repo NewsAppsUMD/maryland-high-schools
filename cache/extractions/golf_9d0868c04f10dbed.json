@@ -1,0 +1,733 @@
+{
+  "meta": {
+    "extractor": "golf",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      52
+    ],
+    "extracted_at": "2026-08-02T14:32:45Z"
+  },
+  "rows": [
+    {
+      "year": 1995,
+      "classification": "1A/2A",
+      "team_champion_school": "Cambridge-South Dorchester",
+      "team_score": 695,
+      "individual_winner_name": "Keith Unikel",
+      "individual_winner_school": "Churchill",
+      "individual_score": 150,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1995,
+      "classification": "1A/2A",
+      "team_champion_school": "Cambridge-South Dorchester",
+      "team_score": 695,
+      "individual_winner_name": "Jessica Fernandez",
+      "individual_winner_school": "Patapsco",
+      "individual_score": 173,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1995,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 637,
+      "individual_winner_name": "Keith Unikel",
+      "individual_winner_school": "Churchill",
+      "individual_score": 150,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1995,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 637,
+      "individual_winner_name": "Jessica Fernandez",
+      "individual_winner_school": "Patapsco",
+      "individual_score": 173,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1996,
+      "classification": "1A/2A",
+      "team_champion_school": "Middletown",
+      "team_score": 676,
+      "individual_winner_name": "Charles Hong",
+      "individual_winner_school": "Whitman",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1996,
+      "classification": "1A/2A",
+      "team_champion_school": "Middletown",
+      "team_score": 676,
+      "individual_winner_name": "Jenelle D'Alessandro",
+      "individual_winner_school": "LaPlata",
+      "individual_score": 162,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1996,
+      "classification": "3A/4A",
+      "team_champion_school": "Thomas S. Wootton",
+      "team_score": 638,
+      "individual_winner_name": "Charles Hong",
+      "individual_winner_school": "Whitman",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1996,
+      "classification": "3A/4A",
+      "team_champion_school": "Thomas S. Wootton",
+      "team_score": 638,
+      "individual_winner_name": "Jenelle D'Alessandro",
+      "individual_winner_school": "LaPlata",
+      "individual_score": 162,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1997,
+      "classification": "1A/2A",
+      "team_champion_school": "North Caroline",
+      "team_score": 674,
+      "individual_winner_name": "Brit Musser",
+      "individual_winner_school": "Wootton",
+      "individual_score": 139,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1997,
+      "classification": "1A/2A",
+      "team_champion_school": "North Caroline",
+      "team_score": 674,
+      "individual_winner_name": "Erin Clasper",
+      "individual_winner_school": "Wootton",
+      "individual_score": 169,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1997,
+      "classification": "3A/4A",
+      "team_champion_school": "Thomas S. Wootton",
+      "team_score": 629,
+      "individual_winner_name": "Brit Musser",
+      "individual_winner_school": "Wootton",
+      "individual_score": 139,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1997,
+      "classification": "3A/4A",
+      "team_champion_school": "Thomas S. Wootton",
+      "team_score": 629,
+      "individual_winner_name": "Erin Clasper",
+      "individual_winner_school": "Wootton",
+      "individual_score": 169,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1998,
+      "classification": "1A/2A",
+      "team_champion_school": "Walkersville",
+      "team_score": 648,
+      "individual_winner_name": "Jimmy Cunningham",
+      "individual_winner_school": "Walkersville",
+      "individual_score": 143,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1998,
+      "classification": "1A/2A",
+      "team_champion_school": "Walkersville",
+      "team_score": 648,
+      "individual_winner_name": "Erin Clasper",
+      "individual_winner_school": null,
+      "individual_score": 163,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1998,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 635,
+      "individual_winner_name": "Jimmy Cunningham",
+      "individual_winner_school": "Walkersville",
+      "individual_score": 143,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1998,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 635,
+      "individual_winner_name": "Erin Clasper",
+      "individual_winner_school": null,
+      "individual_score": 163,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1999,
+      "classification": "1A/2A",
+      "team_champion_school": "Walkersville",
+      "team_score": 660,
+      "individual_winner_name": "John Scott Rattan",
+      "individual_winner_school": "Watkins Mill",
+      "individual_score": 145,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1999,
+      "classification": "1A/2A",
+      "team_champion_school": "Walkersville",
+      "team_score": 660,
+      "individual_winner_name": "Calli Vance",
+      "individual_winner_school": "Arundel",
+      "individual_score": 159,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1999,
+      "classification": "3A/4A",
+      "team_champion_school": "Walt Whitman",
+      "team_score": 605,
+      "individual_winner_name": "John Scott Rattan",
+      "individual_winner_school": "Watkins Mill",
+      "individual_score": 145,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1999,
+      "classification": "3A/4A",
+      "team_champion_school": "Walt Whitman",
+      "team_score": 605,
+      "individual_winner_name": "Calli Vance",
+      "individual_winner_school": "Arundel",
+      "individual_score": 159,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2000,
+      "classification": "1A/2A",
+      "team_champion_school": "Pikesville",
+      "team_score": 658,
+      "individual_winner_name": "Sejji Jarai",
+      "individual_winner_school": "Smithsburg",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2000,
+      "classification": "1A/2A",
+      "team_champion_school": "Pikesville",
+      "team_score": 658,
+      "individual_winner_name": "Ashley Grier",
+      "individual_winner_school": "Smithsburg",
+      "individual_score": 158,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2000,
+      "classification": "3A/4A",
+      "team_champion_school": "Dulaney",
+      "team_score": 637,
+      "individual_winner_name": "Sejji Jarai",
+      "individual_winner_school": "Smithsburg",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2000,
+      "classification": "3A/4A",
+      "team_champion_school": "Dulaney",
+      "team_score": 637,
+      "individual_winner_name": "Ashley Grier",
+      "individual_winner_school": "Smithsburg",
+      "individual_score": 158,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2001,
+      "classification": "1A/2A",
+      "team_champion_school": "Pikesville",
+      "team_score": 642,
+      "individual_winner_name": "Joe Gross",
+      "individual_winner_school": "McDonough",
+      "individual_score": 144,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2001,
+      "classification": "1A/2A",
+      "team_champion_school": "Pikesville",
+      "team_score": 642,
+      "individual_winner_name": "Stephanie Connelly",
+      "individual_winner_school": "Northeast",
+      "individual_score": 148,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2001,
+      "classification": "3A/4A",
+      "team_champion_school": "McDonough",
+      "team_score": 609,
+      "individual_winner_name": "Joe Gross",
+      "individual_winner_school": "McDonough",
+      "individual_score": 144,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2001,
+      "classification": "3A/4A",
+      "team_champion_school": "McDonough",
+      "team_score": 609,
+      "individual_winner_name": "Stephanie Connelly",
+      "individual_winner_school": "Northeast",
+      "individual_score": 148,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2002,
+      "classification": "1A/2A",
+      "team_champion_school": "J.M. Bennett",
+      "team_score": 319,
+      "individual_winner_name": "Brian Carneal",
+      "individual_winner_school": "Northeast",
+      "individual_score": 68,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2002,
+      "classification": "1A/2A",
+      "team_champion_school": "J.M. Bennett",
+      "team_score": 319,
+      "individual_winner_name": "Stephanie Connelly",
+      "individual_winner_school": "Northeast",
+      "individual_score": 74,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2002,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 307,
+      "individual_winner_name": "Brian Carneal",
+      "individual_winner_school": "Northeast",
+      "individual_score": 68,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2002,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 307,
+      "individual_winner_name": "Stephanie Connelly",
+      "individual_winner_school": "Northeast",
+      "individual_score": 74,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2003,
+      "classification": "1A/2A",
+      "team_champion_school": "J.M. Bennett",
+      "team_score": 318,
+      "individual_winner_name": "Patrick Hinch",
+      "individual_winner_school": "Aberdeen",
+      "individual_score": 75,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2003,
+      "classification": "1A/2A",
+      "team_champion_school": "J.M. Bennett",
+      "team_score": 318,
+      "individual_winner_name": "Michelle Grilli",
+      "individual_winner_school": "Pikesville",
+      "individual_score": 75,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2003,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 303,
+      "individual_winner_name": "Joe Gross",
+      "individual_winner_school": "LaPlata",
+      "individual_score": 70,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2003,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 303,
+      "individual_winner_name": "Christina Gonzalez",
+      "individual_winner_school": "Great Mills",
+      "individual_score": 71,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2004,
+      "classification": "1A/2A",
+      "team_champion_school": "Parkside",
+      "team_score": 655,
+      "individual_winner_name": "Wilbert Lynn",
+      "individual_winner_school": "City",
+      "individual_score": 140,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2004,
+      "classification": "1A/2A",
+      "team_champion_school": "Parkside",
+      "team_score": 655,
+      "individual_winner_name": "Stephanie Connelly",
+      "individual_winner_school": "Northeast",
+      "individual_score": 144,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2004,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 608,
+      "individual_winner_name": "Wilbert Lynn",
+      "individual_winner_school": "City",
+      "individual_score": 140,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2004,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 608,
+      "individual_winner_name": "Stephanie Connelly",
+      "individual_winner_school": "Northeast",
+      "individual_score": 144,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2005,
+      "classification": "1A/2A",
+      "team_champion_school": "Smithsburg",
+      "team_score": 321,
+      "individual_winner_name": "Vincent Hancock; Patrick Hinch; Sam Hoffer; Devin Kay; Taylor Murdoch",
+      "individual_winner_school": "La Plata; Aberdeen; Northern; Churchill; Northwest",
+      "individual_score": 72,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2005,
+      "classification": "1A/2A",
+      "team_champion_school": "Smithsburg",
+      "team_score": 321,
+      "individual_winner_name": "Kelly Lynch",
+      "individual_winner_school": "Severna Park",
+      "individual_score": 75,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2005,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 306,
+      "individual_winner_name": "Vincent Hancock; Patrick Hinch; Sam Hoffer; Devin Kay; Taylor Murdoch",
+      "individual_winner_school": "La Plata; Aberdeen; Northern; Churchill; Northwest",
+      "individual_score": 72,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2005,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 306,
+      "individual_winner_name": "Kelly Lynch",
+      "individual_winner_school": "Severna Park",
+      "individual_score": 75,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2006,
+      "classification": "1A/2A",
+      "team_champion_school": "Glenelg",
+      "team_score": 662,
+      "individual_winner_name": "Josh Eure",
+      "individual_winner_school": "South River",
+      "individual_score": 142,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2006,
+      "classification": "1A/2A",
+      "team_champion_school": "Glenelg",
+      "team_score": 662,
+      "individual_winner_name": "Lauren Smith",
+      "individual_winner_school": "Arundel",
+      "individual_score": 149,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2006,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 604,
+      "individual_winner_name": "Josh Eure",
+      "individual_winner_school": "South River",
+      "individual_score": 142,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2006,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 604,
+      "individual_winner_name": "Lauren Smith",
+      "individual_winner_school": "Arundel",
+      "individual_score": 149,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2007,
+      "classification": "1A/2A",
+      "team_champion_school": "Liberty",
+      "team_score": 633,
+      "individual_winner_name": "Alex Hoffman",
+      "individual_winner_school": "Middletown",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2007,
+      "classification": "1A/2A",
+      "team_champion_school": "Liberty",
+      "team_score": 633,
+      "individual_winner_name": "Caroline Sweet",
+      "individual_winner_school": "E. Roosevelt",
+      "individual_score": 140,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2007,
+      "classification": "3A/4A",
+      "team_champion_school": "Walt Whitman",
+      "team_score": 596,
+      "individual_winner_name": "Alex Hoffman",
+      "individual_winner_school": "Middletown",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2007,
+      "classification": "3A/4A",
+      "team_champion_school": "Walt Whitman",
+      "team_score": 596,
+      "individual_winner_name": "Caroline Sweet",
+      "individual_winner_school": "E. Roosevelt",
+      "individual_score": 140,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2008,
+      "classification": "1A/2A",
+      "team_champion_school": "North Point",
+      "team_score": 659,
+      "individual_winner_name": "Josh Eure",
+      "individual_winner_school": "South River",
+      "individual_score": 147,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2008,
+      "classification": "1A/2A",
+      "team_champion_school": "North Point",
+      "team_score": 659,
+      "individual_winner_name": "Haeun Lee",
+      "individual_winner_school": "Smithsburg",
+      "individual_score": 156,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2008,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 662,
+      "individual_winner_name": "Josh Eure",
+      "individual_winner_school": "South River",
+      "individual_score": 147,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2008,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 662,
+      "individual_winner_name": "Haeun Lee",
+      "individual_winner_school": "Smithsburg",
+      "individual_score": 156,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2009,
+      "classification": "1A/2A",
+      "team_champion_school": "Middletown",
+      "team_score": 695,
+      "individual_winner_name": "Alex Hoffman",
+      "individual_winner_school": "Middletown",
+      "individual_score": 146,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2009,
+      "classification": "1A/2A",
+      "team_champion_school": "Middletown",
+      "team_score": 695,
+      "individual_winner_name": "Diana Brown",
+      "individual_winner_school": "Churchill",
+      "individual_score": 154,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2009,
+      "classification": "3A/4A",
+      "team_champion_school": "Urbana",
+      "team_score": 652,
+      "individual_winner_name": "Alex Hoffman",
+      "individual_winner_school": "Middletown",
+      "individual_score": 146,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2009,
+      "classification": "3A/4A",
+      "team_champion_school": "Urbana",
+      "team_score": 652,
+      "individual_winner_name": "Diana Brown",
+      "individual_winner_school": "Churchill",
+      "individual_score": 154,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2010,
+      "classification": "1A/2A",
+      "team_champion_school": "North Carroll",
+      "team_score": 632,
+      "individual_winner_name": "Connor Tendall",
+      "individual_winner_school": "Wootton",
+      "individual_score": 143,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2010,
+      "classification": "1A/2A",
+      "team_champion_school": "North Carroll",
+      "team_score": 632,
+      "individual_winner_name": "Elyse Smidinger",
+      "individual_winner_school": "Arundel",
+      "individual_score": 143,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2010,
+      "classification": "3A/4A",
+      "team_champion_school": "Urbana",
+      "team_score": 618,
+      "individual_winner_name": "Connor Tendall",
+      "individual_winner_school": "Wootton",
+      "individual_score": 143,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2010,
+      "classification": "3A/4A",
+      "team_champion_school": "Urbana",
+      "team_score": 618,
+      "individual_winner_name": "Elyse Smidinger",
+      "individual_winner_school": "Arundel",
+      "individual_score": 143,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2011,
+      "classification": "1A/2A",
+      "team_champion_school": "McDonough",
+      "team_score": 648,
+      "individual_winner_name": "Tyler Silberberg",
+      "individual_winner_school": "Wilde Lake",
+      "individual_score": 142,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2011,
+      "classification": "1A/2A",
+      "team_champion_school": "McDonough",
+      "team_score": 648,
+      "individual_winner_name": "Elyse Smidinger",
+      "individual_winner_school": "Arundel",
+      "individual_score": 145,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2011,
+      "classification": "3A/4A",
+      "team_champion_school": "Urbana",
+      "team_score": 615,
+      "individual_winner_name": "Tyler Silberberg",
+      "individual_winner_school": "Wilde Lake",
+      "individual_score": 142,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2011,
+      "classification": "3A/4A",
+      "team_champion_school": "Urbana",
+      "team_score": 615,
+      "individual_winner_name": "Elyse Smidinger",
+      "individual_winner_school": "Arundel",
+      "individual_score": 145,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2012,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 611,
+      "individual_winner_name": "Bennett Buch",
+      "individual_winner_school": "Marriotts Ridge",
+      "individual_score": 138,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2012,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 611,
+      "individual_winner_name": "Bryana Nguyen",
+      "individual_winner_school": "Atholton",
+      "individual_score": 144,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2012,
+      "classification": "3A/4A",
+      "team_champion_school": "Thomas S. Wootton",
+      "team_score": 603,
+      "individual_winner_name": "Bennett Buch",
+      "individual_winner_school": "Marriotts Ridge",
+      "individual_score": 138,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2012,
+      "classification": "3A/4A",
+      "team_champion_school": "Thomas S. Wootton",
+      "team_score": 603,
+      "individual_winner_name": "Bryana Nguyen",
+      "individual_winner_school": "Atholton",
+      "individual_score": 144,
+      "individual_gender": "female"
+    }
+  ]
+}

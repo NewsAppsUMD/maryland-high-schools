@@ -1,40 +1,158 @@
-year,classification,team_champion_school,team_score,individual_winner_name,individual_winner_school,individual_score,individual_gender
-1971,Combined,Magruder,610,Frank Reese,Parkdale,146,
-1972,Combined,Frederick,627,Paul Rapley,Churchill,148,
-1973,Combined,Magruder,677,Al Roberts,Sherwood,153,
-1974,Combined,Gaithersburg,632,Matt Sughrue,Churchill,147,
-1975,Combined,Walt Whitman,646,David Hughes,Whitman,153,
-1976,Combined,Winston Churchill,630,Regan O'Rourke,Churchill,150,
-1977,Combined,Walt Whitman,307,Webb Heintzelman,Whitman,69,
-1978,Combined,Robert E. Peary,657,Pete Hiskey,Northwestern,143,
-1979,Combined,Walt Whitman,635,Webb Heintzelman,Whitman,144,
-1980,Combined,Sherwood,641,Joe Venari,Atholton,147,
-1981,Combined,Bowie,658,Doug Monroe,Whitman,145,
-1982,Combined,Seneca Valley,699,Don Slebodnick,High Point,147,male
-1982,Combined,Seneca Valley,699,Sandy Persinger,Dundalk,164,female
-1983,Combined,Thomas S.Wootton,649,Mike Watson,Wootton,147,male
-1983,Combined,Thomas S.Wootton,649,Clare Dolan,Seneca Valley,156,female
-1984,Combined,Seneca Valley,627,Doug Ridgeway,Magruder,149,male
-1984,Combined,Seneca Valley,627,Clare Dolan,Seneca Valley,149,female
-1985,Combined,Gaithersburg,657,Dave Patterson,Dulaney,154,male
-1985,Combined,Gaithersburg,657,Tara Hipp,Gaithersburg,168,female
-1986,Combined,Bowie,668,Dave Patterson,Dulaney,149,male
-1986,Combined,Bowie,668,Kim Cayce,Churchill,164,female
-1987,Combined,Churchill,665,Scooter Clark,Paint Branch,157,male
-1987,Combined,Churchill,665,Kim Cayce,Churchill,161,female
-1988,Combined,Winston Churchill,632,Clint Buytenhuys,Churchill,149,male
-1988,Combined,Winston Churchill,632,Kim Cayce,Churchill,161,female
-1989,Combined,Quince Orchard,657,Mike Rymer,Eleanor Roosevelt,144,male
-1989,Combined,Quince Orchard,657,Alicia Denney,Wootton,197,female
-1990,Combined,Walt Whitman,649,Jim Cangiano,Poolesville,149,male
-1990,Combined,Walt Whitman,649,Angela Wacker,Smithsburg,192,female
-1991,Combined,Arundel,655,Colyn Keller,Walkersville,141,male
-1991,Combined,Arundel,655,Kristen Dollenberg,Dulaney,167,female
-1992,Combined,Arundel,629,Gary Carpenter,Arundel,141,male
-1992,Combined,Arundel,629,Kristen Dollenberg,Dulaney,164,female
-1993,1A/2A,Damascus,680,,,,
-1993,3A/4A,Quince Orchard,620,Bart Mease,Quince Orchard,143,male
-1993,3A/4A,Quince Orchard,620,Wendy Spry,Old Mill,174,female
-1994,1A/2A,Walkersville,681,,,,
-1994,3A/4A,Sherwood,626,Keith Unikel,Churchill,145,male
-1994,3A/4A,Sherwood,626,Julie Russum,Queen Anne's,171,female
+year,classification,team_champion_school,team_score,individual_winner_name,individual_winner_school,individual_score,individual_gender,source_pdf,source_pages,extracted_at,extraction_model
+1971,Combined,Magruder,610,Frank Reese,Parkdale,146,,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1972,Combined,Frederick,627,Paul Rapley,Churchill,148,,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1973,Combined,Magruder,677,Al Roberts,Sherwood,153,,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1974,Combined,Gaithersburg,632,Matt Sughrue,Churchill,147,,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1975,Combined,Walt Whitman,646,David Hughes,Whitman,153,,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1976,Combined,Winston Churchill,630,Regan O'Rourke,Churchill,150,,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1977,Combined,Walt Whitman,307,Webb Heintzelman,Whitman,69,,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1978,Combined,Robert E. Peary,657,Pete Hiskey,Northwestern,143,,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1979,Combined,Walt Whitman,635,Webb Heintzelman,Whitman,144,,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1980,Combined,Sherwood,641,Joe Venari,Atholton,147,,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1981,Combined,Bowie,658,Doug Monroe,Whitman,145,,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1982,Combined,Seneca Valley,699,Don Slebodnick,High Point,147,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1982,Combined,Seneca Valley,699,Sandy Persinger,Dundalk,164,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1983,Combined,Thomas S.Wootton,649,Mike Watson,Wootton,147,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1983,Combined,Thomas S.Wootton,649,Clare Dolan,Seneca Valley,156,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1984,Combined,Seneca Valley,627,Doug Ridgeway,Magruder,149,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1984,Combined,Seneca Valley,627,Clare Dolan,Seneca Valley,149,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1985,Combined,Gaithersburg,657,Dave Patterson,Dulaney,154,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1985,Combined,Gaithersburg,657,Tara Hipp,Gaithersburg,168,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1986,Combined,Bowie,668,Dave Patterson,Dulaney,149,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1986,Combined,Bowie,668,Kim Cayce,Churchill,164,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1987,Combined,Churchill,665,Scooter Clark,Paint Branch,157,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1987,Combined,Churchill,665,Kim Cayce,Churchill,161,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1988,Combined,Winston Churchill,632,Clint Buytenhuys,Churchill,149,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1988,Combined,Winston Churchill,632,Kim Cayce,Churchill,161,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1989,Combined,Quince Orchard,657,Mike Rymer,Eleanor Roosevelt,144,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1989,Combined,Quince Orchard,657,Alicia Denney,Wootton,197,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1990,Combined,Walt Whitman,649,Jim Cangiano,Poolesville,149,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1990,Combined,Walt Whitman,649,Angela Wacker,Smithsburg,192,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1991,Combined,Arundel,655,Colyn Keller,Walkersville,141,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1991,Combined,Arundel,655,Kristen Dollenberg,Dulaney,167,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1992,Combined,Arundel,629,Gary Carpenter,Arundel,141,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1992,Combined,Arundel,629,Kristen Dollenberg,Dulaney,164,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1993,1A/2A,Damascus,680,,,,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1993,1A/2A,Damascus,680,,,,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1993,3A/4A,Quince Orchard,620,Bart Mease,Quince Orchard,143,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1993,3A/4A,Quince Orchard,620,Wendy Spry,Old Mill,174,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1994,1A/2A,Walkersville,681,,,,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1994,1A/2A,Walkersville,681,,,,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1994,3A/4A,Sherwood,626,Keith Unikel,Churchill,145,male,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1994,3A/4A,Sherwood,626,Julie Russum,Queen Anne's,171,female,pdfs/FallRecordBook2024.pdf,51,2026-08-02T14:32:14Z,glm-5.2:cloud
+1995,1A/2A,Cambridge-South Dorchester,695,Keith Unikel,Churchill,150,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1995,1A/2A,Cambridge-South Dorchester,695,Jessica Fernandez,Patapsco,173,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1995,3A/4A,Winston Churchill,637,Keith Unikel,Churchill,150,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1995,3A/4A,Winston Churchill,637,Jessica Fernandez,Patapsco,173,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1996,1A/2A,Middletown,676,Charles Hong,Whitman,141,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1996,1A/2A,Middletown,676,Jenelle D'Alessandro,LaPlata,162,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1996,3A/4A,Thomas S. Wootton,638,Charles Hong,Whitman,141,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1996,3A/4A,Thomas S. Wootton,638,Jenelle D'Alessandro,LaPlata,162,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1997,1A/2A,North Caroline,674,Brit Musser,Wootton,139,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1997,1A/2A,North Caroline,674,Erin Clasper,Wootton,169,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1997,3A/4A,Thomas S. Wootton,629,Brit Musser,Wootton,139,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1997,3A/4A,Thomas S. Wootton,629,Erin Clasper,Wootton,169,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1998,1A/2A,Walkersville,648,Jimmy Cunningham,Walkersville,143,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1998,1A/2A,Walkersville,648,Erin Clasper,,163,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1998,3A/4A,Winston Churchill,635,Jimmy Cunningham,Walkersville,143,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1998,3A/4A,Winston Churchill,635,Erin Clasper,,163,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1999,1A/2A,Walkersville,660,John Scott Rattan,Watkins Mill,145,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1999,1A/2A,Walkersville,660,Calli Vance,Arundel,159,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1999,3A/4A,Walt Whitman,605,John Scott Rattan,Watkins Mill,145,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+1999,3A/4A,Walt Whitman,605,Calli Vance,Arundel,159,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2000,1A/2A,Pikesville,658,Sejji Jarai,Smithsburg,141,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2000,1A/2A,Pikesville,658,Ashley Grier,Smithsburg,158,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2000,3A/4A,Dulaney,637,Sejji Jarai,Smithsburg,141,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2000,3A/4A,Dulaney,637,Ashley Grier,Smithsburg,158,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2001,1A/2A,Pikesville,642,Joe Gross,McDonough,144,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2001,1A/2A,Pikesville,642,Stephanie Connelly,Northeast,148,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2001,3A/4A,McDonough,609,Joe Gross,McDonough,144,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2001,3A/4A,McDonough,609,Stephanie Connelly,Northeast,148,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2002,1A/2A,J.M. Bennett,319,Brian Carneal,Northeast,68,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2002,1A/2A,J.M. Bennett,319,Stephanie Connelly,Northeast,74,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2002,3A/4A,Winston Churchill,307,Brian Carneal,Northeast,68,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2002,3A/4A,Winston Churchill,307,Stephanie Connelly,Northeast,74,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2003,1A/2A,J.M. Bennett,318,Patrick Hinch,Aberdeen,75,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2003,1A/2A,J.M. Bennett,318,Michelle Grilli,Pikesville,75,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2003,3A/4A,Winston Churchill,303,Joe Gross,LaPlata,70,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2003,3A/4A,Winston Churchill,303,Christina Gonzalez,Great Mills,71,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2004,1A/2A,Parkside,655,Wilbert Lynn,City,140,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2004,1A/2A,Parkside,655,Stephanie Connelly,Northeast,144,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2004,3A/4A,Winston Churchill,608,Wilbert Lynn,City,140,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2004,3A/4A,Winston Churchill,608,Stephanie Connelly,Northeast,144,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2005,1A/2A,Smithsburg,321,Vincent Hancock; Patrick Hinch; Sam Hoffer; Devin Kay; Taylor Murdoch,La Plata; Aberdeen; Northern; Churchill; Northwest,72,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2005,1A/2A,Smithsburg,321,Kelly Lynch,Severna Park,75,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2005,3A/4A,Winston Churchill,306,Vincent Hancock; Patrick Hinch; Sam Hoffer; Devin Kay; Taylor Murdoch,La Plata; Aberdeen; Northern; Churchill; Northwest,72,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2005,3A/4A,Winston Churchill,306,Kelly Lynch,Severna Park,75,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2006,1A/2A,Glenelg,662,Josh Eure,South River,142,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2006,1A/2A,Glenelg,662,Lauren Smith,Arundel,149,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2006,3A/4A,Winston Churchill,604,Josh Eure,South River,142,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2006,3A/4A,Winston Churchill,604,Lauren Smith,Arundel,149,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2007,1A/2A,Liberty,633,Alex Hoffman,Middletown,141,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2007,1A/2A,Liberty,633,Caroline Sweet,E. Roosevelt,140,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2007,3A/4A,Walt Whitman,596,Alex Hoffman,Middletown,141,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2007,3A/4A,Walt Whitman,596,Caroline Sweet,E. Roosevelt,140,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2008,1A/2A,North Point,659,Josh Eure,South River,147,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2008,1A/2A,North Point,659,Haeun Lee,Smithsburg,156,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2008,3A/4A,Winston Churchill,662,Josh Eure,South River,147,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2008,3A/4A,Winston Churchill,662,Haeun Lee,Smithsburg,156,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2009,1A/2A,Middletown,695,Alex Hoffman,Middletown,146,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2009,1A/2A,Middletown,695,Diana Brown,Churchill,154,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2009,3A/4A,Urbana,652,Alex Hoffman,Middletown,146,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2009,3A/4A,Urbana,652,Diana Brown,Churchill,154,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2010,1A/2A,North Carroll,632,Connor Tendall,Wootton,143,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2010,1A/2A,North Carroll,632,Elyse Smidinger,Arundel,143,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2010,3A/4A,Urbana,618,Connor Tendall,Wootton,143,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2010,3A/4A,Urbana,618,Elyse Smidinger,Arundel,143,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2011,1A/2A,McDonough,648,Tyler Silberberg,Wilde Lake,142,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2011,1A/2A,McDonough,648,Elyse Smidinger,Arundel,145,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2011,3A/4A,Urbana,615,Tyler Silberberg,Wilde Lake,142,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2011,3A/4A,Urbana,615,Elyse Smidinger,Arundel,145,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2012,1A/2A,Marriotts Ridge,611,Bennett Buch,Marriotts Ridge,138,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2012,1A/2A,Marriotts Ridge,611,Bryana Nguyen,Atholton,144,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2012,3A/4A,Thomas S. Wootton,603,Bennett Buch,Marriotts Ridge,138,male,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2012,3A/4A,Thomas S. Wootton,603,Bryana Nguyen,Atholton,144,female,pdfs/FallRecordBook2024.pdf,52,2026-08-02T14:32:45Z,glm-5.2:cloud
+2013,1A/2A,Marriotts Ridge,614,Steven Segrist,Glenelg,146,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2013,1A/2A,Marriotts Ridge,614,Bryana Nguyen,Atholton,134,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2013,3A/4A,Thomas S. Wootton,633,Steven Segrist,Glenelg,146,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2013,3A/4A,Thomas S. Wootton,633,Bryana Nguyen,Atholton,134,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2014,1A/2A,Marriotts Ridge,631,Graham Hutchinson,Walt Whitman,141,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2014,1A/2A,Marriotts Ridge,631,Delaney Shah,Thomas S. Wootton,148,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2014,3A/4A,Winston Churchill,603,Graham Hutchinson,Walt Whitman,141,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2014,3A/4A,Winston Churchill,603,Delaney Shah,Thomas S. Wootton,148,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2015,1A/2A,Marriotts Ridge,600,Adam Gray,Winston Churchill,139,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2015,1A/2A,Marriotts Ridge,600,Delaney Shah,Thomas S. Wootton,142,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2015,3A/4A,Winston Churchill,572,Adam Gray,Winston Churchill,139,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2015,3A/4A,Winston Churchill,572,Delaney Shah,Thomas S. Wootton,142,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2016,1A/2A,Marriotts Ridge,633,Nick Roberson,Bethesda-CC,144,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2016,1A/2A,Marriotts Ridge,633,Lena Capoccia,W. Churchill,151,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2016,3A/4A,Winston Churchill,632,Nick Roberson,Bethesda-CC,144,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2016,3A/4A,Winston Churchill,632,Lena Capoccia,W. Churchill,151,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2017,1A/2A,Marriotts Ridge,625,David Stephens,Marriotts Ridge,153,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2017,1A/2A,Marriotts Ridge,625,Faith McIlvain,Marriotts Ridge,147,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2017,3A/4A,Walt Whitman,605,Brad Riley,Sherwood,145,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2017,3A/4A,Walt Whitman,605,Bailey Davis,North Point,146,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2018,1A/2A,Marriotts Ridge,628,Kevin Hickey,River Hill,148,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2018,1A/2A,Marriotts Ridge,628,Faith McIlvain,Marriotts Ridge,153,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2018,3A/4A,Urbana,619,Edward Coffren,Northern-C,148,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2018,3A/4A,Urbana,619,Bailey Davis,North Point,147,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2019,1A/2A,Oakdale,659,Gavin Ganter,La Plata,149,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2019,1A/2A,Oakdale,659,Paula Moon,Patterson Mill,159,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2019,3A/4A,Winston Churchill,603,Jake Griffin,Walter Johnson,141,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2019,3A/4A,Winston Churchill,603,Bailey Davis,North Point,145,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2021,1A/2A,Poolesville,669,Noah Wallace,North East-Cecil,145,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2021,1A/2A,Poolesville,669,Olivia Cong,Poolesville,144,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2021,3A/4A,Urbana,620,Benjamin Siriboury,River Hill,138,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2021,3A/4A,Urbana,620,Helen Yeung,River Hill,146,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2022,1A/2A,Poolesville,635,Noah Wallace,North East-Cecil,140,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2022,1A/2A,Poolesville,635,Olivia Cong,Poolesville,141,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2022,3A/4A,River Hill,576,Benjamin Siriboury,River Hill,132,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2022,3A/4A,River Hill,576,Helen Yeung,River Hill,136,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2023,1A/2A,South Carroll,633,Noah Wallace,North East-Cecil,148,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2023,1A/2A,South Carroll,633,Olivia Cong,Poolesville,137,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2023,3A/4A,River Hill,572,Owen Newberry,Crofton,142,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2023,3A/4A,River Hill,572,Helen Yeung,River Hill,132,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2024,1A/2A,South Carroll,633,Jack Geyer,C. Milton Wright,141,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2024,1A/2A,South Carroll,633,Piper Meredith,Boonsboro,150,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2024,3A/4A,Winston Churchill,598,George Williamson,Marriotts Ridge,141,male,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud
+2024,3A/4A,Winston Churchill,598,Zoe Cusack,Winston Churchill,137,female,pdfs/FallRecordBook2024.pdf,53,2026-08-02T02:32:38Z,glm-5.2:cloud

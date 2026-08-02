@@ -1,0 +1,933 @@
+{
+  "meta": {
+    "extractor": "championship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      16
+    ],
+    "extracted_at": "2026-08-02T19:27:40Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Basketball",
+      "year": 2001,
+      "classification": "4A",
+      "champion_school": "Magruder",
+      "champion_coach": "Dan Harwood",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "70-58"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2001,
+      "classification": "3A",
+      "champion_school": "Randallstown",
+      "champion_coach": "Kim Rivers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "62-54"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2001,
+      "classification": "2A",
+      "champion_school": "Dunbar",
+      "champion_coach": "Eric Lee",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "45-43"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2001,
+      "classification": "1A",
+      "champion_school": "Snow Hill",
+      "champion_coach": "Allen Miller",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "69-60"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2002,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Glenn Farello",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "50-45"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2002,
+      "classification": "3A",
+      "champion_school": "Douglass-B",
+      "champion_coach": "Rodney Coffield",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "76-72"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2002,
+      "classification": "2A",
+      "champion_school": "Wicomico",
+      "champion_coach": "Butch Waller",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "72-50"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2002,
+      "classification": "1A",
+      "champion_school": "Pocomoke",
+      "champion_coach": "David Byrd",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "88-70"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2003,
+      "classification": "4A",
+      "champion_school": "Oxon Hill",
+      "champion_coach": "Billy Lanier",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "50-40"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2003,
+      "classification": "3A",
+      "champion_school": "Friendly",
+      "champion_coach": "Gerald Moore, Jr.",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "66-57"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2003,
+      "classification": "2A",
+      "champion_school": "James M. Bennett",
+      "champion_coach": "Bruce Wharton",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "56-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2003,
+      "classification": "1A",
+      "champion_school": "Dunbar",
+      "champion_coach": "Eric Lee",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "72-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2004,
+      "classification": "4A",
+      "champion_school": "Northwestern-PG",
+      "champion_coach": "Anthony Dickens",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "61-59"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2004,
+      "classification": "3A",
+      "champion_school": "Douglass-B",
+      "champion_coach": "Rodney Coffield",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "66-65"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2004,
+      "classification": "2A",
+      "champion_school": "Friendly",
+      "champion_coach": "Gerald Moore, Jr.",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "84-58"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2004,
+      "classification": "1A",
+      "champion_school": "Dunbar",
+      "champion_coach": "Eric Lee",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "68-43"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2005,
+      "classification": "4A",
+      "champion_school": "Walbrook",
+      "champion_coach": "Kelvin Bridgers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "45-38"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2005,
+      "classification": "3A",
+      "champion_school": "Randallstown",
+      "champion_coach": "Kim Rivers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "78-76 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2005,
+      "classification": "2A",
+      "champion_school": "Potomac",
+      "champion_coach": "Rico Reed",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "83-74"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2005,
+      "classification": "1A",
+      "champion_school": "Dunbar",
+      "champion_coach": "Eric Lee",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "69-56"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2006,
+      "classification": "4A",
+      "champion_school": "Walt Whitman",
+      "champion_coach": "Chris Lun",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "39-38"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2006,
+      "classification": "3A",
+      "champion_school": "Long Reach",
+      "champion_coach": "Al Moraz, Sr.",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "54-49"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2006,
+      "classification": "2A",
+      "champion_school": "Randallstown",
+      "champion_coach": "Kim Rivers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-54"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2006,
+      "classification": "1A",
+      "champion_school": "Dunbar",
+      "champion_coach": "Eric Lee",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "68-47"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2007,
+      "classification": "4A",
+      "champion_school": "Sherwood",
+      "champion_coach": "Dondrell Whitmore",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "61-38"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2007,
+      "classification": "3A",
+      "champion_school": "River Hill",
+      "champion_coach": "Matthew Graves",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "60-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2007,
+      "classification": "2A",
+      "champion_school": "Randallstown",
+      "champion_coach": "Kim Rivers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "66-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2007,
+      "classification": "1A",
+      "champion_school": "New Town",
+      "champion_coach": "Mike Smith",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "74-69 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2008,
+      "classification": "4A",
+      "champion_school": "Springbrook",
+      "champion_coach": "Thomas Crowell",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "61-57"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2008,
+      "classification": "3A",
+      "champion_school": "Largo",
+      "champion_coach": "Lewis Howard",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "84-58"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2008,
+      "classification": "2A",
+      "champion_school": "Winters Mill",
+      "champion_coach": "David Herman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "54-47"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2008,
+      "classification": "1A",
+      "champion_school": "Snow Hill",
+      "champion_coach": "Allen Miller",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "92-75"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2009,
+      "classification": "4A",
+      "champion_school": "Springbrook",
+      "champion_coach": "Thomas Crowell",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "73-61"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2009,
+      "classification": "3A",
+      "champion_school": "Lake Clifton",
+      "champion_coach": "Herman Harried",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "75-50"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2009,
+      "classification": "2A",
+      "champion_school": "City College",
+      "champion_coach": "Mike Daniel",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "55-42"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2009,
+      "classification": "1A",
+      "champion_school": "Digital Harbor",
+      "champion_coach": "Johnnie Grimes",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "75-60"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2010,
+      "classification": "4A",
+      "champion_school": "Springbrook",
+      "champion_coach": "Thomas Crowell",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "74-67"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2010,
+      "classification": "3A",
+      "champion_school": "Milford Mill",
+      "champion_coach": "Albert Holley",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "60-46"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2010,
+      "classification": "2A",
+      "champion_school": "City College",
+      "champion_coach": "Mike Daniel",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "56-45"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2010,
+      "classification": "1A",
+      "champion_school": "Dunbar",
+      "champion_coach": "Cyrus Jones",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-53"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2011,
+      "classification": "4A",
+      "champion_school": "North Point",
+      "champion_coach": "Jimmy Ball",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "76-72"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2011,
+      "classification": "3A",
+      "champion_school": "Milford Mill",
+      "champion_coach": "Albert Holley",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "56-44"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2011,
+      "classification": "2A",
+      "champion_school": "Digital Harbor",
+      "champion_coach": "Johnnie Grimes",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-46"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2011,
+      "classification": "1A",
+      "champion_school": "Dunbar",
+      "champion_coach": "Cyrus Jones",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-43"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2012,
+      "classification": "4A",
+      "champion_school": "Magruder",
+      "champion_coach": "Dan Harwood",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "39-36"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2012,
+      "classification": "3A",
+      "champion_school": "Patterson",
+      "champion_coach": "Harry Martin",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "86-75"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2012,
+      "classification": "2A",
+      "champion_school": "Lake Clifton",
+      "champion_coach": "Herman Harried",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "70-64"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2012,
+      "classification": "1A",
+      "champion_school": "Dunbar",
+      "champion_coach": "Cyrus Jones",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "60-36"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2013,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Brendan O'Connell",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "61-56"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2013,
+      "classification": "3A",
+      "champion_school": "Milford Mill",
+      "champion_coach": "Michael Silverman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "84-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2013,
+      "classification": "2A",
+      "champion_school": "Edmondson/Westside",
+      "champion_coach": "Darnell Dantzler",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "56-54"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2013,
+      "classification": "1A",
+      "champion_school": "Dunbar",
+      "champion_coach": "Cyrus Jones",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "54-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2014,
+      "classification": "4A",
+      "champion_school": "Dr. Henry A. Wise",
+      "champion_coach": "Robert Garner",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "70-43"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2014,
+      "classification": "3A",
+      "champion_school": "City College",
+      "champion_coach": "Daryl Wade",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "59-48"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2014,
+      "classification": "2A",
+      "champion_school": "Potomac",
+      "champion_coach": "Renard Johnson",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2014,
+      "classification": "1A",
+      "champion_school": "Edmondson/Westside",
+      "champion_coach": "Darnell Dantzler",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "54-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2015,
+      "classification": "4A",
+      "champion_school": "Meade",
+      "champion_coach": "Pete Corriero",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "80-45"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2015,
+      "classification": "3A",
+      "champion_school": "Centennial",
+      "champion_coach": "Chad Hollwedel",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "57-43"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2015,
+      "classification": "2A",
+      "champion_school": "Oakland Mills",
+      "champion_coach": "Jon Browne",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2015,
+      "classification": "1A",
+      "champion_school": "New Town",
+      "champion_coach": "Mike Daniel",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "55-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2016,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Brendan O'Connell",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "72-39"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2016,
+      "classification": "3A",
+      "champion_school": "C. Milton Wright",
+      "champion_coach": "Jon Stefanides",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "51-49 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2016,
+      "classification": "2A",
+      "champion_school": "New Town",
+      "champion_coach": "Mike Daniel",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "56-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2016,
+      "classification": "1A",
+      "champion_school": "Pocomoke",
+      "champion_coach": "Derrick Fooks",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-56"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2017,
+      "classification": "4A",
+      "champion_school": "Perry Hall",
+      "champion_coach": "George Panageotou",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "59-56 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2017,
+      "classification": "3A",
+      "champion_school": "Baltimore Polytechnic",
+      "champion_coach": "Samuel Brand",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2017,
+      "classification": "2A",
+      "champion_school": "Patterson",
+      "champion_coach": "Harry Martin",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "49-43"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2017,
+      "classification": "1A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Chuck Henry",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "65-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2018,
+      "classification": "4A",
+      "champion_school": "Perry Hall",
+      "champion_coach": "George Panageotou",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "56-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2018,
+      "classification": "3A",
+      "champion_school": "Baltimore Polytechnic",
+      "champion_coach": "Samuel Brand",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "49-47"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2018,
+      "classification": "2A",
+      "champion_school": "Lake Clifton",
+      "champion_coach": "Herman Harried",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "63-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2018,
+      "classification": "1A",
+      "champion_school": "Paul Laurence Dunbar",
+      "champion_coach": "Cyrus Jones, Sr.",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "59-48"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2019,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Brendan O'Connell",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "77-48"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2019,
+      "classification": "3A",
+      "champion_school": "Baltimore Polytechnic",
+      "champion_coach": "Samuel Brand",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "69-41"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2019,
+      "classification": "2A",
+      "champion_school": "Patterson",
+      "champion_coach": "Harry Martin",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "79-56"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2019,
+      "classification": "1A",
+      "champion_school": "Lake Clifton",
+      "champion_coach": "Herman Harried",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-46"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2022,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Brendan O'Connell",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "54-49 2OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2022,
+      "classification": "3A",
+      "champion_school": "Oakdale",
+      "champion_coach": "Brandon Long",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "61-40"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2022,
+      "classification": "2A",
+      "champion_school": "Westlake",
+      "champion_coach": "Ed Mouton",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "63-61"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2022,
+      "classification": "1A",
+      "champion_school": "Lake Clifton",
+      "champion_coach": "Herman Harried",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "60-46"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2023,
+      "classification": "4A",
+      "champion_school": "Parkville",
+      "champion_coach": "Josh Czerski",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "72-56"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2023,
+      "classification": "3A",
+      "champion_school": "Baltimore City College",
+      "champion_coach": "Omarr Smith",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "67-54"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2023,
+      "classification": "2A",
+      "champion_school": "New Town",
+      "champion_coach": "Derek Wise",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-57"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2023,
+      "classification": "1A",
+      "champion_school": "Edmondson/Westside",
+      "champion_coach": "Darnell Dantzler",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "56-48"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2024,
+      "classification": "4A",
+      "champion_school": "Frederick",
+      "champion_coach": "Emonte Hill",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "74-49"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2024,
+      "classification": "3A",
+      "champion_school": "Northeast-AA",
+      "champion_coach": "Roger O'Dea",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "69-66"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2024,
+      "classification": "2A",
+      "champion_school": "Largo",
+      "champion_coach": "Rodney Ward",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "66-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2024,
+      "classification": "1A",
+      "champion_school": "Edmondson/Westside",
+      "champion_coach": "Darnell Dantzler",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "69-65"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2025,
+      "classification": "4A",
+      "champion_school": "Laurel",
+      "champion_coach": "Eric Hines",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "68-53"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2025,
+      "classification": "3A",
+      "champion_school": "Baltimore City College",
+      "champion_coach": "Omarr Smith",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "70-61"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2025,
+      "classification": "2A",
+      "champion_school": "Largo",
+      "champion_coach": "Rodney Ward",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "50-48"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2025,
+      "classification": "1A",
+      "champion_school": "Cambridge-S. Dorchester",
+      "champion_coach": "Shawn Tucker",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "36-33 OT"
+    }
+  ]
+}

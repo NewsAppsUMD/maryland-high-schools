@@ -1,0 +1,805 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      32
+    ],
+    "extracted_at": "2026-08-02T03:54:35Z"
+  },
+  "rows": [
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1975,
+      "classification": "All Classes",
+      "name": "Ann Beasley",
+      "school": "Bethesda-CC",
+      "mark": "2-6, 6-2, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1975,
+      "classification": "All Classes",
+      "name": "Caryn Shave & Cathy Tyler",
+      "school": "JM Bennett",
+      "mark": "6-4, 4-6, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1976,
+      "classification": "All Classes",
+      "name": "Tracey Hamburg",
+      "school": "Milford Mill",
+      "mark": "7-5, 7-6"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1976,
+      "classification": "All Classes",
+      "name": "Maria Bowden & Laura Rhodes",
+      "school": "Whitman",
+      "mark": "1-6, 6-1, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1977,
+      "classification": "All Classes",
+      "name": "Sue Wissler",
+      "school": "Great Mills",
+      "mark": "6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1977,
+      "classification": "All Classes",
+      "name": "Sue Wheeler & Margaret Gressans",
+      "school": "Towson",
+      "mark": "6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1978,
+      "classification": "All Classes",
+      "name": "Diane Sawyer",
+      "school": "Walter Johnson",
+      "mark": "6-0, 6-7, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1978,
+      "classification": "All Classes",
+      "name": "Patty Owen & Kim Fleming",
+      "school": "Bel Air",
+      "mark": "6-2, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1979,
+      "classification": "All Classes",
+      "name": "Laurie MacGill",
+      "school": "Catonsville",
+      "mark": "5-7, 6-0, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1979,
+      "classification": "All Classes",
+      "name": "Linda Borish & Ann Borish",
+      "school": "Walter Johnson",
+      "mark": "7-5, 2-6, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1980,
+      "classification": "All Classes",
+      "name": "Laurie MacGill",
+      "school": "Catonsville",
+      "mark": "6-2, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1980,
+      "classification": "All Classes",
+      "name": "Stefi Huber & Cecilia Valdes",
+      "school": "Whitman",
+      "mark": "6-3, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1981,
+      "classification": "All Classes",
+      "name": "Charlotte Haberstroh",
+      "school": "JM Bennett",
+      "mark": "6-7, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1981,
+      "classification": "All Classes",
+      "name": "Sarah Reusing & Grace Reusing",
+      "school": "North Hagerstown",
+      "mark": "6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1982,
+      "classification": "All Classes",
+      "name": "Lee Shelburne",
+      "school": "Whitman",
+      "mark": "6-3, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1982,
+      "classification": "All Classes",
+      "name": "Debra Lubman & Barbara Dixon",
+      "school": "Pikesville",
+      "mark": "7-5, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1983,
+      "classification": "All Classes",
+      "name": "Charlotte Haberstroh",
+      "school": "JM Bennett",
+      "mark": "7-6, 4-6, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1983,
+      "classification": "All Classes",
+      "name": "Debra Lubman & Barbara Dixon",
+      "school": "Pikesville",
+      "mark": "6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1984,
+      "classification": "All Classes",
+      "name": "Lee Shelburne",
+      "school": "Whitman",
+      "mark": "6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1984,
+      "classification": "All Classes",
+      "name": "Debra Lubman & Barbara Dixon",
+      "school": "Pikesville",
+      "mark": "6-1, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1985,
+      "classification": "All Classes",
+      "name": "Jeri Ingram",
+      "school": "Springbrook",
+      "mark": "6-1, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1985,
+      "classification": "All Classes",
+      "name": "Katy Storch & Michelle Devine",
+      "school": "Easton",
+      "mark": "6-2, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1986,
+      "classification": "All Classes",
+      "name": "Jeri Ingram",
+      "school": "Springbrook",
+      "mark": "6-3, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1986,
+      "classification": "All Classes",
+      "name": "Katy Storch & Michelle Devine",
+      "school": "Easton",
+      "mark": "7-6 (7-5), 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1987,
+      "classification": "All Classes",
+      "name": "Jeri Ingram",
+      "school": "Springbrook",
+      "mark": "6-2, Retire"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1987,
+      "classification": "All Classes",
+      "name": "Katy Storch & Michelle Devine",
+      "school": "Easton",
+      "mark": "6-3, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1988,
+      "classification": "All Classes",
+      "name": "Jeri Ingram",
+      "school": "Springbrook",
+      "mark": "6-2, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1988,
+      "classification": "All Classes",
+      "name": "Jenny Schneck & Kendell Miller",
+      "school": "Severna Park",
+      "mark": "6-3, 3-6, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1989,
+      "classification": "All Classes",
+      "name": "Diane McKeon",
+      "school": "Seneca Valley",
+      "mark": "6-3, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1989,
+      "classification": "All Classes",
+      "name": "Simone Matthey & Stacy Seawright",
+      "school": "Whitman",
+      "mark": "6-4, 2-6, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1990,
+      "classification": "All Classes",
+      "name": "Danielle Dilloff",
+      "school": "Pikesville",
+      "mark": "2-6, 6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1990,
+      "classification": "All Classes",
+      "name": "Heidi McWilliams & Abby Messick",
+      "school": "Cambridge-SD",
+      "mark": "6-3, 7-6 (7-4)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1991,
+      "classification": "All Classes",
+      "name": "Katherine Hobbs",
+      "school": "Severna Park",
+      "mark": "6-1, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1991,
+      "classification": "All Classes",
+      "name": "Heidi McWilliams & Abby Messick",
+      "school": "Cambridge-SD",
+      "mark": "6-1, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1992,
+      "classification": "All Classes",
+      "name": "Bresha Byrd",
+      "school": "Middletown",
+      "mark": "6-0, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1992,
+      "classification": "All Classes",
+      "name": "Liz Henkins & Lauren Martin",
+      "school": "Whitman",
+      "mark": "6-1, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1993,
+      "classification": "All Classes",
+      "name": "Julia Kim",
+      "school": "Churchill",
+      "mark": "7-5, 5-7, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1993,
+      "classification": "All Classes",
+      "name": "Dori Feldman & Payton Goldman",
+      "school": "Pikesville",
+      "mark": "6-3, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1994,
+      "classification": "All Classes",
+      "name": "Meghan Cornwall",
+      "school": "Annapolis",
+      "mark": "6-7 (7-3), 7-6 (7-0), 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1994,
+      "classification": "All Classes",
+      "name": "Becky Knouse & Stephanie Knouse",
+      "school": "Centennial",
+      "mark": "6-3, 6-7 (7-2), 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1995,
+      "classification": "All Classes",
+      "name": "Meghan Cornwall",
+      "school": "Annapolis",
+      "mark": "6-2, 0-6, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1995,
+      "classification": "All Classes",
+      "name": "Lindsay Carlson & Neely Harris",
+      "school": "Aundel",
+      "mark": "5-7, 6-0, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1996,
+      "classification": "All Classes",
+      "name": "Meghan Cornwall",
+      "school": "Annapolis",
+      "mark": "5-7, 7-6 (7-4), 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1996,
+      "classification": "All Classes",
+      "name": "Julia Dougherty & Katie Dougherty",
+      "school": "Centennial",
+      "mark": "6-3, 4-6, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1997,
+      "classification": "All Classes",
+      "name": "Katie Dougherty",
+      "school": "Centennial",
+      "mark": "6-3, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1997,
+      "classification": "All Classes",
+      "name": "Teresa Whiteside & Rachel Solomon",
+      "school": "Springbrook",
+      "mark": "6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1998,
+      "classification": "All Classes",
+      "name": "Leslie Harvey",
+      "school": "Randallstown",
+      "mark": "6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1998,
+      "classification": "All Classes",
+      "name": "Charitha Gowda & Jodi Min",
+      "school": "Blair",
+      "mark": "6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 1999,
+      "classification": "All Classes",
+      "name": "Anna Goldstein",
+      "school": "Wootton",
+      "mark": "6-3, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 1999,
+      "classification": "All Classes",
+      "name": "Brooke Foster & Heather Easter",
+      "school": "North Carroll",
+      "mark": "2-6, 6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2000,
+      "classification": "All Classes",
+      "name": "Leslie Price",
+      "school": "Eleanor Roosevelt",
+      "mark": "7-6 (11-9), 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2000,
+      "classification": "All Classes",
+      "name": "Kristin Manglitz & Devon Humphries",
+      "school": "River Hill",
+      "mark": "7-5, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2001,
+      "classification": "All Classes",
+      "name": "Marianne Baker",
+      "school": "Glenelg",
+      "mark": "6-3, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2001,
+      "classification": "All Classes",
+      "name": "Lindsay Suller & Jamie deGraffenreid",
+      "school": "Severna Park",
+      "mark": "7-6 (8-6), 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2002,
+      "classification": "All Classes",
+      "name": "Marianne Baker",
+      "school": "Glenelg",
+      "mark": "6-0, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2002,
+      "classification": "All Classes",
+      "name": "Allison Daciek & Lindsay Suller",
+      "school": "Severna Park",
+      "mark": "6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2003,
+      "classification": "All Classes",
+      "name": "Beatrice Grasu",
+      "school": "Franklin",
+      "mark": "7-6 (7-5), 7-6 (7-5)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2003,
+      "classification": "All Classes",
+      "name": "Maxine Norcross & Debbie Lin",
+      "school": "Walter Johnson",
+      "mark": "4-6, 6-2, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2004,
+      "classification": "All Classes",
+      "name": "Maggie MacKeever",
+      "school": "Churchill",
+      "mark": "7-5, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2004,
+      "classification": "All Classes",
+      "name": "Jessica Ahn & Anita Sahu",
+      "school": "CM Wright",
+      "mark": "6-1, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2005,
+      "classification": "All Classes",
+      "name": "Maggie MacKeever",
+      "school": "Churchill",
+      "mark": "6-2, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2005,
+      "classification": "All Classes",
+      "name": "Melissa Wallace & Alissa Thayer",
+      "school": "Westminster",
+      "mark": "2-6, 6-4, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2006,
+      "classification": "All Classes",
+      "name": "Maggie MacKeever",
+      "school": "Churchill",
+      "mark": "6-4, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2006,
+      "classification": "All Classes",
+      "name": "Tiffany Lin & Lauren Wolman",
+      "school": "Walter Johnson",
+      "mark": "6-2, 2-6, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2007,
+      "classification": "All Classes",
+      "name": "Katelyn Stokes",
+      "school": "Eleanor Roosevelt",
+      "mark": "6-3, 4-6, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2007,
+      "classification": "All Classes",
+      "name": "Tiffany Lin & Maraya Pratt",
+      "school": "Walter Johnson",
+      "mark": "7-6 (7-4), 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2008,
+      "classification": "All Classes",
+      "name": "Kathryn Schafer",
+      "school": "Linganore",
+      "mark": "6-4, 4-6, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2008,
+      "classification": "All Classes",
+      "name": "Tiffany Lin & Maraya Pratt",
+      "school": "Walter Johnson",
+      "mark": "6-0, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2009,
+      "classification": "All Classes",
+      "name": "Katelyn Stokes",
+      "school": "Eleanor Roosevelt",
+      "mark": "6-4, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2009,
+      "classification": "All Classes",
+      "name": "Tiffany Lin & Alysia Rogers",
+      "school": "Walter Johnson",
+      "mark": "7-5, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2010,
+      "classification": "All Classes",
+      "name": "Katelyn Stokes",
+      "school": "Eleanor Roosevelt",
+      "mark": "6-0, 4-6, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2010,
+      "classification": "All Classes",
+      "name": "Nicky Gottret & Sarah Macy",
+      "school": "Whitman",
+      "mark": "6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2011,
+      "classification": "All Classes",
+      "name": "Taylor Neudecker",
+      "school": "North Carroll",
+      "mark": "6-5, 7-6 (7-5)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2011,
+      "classification": "All Classes",
+      "name": "Emma Baker & Anna Rozenberg",
+      "school": "Bethesda-Chevy Chase",
+      "mark": "7-6 (7-3), 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2012,
+      "classification": "All Classes",
+      "name": "Megan Hahn",
+      "school": "Wootton",
+      "mark": "7-6 (7-3), 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2012,
+      "classification": "All Classes",
+      "name": "Hannah Stahl & Kamilla Beisenova",
+      "school": "Whitman",
+      "mark": "6-3, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2013,
+      "classification": "All Classes",
+      "name": "Irene Lu",
+      "school": "Atholton",
+      "mark": "6-1, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2013,
+      "classification": "All Classes",
+      "name": "Haley Keats & Sriya Movva",
+      "school": "Churchill",
+      "mark": "6-0, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2014,
+      "classification": "All Classes",
+      "name": "Miranda Deng",
+      "school": "Wootton",
+      "mark": "6-4, 4-6, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2014,
+      "classification": "All Classes",
+      "name": "Haley Keats & Sriya Movva",
+      "school": "Churchill",
+      "mark": "4-6, 6-4, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2015,
+      "classification": "All Classes",
+      "name": "Miranda Deng",
+      "school": "Wootton",
+      "mark": "6-2, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2015,
+      "classification": "All Classes",
+      "name": "Katie Gauch & Sriya Movva",
+      "school": "Churchill",
+      "mark": "6-0, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2016,
+      "classification": "All Classes",
+      "name": "Miranda Deng",
+      "school": "Wootton",
+      "mark": "6-0, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2016,
+      "classification": "All Classes",
+      "name": "Carina Greenberg & Saarinah Wahl",
+      "school": "Whitman",
+      "mark": "6-2, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2017,
+      "classification": "All Classes",
+      "name": "Ayana Akli",
+      "school": "Wheaton",
+      "mark": "6-2, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2017,
+      "classification": "All Classes",
+      "name": "Abby Thornton & Veronica Cueller",
+      "school": "Marriotts Ridge",
+      "mark": "6-4, 7-6 (5)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2018,
+      "classification": "All Classes",
+      "name": "Ayana Akli",
+      "school": "Wheaton",
+      "mark": "6-1, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2018,
+      "classification": "All Classes",
+      "name": "Annie Dong & Ellie Esterowitz",
+      "school": "Thomas Wootton",
+      "mark": "6-3, 6-4"
+    }
+  ]
+}

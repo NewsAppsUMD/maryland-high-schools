@@ -1,0 +1,2047 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      82
+    ],
+    "extracted_at": "2026-08-02T20:56:00Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Ronnie Beard",
+      "school": "FRE",
+      "mark": "14.36"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Mike Brown",
+      "school": "ANN",
+      "mark": "15.03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Chris Bell",
+      "school": "SOA",
+      "mark": "15.32"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Brett Morrell",
+      "school": "BOO",
+      "mark": "15.41"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Ronnie Beard",
+      "school": "FRE",
+      "mark": "14.33"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Steven Knight",
+      "school": "CAL",
+      "mark": "14.74"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Andrew Peresta",
+      "school": "SOA",
+      "mark": "14.57"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Dan Robinson",
+      "school": "BOO",
+      "mark": "14.77"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Bryan Jones",
+      "school": "ARU",
+      "mark": "14.31"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Steven Knight",
+      "school": "CAL",
+      "mark": "14.34"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Aaron James",
+      "school": "DUV",
+      "mark": "14.72"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Dan Robinson",
+      "school": "BOO",
+      "mark": "14.50"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Joey Robinson",
+      "school": "GAI",
+      "mark": "14.48-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Andrew Simpson",
+      "school": "MLM",
+      "mark": "14.36-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2005,
+      "classification": "2A",
+      "name": "James Saunders",
+      "school": "EVT",
+      "mark": "14.51"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Lamar Clayton",
+      "school": "HDG",
+      "mark": "15.25-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Brett Brown",
+      "school": "CHF",
+      "mark": "14.22"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Alex Gray",
+      "school": "BCC",
+      "mark": "14.77"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Jack Hutchison",
+      "school": "KTI",
+      "mark": "14.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Derek Martin",
+      "school": "SMI",
+      "mark": "14.84"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Ernest Cooper",
+      "school": "HWI",
+      "mark": "14.85"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2007,
+      "classification": "3A",
+      "name": "John Lopez",
+      "school": "WES",
+      "mark": "14.65"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Quentin James",
+      "school": "RES",
+      "mark": "14.69"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Jamal Campbell",
+      "school": "SMI",
+      "mark": "14.99"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Marcus Weeks",
+      "school": "HWI",
+      "mark": "14.69"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Dahmar Smiles",
+      "school": "MEA",
+      "mark": "14.24"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Jordan Jackson",
+      "school": "MTH",
+      "mark": "14.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Justin Bowie",
+      "school": "WIL",
+      "mark": "15.36"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Marquis Woodyard",
+      "school": "GTJ",
+      "mark": "14.19"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Robert Moore",
+      "school": "LAR",
+      "mark": "14.82"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Kenneth Andoll",
+      "school": "BPI",
+      "mark": "14.66"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Justin Bowie",
+      "school": "WIL",
+      "mark": "14.77"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Marquis Woodyard",
+      "school": "GTJ",
+      "mark": "14.14"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Dondre Echols",
+      "school": "POT",
+      "mark": "14.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Kyle Smith",
+      "school": "FRD",
+      "mark": "14.75"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Justin Bowie",
+      "school": "WIL",
+      "mark": "14.46"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Kyle Smith",
+      "school": "OXH",
+      "mark": "14.36"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Dondre Echols",
+      "school": "POT",
+      "mark": "14.19"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Purcell Freeman",
+      "school": "LGR",
+      "mark": "14.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Jeffrey Cooper",
+      "school": "BHM",
+      "mark": "14.70"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Malcolm Sykes",
+      "school": "CHF",
+      "mark": "14.63"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Dondre Echols",
+      "school": "POT",
+      "mark": "13.59"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Kyle Smith",
+      "school": "FRD",
+      "mark": "14.29"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Luke Campbell",
+      "school": "BRN",
+      "mark": "14.78"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Kevin Random",
+      "school": "MEA",
+      "mark": "14.66"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Robert Miller",
+      "school": "CTY",
+      "mark": "14.44"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Julian Woods",
+      "school": "CNT",
+      "mark": "14.27"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Nick Seabright",
+      "school": "BOO",
+      "mark": "15.13"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Devon Gutrick",
+      "school": "NPT",
+      "mark": "14.40-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Robert Carter",
+      "school": "LGR",
+      "mark": "14.22"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Jamal Cody",
+      "school": "HER",
+      "mark": "14.78-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Daniel Lewis",
+      "school": "PIK",
+      "mark": "15.25"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Casimir Tawiah",
+      "school": "GTM",
+      "mark": "14.44"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Robert Miller",
+      "school": "CTY",
+      "mark": "14.25-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Jamal Cody",
+      "school": "HER",
+      "mark": "14.58"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Devin Mallory",
+      "school": "BRN",
+      "mark": "15.65"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Shyheim Wright",
+      "school": "NWM",
+      "mark": "13.92"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Casimir Tawiah",
+      "school": "GTM",
+      "mark": "14.08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Jalen Elliott",
+      "school": "WLA",
+      "mark": "14.29"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Michale Reyes",
+      "school": "FAH",
+      "mark": "15.21"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Tyrone Bryan",
+      "school": "PKD",
+      "mark": "14.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2017,
+      "classification": "3A",
+      "name": "William Henderson",
+      "school": "BPI",
+      "mark": "14.49"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Kollin Smith",
+      "school": "FRD",
+      "mark": "14.70"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Austin Evans",
+      "school": "NOG",
+      "mark": "14.24"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Brandon Tunson",
+      "school": "CHF",
+      "mark": "13.89"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Andre Turay",
+      "school": "SHG",
+      "mark": "13.97"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Alex Strong",
+      "school": "LAP",
+      "mark": "14.38"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Aaron Hackett",
+      "school": "LAR",
+      "mark": "14.47"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Adetomiwa Adebayo",
+      "school": "DUV",
+      "mark": "14:43"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Almighty Williamson",
+      "school": "DGH",
+      "mark": "14.24"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Jalen Stanton",
+      "school": "CNT",
+      "mark": "14.14"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Anthony Egurola",
+      "school": "BHM",
+      "mark": "14.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Vaughn DeVaughn III",
+      "school": "MVT",
+      "mark": "14.70"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Isiah Rucker",
+      "school": "OAK",
+      "mark": "14.77"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Shawn Getzen",
+      "school": "DGH",
+      "mark": "14.48"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Jaylen Day",
+      "school": "HDG",
+      "mark": "15.95"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Vaughn DeVaughn III",
+      "school": "MVT",
+      "mark": "14.11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Arthur Core",
+      "school": "FRE",
+      "mark": "14.53"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2022,
+      "classification": "2A",
+      "name": "John Tatum IV",
+      "school": "OAK",
+      "mark": "14.75"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Jaden Shelton",
+      "school": "MAR",
+      "mark": "14.05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Joseph DeRosier",
+      "school": "OLM",
+      "mark": "14.54"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Domenion Jacobs",
+      "school": "HUN",
+      "mark": "14.48"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Kemond Felder",
+      "school": "MDU",
+      "mark": "14.63"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Ojigwe Olua",
+      "school": "WTE",
+      "mark": "14.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Justin DeVaughn",
+      "school": "MVT",
+      "mark": "13.91"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Jevonte Williams",
+      "school": "DGH",
+      "mark": "14.32"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Joseph Blake",
+      "school": "PKS",
+      "mark": "14.75"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Ojigwe Olua",
+      "school": "WTE",
+      "mark": "14.46"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Justin DeVaughn",
+      "school": "MVT",
+      "mark": "13.78"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Gabriel Murray",
+      "school": "OAK",
+      "mark": "13.85"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Khory Reevey",
+      "school": "HVT",
+      "mark": "14.44"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Ojigwe Olua",
+      "school": "WTE",
+      "mark": "14.43"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1959,
+      "classification": "A",
+      "name": "Bob Borth",
+      "school": "BCC",
+      "mark": "20.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1960,
+      "classification": "A",
+      "name": "Jim O'Neill",
+      "school": "MTB",
+      "mark": "20.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1961,
+      "classification": "AA",
+      "name": "Ed Bury",
+      "school": "KEN",
+      "mark": "20.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1961,
+      "classification": "A",
+      "name": "Hall",
+      "school": "OXH",
+      "mark": "22.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1961,
+      "classification": "B",
+      "name": "Sam Smith",
+      "school": "WLK",
+      "mark": "22.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1962,
+      "classification": "AA",
+      "name": "Al Caron",
+      "school": "MTB",
+      "mark": "20.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1962,
+      "classification": "A",
+      "name": "Joe Campitelli",
+      "school": "FRA",
+      "mark": "20.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1962,
+      "classification": "B",
+      "name": "William Cain",
+      "school": "Sollers Point",
+      "mark": "21.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1962,
+      "classification": "C",
+      "name": "Edwards",
+      "school": "Central Cons.",
+      "mark": "22.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1963,
+      "classification": "AA",
+      "name": "Brian Wright",
+      "school": "RMT",
+      "mark": "19.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1963,
+      "classification": "A",
+      "name": "Bill Dickerson",
+      "school": "FAH",
+      "mark": "19.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1963,
+      "classification": "B",
+      "name": "Hall",
+      "school": "Salisbury",
+      "mark": "21.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1963,
+      "classification": "C",
+      "name": "Hopkins",
+      "school": "CLR",
+      "mark": "22.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1964,
+      "classification": "AA",
+      "name": "Brian Wright",
+      "school": "RMT",
+      "mark": "19.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1964,
+      "classification": "A",
+      "name": "Steve Berry",
+      "school": "BOO",
+      "mark": "20.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1964,
+      "classification": "B",
+      "name": "Jerry Alston",
+      "school": "Sollers Point",
+      "mark": "21.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1964,
+      "classification": "C",
+      "name": "Van Johnson",
+      "school": "Tubman",
+      "mark": "20.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1965,
+      "classification": "AA",
+      "name": "Ricky Ruff",
+      "school": "BAR",
+      "mark": "20.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1965,
+      "classification": "A",
+      "name": "Don Carter",
+      "school": "BEA",
+      "mark": "20.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1965,
+      "classification": "B",
+      "name": "Bill Darling",
+      "school": "NCN",
+      "mark": "19.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1965,
+      "classification": "C",
+      "name": "Emerson Jones",
+      "school": "NDC",
+      "mark": "20.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1966,
+      "classification": "AA",
+      "name": "Ricky Ruff",
+      "school": "BAR",
+      "mark": "19.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1966,
+      "classification": "A",
+      "name": "Mike Gray",
+      "school": "GAI",
+      "mark": "20.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1966,
+      "classification": "B",
+      "name": "Emerson Jones",
+      "school": "NDC",
+      "mark": "19.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1966,
+      "classification": "C",
+      "name": "Randy Jones",
+      "school": "Somerset",
+      "mark": "21.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1967,
+      "classification": "AA",
+      "name": "Ricky Ruff",
+      "school": "BAR",
+      "mark": "19.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1967,
+      "classification": "A",
+      "name": "Mickey Furcron",
+      "school": "WCH",
+      "mark": "19.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1967,
+      "classification": "B",
+      "name": "Butch Mathews",
+      "school": "CAM",
+      "mark": "21.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1967,
+      "classification": "C",
+      "name": "Wilbur Commodore",
+      "school": "Garnett",
+      "mark": "19.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1968,
+      "classification": "AA",
+      "name": "Joe Bryan",
+      "school": "AEI",
+      "mark": "19.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1968,
+      "classification": "A",
+      "name": "Chuck Foreman",
+      "school": "FRE",
+      "mark": "19.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1968,
+      "classification": "B",
+      "name": "Randy Brecheiser",
+      "school": "STD",
+      "mark": "20.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1968,
+      "classification": "C",
+      "name": "Cliff Creighton",
+      "school": "NDC",
+      "mark": "20.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1969,
+      "classification": "AA",
+      "name": "Steve DeMedicis",
+      "school": "CRO",
+      "mark": "19.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1969,
+      "classification": "A",
+      "name": "Chris Brown",
+      "school": "SUR",
+      "mark": "20.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1969,
+      "classification": "B",
+      "name": "Reginald Greene",
+      "school": "FAH",
+      "mark": "20.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1969,
+      "classification": "C",
+      "name": "Pickney",
+      "school": "Sasscer",
+      "mark": "21.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1970,
+      "classification": "AA",
+      "name": "Steve DeMedicis",
+      "school": "CRO",
+      "mark": "19.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1970,
+      "classification": "A",
+      "name": "Charles Johnson",
+      "school": "FAH",
+      "mark": "19.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1970,
+      "classification": "B",
+      "name": "Tom Riley",
+      "school": "NHF",
+      "mark": "19.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1970,
+      "classification": "C",
+      "name": "John Erickson",
+      "school": "FRD",
+      "mark": "212.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1971,
+      "classification": "AA",
+      "name": "Wendell Belt",
+      "school": "ARU",
+      "mark": "19.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1971,
+      "classification": "A",
+      "name": "Charles Johnson",
+      "school": "FAH",
+      "mark": "19.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1971,
+      "classification": "B",
+      "name": "Earl Garrison",
+      "school": "SHE",
+      "mark": "19.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1971,
+      "classification": "C",
+      "name": "Robert Ericson",
+      "school": "FRD",
+      "mark": "21.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1972,
+      "classification": "AA",
+      "name": "Jeff Nichols",
+      "school": "BOW",
+      "mark": "20.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1972,
+      "classification": "A",
+      "name": "Carl Jones",
+      "school": "WIC",
+      "mark": "20.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1972,
+      "classification": "B",
+      "name": "Carl Kirksey",
+      "school": "FAH",
+      "mark": "19.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1972,
+      "classification": "C",
+      "name": "Eddie Mitchell",
+      "school": "SMI",
+      "mark": "20.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Al Jackson",
+      "school": "BOW",
+      "mark": "19.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1973,
+      "classification": "A",
+      "name": "Chuck Wills",
+      "school": "GTJ",
+      "mark": "19.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1973,
+      "classification": "B",
+      "name": "Clarence Rich",
+      "school": "FAH",
+      "mark": "19.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "180 Yard Low Hurdles",
+      "year": 1973,
+      "classification": "C",
+      "name": "Denny Remsburg",
+      "school": "WLK",
+      "mark": "21.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Don McFarland",
+      "school": "ANN",
+      "mark": "39.4y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1974,
+      "classification": "A",
+      "name": "Dave Wilson",
+      "school": "FTH",
+      "mark": "39.2y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1974,
+      "classification": "B",
+      "name": "Clarence Franklin",
+      "school": "FAH",
+      "mark": "38.4y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1974,
+      "classification": "C",
+      "name": "V. Taylor",
+      "school": "HDG",
+      "mark": "41.8y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Packy Jennings",
+      "school": "WWH",
+      "mark": "39.1y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1975,
+      "classification": "A",
+      "name": "Clarence Franklin",
+      "school": "FAH",
+      "mark": "37.8y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1975,
+      "classification": "B",
+      "name": "Mike Grant",
+      "school": "ROC",
+      "mark": "39.0y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1975,
+      "classification": "C",
+      "name": "Herr",
+      "school": "POO",
+      "mark": "39.8y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Mike Holston",
+      "school": "BLA",
+      "mark": "38.4y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Wes Bilenki",
+      "school": "NEA",
+      "mark": "38.4y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1976,
+      "classification": "A",
+      "name": "Steve Trimble",
+      "school": "FTH",
+      "mark": "38.2y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1976,
+      "classification": "B",
+      "name": "Bill Gwynn",
+      "school": "CEN",
+      "mark": "39.7y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1976,
+      "classification": "C",
+      "name": "Ron Beard",
+      "school": "MID",
+      "mark": "40.7y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Garland Davis",
+      "school": "WCH",
+      "mark": "39.5y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1977,
+      "classification": "A",
+      "name": "Brian Gross",
+      "school": "THS",
+      "mark": "39.2y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1977,
+      "classification": "B",
+      "name": "Jones",
+      "school": "SEV",
+      "mark": "39.0y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1977,
+      "classification": "C",
+      "name": "Cliff Winston",
+      "school": "OAK",
+      "mark": "39.8y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Vince Baxiavanos",
+      "school": "PEH",
+      "mark": "38.7y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1978,
+      "classification": "A",
+      "name": "John Wallace",
+      "school": "FAH",
+      "mark": "39.3y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1978,
+      "classification": "B",
+      "name": "Marvin Kelley",
+      "school": "JMB",
+      "mark": "38.4y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1978,
+      "classification": "C",
+      "name": "Pete Duncan",
+      "school": "STD",
+      "mark": "39.2y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Quain Prather",
+      "school": "DUV",
+      "mark": "40.0y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1979,
+      "classification": "A",
+      "name": "John Wallace",
+      "school": "FAH",
+      "mark": "38.3y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1979,
+      "classification": "B",
+      "name": "Tom Griffin",
+      "school": "JMB",
+      "mark": "40.1y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1979,
+      "classification": "C",
+      "name": "Bas Prins",
+      "school": "MDU",
+      "mark": "41.5y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Rodney Dyer",
+      "school": "LAR",
+      "mark": "37.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1980,
+      "classification": "A",
+      "name": "Anthony McLean",
+      "school": "CEN",
+      "mark": "38.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1980,
+      "classification": "B",
+      "name": "Tyrone Jones",
+      "school": "NOC",
+      "mark": "40.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1980,
+      "classification": "C",
+      "name": "Ricky Harris",
+      "school": "FSK",
+      "mark": "40.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Les Speight",
+      "school": "OLM",
+      "mark": "37.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1981,
+      "classification": "A",
+      "name": "Brad Hansen",
+      "school": "AEI",
+      "mark": "38.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1981,
+      "classification": "B",
+      "name": "David Grear",
+      "school": "SPP",
+      "mark": "39.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1981,
+      "classification": "C",
+      "name": "Dave Roller",
+      "school": "WLK",
+      "mark": "40.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Barry Fikes",
+      "school": "CRO",
+      "mark": "38.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1982,
+      "classification": "A",
+      "name": "Wayne Newbold",
+      "school": "DUV",
+      "mark": "39.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1982,
+      "classification": "B",
+      "name": "Bertram Chew",
+      "school": "CAL",
+      "mark": "39.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1982,
+      "classification": "C",
+      "name": "Wilson",
+      "school": "CLR",
+      "mark": "40.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Eric Holland",
+      "school": "LAR",
+      "mark": "38.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1983,
+      "classification": "A",
+      "name": "Toussaint Holland",
+      "school": "THS",
+      "mark": "38.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1983,
+      "classification": "B",
+      "name": "Tom Jackson",
+      "school": "KTC",
+      "mark": "39.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1983,
+      "classification": "C",
+      "name": "Henry",
+      "school": "HDG",
+      "mark": "41.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Marcus Butler",
+      "school": "WOO",
+      "mark": "39.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1984,
+      "classification": "A",
+      "name": "Gary Kilgore",
+      "school": "CEN",
+      "mark": "38.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1984,
+      "classification": "B",
+      "name": "Marco Kornegay",
+      "school": "HOW",
+      "mark": "39.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1984,
+      "classification": "C",
+      "name": "Steve Shifflett",
+      "school": "SMI",
+      "mark": "40.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Marcus Butler",
+      "school": "WOO",
+      "mark": "38.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1985,
+      "classification": "A",
+      "name": "George Henson",
+      "school": "FRA",
+      "mark": "39.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1985,
+      "classification": "B",
+      "name": "Purnell",
+      "school": "CSD",
+      "mark": "39.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1985,
+      "classification": "C",
+      "name": "Steve Shifflett",
+      "school": "SMI",
+      "mark": "39.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Marcus Butler",
+      "school": "WOO",
+      "mark": "38.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1986,
+      "classification": "A",
+      "name": "Ken MacLean",
+      "school": "FRE",
+      "mark": "38.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1986,
+      "classification": "B",
+      "name": "John Clark",
+      "school": "WIL",
+      "mark": "39.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1986,
+      "classification": "C",
+      "name": "Mark Brown",
+      "school": "EAS",
+      "mark": "39.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Andre Smith",
+      "school": "LAR",
+      "mark": "38.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1987,
+      "classification": "A",
+      "name": "Jason Clarke",
+      "school": "CHA",
+      "mark": "40.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1987,
+      "classification": "B",
+      "name": "Chris Baugh",
+      "school": "OAK",
+      "mark": "39.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1987,
+      "classification": "C",
+      "name": "Frank Cox",
+      "school": "CTT",
+      "mark": "40.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Jerry Robinson",
+      "school": "GLB",
+      "mark": "38.23"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1988,
+      "classification": "A",
+      "name": "Danny Johnson",
+      "school": "LAU",
+      "mark": "39.20"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1988,
+      "classification": "B",
+      "name": "Howard Thompson",
+      "school": "JMB",
+      "mark": "40.60"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1988,
+      "classification": "C",
+      "name": "Frank Cox",
+      "school": "CTT",
+      "mark": "39.00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Jerome Leake",
+      "school": "SUI",
+      "mark": "39.30"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Tim Rivenbacrk",
+      "school": "SHE",
+      "mark": "39.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Joe Evans",
+      "school": "WIC",
+      "mark": "41.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1989,
+      "classification": "1A",
+      "name": "James Brown",
+      "school": "HDG",
+      "mark": "40.00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Kevin Jordan",
+      "school": "HPT",
+      "mark": "38.47"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Adam Popielarcheck",
+      "school": "LAC",
+      "mark": "39.11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Derrick Terry",
+      "school": "EDG",
+      "mark": "39.98"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Dwyane Everts",
+      "school": "WIL",
+      "mark": "40.19"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Eric Wilson",
+      "school": "WOO",
+      "mark": "39.07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Todd Churco",
+      "school": "LIN",
+      "mark": "40.16"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Shelton Ford",
+      "school": "FAH",
+      "mark": "39.87"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Kirk Lindsay",
+      "school": "FSK",
+      "mark": "39.63"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Rocky McMillan",
+      "school": "OLM",
+      "mark": "38.60"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Jason Fullmer",
+      "school": "SRI",
+      "mark": "38.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Tyrone Watkins",
+      "school": "CEN",
+      "mark": "39.60"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Heath Crone",
+      "school": "SMI",
+      "mark": "39.70"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Ernest Payton",
+      "school": "SUI",
+      "mark": "38.87"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Jason Fullmer",
+      "school": "SRI",
+      "mark": "38.74"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Robert Sharps",
+      "school": "HAM",
+      "mark": "40.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Phil Wade",
+      "school": "BOO",
+      "mark": "41.23"
+    }
+  ]
+}

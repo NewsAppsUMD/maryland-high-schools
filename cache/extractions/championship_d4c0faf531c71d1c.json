@@ -1,0 +1,1017 @@
+{
+  "meta": {
+    "extractor": "championship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      23,
+      24
+    ],
+    "extracted_at": "2026-08-02T19:28:44Z",
+    "manual_correction": "champion_school typo 'Oakland MIlls' -> 'Oakland Mills' (Girls Indoor Track 1998 2A-1A)."
+  },
+  "rows": [
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1977,
+      "classification": "AA",
+      "champion_school": "Severna Park",
+      "champion_coach": "Dick Barto",
+      "finalist_school": "Crossland",
+      "finalist_coach": "Lindsay Thomas",
+      "score": "40.33-33"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1977,
+      "classification": "ABC",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Walter Johnson",
+      "finalist_coach": "Al Bellman",
+      "score": "51-35"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1978,
+      "classification": "AA",
+      "champion_school": "Crossland",
+      "champion_coach": "Larry Layman",
+      "finalist_school": "Severna Park",
+      "finalist_coach": "Don Gregg",
+      "score": "89-33"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1978,
+      "classification": "ABC",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Ralph White",
+      "finalist_school": "Central-PG",
+      "finalist_coach": "Dennis Green",
+      "score": "62-48"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1979,
+      "classification": "AA",
+      "champion_school": "Crossland",
+      "champion_coach": "Larry Layman",
+      "finalist_school": "Dulaney",
+      "finalist_coach": "Kathy Schmidt",
+      "score": "44-38"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1979,
+      "classification": "ABC",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Ralph White",
+      "finalist_school": "Central-PG",
+      "finalist_coach": "Dennis Green",
+      "score": "63-56"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1980,
+      "classification": "AA",
+      "champion_school": "Crossland",
+      "champion_coach": "Larry Layman",
+      "finalist_school": "Eleanor Roosevelt",
+      "finalist_coach": "Sandra Serf",
+      "score": "55-44"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1980,
+      "classification": "A",
+      "champion_school": "B-CC",
+      "champion_coach": "Kerry Ward",
+      "finalist_school": "Central-PG",
+      "finalist_coach": "Ed Bowie",
+      "score": "68-55.5"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1980,
+      "classification": "B-C",
+      "champion_school": "Frederick",
+      "champion_coach": "Jack Griffin",
+      "finalist_school": "Hereford",
+      "finalist_coach": "Elma Fromm",
+      "score": "81-49"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1981,
+      "classification": "AA",
+      "champion_school": "Friendly",
+      "champion_coach": "John Gretz",
+      "finalist_school": "Bladensburg",
+      "finalist_coach": "Tom Rogers",
+      "score": "56-50"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1981,
+      "classification": "A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Seneca Valley",
+      "finalist_coach": "Steve Robertson",
+      "score": "94.5-56"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1981,
+      "classification": "B-C",
+      "champion_school": "Frederick",
+      "champion_coach": "Jack Griffin",
+      "finalist_school": "Centennial",
+      "finalist_coach": "Bruce Smith",
+      "score": null
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1982,
+      "classification": "AA",
+      "champion_school": "Crossland",
+      "champion_coach": "Bill Smith",
+      "finalist_school": "Dulaney",
+      "finalist_coach": "Kathy Schmidt",
+      "score": "68-45"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1982,
+      "classification": "A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Fairmont Heights",
+      "finalist_coach": "Ron Anderson",
+      "score": "112-54"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1982,
+      "classification": "B-C",
+      "champion_school": "Frederick",
+      "champion_coach": "Jack Griffin",
+      "finalist_school": "Middletown",
+      "finalist_coach": "Don Boyer",
+      "score": "66-33"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1983,
+      "classification": "AA",
+      "champion_school": "Crossland",
+      "champion_coach": "Bill Smith",
+      "finalist_school": "Largo",
+      "finalist_coach": "Ray McGinnis",
+      "score": "67-54"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1983,
+      "classification": "A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Catonsville",
+      "finalist_coach": "Judy Boire",
+      "score": "117-56"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1983,
+      "classification": "B-C",
+      "champion_school": "Frederick",
+      "champion_coach": "Jack Griffin",
+      "finalist_school": "J.M. Bennett",
+      "finalist_coach": "Tom Bailey",
+      "score": "72-33.25"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1984,
+      "classification": "AA",
+      "champion_school": "Suitland",
+      "champion_coach": "Fletcher James",
+      "finalist_school": "Oxon Hill",
+      "finalist_coach": "Bernard Burns",
+      "score": "78-52"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1984,
+      "classification": "A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Catonsville",
+      "finalist_coach": "Ed Bury",
+      "score": "83-49"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1984,
+      "classification": "B-C",
+      "champion_school": "Milford Mill",
+      "champion_coach": "Carolyn Renaud",
+      "finalist_school": "Middletown",
+      "finalist_coach": "Don Boyer",
+      "score": "50-42"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1985,
+      "classification": "AA",
+      "champion_school": "Suitland",
+      "champion_coach": "Fletcher James",
+      "finalist_school": "High Point",
+      "finalist_coach": "Gary Wrenn",
+      "score": "71-36"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1985,
+      "classification": "A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "McDonough",
+      "finalist_coach": "Larry Johnson",
+      "score": "74-50"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1985,
+      "classification": "B-C",
+      "champion_school": "Milford Mill",
+      "champion_coach": "Jesse Hannon",
+      "finalist_school": "Woodward",
+      "finalist_coach": "Greg Dunston",
+      "score": "75.5-50"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1986,
+      "classification": "Comb",
+      "champion_school": "Douglass-PG",
+      "champion_coach": "Vaughn Johnson",
+      "finalist_school": "Central-PG",
+      "finalist_coach": "Ed Bowie",
+      "score": "40-36"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1987,
+      "classification": "AA",
+      "champion_school": "Northwestern-PG",
+      "champion_coach": "Mike Roberts",
+      "finalist_school": "Old Mill",
+      "finalist_coach": "Ron Evans",
+      "score": "67-61"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1987,
+      "classification": "A",
+      "champion_school": "Magruder",
+      "champion_coach": "Dan Gooden",
+      "finalist_school": "McDonough",
+      "finalist_coach": "Larry Johnson",
+      "score": "64-60"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1987,
+      "classification": "B-C",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Milford Mill",
+      "finalist_coach": "Jesse Hannon",
+      "score": "102-83"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1988,
+      "classification": "AA",
+      "champion_school": "Old Mill",
+      "champion_coach": "Ron Evans",
+      "finalist_school": "Largo",
+      "finalist_coach": "Chris Parker",
+      "score": "88-44"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1988,
+      "classification": "A",
+      "champion_school": "Linganore",
+      "champion_coach": "John Grim",
+      "finalist_school": "Douglass-PG",
+      "finalist_coach": "Vaughn Johnson",
+      "score": "98-54"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1988,
+      "classification": "B-C",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Milford Mill",
+      "finalist_coach": "Jesse Hannon",
+      "score": "94-57"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1989,
+      "classification": "4A",
+      "champion_school": "Old Mill",
+      "champion_coach": "Ron Evans",
+      "finalist_school": "Eleanor Roosevelt",
+      "finalist_coach": "Robert Stanley",
+      "score": "67-48"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1989,
+      "classification": "3A",
+      "champion_school": "Linganore",
+      "champion_coach": "John Grim",
+      "finalist_school": "Paint Branch",
+      "finalist_coach": "Ken Kave",
+      "score": "84-40"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1989,
+      "classification": "2A-1A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Centennial",
+      "finalist_coach": "Dale Huting",
+      "score": "92-42"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1990,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Diane Gentile",
+      "finalist_school": "Oxon Hill",
+      "finalist_coach": "Bernard Burns",
+      "score": "70-53"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1990,
+      "classification": "3A",
+      "champion_school": "Linganore",
+      "champion_coach": "John Grim",
+      "finalist_school": "Bladensburg",
+      "finalist_coach": "Darryl Hamilton",
+      "score": "62.5-40"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1990,
+      "classification": "2A-1A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Hammond",
+      "finalist_coach": "Pete Hughes",
+      "score": "98-42"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1991,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Debbie McCracken",
+      "finalist_school": "Meade",
+      "finalist_coach": "Jay Cuthbert",
+      "score": "67-44"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1991,
+      "classification": "3A",
+      "champion_school": "Linganore",
+      "champion_coach": "John Grim",
+      "finalist_school": "Catonsville",
+      "finalist_coach": "Jeff McDaniel",
+      "score": "48-47"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1991,
+      "classification": "2A-1A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Hammond",
+      "finalist_coach": "Pete Hughes",
+      "score": "95.33-48"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1992,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Dulaney",
+      "finalist_coach": "Bob Dean",
+      "score": "87-39"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1992,
+      "classification": "3A",
+      "champion_school": "Bladensburg & Catonsville",
+      "champion_coach": "Darryl Hamilton & Jeff McDaniels",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "61-61",
+      "co_champion": true
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1992,
+      "classification": "2A-1A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Hammond",
+      "finalist_coach": "Pete Hughes",
+      "score": "94.3-50.3"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1993,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Old Mill",
+      "finalist_coach": "Ron Evans",
+      "score": "89-56"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1993,
+      "classification": "3A",
+      "champion_school": "Watkins Mill",
+      "champion_coach": "Al Bellman",
+      "finalist_school": "Linganore",
+      "finalist_coach": "John Grim",
+      "score": "49-46"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1993,
+      "classification": "2A-1A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Pete Adams",
+      "finalist_school": "Central-PG",
+      "finalist_coach": "Ed Bowie",
+      "score": "58-51"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1994,
+      "classification": "4A",
+      "champion_school": "Old Mill",
+      "champion_coach": "Mike Marcus",
+      "finalist_school": "Eleanor Roosevelt",
+      "finalist_coach": "Larry Colbert",
+      "score": "58-55"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1994,
+      "classification": "3A",
+      "champion_school": "Linganore",
+      "champion_coach": "John Grim",
+      "finalist_school": "Whitman",
+      "finalist_coach": "Mike Denny",
+      "score": "86-40"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1994,
+      "classification": "2A-1A",
+      "champion_school": "Hammond",
+      "champion_coach": "Pete Hughes",
+      "finalist_school": "Central-PG",
+      "finalist_coach": "Ed Bowie",
+      "score": "50.5-49"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1995,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Old Mill",
+      "finalist_coach": "Mike Marcus",
+      "score": "72-44.5"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1995,
+      "classification": "3A",
+      "champion_school": "Linganore",
+      "champion_coach": "John Grim",
+      "finalist_school": "Paint Branch",
+      "finalist_coach": "Ken Kave",
+      "score": "60-42"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1995,
+      "classification": "2A-1A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Vaughn Johnson",
+      "finalist_school": "Central-PG",
+      "finalist_coach": "Ed Bowie",
+      "score": "60-54"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1996,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Arundel",
+      "finalist_coach": "Tut O'Hara",
+      "score": "63-47"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1996,
+      "classification": "3A",
+      "champion_school": "Frederick",
+      "champion_coach": "Frank Strakonsky",
+      "finalist_school": "Walter Johnson",
+      "finalist_coach": "Tom Rogers",
+      "score": "80-48"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1996,
+      "classification": "2A-1A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Vaughn Johnson",
+      "finalist_school": "Central-PG",
+      "finalist_coach": "Ed Bowie",
+      "score": "72-55"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1997,
+      "classification": "4A-3A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Oxon Hill",
+      "finalist_coach": "Bernard Burns",
+      "score": "81-45"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1997,
+      "classification": "3A-2A",
+      "champion_school": "Damascus",
+      "champion_coach": "Robert Youngblood",
+      "finalist_school": "Douglass-PG",
+      "finalist_coach": "Jim Storey",
+      "score": "48-47"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1997,
+      "classification": "2A-1A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "River Hill",
+      "finalist_coach": "Norman Belden",
+      "score": "83-45"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1998,
+      "classification": "4A-3A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Quince Orchard",
+      "finalist_coach": "Jerry Link",
+      "score": "56-44"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1998,
+      "classification": "3A-2A",
+      "champion_school": "Douglass-PG",
+      "champion_coach": "Jim Storey",
+      "finalist_school": "Thomas Johnson",
+      "finalist_coach": "Jason Anderson",
+      "score": "54-45"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1998,
+      "classification": "2A-1A",
+      "champion_school": "Oakland Mills",
+      "champion_coach": "Bryan Winfield",
+      "finalist_school": "Glenelg",
+      "finalist_coach": "Mike Selmer",
+      "score": "50-45"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1999,
+      "classification": "4A-3A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Mary Wilkins",
+      "finalist_school": "Dulaney",
+      "finalist_coach": "Don Metil",
+      "score": "71-44"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1999,
+      "classification": "3A-2A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "River Hill",
+      "finalist_coach": "Norman Belden",
+      "score": "51-41"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 1999,
+      "classification": "2A-1A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Mike Selmer",
+      "finalist_school": "Middletown",
+      "finalist_coach": "Jan Zeltwanger",
+      "score": "69-43"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2000,
+      "classification": "4A-3A",
+      "champion_school": "Largo",
+      "champion_coach": "Darryl Hamilton",
+      "finalist_school": "Dulaney",
+      "finalist_coach": "Don Metil",
+      "score": "65-54"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2000,
+      "classification": "3A-2A",
+      "champion_school": "Central-PG & Long Reach",
+      "champion_coach": "Ed Bowie & Joe Thomas",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "56-56",
+      "co_champion": true
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2000,
+      "classification": "2A-1A",
+      "champion_school": "Oakland Mills",
+      "champion_coach": "Bryan Winfield",
+      "finalist_school": "Middletown",
+      "finalist_coach": "Jen Zeltwanger",
+      "score": "88.5-57.75"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2001,
+      "classification": "4A-3A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Katrina Allen",
+      "finalist_school": "Largo",
+      "finalist_coach": "Darryl Hamilton",
+      "score": "65-51"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2001,
+      "classification": "3A-2A",
+      "champion_school": "Long Reach",
+      "champion_coach": "Leslie Thomas",
+      "finalist_school": "River Hill",
+      "finalist_coach": "Norman Belden",
+      "score": "43-33"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2001,
+      "classification": "2A-1A",
+      "champion_school": "Poolesville",
+      "champion_coach": "Scott Mathias",
+      "finalist_school": "Middletown",
+      "finalist_coach": "Jen Zeltwanger",
+      "score": "53-45"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2002,
+      "classification": "4A-3A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Katrina Allen",
+      "finalist_school": "Largo",
+      "finalist_coach": "Darryl Hamilton",
+      "score": "73-56"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2002,
+      "classification": "3A-2A",
+      "champion_school": "Milford Mill",
+      "champion_coach": "Mike Jones",
+      "finalist_school": "Mount Hebron",
+      "finalist_coach": "Christine Rosendorf",
+      "score": "43.5-38"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2002,
+      "classification": "2A-1A",
+      "champion_school": "Poolesville",
+      "champion_coach": "Scott Mathias",
+      "finalist_school": "Glenelg",
+      "finalist_coach": "Mike Selmer",
+      "score": "69-48"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2003,
+      "classification": "4A-3A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Largo",
+      "finalist_coach": "Darryl Hamilton",
+      "score": "62-58"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2003,
+      "classification": "3A-2A",
+      "champion_school": "Milford Mill",
+      "champion_coach": "Sharon Johnson",
+      "finalist_school": "Bethesda-CC",
+      "finalist_coach": "Tim Gilmore",
+      "score": "47-30"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2003,
+      "classification": "2A-1A",
+      "champion_school": "Poolesville",
+      "champion_coach": "Scott Mathias",
+      "finalist_school": "Glenelg",
+      "finalist_coach": "Mike Selmer",
+      "score": "88-26"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2004,
+      "classification": "4A-3A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Charles H. Flowers",
+      "finalist_coach": "Carlyle Rose",
+      "score": "93-48"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2004,
+      "classification": "3A-2A",
+      "champion_school": "Westlake",
+      "champion_coach": "Beth Shook",
+      "finalist_school": "Mount Hebron",
+      "finalist_coach": "Mark Reedy",
+      "score": "50-35"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2004,
+      "classification": "2A-1A",
+      "champion_school": "Poolesville",
+      "champion_coach": "Scott Mathias",
+      "finalist_school": "Boonsboro",
+      "finalist_coach": "Jason Orendi",
+      "score": "83-36.33"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2005,
+      "classification": "4A-3A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Largo",
+      "finalist_coach": "Darryl Hamilton",
+      "score": "95-53"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2005,
+      "classification": "3A-2A",
+      "champion_school": "Fallston",
+      "champion_coach": "Dave Fender",
+      "finalist_school": "Mergenthaler",
+      "finalist_coach": "Ron Neal",
+      "score": "46-38"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2005,
+      "classification": "2A-1A",
+      "champion_school": "Edmondson",
+      "champion_coach": "Amili Lumumba",
+      "finalist_school": "Atholton",
+      "finalist_coach": "Brian Funk",
+      "score": "60-48"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2006,
+      "classification": "4A-3A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Largo",
+      "finalist_coach": "Darryl Hamilton",
+      "score": "89-62"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2006,
+      "classification": "3A-2A",
+      "champion_school": "Linganore",
+      "champion_coach": "John Grim/Alvin Pridgeon",
+      "finalist_school": "J. M. Bennett",
+      "finalist_coach": "Michael Orr",
+      "score": "40-37"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2006,
+      "classification": "2A-1A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Poolesville",
+      "finalist_coach": "Scott Mathias",
+      "score": "52-38"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2007,
+      "classification": "4A-3A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Desmond Dunham",
+      "finalist_school": "Winston Churchill",
+      "finalist_coach": "Scott Silverstein",
+      "score": "82-50"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2007,
+      "classification": "3A-2A",
+      "champion_school": "North Carroll",
+      "champion_coach": "Jim MacDonald",
+      "finalist_school": "Annapolis",
+      "finalist_coach": "Brian Brown",
+      "score": "50-34"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2007,
+      "classification": "2A-1A",
+      "champion_school": "Digital Harbor",
+      "champion_coach": "Lutalo Bakari/S. Darby",
+      "finalist_school": "Poolesville",
+      "finalist_coach": "Bryan Blessing",
+      "score": "50-43"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2008,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Desmond Dunham",
+      "finalist_school": "Charles H. FLowers",
+      "finalist_coach": "Carlyle Rose",
+      "score": "88-50"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2008,
+      "classification": "3A",
+      "champion_school": "Bethesda-CC",
+      "champion_coach": "Nathan Herchenroeder",
+      "finalist_school": "Westlake",
+      "finalist_coach": "Beth Shook",
+      "score": "43-42"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2008,
+      "classification": "2A",
+      "champion_school": "Middletown",
+      "champion_coach": "Frank Davis",
+      "finalist_school": "Loch Raven",
+      "finalist_coach": "Adam Hittner",
+      "score": "48-31"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2008,
+      "classification": "1A",
+      "champion_school": "Poolesville",
+      "champion_coach": "Mike Trumbeull",
+      "finalist_school": "Williamsport",
+      "finalist_coach": "Cindy Mease",
+      "score": "53-51"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2009,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Gregory Johnson",
+      "finalist_school": "Oxon Hill",
+      "finalist_coach": "Walter Cross",
+      "score": "95-59"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2009,
+      "classification": "3A",
+      "champion_school": "Paint Branch",
+      "champion_coach": "Lynette Hopkins",
+      "finalist_school": "Hereford",
+      "finalist_coach": "Sam Bowen",
+      "score": "54-51"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2009,
+      "classification": "2A",
+      "champion_school": "Middletown",
+      "champion_coach": "Frank Davis",
+      "finalist_school": "River Hill",
+      "finalist_coach": "Earl Lauer",
+      "score": "68-60"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2009,
+      "classification": "1A",
+      "champion_school": "Williamsport",
+      "champion_coach": "John Bailey",
+      "finalist_school": "Digital Harbor",
+      "finalist_coach": "Lutalo Bakari",
+      "score": "78.5-73"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2010,
+      "classification": "4A",
+      "champion_school": "Charles H. Flowers",
+      "champion_coach": "Carlyle Rose",
+      "finalist_school": "Northwest",
+      "finalist_coach": "Beth Muehl",
+      "score": "66-56"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2010,
+      "classification": "3A",
+      "champion_school": "Western-B",
+      "champion_coach": "Alicia Williams",
+      "finalist_school": "Damascus",
+      "finalist_coach": "Robert Youngblood",
+      "score": "51-50"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2010,
+      "classification": "2A",
+      "champion_school": "Century",
+      "champion_coach": "Anthony Griner",
+      "finalist_school": "North Hagerstown",
+      "finalist_coach": "Lindsey Zerance",
+      "score": "47.5-45"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "year": 2010,
+      "classification": "1A",
+      "champion_school": "Western STES",
+      "champion_coach": "Amy Horvitz",
+      "finalist_school": "Smithsburg",
+      "finalist_coach": "Ray Shriver",
+      "score": "62-58"
+    }
+  ]
+}

@@ -5,20 +5,46 @@ to verify that classifiers and parsers work across all three seasons.
 No LLM calls are made; only deterministic (regex/logic) code is tested.
 """
 
+import json
+
 import pytest
 from pypdf import PdfReader
 
 from parse_record_book import (
+    CACHE_DIR,
+    CHUNK_SIZES,
+    DEDUP_KEYS,
+    EXTRACTORS,
+    FALL_SECTIONS,
+    MODEL_ID,
+    PROVENANCE_FIELDS,
+    SPRING_SECTIONS,
+    WINTER_SECTIONS,
+    _cache_key,
+    _cache_path,
+    _divider_candidates,
+    _golf_prompt,
+    _normalize_quotes,
+    _stamp,
+    cached_extract,
     chunked,
+    classify_page,
+    dedup,
+    detect_dividers,
     detect_season,
+    find_sections,
     is_golf_results,
     is_individual_results,
     is_individual_xc,
     is_multicolumn_results,
     is_school_records,
     is_sportsmanship,
+    is_wrestling_weightclass,
     is_year_class_table,
+    load_page_titles,
+    load_pages,
     parse_school_records,
+    write_csv,
 )
 
 # ── Helpers to load real PDF pages ────────────────────────────────────────────
@@ -53,12 +79,17 @@ class TestChunked:
     def test_single_element(self):
         assert chunked(["a"], 4) == [["a"]]
 
-    def test_exact_fit(self):
-        # Default overlap=1, so step=3 for size=4 → two chunks
-        assert chunked([1, 2, 3, 4], 4) == [[1, 2, 3, 4], [4]]
+    def test_default_is_non_overlapping(self):
+        # overlap now defaults to 0: a size-4 list fits in one chunk (no trailing
+        # duplicate). The old overlap=1 default extracted interior pages twice.
+        assert chunked([1, 2, 3, 4], 4) == [[1, 2, 3, 4]]
 
     def test_exact_fit_no_overlap(self):
         assert chunked([1, 2, 3, 4], 4, overlap=0) == [[1, 2, 3, 4]]
+
+    def test_non_overlapping_step(self):
+        result = chunked([1, 2, 3, 4, 5, 6], 2)
+        assert result == [[1, 2], [3, 4], [5, 6]]
 
     def test_overlap(self):
         result = chunked([1, 2, 3, 4, 5, 6], 4, overlap=1)
@@ -72,6 +103,40 @@ class TestChunked:
         # overlap >= size → step=max(1,1)=1, sliding window with trailing partial
         result = chunked([1, 2, 3], 2, overlap=2)
         assert result == [[1, 2], [2, 3], [3]]
+
+    def test_dense_pages_chunked_singly(self):
+        # Individual results / XC / golf use CHUNK=1 so Haiku sees one dense page
+        # at a time (where it otherwise drops rows).
+        for route in ("individual_xc", "individual_results", "golf"):
+            assert CHUNK_SIZES[route] == 1
+        assert CHUNK_SIZES["championship"] == 2
+
+
+# ── Quote normalization ────────────────────────────────────────────────────────
+
+
+class TestNormalizeQuotes:
+    def test_curly_single_quotes(self):
+        assert _normalize_quotes("Queen Anne’s") == "Queen Anne's"
+        assert _normalize_quotes("‘tie’") == "'tie'"
+
+    def test_curly_double_quotes(self):
+        assert _normalize_quotes("“Champion”") == '"Champion"'
+
+    def test_leaves_ascii_and_other_unicode_untouched(self):
+        # em-dash is a legitimate dot-leader/separator glyph used throughout
+        # the source PDFs (e.g. "Whitman—68"); normalization must not
+        # touch it, and plain ASCII apostrophes must pass through unchanged.
+        assert _normalize_quotes("O'Donnell") == "O'Donnell"
+        assert _normalize_quotes("Northern—C") == "Northern—C"
+
+    def test_load_pages_normalizes(self, tmp_path):
+        # Regression guard for the school-identity bug: parse_school_records
+        # (regex) and the LLM extractors must see identical apostrophes, or
+        # "Queen Anne's" silently splits into two unmatched school names
+        # across championship_results.csv and school_records.csv.
+        pages = load_pages(FALL_PDF)
+        assert not any("’" in p or "‘" in p for p in pages)
 
 
 # ── Page classifiers on synthetic text ────────────────────────────────────────
@@ -157,8 +222,17 @@ class TestClassifiersSynthetic:
     def test_detect_season_spring(self):
         assert detect_season("pdfs/Spring record book 2025.pdf") == "spring"
 
-    def test_detect_season_default(self):
-        assert detect_season("pdfs/unknown.pdf") == "fall"
+    def test_detect_season_raises_on_unknown(self):
+        # Silently defaulting to fall would let a mis-named PDF clobber data/fall/.
+        with pytest.raises(ValueError):
+            detect_season("pdfs/unknown.pdf")
+
+    def test_detect_season_override(self):
+        assert detect_season("pdfs/unknown.pdf", override="winter") == "winter"
+
+    def test_detect_season_override_validates(self):
+        with pytest.raises(ValueError):
+            detect_season("pdfs/FallRecordBook2024.pdf", override="summer")
 
 
 # ── Page classifiers on real Fall PDF pages ──────────────────────────────────
@@ -185,9 +259,32 @@ class TestClassifiersFall:
         # Page 50 has golf results
         assert is_golf_results(fall_pages[50])
 
+    def test_golf_results_split_era(self, fall_pages):
+        # Pages 51-52 use "Team Champion 1A/2A..........School" split-era headers
+        # that the old regex (dots right after "Team Champion") dropped — the
+        # root cause of golf stopping at 1994.
+        assert is_golf_results(fall_pages[51])
+        assert is_golf_results(fall_pages[52])
+
     def test_sportsmanship(self, fall_pages):
         # Page 65 has soccer sportsmanship awards
         assert is_sportsmanship(fall_pages[65])
+
+    def test_championship_prompt_distinguishes_tie_from_tiebreaker(self, fall_pages):
+        # Boys XC 1968 A is a genuine tie (Winston Churchill & Central-PG both 98,
+        # no tie-breaker note) → must be extracted as co-champions. Girls XC 1994
+        # 2A is the same score pattern BUT carries a "sixth girl tie-breaker" note
+        # → one champion (Damascus), Catonsville is the finalist. The prompt must
+        # teach the LLM the difference so genuine ties are preserved as co-champions
+        # while tie-breaker-decided ties stay a single champion.
+        from parse_record_book import _championship_prompt
+        # A page that contains both patterns: Boys XC 1968 and Girls XC 1994.
+        # The Girls XC championship pages hold the 1994 tie-breaker row.
+        prompt, _ = _championship_prompt([fall_pages[9]], "Girls Cross Country")
+        assert "CO-CHAMPIONS" in prompt
+        assert "Tie-breaker-decided tie" in prompt
+        assert "Winston Churchill & Central-PG" in prompt
+        assert "tie-breaker" in prompt.lower()
 
 
 # ── Page classifiers on real Winter PDF pages ────────────────────────────────
@@ -233,6 +330,92 @@ class TestClassifiersWinter:
     def test_individual_results_swimming(self, winter_pages):
         # Page 65 has swimming individual event champions
         assert is_individual_results(winter_pages[65])
+
+    def test_wrestling_weightclass_detected(self, winter_pages):
+        # Page 81 (idx 80) has Wrestling weight-class champions (106 lbs, 2012+).
+        assert is_wrestling_weightclass(winter_pages[80])
+
+    def test_wrestling_weightclass_continuation(self, winter_pages):
+        # Page 82 (idx 81) is a "(con't.)" continuation page.
+        assert is_wrestling_weightclass(winter_pages[81])
+
+    def test_wrestling_team_championship_not_weightclass(self, winter_pages):
+        # Page 92 (idx 91) is a Girls Team State Champions table — must NOT be
+        # detected as a weight-class page (its numbers are inline scores, and
+        # its standalone page-number line is not followed by a year+name).
+        assert not is_wrestling_weightclass(winter_pages[91])
+
+    def test_wrestling_title_page_not_weightclass(self, winter_pages):
+        # Page 80 (idx 79) is the short Wrestling divider/title page.
+        assert not is_wrestling_weightclass(winter_pages[79])
+
+    def test_classify_wrestling_routes_to_individual_results(self, winter_pages):
+        # The weight-class pages should route to individual_results (and not
+        # to championship), giving the sport-aware wrestling prompt a chance.
+        routes = classify_page(winter_pages[80], "Wrestling")
+        assert "individual_results" in routes
+        assert "championship" not in routes
+
+    def test_classify_wrestling_team_page_not_individual(self, winter_pages):
+        # The Girls Team State Champions page must not be misrouted to
+        # individual_results.
+        routes = classify_page(winter_pages[91], "Wrestling")
+        assert "individual_results" not in routes
+
+    def test_wrestling_dual_meet_routes_to_championship(self, winter_pages):
+        # The MPSSAA Dual Meet Championship pages (idx 92-93) use a
+        # "YEAR/CLASS CHAMPION" header (slash, not whitespace). They must route
+        # to championship so the Dual Meet is extracted into championship_results,
+        # not dropped entirely (the gap that once left the Dual Meet only in
+        # school_records and tripped the cross-path check).
+        from parse_record_book import is_year_class_table
+        assert is_year_class_table(winter_pages[92])
+        assert is_year_class_table(winter_pages[93])
+        assert "championship" in classify_page(winter_pages[92], "Wrestling")
+        assert "championship" in classify_page(winter_pages[93], "Wrestling")
+
+    def test_championship_prompt_dual_meet_note_for_wrestling(self, winter_pages):
+        # The Wrestling championship prompt must tell the LLM about the two
+        # team championships and tag Dual Meet rows in notes so they stay
+        # distinguishable from the individual-tournament team champion rows.
+        from parse_record_book import _championship_prompt
+        prompt, _ = _championship_prompt([winter_pages[92]], "Wrestling")
+        assert "TWO separate team championships" in prompt
+        assert "Dual Meet Championship" in prompt
+
+    def test_championship_prompt_no_dual_meet_note_for_other_sports(self, winter_pages):
+        # Non-Wrestling sports must NOT get the dual-meet note.
+        from parse_record_book import _championship_prompt
+        prompt, _ = _championship_prompt([winter_pages[87]], "Boys Basketball")
+        assert "TWO separate team championships" not in prompt
+
+    def test_wrestling_prompt_boys_prefix(self, winter_pages):
+        # A boys weight-class page (idx 80) must produce a Boys-prefixed prompt
+        # so boys/girls dedup keys stay distinct.
+        from parse_record_book import _individual_results_prompt
+        prompt, _ = _individual_results_prompt([winter_pages[80]], "Wrestling")
+        assert "BOYS wrestling section" in prompt
+        assert '"Boys 106"' in prompt
+
+    def test_wrestling_prompt_girls_prefix(self, winter_pages):
+        # The girls page (idx 83) carries the "Girls Individual Champions" header
+        # and must produce a Girls-prefixed prompt.
+        from parse_record_book import _individual_results_prompt
+        prompt, _ = _individual_results_prompt([winter_pages[83]], "Wrestling")
+        assert "GIRLS wrestling section" in prompt
+        assert '"Girls 106"' in prompt
+
+    def test_sportsmanship_prompt_joins_co_winners(self, spring_pages):
+        # The Softball sportsmanship page (idx 28) lists co-winners joined by
+        # "&" (e.g. "2003—Dulaney & North County"). The prompt must instruct
+        # the LLM to emit ONE row per award with " & "-joined school, not split
+        # them into separate rows (which would collide on the coarse
+        # sportsmanship natural key).
+        from parse_record_book import _sportsmanship_prompt
+        prompt, _ = _sportsmanship_prompt([spring_pages[28]], "Softball")
+        assert "ONE row" in prompt
+        assert '" & "' in prompt
+        assert "Dulaney & North County" in prompt
 
     def test_school_records_football_uppercase(self, fall_pages):
         # Page 40 has Football school records with CH: format
@@ -494,6 +677,115 @@ class TestChampionshipDedup:
         assert self.dedup([]) == []
 
 
+# ── Classification normalization ──────────────────────────────────────────────
+
+
+class TestNormalizeClassification:
+    """_normalize_classification canonicalises LLM class-label drift.
+
+    The championship prompt asks for the bare label ("1A", "B", "Combined"),
+    but a fresh extraction sometimes copies the PDF column header ("CLASS 1A")
+    or a footnote-marked asterisk ("B*"). Both must collapse to the bare form so
+    the natural key (sport, year, classification, ...) stays stable and joins
+    by classification don't fragment.
+    """
+
+    def test_strips_class_prefix(self):
+        from parse_record_book import _normalize_classification
+        assert _normalize_classification("CLASS 1A") == "1A"
+        assert _normalize_classification("class 2a") == "2a"
+        assert _normalize_classification("Class 4A") == "4A"
+
+    def test_strips_trailing_asterisk(self):
+        from parse_record_book import _normalize_classification
+        assert _normalize_classification("B*") == "B"
+        assert _normalize_classification("C*") == "C"
+        assert _normalize_classification("D**") == "D"
+
+    def test_strips_class_prefix_and_asterisk(self):
+        from parse_record_book import _normalize_classification
+        assert _normalize_classification("CLASS 1A*") == "1A"
+
+    def test_leaves_bare_labels_unchanged(self):
+        from parse_record_book import _normalize_classification
+        for v in ["1A", "2A", "3A", "4A", "A", "AA", "B", "C", "D",
+                  "Combined", "1A/2A", "2A-1A", "B-C", "AA/A", "One Class"]:
+            assert _normalize_classification(v) == v
+
+    def test_none_and_empty_pass_through(self):
+        from parse_record_book import _normalize_classification
+        assert _normalize_classification(None) is None
+        assert _normalize_classification("") == ""
+
+    def test_collapses_surrounding_whitespace(self):
+        from parse_record_book import _normalize_classification
+        assert _normalize_classification("  CLASS 1A  ") == "1A"
+        assert _normalize_classification("  B*  ") == "B"
+
+
+class TestTagPreMpssaa:
+    """_tag_pre_mpssaa stamps notes on precursor-tournament rows by year.
+
+    Precursor tournaments (PDF sections "PRIOR TO MPSSAA SPONSORSHIP" /
+    "PRE-MPSSAA") are extracted into championship_results but are not MPSSAA
+    championships. Tagging them keeps them distinguishable and lets verify
+    exclude them from continuity/referential checks.
+    """
+
+    def test_tags_row_before_era_start(self):
+        from parse_record_book import _tag_pre_mpssaa
+        rows = [{"sport": "Field Hockey", "year": 1946, "classification": "A",
+                 "champion_school": "Towson", "notes": None}]
+        _tag_pre_mpssaa(rows)
+        assert rows[0]["notes"] == "Pre-MPSSAA"
+
+    def test_does_not_tag_row_at_or_after_era_start(self):
+        from parse_record_book import _tag_pre_mpssaa
+        rows = [
+            {"sport": "Field Hockey", "year": 1975, "classification": "AA",
+             "champion_school": "Bel Air", "notes": None},   # era start
+            {"sport": "Field Hockey", "year": 2024, "classification": "1A",
+             "champion_school": "Severna Park", "notes": None},  # after
+        ]
+        _tag_pre_mpssaa(rows)
+        assert rows[0]["notes"] is None
+        assert rows[1]["notes"] is None
+
+    def test_preserves_existing_note_with_prefix(self):
+        from parse_record_book import _tag_pre_mpssaa
+        rows = [{"sport": "Volleyball", "year": 1948, "classification": "B",
+                 "champion_school": "Bel Air", "notes": "Won by Default"}]
+        _tag_pre_mpssaa(rows)
+        assert rows[0]["notes"] == "Pre-MPSSAA; Won by Default"
+
+    def test_does_not_double_tag(self):
+        from parse_record_book import _tag_pre_mpssaa
+        rows = [{"sport": "Boys Soccer", "year": 1920, "classification": "Combined",
+                 "champion_school": "Catonsville", "notes": "Pre-MPSSAA; forfeit"}]
+        _tag_pre_mpssaa(rows)
+        assert rows[0]["notes"] == "Pre-MPSSAA; forfeit"
+
+    def test_sport_without_era_start_is_untouched(self):
+        from parse_record_book import _tag_pre_mpssaa
+        # Boys Cross Country starts at MPSSAA's 1946 founding — no precursor.
+        rows = [{"sport": "Boys Cross Country", "year": 1946, "classification": "A",
+                 "champion_school": "Catonsville", "notes": None}]
+        _tag_pre_mpssaa(rows)
+        assert rows[0]["notes"] is None
+
+    def test_skips_rows_missing_year_or_sport(self):
+        from parse_record_book import _tag_pre_mpssaa
+        rows = [
+            {"sport": "Field Hockey", "year": None, "classification": "A",
+             "champion_school": "X", "notes": None},
+            {"sport": None, "year": 1946, "classification": "A",
+             "champion_school": "X", "notes": None},
+        ]
+        _tag_pre_mpssaa(rows)
+        assert rows[0]["notes"] is None
+        assert rows[1]["notes"] is None
+
+
 # ── Cross-season classifier coverage ─────────────────────────────────────────
 
 
@@ -540,3 +832,440 @@ class TestCrossSeasonCoverage:
         assert fall_count >= 1, "Fall should have sportsmanship pages"
         assert winter_count >= 1, "Winter should have sportsmanship pages"
         assert spring_count >= 1, "Spring should have sportsmanship pages"
+
+
+# ── classify_page() routing ───────────────────────────────────────────────────
+
+
+class TestClassifyPage:
+    """The testable extraction of main()'s old if/elif routing chain."""
+
+    def test_school_records_route(self):
+        routes = classify_page("ALLEGANY\nCh: 1997, 1998\nFn: 1988", "Football")
+        assert "school_records" in routes
+
+    def test_championship_route(self):
+        routes = classify_page("YEAR CLASS CHAMPION COACH FINALIST COACH", "Football")
+        assert "championship" in routes
+
+    def test_golf_only_when_sport_is_golf(self):
+        # A stray "Team Champion......" in another sport must not route to golf.
+        golf_text = "Team Champion......Magruder (610)"
+        assert "golf" in classify_page(golf_text, "Golf")
+        assert "golf" not in classify_page(golf_text, "Football")
+
+    def test_individual_xc_route_for_cross_country(self):
+        routes = classify_page("15:07.0  2.5 MILES", "Boys Cross Country")
+        assert "individual_xc" in routes
+
+    def test_individual_results_excluded_for_cross_country(self):
+        # XC pages match is_individual_results via the MILES regex too; for XC
+        # sports they must route to individual_xc, not individual_results.
+        routes = classify_page("15:07.0  2.5 MILES", "Boys Cross Country")
+        assert "individual_results" not in routes
+
+    def test_individual_results_route(self):
+        routes = classify_page(
+            "Event: 55m Dash\nYear Class Athlete-School-Mark\n2025 4A Fred Colvin—Fairmont Heights 6.6",
+            "Boys Indoor Track",
+        )
+        assert "individual_results" in routes
+
+    def test_sportsmanship_route(self):
+        routes = classify_page("SPORTSMANSHIP AWARD\n2024 Allegany", "Football")
+        assert "sportsmanship" in routes
+
+    def test_divider_page_routes_to_nothing(self, fall_pages):
+        # The "MPSSAA Girls Cross Country Records" divider page carries no data.
+        routes = classify_page(fall_pages[3], "Girls Cross Country")
+        assert routes == set()
+
+    def test_dual_content_page_keeps_school_records(self):
+        # A page with both Ch: school-record codes and a championship table header
+        # should route to school_records AND championship.
+        text = "ALLEGANY\nCh: 1997\nYEAR CLASS CHAMPION COACH\n2024 4A Churchill"
+        routes = classify_page(text, "Football")
+        assert "school_records" in routes
+        assert "championship" in routes
+
+    def test_golf_split_era_routes_to_golf(self, fall_pages):
+        # The pages the old classifier dropped — golf's 1995–2024 hole.
+        assert "golf" in classify_page(fall_pages[51], "Golf")
+        assert "golf" in classify_page(fall_pages[52], "Golf")
+
+
+# ── dedup() ───────────────────────────────────────────────────────────────────
+
+
+class TestDedup:
+    def test_removes_exact_duplicates(self):
+        row = {"sport": "Soccer", "year": 2024, "classification": "4A",
+               "champion_school": "Churchill"}
+        unique, warns = dedup([row, dict(row)], DEDUP_KEYS["championship_results"], "championship_results")
+        assert unique == [row]
+        assert warns == []
+
+    def test_keeps_distinct_keys(self):
+        rows = [
+            {"sport": "Soccer", "year": 2024, "classification": "4A", "champion_school": "Churchill"},
+            {"sport": "Soccer", "year": 2024, "classification": "3A", "champion_school": "Broadneck"},
+        ]
+        unique, warns = dedup(rows, DEDUP_KEYS["championship_results"], "championship_results")
+        assert len(unique) == 2
+        assert warns == []
+
+    def test_warns_on_same_key_different_payload(self):
+        rows = [
+            {"sport": "Soccer", "year": 2024, "classification": "4A",
+             "champion_school": "Churchill", "score": "2-0"},
+            {"sport": "Soccer", "year": 2024, "classification": "4A",
+             "champion_school": "Churchill", "score": "2-1"},
+        ]
+        unique, warns = dedup(rows, DEDUP_KEYS["championship_results"], "championship_results")
+        assert len(unique) == 1
+        assert len(warns) == 1
+        assert "championship_results" in warns[0]
+
+    def test_xc_key_includes_name_so_co_champions_survive(self):
+        # Two first-place finishers in the same year/class (real co-champions)
+        # must both survive dedup — the pyc key (sport,year,classification) would
+        # have dropped one.
+        rows = [
+            {"sport": "Boys Cross Country", "year": 2024, "classification": "4A",
+             "name": "Alex Runner", "school": "School A", "time": "15:30"},
+            {"sport": "Boys Cross Country", "year": 2024, "classification": "4A",
+             "name": "Sam Runner", "school": "School B", "time": "15:30"},
+        ]
+        unique, warns = dedup(rows, DEDUP_KEYS["individual_xc_champions"], "individual_xc_champions")
+        assert len(unique) == 2
+        assert warns == []
+
+    def test_empty(self):
+        unique, warns = dedup([], DEDUP_KEYS["championship_results"], "championship_results")
+        assert unique == [] and warns == []
+
+
+# ── write_csv() year-list serialization ────────────────────────────────────────
+
+
+class TestWriteCsv:
+    def test_year_lists_serialized_semicolon(self, tmp_path):
+        rows = [{"sport": "Football", "school": "Allegany",
+                 "champion_years": [1997, 1998], "finalist_years": [1988]}]
+        path = tmp_path / "out.csv"
+        write_csv(path, rows, ["sport", "school", "champion_years", "finalist_years"])
+        import csv as _csv
+        with path.open() as f:
+            reader = _csv.DictReader(f)
+            out = list(reader)
+        assert out[0]["champion_years"] == "1997; 1998"
+        assert out[0]["finalist_years"] == "1988"
+
+    def test_non_list_values_pass_through(self, tmp_path):
+        rows = [{"sport": "Golf", "year": 2024, "classification": "3A/4A"}]
+        path = tmp_path / "out.csv"
+        write_csv(path, rows, ["sport", "year", "classification"])
+        import csv as _csv
+        with path.open() as f:
+            out = list(_csv.DictReader(f))
+        assert out[0]["year"] == "2024"
+        assert out[0]["classification"] == "3A/4A"
+
+
+# ── Extraction cache & provenance ──────────────────────────────────────────────
+
+
+class TestCacheKey:
+    def test_deterministic(self):
+        k1 = _cache_key(MODEL_ID, _golf_prompt(["p"], "Golf")[1], "prompt")
+        k2 = _cache_key(MODEL_ID, _golf_prompt(["p"], "Golf")[1], "prompt")
+        assert k1 == k2
+
+    def test_changes_with_model(self):
+        schema = _golf_prompt(["p"], "Golf")[1]
+        assert _cache_key("glm-5.2:cloud", schema, "p") != _cache_key("other", schema, "p")
+
+    def test_changes_with_prompt_text(self):
+        schema = _golf_prompt(["p"], "Golf")[1]
+        assert _cache_key(MODEL_ID, schema, "p1") != _cache_key(MODEL_ID, schema, "p2")
+
+    def test_changes_with_schema(self):
+        # Different schemas (golf vs championship) → different keys even for the same text.
+        from parse_record_book import _championship_prompt
+        golf_schema = _golf_prompt(["p"], "Golf")[1]
+        champ_schema = _championship_prompt(["p"], "Golf")[1]
+        assert _cache_key(MODEL_ID, golf_schema, "p") != _cache_key(MODEL_ID, champ_schema, "p")
+
+    def test_path_uses_16_char_prefix(self):
+        key = _cache_key(MODEL_ID, _golf_prompt(["p"], "Golf")[1], "p")
+        path = _cache_path("golf", key)
+        assert path.name.startswith("golf_")
+        assert len(path.stem.split("_", 1)[1]) == 16
+
+
+class TestStamp:
+    def test_adds_all_four_provenance_fields(self):
+        rows = [{"year": 2024, "classification": "3A/4A"}]
+        _stamp(rows, "pdfs/fall.pdf", [50, 51], "2026-01-01T00:00:00Z", "glm-5.2:cloud")
+        r = rows[0]
+        assert r["source_pdf"] == "pdfs/fall.pdf"
+        assert r["source_pages"] == [50, 51]
+        assert r["extracted_at"] == "2026-01-01T00:00:00Z"
+        assert r["extraction_model"] == "glm-5.2:cloud"
+
+    def test_provenance_fields_constant(self):
+        assert PROVENANCE_FIELDS == ["source_pdf", "source_pages", "extracted_at", "extraction_model"]
+
+
+class TestCachedExtract:
+    """Cache hit/miss logic tested without an LLM call (offline guards the API)."""
+
+    def _seed_cache(self, tmp_path, pages, sport, extractor, rows, *, source_pdf="OLD.pdf",
+                   source_pages=(99,), extracted_at="2020-01-01T00:00:00Z"):
+        builder, schema, _ = EXTRACTORS[extractor]
+        prompt, _schema = builder(pages, sport)
+        key = _cache_key(MODEL_ID, schema, prompt)
+        path = tmp_path / f"{extractor}_{key[:16]}.json"
+        path.write_text(json.dumps({
+            "meta": {"extractor": extractor, "model_id": MODEL_ID,
+                     "source_pdf": source_pdf, "source_pages": list(source_pages),
+                     "extracted_at": extracted_at},
+            "rows": rows,
+        }))
+        return path
+
+    def test_hit_returns_cached_rows_without_llm(self, tmp_path, monkeypatch):
+        monkeypatch.setattr("parse_record_book.CACHE_DIR", tmp_path)
+        pages = ["1971\nTeam Champion......Magruder (610)"]
+        self._seed_cache(tmp_path, pages, "Golf", "golf",
+                         [{"year": 1971, "classification": "Combined",
+                           "team_champion_school": "Magruder"}])
+        # offline=True would raise on a miss; a hit must return without an API call
+        rows = cached_extract("golf", pages, "Golf", "NEW.pdf", [50],
+                              refresh=False, offline=True)
+        assert rows[0]["year"] == 1971
+        assert rows[0]["team_champion_school"] == "Magruder"
+
+    def test_hit_re_stamps_current_source_pages_and_pdf(self, tmp_path, monkeypatch):
+        # Text-based keying means a hit can come from a different edition — so the
+        # row's location provenance must follow the current run, not the original.
+        monkeypatch.setattr("parse_record_book.CACHE_DIR", tmp_path)
+        pages = ["1971\nTeam Champion......Magruder (610)"]
+        self._seed_cache(tmp_path, pages, "Golf", "golf",
+                         [{"year": 1971, "classification": "Combined"}],
+                         source_pdf="OLD.pdf", source_pages=(99,),
+                         extracted_at="2020-01-01T00:00:00Z")
+        rows = cached_extract("golf", pages, "Golf", "NEW.pdf", [50],
+                              refresh=False, offline=False)
+        assert rows[0]["source_pdf"] == "NEW.pdf"
+        assert rows[0]["source_pages"] == [50]
+        # extracted_at is preserved from the original extraction (the data came from then)
+        assert rows[0]["extracted_at"] == "2020-01-01T00:00:00Z"
+        assert rows[0]["extraction_model"] == MODEL_ID
+
+    def test_offline_miss_raises_without_llm(self, tmp_path, monkeypatch):
+        monkeypatch.setattr("parse_record_book.CACHE_DIR", tmp_path)
+        with pytest.raises(RuntimeError, match="offline"):
+            cached_extract("golf", ["no matching text here"], "Golf", "x.pdf", [1],
+                           refresh=False, offline=True)
+
+    def test_miss_writes_cache_then_hit_reads_no_second_llm(self, tmp_path, monkeypatch):
+        """Full write→read round-trip with llm_extract mocked (no real API call)."""
+        monkeypatch.setattr("parse_record_book.CACHE_DIR", tmp_path)
+        canned = {"results": [{"year": 1971, "classification": "Combined",
+                               "team_champion_school": "Magruder"}]}
+        calls = []
+        monkeypatch.setattr("parse_record_book.llm_extract",
+                            lambda prompt, schema, retries=2: calls.append(prompt) or canned)
+        pages = ["1971\nTeam Champion......Magruder (610)"]
+
+        # miss → LLM → write cache
+        rows1 = cached_extract("golf", pages, "Golf", "f.pdf", [50],
+                               refresh=False, offline=False)
+        assert rows1[0]["team_champion_school"] == "Magruder"
+        assert rows1[0]["source_pages"] == [50]          # stamped from this run
+        assert rows1[0]["source_pdf"] == "f.pdf"
+        assert len(calls) == 1
+
+        # the cache file stores RAW rows (no provenance) + meta
+        cache_files = list(tmp_path.glob("golf_*.json"))
+        assert len(cache_files) == 1
+        blob = json.loads(cache_files[0].read_text())
+        assert blob["meta"]["source_pages"] == [50]
+        assert blob["meta"]["model_id"] == MODEL_ID
+        assert "source_pdf" not in blob["rows"][0]        # raw, provenance applied per-run
+
+        # hit → no second LLM call; identical stamped rows
+        rows2 = cached_extract("golf", pages, "Golf", "f.pdf", [50],
+                               refresh=False, offline=False)
+        assert len(calls) == 1
+        assert rows2 == rows1
+
+    def test_refresh_bypasses_cache_but_needs_llm(self, tmp_path, monkeypatch):
+        # --refresh with a present cache file must NOT use it; with --offline it
+        # should raise (proving the cache read was bypassed).
+        monkeypatch.setattr("parse_record_book.CACHE_DIR", tmp_path)
+        pages = ["1971\nTeam Champion......Magruder (610)"]
+        self._seed_cache(tmp_path, pages, "Golf", "golf", [{"year": 1971}])
+        with pytest.raises(RuntimeError, match="offline"):
+            cached_extract("golf", pages, "Golf", "x.pdf", [50],
+                           refresh=True, offline=True)
+
+    def test_championship_chunk_size_is_two(self):
+        assert CHUNK_SIZES["championship"] == 2
+        assert CHUNK_SIZES["sportsmanship"] >= 64  # all pages in one call
+
+
+# ── Phase 6: heading-based section detection ─────────────────────────────────
+
+
+def _divider_text(sport, page_num):
+    """Synthesize a NaturalPDF-style divider page: 'MPSSAA\n<Sport>\nRecords\n<n>'."""
+    return f"MPSSAA \n{sport} \nRecords \n{page_num}"
+
+
+class TestDetectDividers:
+    def test_finds_short_divider_pages(self):
+        texts = [
+            "MPSSAA \nGirls Cross Country \nRecords \n2",
+            "long content page " * 50,  # too long, skipped
+            "MPSSAA \nBoys Cross Country \nRecords \n1122",
+        ]
+        assert detect_dividers(texts) == [(0, "Girls Cross Country"),
+                                          (2, "Boys Cross Country")]
+
+    def test_length_filter_excludes_toc_and_content_pages(self):
+        # TOC page starts with MPSSAA and mentions Records but is ~250+ chars.
+        toc = ("MPSSAA Fall Record Book Cross Country Field Hockey Football Golf "
+               "Soccer Volleyball table of contents Sport Pages Records " + "x" * 200)
+        assert detect_dividers([toc]) == []
+
+    def test_excludes_pages_without_records_word(self):
+        # A short MPSSAA running header without 'Records'.
+        assert detect_dividers(["MPSSAA \nGirls Cross Country \nState Meet"]) == []
+
+    def test_handles_multiline_sport_name(self):
+        # 'Girls Cross\nCountry' across two lines -> collapsed to one sport name.
+        assert detect_dividers(["MPSSAA \nGirls Cross\nCountry \nRecords \n2"]) == [
+            (0, "Girls Cross Country")
+        ]
+
+    def test_empty_pages_skipped(self):
+        assert detect_dividers(["", "   "]) == []
+
+
+class TestFindSections:
+    def _fall_texts(self, with_back_matter=True):
+        """Build synthetic NaturalPDF page texts reproducing the fall layout.
+
+        8 divider pages at the baseline indices, with content + an optional
+        districts back-matter page at the end.
+        """
+        texts = [""] * 78
+        dividers = [
+            (3, "Girls Cross Country", 2),
+            (13, "Boys Cross Country", 1122),
+            (27, "Field Hockey", 2266),
+            (35, "Football", 3344),
+            (47, "Golf", 4466),
+            (53, "Girls Soccer", 5522),
+            (59, "Boys Soccer", 5588),
+            (66, "Volleyball", 6655),
+        ]
+        for idx, sport, n in dividers:
+            texts[idx] = _divider_text(sport, n)
+        if with_back_matter:
+            texts[77] = "DISTRICTS OF THE STATE\nCounty map"
+        return texts
+
+    def test_reproduces_fall_baseline(self):
+        assert find_sections(self._fall_texts(), "fall") == FALL_SECTIONS
+
+    def test_back_matter_excluded_from_last_section(self):
+        # Without the back-matter page, Volleyball extends to len(pages)=78.
+        sections = find_sections(self._fall_texts(with_back_matter=False), "fall")
+        assert sections["Volleyball"] == (66, 78)
+        # With it, Volleyball ends at idx 77 (matches the baseline).
+        assert find_sections(self._fall_texts(), "fall")["Volleyball"] == (66, 77)
+
+    def test_normalizes_ampersand_to_and(self):
+        # Spring baseline uses 'Girls Track and Field'; PDF title uses '&'.
+        texts = [""] * 96
+        spring = [
+            (3, "Baseball", 2), (11, "Girls Lacrosse", 1100),
+            (16, "Boys Lacrosse", 1155), (22, "Softball", 2211),
+            (29, "Tennis", 2288), (35, "Girls Track & Field", 3344),
+            (61, "Boys Track & Field", 6600),
+        ]
+        for idx, sport, n in spring:
+            texts[idx] = _divider_text(sport, n)
+        texts[95] = "DISTRICTS OF THE STATE"
+        assert find_sections(texts, "spring") == SPRING_SECTIONS
+
+    def test_unknown_sport_raises(self):
+        texts = self._fall_texts()
+        texts[3] = _divider_text("Ultimate Frisbee", 2)
+        with pytest.raises(ValueError, match="Detected unknown sport 'Ultimate Frisbee'"):
+            find_sections(texts, "fall")
+
+    def test_missing_sport_raises(self):
+        texts = self._fall_texts()
+        texts[3] = ""  # drop the Girls Cross Country divider
+        with pytest.raises(ValueError, match="Missing expected fall sport divider"):
+            find_sections(texts, "fall")
+
+    def test_reordered_sports_raise(self):
+        # Swap two divider titles -> order no longer matches baseline.
+        texts = self._fall_texts()
+        texts[3], texts[13] = texts[13], texts[3]
+        with pytest.raises(ValueError, match="order"):
+            find_sections(texts, "fall")
+
+    def test_no_dividers_raises(self):
+        with pytest.raises(ValueError, match="No sport divider pages"):
+            find_sections(["", "", ""], "fall")
+
+    def test_unknown_season_raises(self):
+        with pytest.raises(ValueError, match="Unknown season"):
+            find_sections([], "summer")
+
+    def test_sport_order_mismatch_message_lists_both(self):
+        texts = self._fall_texts()
+        # Rename Girls Soccer -> Boys Soccer (duplicate) to force a set mismatch.
+        texts[53] = _divider_text("Boys Soccer", 5522)
+        with pytest.raises(ValueError):
+            find_sections(texts, "fall")
+
+
+class TestDividerCandidates:
+    def test_finds_short_mpssaa_pages(self):
+        # pypdf-style: divider pages are short and contain 'MPSSAA'.
+        pages = ["", "2 \nMPSSAA ", "long content " * 50, "3 \nMPSSAA "]
+        assert _divider_candidates(pages) == [1, 3]
+
+    def test_excludes_long_pages(self):
+        long_page = ("MPSSAA Football Stats and Records Fast Facts " + "x" * 200)
+        assert _divider_candidates([long_page]) == []
+
+    def test_excludes_empty_pages(self):
+        assert _divider_candidates(["", "   "]) == []
+
+
+class TestFindSectionsIntegration:
+    """Detection reproduces the committed baseline maps on the real PDFs."""
+
+    def test_fall(self):
+        pages = load_pages(FALL_PDF)
+        texts = load_page_titles(FALL_PDF, _divider_candidates(pages), pages)
+        assert find_sections(texts, "fall") == FALL_SECTIONS
+
+    def test_winter(self):
+        pages = load_pages(WINTER_PDF)
+        texts = load_page_titles(WINTER_PDF, _divider_candidates(pages), pages)
+        assert find_sections(texts, "winter") == WINTER_SECTIONS
+
+    def test_spring(self):
+        pages = load_pages(SPRING_PDF)
+        texts = load_page_titles(SPRING_PDF, _divider_candidates(pages), pages)
+        assert find_sections(texts, "spring") == SPRING_SECTIONS
+

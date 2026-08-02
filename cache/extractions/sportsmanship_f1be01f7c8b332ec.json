@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "extractor": "sportsmanship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      29
+    ],
+    "extracted_at": "2026-08-02T05:23:23Z"
+  },
+  "rows": [
+    {
+      "sport": "Softball",
+      "year": 1997,
+      "classification": null,
+      "school": "Henry E. Lackey"
+    },
+    {
+      "sport": "Softball",
+      "year": 1998,
+      "classification": null,
+      "school": "Eleanor Roosevelt"
+    },
+    {
+      "sport": "Softball",
+      "year": 1999,
+      "classification": null,
+      "school": "Catoctin"
+    },
+    {
+      "sport": "Softball",
+      "year": 2000,
+      "classification": null,
+      "school": "Catonsville"
+    },
+    {
+      "sport": "Softball",
+      "year": 2001,
+      "classification": null,
+      "school": "Northeast-AA"
+    },
+    {
+      "sport": "Softball",
+      "year": 2002,
+      "classification": null,
+      "school": "Catoctin"
+    },
+    {
+      "sport": "Softball",
+      "year": 2003,
+      "classification": null,
+      "school": "Dulaney & North County"
+    },
+    {
+      "sport": "Softball",
+      "year": 2004,
+      "classification": null,
+      "school": "Glenelg & Hereford"
+    },
+    {
+      "sport": "Softball",
+      "year": 2005,
+      "classification": null,
+      "school": "Tuscarora"
+    },
+    {
+      "sport": "Softball",
+      "year": 2006,
+      "classification": null,
+      "school": "Huntingtown"
+    },
+    {
+      "sport": "Softball",
+      "year": 2007,
+      "classification": null,
+      "school": "Hereford"
+    },
+    {
+      "sport": "Softball",
+      "year": 2008,
+      "classification": null,
+      "school": "Franklin"
+    },
+    {
+      "sport": "Softball",
+      "year": 2009,
+      "classification": null,
+      "school": "North Carroll"
+    },
+    {
+      "sport": "Softball",
+      "year": 2010,
+      "classification": null,
+      "school": "Easton"
+    },
+    {
+      "sport": "Softball",
+      "year": 2011,
+      "classification": null,
+      "school": "C. Milton Wright"
+    },
+    {
+      "sport": "Softball",
+      "year": 2012,
+      "classification": null,
+      "school": "Lansdowne"
+    },
+    {
+      "sport": "Softball",
+      "year": 2013,
+      "classification": null,
+      "school": "River Hill"
+    },
+    {
+      "sport": "Softball",
+      "year": 2014,
+      "classification": null,
+      "school": "Bohemia Manor"
+    },
+    {
+      "sport": "Softball",
+      "year": 2015,
+      "classification": null,
+      "school": "Leonardtown"
+    },
+    {
+      "sport": "Softball",
+      "year": 2016,
+      "classification": null,
+      "school": "Montgomery Blair"
+    },
+    {
+      "sport": "Softball",
+      "year": 2017,
+      "classification": null,
+      "school": "Pikesville"
+    },
+    {
+      "sport": "Softball",
+      "year": 2018,
+      "classification": null,
+      "school": "Reservoir"
+    },
+    {
+      "sport": "Softball",
+      "year": 2019,
+      "classification": null,
+      "school": "Walt Whitman"
+    },
+    {
+      "sport": "Softball",
+      "year": 2021,
+      "classification": null,
+      "school": "Reservoir"
+    },
+    {
+      "sport": "Softball",
+      "year": 2022,
+      "classification": null,
+      "school": "Century & Damascus"
+    },
+    {
+      "sport": "Softball",
+      "year": 2023,
+      "classification": null,
+      "school": "Dulaney"
+    },
+    {
+      "sport": "Softball",
+      "year": 2024,
+      "classification": null,
+      "school": "Mardela"
+    },
+    {
+      "sport": "Softball",
+      "year": 2025,
+      "classification": null,
+      "school": "Glenelg"
+    }
+  ]
+}

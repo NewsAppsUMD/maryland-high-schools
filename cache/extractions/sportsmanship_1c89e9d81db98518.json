@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "extractor": "sportsmanship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      7
+    ],
+    "extracted_at": "2026-08-02T05:22:49Z"
+  },
+  "rows": [
+    {
+      "sport": "Baseball",
+      "year": 2009,
+      "classification": null,
+      "school": "Fallston HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2010,
+      "classification": null,
+      "school": "Clear Spring HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2011,
+      "classification": null,
+      "school": "North Harford HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2012,
+      "classification": null,
+      "school": "Patuxent HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2013,
+      "classification": null,
+      "school": "South River HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2014,
+      "classification": null,
+      "school": "Sparrows Point HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2015,
+      "classification": null,
+      "school": "North Harford HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2016,
+      "classification": null,
+      "school": "Williamsport HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2017,
+      "classification": null,
+      "school": "Fallston HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2018,
+      "classification": null,
+      "school": "St. Michaels HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2019,
+      "classification": null,
+      "school": "Sherwood HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2021,
+      "classification": null,
+      "school": "Sparrows Point HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2022,
+      "classification": null,
+      "school": "Towson HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2023,
+      "classification": null,
+      "school": "Parkside HS"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2024,
+      "classification": null,
+      "school": "Baltimore Polytechnic Inst."
+    },
+    {
+      "sport": "Baseball",
+      "year": 2025,
+      "classification": null,
+      "school": "Parkside HS"
+    }
+  ]
+}

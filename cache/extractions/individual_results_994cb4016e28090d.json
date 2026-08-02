@@ -1,0 +1,878 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      65
+    ],
+    "extracted_at": "2026-08-02T19:52:15Z",
+    "manual_correction": "Relay rows recovered from prior cache extraction (orphan) for ['200 Yard Medley Relay']; fresh LLM call had dropped these relay events on this page."
+  },
+  "rows": [
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2007,
+      "classification": "4A-3A",
+      "name": "Jordan Gibbs",
+      "school": "Severna Park",
+      "mark": "1:58.24"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2007,
+      "classification": "3A-2A-1A",
+      "name": "Kori Golden",
+      "school": "Northeast-AA",
+      "mark": "1:58.17"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2008,
+      "classification": "4A-3A",
+      "name": "Hannah Betman",
+      "school": "Eleanor Roosevelt",
+      "mark": "2:02.15"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2008,
+      "classification": "3A-2A-1A",
+      "name": "Holly Roumeliotis",
+      "school": "Middletown",
+      "mark": "2:05.35"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2009,
+      "classification": "4A-3A",
+      "name": "JoAnna Yeh",
+      "school": "Urbana",
+      "mark": "1:55.67"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2009,
+      "classification": "3A-2A-1A",
+      "name": "Selena Martin",
+      "school": "Baltimore Polytechnic",
+      "mark": "1:56.82"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2010,
+      "classification": "4A-3A",
+      "name": "Emily Lloyd",
+      "school": "Severna Park",
+      "mark": "1:52.69"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2010,
+      "classification": "3A-2A-1A",
+      "name": "Kelsey Lessard",
+      "school": "Queen Anne's",
+      "mark": "2:03.06"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2011,
+      "classification": "4A-3A",
+      "name": "Claire McIlmail",
+      "school": "Urbana",
+      "mark": "1:55.66"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2011,
+      "classification": "3A-2A-1A",
+      "name": "Hanne Borgerson",
+      "school": "Frederick",
+      "mark": "1:53.95"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2012,
+      "classification": "4A-3A",
+      "name": "Anna Kolanowski",
+      "school": "Sherwood",
+      "mark": "1:50.79"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2012,
+      "classification": "3A-2A-1A",
+      "name": "Chelsea Vanderweele",
+      "school": "Northwood",
+      "mark": "1:53.88"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2013,
+      "classification": "4A-3A",
+      "name": "Anna Kolanowski",
+      "school": "Sherwood",
+      "mark": "1:53.21"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2013,
+      "classification": "3A-2A-1A",
+      "name": "Megan Cowan",
+      "school": "C. Milton Wright",
+      "mark": "1:55.08"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2014,
+      "classification": "4A-3A",
+      "name": "Elaina Gu",
+      "school": "Winston Churchill",
+      "mark": "1:52.89"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2014,
+      "classification": "3A-2A-1A",
+      "name": "Megan Cowan",
+      "school": "C. Milton Wright",
+      "mark": "1:56.52"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2015,
+      "classification": "4A-3A",
+      "name": "Madison Waechter",
+      "school": "Montgomery Blair",
+      "mark": "1:52.64"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2015,
+      "classification": "3A-2A-1A",
+      "name": "Dorit Song",
+      "school": "Poolesville",
+      "mark": "1:57.17"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2016,
+      "classification": "4A-3A",
+      "name": "Hannah Lindsey",
+      "school": "Winston Churchill",
+      "mark": "1:49.71"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2016,
+      "classification": "3A-2A-1A",
+      "name": "Megan Cowan",
+      "school": "C. Milton Wright",
+      "mark": "1:57.62"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2017,
+      "classification": "4A-3A",
+      "name": "Madison Waechter",
+      "school": "Montgomery Blair",
+      "mark": "1:50.93"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2017,
+      "classification": "3A-2A-1A",
+      "name": "Tori Weems",
+      "school": "Easton",
+      "mark": "1:55.96"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2018,
+      "classification": "4A-3A",
+      "name": "Sophia Ryan",
+      "school": "Sherwood",
+      "mark": "1:51.46"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2018,
+      "classification": "3A-2A-1A",
+      "name": "Moshelle Borjigin",
+      "school": "Poolesville",
+      "mark": "1:52.90"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2019,
+      "classification": "4A-3A",
+      "name": "Molly Benson",
+      "school": "Walter Johnson",
+      "mark": "1:50.95"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2019,
+      "classification": "3A-2A-1A",
+      "name": "Moshelle Borjigin",
+      "school": "Poolesville",
+      "mark": "1:54.15"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2020,
+      "classification": "4A-3A",
+      "name": "Maren Conze",
+      "school": "Walter Johnson",
+      "mark": "1:49.97"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2020,
+      "classification": "3A-2A-1A",
+      "name": "Moshelle Borjigin",
+      "school": "Poolesville",
+      "mark": "1:52.17"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2022,
+      "classification": "4A-3A",
+      "name": "Lauren West",
+      "school": "Albert Einstein",
+      "mark": "1:48.72"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2022,
+      "classification": "3A-2A-1A",
+      "name": "Molly Kroeger",
+      "school": "Easton",
+      "mark": "1:53.76"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2023,
+      "classification": "4A-3A",
+      "name": "Andrea Dworak",
+      "school": "James H. Blake",
+      "mark": "1:48.40"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2023,
+      "classification": "3A-2A-1A",
+      "name": "Molly Kroeger",
+      "school": "Easton",
+      "mark": "1:51.94"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2024,
+      "classification": "4A-3A",
+      "name": "Andrea Dworak",
+      "school": "James H. Blake",
+      "mark": "1:46.72"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2024,
+      "classification": "3A-2A-1A",
+      "name": "Maddie Weems",
+      "school": "Easton",
+      "mark": "1:54.53"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2025,
+      "classification": "4A-3A",
+      "name": "Andrea Dworak",
+      "school": "James H. Blake",
+      "mark": "1:47.70"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Freestyle",
+      "year": 2025,
+      "classification": "3A-2A-1A",
+      "name": "Maeve Cutter",
+      "school": "Rockville",
+      "mark": "1:56.16"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2007,
+      "classification": "4A-3A",
+      "name": "Emily Morse",
+      "school": "Eleanor Roosevelt",
+      "mark": "2:13.81"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2007,
+      "classification": "3A-2A-1A",
+      "name": "Katelyn Rossick",
+      "school": "Middletown",
+      "mark": "2:11.00"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2008,
+      "classification": "4A-3A",
+      "name": "Sarah Lloyd",
+      "school": "Severna Park",
+      "mark": "2:09.15"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2008,
+      "classification": "3A-2A-1A",
+      "name": "Katelyn Rossick",
+      "school": "Middletown",
+      "mark": "2:09.88"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2009,
+      "classification": "4A-3A",
+      "name": "Sarah Lloyd",
+      "school": "Severna Park",
+      "mark": "2:08.82"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2009,
+      "classification": "3A-2A-1A",
+      "name": "Katelyn Rossick",
+      "school": "Middletown",
+      "mark": "2:15.41"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2010,
+      "classification": "4A-3A",
+      "name": "Margot Manning",
+      "school": "Thomas Johnson",
+      "mark": "2:12.07"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2010,
+      "classification": "3A-2A-1A",
+      "name": "Katelyn Rossick",
+      "school": "Middletown",
+      "mark": "2:10.99"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2011,
+      "classification": "4A-3A",
+      "name": "Katie Parker",
+      "school": "Severna Park",
+      "mark": "2:11.64"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2011,
+      "classification": "3A-2A-1A",
+      "name": "Madison Brown",
+      "school": "Fallston",
+      "mark": "2:15.99"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2012,
+      "classification": "4A-3A",
+      "name": "Charlotte Meyer",
+      "school": "Walt Whitman",
+      "mark": "2:05.01"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2012,
+      "classification": "3A-2A-1A",
+      "name": "Diana Hanson",
+      "school": "Poolesville",
+      "mark": "2:13.93"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2013,
+      "classification": "4A-3A",
+      "name": "Charlotte Meyer",
+      "school": "Walt Whitman",
+      "mark": "2:07.66"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2013,
+      "classification": "3A-2A-1A",
+      "name": "Diana Hanson",
+      "school": "Poolesville",
+      "mark": "2:11.41"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2014,
+      "classification": "4A-3A",
+      "name": "Emily Zhang",
+      "school": "Thomas Wootton",
+      "mark": "2:07.12"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2014,
+      "classification": "3A-2A-1A",
+      "name": "Dorit Song",
+      "school": "Poolesville",
+      "mark": "2:10.64"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2015,
+      "classification": "4A-3A",
+      "name": "Emily Zhang",
+      "school": "Thomas Wootton",
+      "mark": "2:06.77"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2015,
+      "classification": "3A-2A-1A",
+      "name": "Katarina Lechner",
+      "school": "Poolesville",
+      "mark": "2:15.19"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2016,
+      "classification": "4A-3A",
+      "name": "Celine Nugent",
+      "school": "Walter Johnson",
+      "mark": "2:04.97"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2016,
+      "classification": "3A-2A-1A",
+      "name": "Eliza Manning",
+      "school": "Gov. Thomas Johnson",
+      "mark": "2:04.82"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2017,
+      "classification": "4A-3A",
+      "name": "Catherine Belyakov",
+      "school": "Quince Orchard",
+      "mark": "2:03.81"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2017,
+      "classification": "3A-2A-1A",
+      "name": "Jordan Friedman",
+      "school": "Easton",
+      "mark": "2:11.55"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2018,
+      "classification": "4A-3A",
+      "name": "Catherine Belyakov",
+      "school": "Quince Orchard",
+      "mark": "2:02.36"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Individual Medley",
+      "year": 2018,
+      "classification": "3A-2A-1A",
+      "name": "Jordan Friedman",
+      "school": "Easton",
+      "mark": "2:19.41"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2007,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Leonardtown",
+      "mark": "1:56.17"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2007,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "Urbana",
+      "mark": "1:59.21"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2008,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Severna Park",
+      "mark": "1:54.17"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2008,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "Queen Anne's",
+      "mark": "1:58.06"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2009,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Severna Park",
+      "mark": "1:48.36"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2009,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "Queen Anne's",
+      "mark": "1:56.39"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2010,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Severna Park",
+      "mark": "1:54.58"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2010,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "Middletown",
+      "mark": "1:58.99"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2011,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Severna Park",
+      "mark": "1:50.99"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2011,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "Middletown",
+      "mark": "2:02.67"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2012,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Thomas Wootton",
+      "mark": "1:50.98"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2012,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "C. Milton Wright",
+      "mark": "1:54.82"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2013,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Thomas Wootton",
+      "mark": "1:49.70"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2013,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "C. Milton Wright",
+      "mark": "1:53.24"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2014,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Thomas Wootton",
+      "mark": "1:49.64"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2014,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "C. Milton Wright",
+      "mark": "1:56.19"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2015,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Winston Churchill",
+      "mark": "1:50.81"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2015,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "Poolesville",
+      "mark": "1:55.67"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2016,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Sherwood",
+      "mark": "1:46.00"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2016,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "Poolesville",
+      "mark": "1:52.24"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2017,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Walter Johnson",
+      "mark": "1:47.72"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2017,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "Poolesville",
+      "mark": "1:51.53"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2018,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Montgomery Blair",
+      "mark": "1:45.84"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2018,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "Poolesville",
+      "mark": "1:50.38"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2019,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Bethesda-Chevy Chase",
+      "mark": "1:46.73"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2019,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "Poolesville",
+      "mark": "1:52.58"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2020,
+      "classification": "4A-3A",
+      "name": "",
+      "school": "Bethesda-Chevy Chase",
+      "mark": "1:46.25"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2020,
+      "classification": "3A-2A-1A",
+      "name": "",
+      "school": "Poolesville",
+      "mark": "1:48.57"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2022,
+      "classification": "4A-3A",
+      "name": "M. Conze & H. Bingley & S. Karp & L. Rosman",
+      "school": "Walter Johnson",
+      "mark": "1:46.34"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2022,
+      "classification": "3A-2A-1A",
+      "name": "A. Donnick & J. Woolsey & E. French & K. Cupples",
+      "school": "La Plata",
+      "mark": "1:48.69"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2023,
+      "classification": "4A-3A",
+      "name": "M. Conze & S. Karp & M. Simmons & H. Morgan",
+      "school": "Walter Johnson",
+      "mark": "1:44.92"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2023,
+      "classification": "3A-2A-1A",
+      "name": "S. Huang & A. Li & A. Ye & L. Abzakh",
+      "school": "Poolesville",
+      "mark": "1:50.50"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2024,
+      "classification": "4A-3A",
+      "name": "E. Chen & A. Qin & C. Scofield & A. Nishnianidze",
+      "school": "Thomas S. Wootton",
+      "mark": "1:45.54"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2024,
+      "classification": "3A-2A-1A",
+      "name": "C. Damon & L. Smith & C. Gallaudet & A. Gallaudet",
+      "school": "Northern-Cal",
+      "mark": "1:50.14"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2025,
+      "classification": "4A-3A",
+      "name": "V. HInds & T. Morse & H. Hammond & M. Mendizabal",
+      "school": "Bethesda-Chevy Chase",
+      "mark": "1:45.29"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "200 Yard Medley Relay",
+      "year": 2025,
+      "classification": "3A-2A-1A",
+      "name": "C. Beabout & V. Sunjaya & S. Hennelly & H. Douglas",
+      "school": "Damascus",
+      "mark": "1:50.52"
+    }
+  ]
+}

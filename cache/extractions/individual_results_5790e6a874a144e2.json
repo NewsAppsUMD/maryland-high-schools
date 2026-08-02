@@ -1,0 +1,3578 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      89
+    ],
+    "extracted_at": "2026-08-02T21:03:35Z",
+    "manual_correction": "Rows recovered from prior cache extraction (orphan); fresh LLM call had dropped these events on this page: ['Triple Jump']"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Dwayne Powell",
+      "school": "CHF",
+      "mark": "23-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Paul Herbert",
+      "school": "CHO",
+      "mark": "21-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Nathaniel Gant",
+      "school": "HAM",
+      "mark": "21-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Nick Nowaczyk",
+      "school": "CTT",
+      "mark": "21-05 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Devin Joyce",
+      "school": "SEP",
+      "mark": "22-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Nicholas Feemster",
+      "school": "WLA",
+      "mark": "20-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Gage Ealey",
+      "school": "OAK",
+      "mark": "21-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Jawan Parker",
+      "school": "CVT",
+      "mark": "22-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Devin Wynn",
+      "school": "WOO",
+      "mark": "21-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Christian Wallace",
+      "school": "WLA",
+      "mark": "22-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Jake Walker",
+      "school": "CEN",
+      "mark": "21-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Coby Gussio",
+      "school": "BOO",
+      "mark": "22-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Travis Jenkins",
+      "school": "KEN",
+      "mark": "22-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2012,
+      "classification": "3A",
+      "name": "David Kaiser",
+      "school": "RVH",
+      "mark": "23-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Zach Welch",
+      "school": "MID",
+      "mark": "23-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Brian Matthews",
+      "school": "PEV",
+      "mark": "21-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Gaston Assoua",
+      "school": "JHB",
+      "mark": "22-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Michael Francis",
+      "school": "DGH",
+      "mark": "21-03 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Julian Woods",
+      "school": "CNT",
+      "mark": "22-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Brian Matthews",
+      "school": "PEV",
+      "mark": "21-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Michael Scott",
+      "school": "JFK",
+      "mark": "23-04 3/4-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Michael Francis",
+      "school": "DGH",
+      "mark": "23-08-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Kollin Smith",
+      "school": "FRD",
+      "mark": "22-01-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Isiah Bolden",
+      "school": "CLR",
+      "mark": "21-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Brandon Johnson",
+      "school": "KEN",
+      "mark": "23-00 3/4-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Adam Beisser",
+      "school": "LIN",
+      "mark": "22-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Kollin Smith",
+      "school": "FRD",
+      "mark": "21-10 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Isiah Bolden",
+      "school": "CLR",
+      "mark": "21-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Dami Adekunjo",
+      "school": "GLB",
+      "mark": "22-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2016,
+      "classification": "3A",
+      "name": "William Henderson",
+      "school": "BPI",
+      "mark": "24-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Dimeon Wright",
+      "school": "WMI",
+      "mark": "22-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Michale Reyes",
+      "school": "FAH",
+      "mark": "22-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Isa Bynum",
+      "school": "SUI",
+      "mark": "21-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2017,
+      "classification": "3A",
+      "name": "William Henderson",
+      "school": "BPI",
+      "mark": "22-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Kollin Smith",
+      "school": "FRD",
+      "mark": "23-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Steve Washington",
+      "school": "ALL",
+      "mark": "21-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Xavier Shirley",
+      "school": "SRI",
+      "mark": "23-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Kaithon McDonald",
+      "school": "SHG",
+      "mark": "22-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Alex Strong",
+      "school": "LAP",
+      "mark": "22-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Adettola Adenekan",
+      "school": "LCR",
+      "mark": "21-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Clarence Foote-Talley",
+      "school": "NWM",
+      "mark": "23-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Jordan Addison",
+      "school": "TUS",
+      "mark": "22-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Geni Roberts",
+      "school": "NCN",
+      "mark": "22-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Ryan Chinn",
+      "school": "SMI",
+      "mark": "21-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Peter Lally",
+      "school": "BCC",
+      "mark": "21-08 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Emi Erekosima",
+      "school": "NHG",
+      "mark": "21-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2021,
+      "classification": "2A",
+      "name": "David Strong",
+      "school": "LAP",
+      "mark": "22-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Jackson Tuomey",
+      "school": "BRN",
+      "mark": "20-09 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Isaiah Wilson",
+      "school": "SEV",
+      "mark": "22-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Tyler Baruch",
+      "school": "HOW",
+      "mark": "23-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Kanye Holland",
+      "school": "",
+      "mark": "21-09 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Brody Buffington",
+      "school": "CTT",
+      "mark": "21-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Justin DeVaughn",
+      "school": "MVT",
+      "mark": "22-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Nashon McKinney-Spear",
+      "school": "FRE",
+      "mark": "22-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Siji Jolayemi",
+      "school": "GLG",
+      "mark": "21-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Furious Trammel",
+      "school": "CTT",
+      "mark": "21-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Nasib Bundu",
+      "school": "ELR",
+      "mark": "22-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Kian Williams",
+      "school": "SEP",
+      "mark": "22-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Jaycob Tidwell",
+      "school": "LAP",
+      "mark": "22-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Furious Trammel",
+      "school": "CTT",
+      "mark": "23-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Justin DeVaughn",
+      "school": "MVT",
+      "mark": "23-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Kofi Duro",
+      "school": "ARU",
+      "mark": "22-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Khory Reevey",
+      "school": "HVT",
+      "mark": "22-03 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Shaymus Stull",
+      "school": "CTT",
+      "mark": "20-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1961,
+      "classification": "AA",
+      "name": "Terry Davis",
+      "school": "NWE",
+      "mark": "42-10 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1961,
+      "classification": "A",
+      "name": "Hoston",
+      "school": "Howard County",
+      "mark": "41-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1961,
+      "classification": "B",
+      "name": "Bob Evans",
+      "school": "Sollers Point",
+      "mark": "40-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1961,
+      "classification": "C",
+      "name": "Higgs",
+      "school": "Central Consolidated",
+      "mark": "41-00 3/8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1962,
+      "classification": "AA",
+      "name": "Terry Davis",
+      "school": "NWE",
+      "mark": "43-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1962,
+      "classification": "A",
+      "name": "Joe Campitelli",
+      "school": "FRA",
+      "mark": "41-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1962,
+      "classification": "B",
+      "name": "Lowell Brown",
+      "school": "Salisbury",
+      "mark": "43-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1962,
+      "classification": "C",
+      "name": "Wayne Sigler",
+      "school": "WAS",
+      "mark": "40-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1963,
+      "classification": "AA",
+      "name": "Tim Fahey",
+      "school": "BCC",
+      "mark": "43-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1963,
+      "classification": "A",
+      "name": "Bill Dickerson",
+      "school": "FAH",
+      "mark": "42-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1963,
+      "classification": "B",
+      "name": "J. Warren",
+      "school": "Pomonkey",
+      "mark": "43-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1963,
+      "classification": "C",
+      "name": "Clark",
+      "school": "Kennard",
+      "mark": "41-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1964,
+      "classification": "AA",
+      "name": "Tim Fahey",
+      "school": "BCC",
+      "mark": "46-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1964,
+      "classification": "A",
+      "name": "Hemlin",
+      "school": "EDG",
+      "mark": "42-05 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1964,
+      "classification": "B",
+      "name": "Chris Warren",
+      "school": "Pomonkey",
+      "mark": "46-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1964,
+      "classification": "C",
+      "name": "Shorter",
+      "school": "Carver",
+      "mark": "44-07 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1965,
+      "classification": "AA",
+      "name": "Jamie Dixon",
+      "school": "NWD",
+      "mark": "46-06 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1965,
+      "classification": "A",
+      "name": "Maurice Page",
+      "school": "GAI",
+      "mark": "43-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1966,
+      "classification": "AA",
+      "name": "Greg Anderson",
+      "school": "WHE",
+      "mark": "46-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1966,
+      "classification": "A",
+      "name": "Reginald Dowdy",
+      "school": "SPP",
+      "mark": "44-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1966,
+      "classification": "B",
+      "name": "Cliff Creighton",
+      "school": "NDC",
+      "mark": "42-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1966,
+      "classification": "C",
+      "name": "David Alexander",
+      "school": "Sollers Point",
+      "mark": "45-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1967,
+      "classification": "AA",
+      "name": "Ricky Ruff",
+      "school": "BAR",
+      "mark": "45-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1967,
+      "classification": "A",
+      "name": "Ken Boyd",
+      "school": "FRE",
+      "mark": "43-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1967,
+      "classification": "B",
+      "name": "Smith",
+      "school": "HDG",
+      "mark": "41-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1967,
+      "classification": "C",
+      "name": "Ellsworth Naylor",
+      "school": "POO",
+      "mark": "45-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1968,
+      "classification": "AA",
+      "name": "Dave Good",
+      "school": "DUN",
+      "mark": "44-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1968,
+      "classification": "A",
+      "name": "Ken Boyd",
+      "school": "FRE",
+      "mark": "45-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1968,
+      "classification": "B",
+      "name": "Sampson",
+      "school": "MAL",
+      "mark": "44-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1968,
+      "classification": "C",
+      "name": "Cliff Creighton",
+      "school": "NDC",
+      "mark": "44-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1969,
+      "classification": "AA",
+      "name": "Mike Graham",
+      "school": "ANN",
+      "mark": "45-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1969,
+      "classification": "A",
+      "name": "Ken Boyd",
+      "school": "FRE",
+      "mark": "44-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1969,
+      "classification": "B",
+      "name": "Derrick Wooten",
+      "school": "FAH",
+      "mark": "43-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1969,
+      "classification": "C",
+      "name": "Ron Handy",
+      "school": "SOMER",
+      "mark": "46-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1970,
+      "classification": "AA",
+      "name": "Andy Bilmanis",
+      "school": "HPT",
+      "mark": "46-07 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1970,
+      "classification": "A",
+      "name": "Rick Stevenson",
+      "school": "GAI",
+      "mark": "44-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1970,
+      "classification": "B",
+      "name": "Gary Foreman",
+      "school": "FRE",
+      "mark": "44-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1970,
+      "classification": "C",
+      "name": "Neil Ransom",
+      "school": "GWP",
+      "mark": "43-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1971,
+      "classification": "AA",
+      "name": "Wendell Belt",
+      "school": "ARU",
+      "mark": "45-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1971,
+      "classification": "A",
+      "name": "Ronald Gardner",
+      "school": "FAH",
+      "mark": "44-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1971,
+      "classification": "B",
+      "name": "Sampson",
+      "school": "CAM",
+      "mark": "43-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1971,
+      "classification": "C",
+      "name": "Robert Ericson",
+      "school": "FRD",
+      "mark": "41-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1972,
+      "classification": "AA",
+      "name": "Earl Williams",
+      "school": "DUV",
+      "mark": "45-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1972,
+      "classification": "A",
+      "name": "Milton Gross",
+      "school": "CEN",
+      "mark": "43-08 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1972,
+      "classification": "B",
+      "name": "Kelchner",
+      "school": "ROC",
+      "mark": "42-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1972,
+      "classification": "C",
+      "name": "David Wise",
+      "school": "MID",
+      "mark": "42-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Mike Ellis",
+      "school": "POT",
+      "mark": "45-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1973,
+      "classification": "A",
+      "name": "John Tyler",
+      "school": "CZM",
+      "mark": "45-11 3/8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1973,
+      "classification": "B",
+      "name": "Irving Johnson",
+      "school": "FRD",
+      "mark": "45-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1973,
+      "classification": "C",
+      "name": "Pedro Jennings",
+      "school": "MSD",
+      "mark": "41-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Tom Nichols",
+      "school": "SPB",
+      "mark": "45-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1974,
+      "classification": "A",
+      "name": "John Tyler",
+      "school": "CZM",
+      "mark": "44-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1974,
+      "classification": "B",
+      "name": "Baron Martin",
+      "school": "FRD",
+      "mark": "44-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1974,
+      "classification": "C",
+      "name": "Rodney Colbert",
+      "school": "OAK",
+      "mark": "42-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Kent Guthrie",
+      "school": "DUV",
+      "mark": "46-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1975,
+      "classification": "A",
+      "name": "Tom Temple",
+      "school": "SHG",
+      "mark": "45-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1975,
+      "classification": "B",
+      "name": "Shane Stroup",
+      "school": "SHE",
+      "mark": "44-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1975,
+      "classification": "C",
+      "name": "Rodney Colbert",
+      "school": "OAK",
+      "mark": "43-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Warren Smith",
+      "school": "BAR",
+      "mark": "46-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1976,
+      "classification": "A",
+      "name": "George Twilley",
+      "school": "JMB",
+      "mark": "45-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1976,
+      "classification": "B",
+      "name": "Henry Gordon",
+      "school": "NHF",
+      "mark": "46-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1976,
+      "classification": "C",
+      "name": "John Cassadonte",
+      "school": "WLK",
+      "mark": "43-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Curtis Moore",
+      "school": "PKD",
+      "mark": "46-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1977,
+      "classification": "A",
+      "name": "Bobby Thompson",
+      "school": "FAH",
+      "mark": "45-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1977,
+      "classification": "B",
+      "name": "Derek Lymus",
+      "school": "CEN",
+      "mark": "46-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1977,
+      "classification": "C",
+      "name": "Steve Younker",
+      "school": "HAN",
+      "mark": "42-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Ralph Spry",
+      "school": "OLM",
+      "mark": "49-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1978,
+      "classification": "A",
+      "name": "Bobby Thompson",
+      "school": "FAH",
+      "mark": "44-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1978,
+      "classification": "B",
+      "name": "Bobby Watson",
+      "school": "SHG",
+      "mark": "44-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1978,
+      "classification": "C",
+      "name": "Peter Duncan",
+      "school": "STD",
+      "mark": "46-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Simon Ware",
+      "school": "NWE",
+      "mark": "47-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1979,
+      "classification": "A",
+      "name": "Spencer Schriber",
+      "school": "CHO",
+      "mark": "45-11 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1979,
+      "classification": "B",
+      "name": "George Lanman",
+      "school": "QAN",
+      "mark": "43-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1979,
+      "classification": "C",
+      "name": "Ron Taylor",
+      "school": "CLR",
+      "mark": "42-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Payton Poynter",
+      "school": "GLB",
+      "mark": "48-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1980,
+      "classification": "A",
+      "name": "Doug Waddell",
+      "school": "MLM",
+      "mark": "45-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1980,
+      "classification": "B",
+      "name": "Jim Bracey",
+      "school": "NOC",
+      "mark": "43-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1980,
+      "classification": "C",
+      "name": "Anthony Robertson",
+      "school": "HDG",
+      "mark": "44-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Adrian Summers",
+      "school": "MTB",
+      "mark": "47-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1981,
+      "classification": "A",
+      "name": "Terry Ridgeley",
+      "school": "SEV",
+      "mark": "45-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1981,
+      "classification": "B",
+      "name": "Paul Stewart",
+      "school": "OAK",
+      "mark": "44-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1981,
+      "classification": "C",
+      "name": "Rick Hill",
+      "school": "FSK",
+      "mark": "43-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Vernon Foster",
+      "school": "CRO",
+      "mark": "46-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1982,
+      "classification": "A",
+      "name": "Ken Smith",
+      "school": "GWP",
+      "mark": "45-03 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1982,
+      "classification": "B",
+      "name": "John Parker",
+      "school": "CAL",
+      "mark": "44-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1982,
+      "classification": "C",
+      "name": "Scot Poffenburger",
+      "school": "BOO",
+      "mark": "44-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Shawn Tilley",
+      "school": "SEV",
+      "mark": "47-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1983,
+      "classification": "A",
+      "name": "Ira Cutler",
+      "school": "CAT",
+      "mark": "45-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1983,
+      "classification": "B",
+      "name": "Willie Sheppard",
+      "school": "JMB",
+      "mark": "43-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1983,
+      "classification": "C",
+      "name": "Eddie Jones",
+      "school": "NDC",
+      "mark": "44-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Claude Walker",
+      "school": "MEA",
+      "mark": "46-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1984,
+      "classification": "A",
+      "name": "Oliver Kyler",
+      "school": "BDN",
+      "mark": "46-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1984,
+      "classification": "B",
+      "name": "Herbert Givens",
+      "school": "ELK",
+      "mark": "44-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1984,
+      "classification": "C",
+      "name": "Dwayne Norris",
+      "school": "PEV",
+      "mark": "46-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Charlie Gassaway",
+      "school": "GAI",
+      "mark": "47-05 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1985,
+      "classification": "A",
+      "name": "Thadieu Smith",
+      "school": "NOC",
+      "mark": "45-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1985,
+      "classification": "B",
+      "name": "Lawrence Stanton",
+      "school": "GLG",
+      "mark": "45-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1985,
+      "classification": "C",
+      "name": "Dwayne Norris",
+      "school": "PEV",
+      "mark": "43-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Robert Jackson",
+      "school": "GAI",
+      "mark": "45-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1986,
+      "classification": "A",
+      "name": "Sebastian Clanci",
+      "school": "AEI",
+      "mark": "44-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1986,
+      "classification": "B",
+      "name": "Rick Jessie",
+      "school": "ALL",
+      "mark": "45-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1986,
+      "classification": "C",
+      "name": "Randy Purnell",
+      "school": "STD",
+      "mark": "42-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Ricky Hall",
+      "school": "ELR",
+      "mark": "47-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1987,
+      "classification": "A",
+      "name": "Dave Moore",
+      "school": "NCL",
+      "mark": "45-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1987,
+      "classification": "B",
+      "name": "Kelly Davis",
+      "school": "CTN",
+      "mark": "46-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1987,
+      "classification": "C",
+      "name": "William Garner",
+      "school": "FSK",
+      "mark": "43-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Tommy Brown",
+      "school": "ELR",
+      "mark": "46-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1988,
+      "classification": "A",
+      "name": "Johnny Butler",
+      "school": "ELK",
+      "mark": "46-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1988,
+      "classification": "B",
+      "name": "Kelly Davis",
+      "school": "CTN",
+      "mark": "48-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1988,
+      "classification": "C",
+      "name": "Joe Simms",
+      "school": "MLM",
+      "mark": "43-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Anthony Sewell",
+      "school": "GAI",
+      "mark": "44-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Rondell Jones",
+      "school": "NOC",
+      "mark": "43-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Chad Medcroft",
+      "school": "CAT",
+      "mark": "43-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Joe Simms",
+      "school": "MILM",
+      "mark": "44-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Shante Williams",
+      "school": "ELR",
+      "mark": "45-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Troy Blackwell",
+      "school": "LEO",
+      "mark": "44-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Tony Jones",
+      "school": "JMB",
+      "mark": "44-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Khalid Muhamed",
+      "school": "WTM",
+      "mark": "42-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Kirk Morris",
+      "school": "GAI",
+      "mark": "45-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Toby Allen",
+      "school": "THS",
+      "mark": "43-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Andrew Teheh",
+      "school": "HAM",
+      "mark": "44-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Brian Young",
+      "school": "MLM",
+      "mark": "44-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Greg Sutton",
+      "school": "PEH",
+      "mark": "45-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Jason Anderson",
+      "school": "POT",
+      "mark": "44-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Andrew Tetter",
+      "school": "HAM",
+      "mark": "45-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Jason Draper",
+      "school": "SMI",
+      "mark": "44-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Onaje Robinson",
+      "school": "QOR",
+      "mark": "47-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Tyrone Jackson",
+      "school": "POT",
+      "mark": "45-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Paki Mills",
+      "school": "CHO",
+      "mark": "45-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Ricky Henderson",
+      "school": "BRN",
+      "mark": "47-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Aaron McKinney",
+      "school": "BOW",
+      "mark": "45-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Joseph Rankin",
+      "school": "NOB",
+      "mark": "43-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1994,
+      "classification": "2A",
+      "name": "TJ Hill",
+      "school": "CHO",
+      "mark": "42-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Ricky Henderson",
+      "school": "BRN",
+      "mark": "46-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1995,
+      "classification": "4A",
+      "name": "James Carter",
+      "school": "MVT",
+      "mark": "48-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Melvin Scott",
+      "school": "PKD",
+      "mark": "44-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Charles Woodward",
+      "school": "ALL",
+      "mark": "43-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1995,
+      "classification": "1A",
+      "name": "James Venerable",
+      "school": "VCU",
+      "mark": "43-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Sheldon Hutchinson",
+      "school": "GAI",
+      "mark": "47-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Andy Bilmanis",
+      "school": "THS",
+      "mark": "46-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Tommie Mims",
+      "school": "ABE",
+      "mark": "44-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Travis Stull",
+      "school": "BRN",
+      "mark": "43-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Joshua Rollins",
+      "school": "ARU",
+      "mark": "47-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Andy Bilmanis",
+      "school": "THS",
+      "mark": "47-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Keith Jefferson",
+      "school": "ATH",
+      "mark": "44-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Chris Smith",
+      "school": "LGR",
+      "mark": "43-09 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Sheldon Hutchinson",
+      "school": "GAI",
+      "mark": "49-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Tuan Wreh",
+      "school": "RMT",
+      "mark": "46-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Chris Smith",
+      "school": "LGR",
+      "mark": "46-08 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Mike Grimsley",
+      "school": "HDG",
+      "mark": "43-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Allen Simms",
+      "school": "ELR",
+      "mark": "48-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Eric Sye",
+      "school": "DAM",
+      "mark": "44-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Chris Suber",
+      "school": "EDG",
+      "mark": "45-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Jack Delinois",
+      "school": "WIL",
+      "mark": "43-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Allen Simms",
+      "school": "ELR",
+      "mark": "49-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Alton West",
+      "school": "PTX",
+      "mark": "45-08 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Matt Diggs",
+      "school": "EDG",
+      "mark": "42-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Carl Hall",
+      "school": "ELK",
+      "mark": "41-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Frankie Wright",
+      "school": "MVT",
+      "mark": "44-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Broderick Maybank",
+      "school": "EVT",
+      "mark": "45-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Isa George",
+      "school": "OVE",
+      "mark": "42-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Carl Hall",
+      "school": "ELK",
+      "mark": "42-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Frankie Wright",
+      "school": "MVT",
+      "mark": "46-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Tommy Breaux",
+      "school": "RAN",
+      "mark": "45-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Broderick Maybank",
+      "school": "EVT",
+      "mark": "46-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump (Hop-Step-Jump)",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Eric Ray",
+      "school": "ELK",
+      "mark": "44-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1961,
+      "classification": "A",
+      "name": "Hoston",
+      "school": "Howard County",
+      "mark": "41-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1961,
+      "classification": "AA",
+      "name": "Terry Davis",
+      "school": "NWE",
+      "mark": "42-10 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1961,
+      "classification": "B",
+      "name": "Bob Evans",
+      "school": "Sollers Point",
+      "mark": "40-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1961,
+      "classification": "C",
+      "name": "Higgs",
+      "school": "Central Consolidated",
+      "mark": "41-00 3/8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1962,
+      "classification": "A",
+      "name": "Joe Campitelli",
+      "school": "FRA",
+      "mark": "41-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1962,
+      "classification": "AA",
+      "name": "Terry Davis",
+      "school": "NWE",
+      "mark": "43-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1962,
+      "classification": "B",
+      "name": "Lowell Brown",
+      "school": "Salisbury",
+      "mark": "43-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1962,
+      "classification": "C",
+      "name": "Wayne Sigler",
+      "school": "WAS",
+      "mark": "40-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1963,
+      "classification": "A",
+      "name": "Bill Dickerson",
+      "school": "FAH",
+      "mark": "42-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1963,
+      "classification": "AA",
+      "name": "Tim Fahey",
+      "school": "BCC",
+      "mark": "43-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1963,
+      "classification": "B",
+      "name": "J. Warren",
+      "school": "Pomonkey",
+      "mark": "43-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1963,
+      "classification": "C",
+      "name": "Clark",
+      "school": "Kennard",
+      "mark": "41-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1964,
+      "classification": "A",
+      "name": "Hemlin",
+      "school": "EDG",
+      "mark": "42-05 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1964,
+      "classification": "AA",
+      "name": "Tim Fahey",
+      "school": "BCC",
+      "mark": "46-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1964,
+      "classification": "B",
+      "name": "Chris Warren",
+      "school": "Pomonkey",
+      "mark": "46-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1964,
+      "classification": "C",
+      "name": "Shorter",
+      "school": "Carver",
+      "mark": "44-07 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1965,
+      "classification": "A",
+      "name": "Maurice Page",
+      "school": "GAI",
+      "mark": "43-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1965,
+      "classification": "AA",
+      "name": "Jamie Dixon",
+      "school": "NWD",
+      "mark": "46-06 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1966,
+      "classification": "A",
+      "name": "Reginald Dowdy",
+      "school": "SPP",
+      "mark": "44-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1966,
+      "classification": "AA",
+      "name": "Greg Anderson",
+      "school": "WHE",
+      "mark": "46-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1966,
+      "classification": "B",
+      "name": "Cliff Creighton",
+      "school": "NDC",
+      "mark": "42-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1966,
+      "classification": "C",
+      "name": "David Alexander",
+      "school": "Sollers Point",
+      "mark": "45-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1967,
+      "classification": "A",
+      "name": "Ken Boyd",
+      "school": "FRE",
+      "mark": "43-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1967,
+      "classification": "AA",
+      "name": "Ricky Ruff",
+      "school": "BAR",
+      "mark": "45-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1967,
+      "classification": "B",
+      "name": "Smith",
+      "school": "HDG",
+      "mark": "41-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1967,
+      "classification": "C",
+      "name": "Ellsworth Naylor",
+      "school": "POO",
+      "mark": "45-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1968,
+      "classification": "A",
+      "name": "Ken Boyd",
+      "school": "FRE",
+      "mark": "45-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1968,
+      "classification": "AA",
+      "name": "Dave Good",
+      "school": "DUN",
+      "mark": "44-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1968,
+      "classification": "B",
+      "name": "Sampson",
+      "school": "MAL",
+      "mark": "44-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1968,
+      "classification": "C",
+      "name": "Cliff Creighton",
+      "school": "NDC",
+      "mark": "44-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1969,
+      "classification": "A",
+      "name": "Ken Boyd",
+      "school": "FRE",
+      "mark": "44-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1969,
+      "classification": "AA",
+      "name": "Mike Graham",
+      "school": "ANN",
+      "mark": "45-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1969,
+      "classification": "B",
+      "name": "Derrick Wooten",
+      "school": "FAH",
+      "mark": "43-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1969,
+      "classification": "C",
+      "name": "Ron Handy",
+      "school": "SOMER",
+      "mark": "46-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1970,
+      "classification": "A",
+      "name": "Rick Stevenson",
+      "school": "GAI",
+      "mark": "44-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1970,
+      "classification": "AA",
+      "name": "Andy Bilmanis",
+      "school": "HPT",
+      "mark": "46-07 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1970,
+      "classification": "B",
+      "name": "Gary Foreman",
+      "school": "FRE",
+      "mark": "44-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1970,
+      "classification": "C",
+      "name": "Neil Ransom",
+      "school": "GWP",
+      "mark": "43-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1971,
+      "classification": "A",
+      "name": "Ronald Gardner",
+      "school": "FAH",
+      "mark": "44-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1971,
+      "classification": "AA",
+      "name": "Wendell Belt",
+      "school": "ARU",
+      "mark": "45-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1971,
+      "classification": "B",
+      "name": "Sampson",
+      "school": "CAM",
+      "mark": "43-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1971,
+      "classification": "C",
+      "name": "Robert Ericson",
+      "school": "FRD",
+      "mark": "41-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1972,
+      "classification": "A",
+      "name": "Milton Gross",
+      "school": "CEN",
+      "mark": "43-08 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1972,
+      "classification": "AA",
+      "name": "Earl Williams",
+      "school": "DUV",
+      "mark": "45-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1972,
+      "classification": "B",
+      "name": "Kelchner",
+      "school": "ROC",
+      "mark": "42-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1972,
+      "classification": "C",
+      "name": "David Wise",
+      "school": "MID",
+      "mark": "42-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1973,
+      "classification": "A",
+      "name": "John Tyler",
+      "school": "CZM",
+      "mark": "45-11 3/8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Mike Ellis",
+      "school": "POT",
+      "mark": "45-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1973,
+      "classification": "B",
+      "name": "Irving Johnson",
+      "school": "FRD",
+      "mark": "45-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1973,
+      "classification": "C",
+      "name": "Pedro Jennings",
+      "school": "MSD",
+      "mark": "41-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1974,
+      "classification": "A",
+      "name": "John Tyler",
+      "school": "CZM",
+      "mark": "44-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Tom Nichols",
+      "school": "SPB",
+      "mark": "45-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1974,
+      "classification": "B",
+      "name": "Baron Martin",
+      "school": "FRD",
+      "mark": "44-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1974,
+      "classification": "C",
+      "name": "Rodney Colbert",
+      "school": "OAK",
+      "mark": "42-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1975,
+      "classification": "A",
+      "name": "Tom Temple",
+      "school": "SHG",
+      "mark": "45-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Kent Guthrie",
+      "school": "DUV",
+      "mark": "46-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1975,
+      "classification": "B",
+      "name": "Shane Stroup",
+      "school": "SHE",
+      "mark": "44-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1975,
+      "classification": "C",
+      "name": "Rodney Colbert",
+      "school": "OAK",
+      "mark": "43-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1976,
+      "classification": "A",
+      "name": "George Twilley",
+      "school": "JMB",
+      "mark": "45-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Warren Smith",
+      "school": "BAR",
+      "mark": "46-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1976,
+      "classification": "B",
+      "name": "Henry Gordon",
+      "school": "NHF",
+      "mark": "46-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1976,
+      "classification": "C",
+      "name": "John Cassadonte",
+      "school": "WLK",
+      "mark": "43-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1977,
+      "classification": "A",
+      "name": "Bobby Thompson",
+      "school": "FAH",
+      "mark": "45-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Curtis Moore",
+      "school": "PKD",
+      "mark": "46-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1977,
+      "classification": "B",
+      "name": "Derek Lymus",
+      "school": "CEN",
+      "mark": "46-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1977,
+      "classification": "C",
+      "name": "Steve Younker",
+      "school": "HAN",
+      "mark": "42-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1978,
+      "classification": "A",
+      "name": "Bobby Thompson",
+      "school": "FAH",
+      "mark": "44-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Ralph Spry",
+      "school": "OLM",
+      "mark": "49-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1978,
+      "classification": "B",
+      "name": "Bobby Watson",
+      "school": "SHG",
+      "mark": "44-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1978,
+      "classification": "C",
+      "name": "Peter Duncan",
+      "school": "STD",
+      "mark": "46-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1979,
+      "classification": "A",
+      "name": "Spencer Schriber",
+      "school": "CHO",
+      "mark": "45-11 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Simon Ware",
+      "school": "NWE",
+      "mark": "47-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1979,
+      "classification": "B",
+      "name": "George Lanman",
+      "school": "QAN",
+      "mark": "43-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1979,
+      "classification": "C",
+      "name": "Ron Taylor",
+      "school": "CLR",
+      "mark": "42-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1980,
+      "classification": "A",
+      "name": "Doug Waddell",
+      "school": "MLM",
+      "mark": "45-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Payton Poynter",
+      "school": "GLB",
+      "mark": "48-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1980,
+      "classification": "B",
+      "name": "Jim Bracey",
+      "school": "NOC",
+      "mark": "43-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1980,
+      "classification": "C",
+      "name": "Anthony Robertson",
+      "school": "HDG",
+      "mark": "44-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1981,
+      "classification": "A",
+      "name": "Terry Ridgeley",
+      "school": "SEV",
+      "mark": "45-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Adrian Summers",
+      "school": "MTB",
+      "mark": "47-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1981,
+      "classification": "B",
+      "name": "Paul Stewart",
+      "school": "OAK",
+      "mark": "44-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1981,
+      "classification": "C",
+      "name": "Rick Hill",
+      "school": "FSK",
+      "mark": "43-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1982,
+      "classification": "A",
+      "name": "Ken Smith",
+      "school": "GWP",
+      "mark": "45-03 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Vernon Foster",
+      "school": "CRO",
+      "mark": "46-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1982,
+      "classification": "B",
+      "name": "John Parker",
+      "school": "CAL",
+      "mark": "44-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1982,
+      "classification": "C",
+      "name": "Scot Poffenburger",
+      "school": "BOO",
+      "mark": "44-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1983,
+      "classification": "A",
+      "name": "Ira Cutler",
+      "school": "CAT",
+      "mark": "45-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Shawn Tilley",
+      "school": "SEV",
+      "mark": "47-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1983,
+      "classification": "B",
+      "name": "Willie Sheppard",
+      "school": "JMB",
+      "mark": "43-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1983,
+      "classification": "C",
+      "name": "Eddie Jones",
+      "school": "NDC",
+      "mark": "44-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1984,
+      "classification": "A",
+      "name": "Oliver Kyler",
+      "school": "BDN",
+      "mark": "46-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Claude Walker",
+      "school": "MEA",
+      "mark": "46-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1984,
+      "classification": "B",
+      "name": "Herbert Givens",
+      "school": "ELK",
+      "mark": "44-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1984,
+      "classification": "C",
+      "name": "Dwayne Norris",
+      "school": "PEV",
+      "mark": "46-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1985,
+      "classification": "A",
+      "name": "Thadieu Smith",
+      "school": "NOC",
+      "mark": "45-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Charlie Gassaway",
+      "school": "GAI",
+      "mark": "47-05 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1985,
+      "classification": "B",
+      "name": "Lawrence Stanton",
+      "school": "GLG",
+      "mark": "45-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1985,
+      "classification": "C",
+      "name": "Dwayne Norris",
+      "school": "PEV",
+      "mark": "43-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1986,
+      "classification": "A",
+      "name": "Sebastian Clanci",
+      "school": "AEI",
+      "mark": "44-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Robert Jackson",
+      "school": "GAI",
+      "mark": "45-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1986,
+      "classification": "B",
+      "name": "Rick Jessie",
+      "school": "ALL",
+      "mark": "45-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1986,
+      "classification": "C",
+      "name": "Randy Purnell",
+      "school": "STD",
+      "mark": "42-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1987,
+      "classification": "A",
+      "name": "Dave Moore",
+      "school": "NCL",
+      "mark": "45-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Ricky Hall",
+      "school": "ELR",
+      "mark": "47-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1987,
+      "classification": "B",
+      "name": "Kelly Davis",
+      "school": "CTN",
+      "mark": "46-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1987,
+      "classification": "C",
+      "name": "William Garner",
+      "school": "FSK",
+      "mark": "43-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1988,
+      "classification": "A",
+      "name": "Johnny Butler",
+      "school": "ELK",
+      "mark": "46-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Tommy Brown",
+      "school": "ELR",
+      "mark": "46-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1988,
+      "classification": "B",
+      "name": "Kelly Davis",
+      "school": "CTN",
+      "mark": "48-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1988,
+      "classification": "C",
+      "name": "Joe Simms",
+      "school": "MLM",
+      "mark": "43-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Joe Simms",
+      "school": "MILM",
+      "mark": "44-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Chad Medcroft",
+      "school": "CAT",
+      "mark": "43-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Rondell Jones",
+      "school": "NOC",
+      "mark": "43-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Anthony Sewell",
+      "school": "GAI",
+      "mark": "44-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Khalid Muhamed",
+      "school": "WTM",
+      "mark": "42-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Tony Jones",
+      "school": "JMB",
+      "mark": "44-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Troy Blackwell",
+      "school": "LEO",
+      "mark": "44-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Shante Williams",
+      "school": "ELR",
+      "mark": "45-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Brian Young",
+      "school": "MLM",
+      "mark": "44-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Andrew Teheh",
+      "school": "HAM",
+      "mark": "44-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Toby Allen",
+      "school": "THS",
+      "mark": "43-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Kirk Morris",
+      "school": "GAI",
+      "mark": "45-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Jason Draper",
+      "school": "SMI",
+      "mark": "44-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Andrew Tetter",
+      "school": "HAM",
+      "mark": "45-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Jason Anderson",
+      "school": "POT",
+      "mark": "44-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Greg Sutton",
+      "school": "PEH",
+      "mark": "45-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Ricky Henderson",
+      "school": "BRN",
+      "mark": "47-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Paki Mills",
+      "school": "CHO",
+      "mark": "45-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Tyrone Jackson",
+      "school": "POT",
+      "mark": "45-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Onaje Robinson",
+      "school": "QOR",
+      "mark": "47-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Ricky Henderson",
+      "school": "BRN",
+      "mark": "46-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1994,
+      "classification": "2A",
+      "name": "TJ Hill",
+      "school": "CHO",
+      "mark": "42-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Joseph Rankin",
+      "school": "NOB",
+      "mark": "43-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Aaron McKinney",
+      "school": "BOW",
+      "mark": "45-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1995,
+      "classification": "1A",
+      "name": "James Venerable",
+      "school": "VCU",
+      "mark": "43-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Charles Woodward",
+      "school": "ALL",
+      "mark": "43-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Melvin Scott",
+      "school": "PKD",
+      "mark": "44-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1995,
+      "classification": "4A",
+      "name": "James Carter",
+      "school": "MVT",
+      "mark": "48-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Travis Stull",
+      "school": "BRN",
+      "mark": "43-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Tommie Mims",
+      "school": "ABE",
+      "mark": "44-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Andy Bilmanis",
+      "school": "THS",
+      "mark": "46-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Sheldon Hutchinson",
+      "school": "GAI",
+      "mark": "47-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Chris Smith",
+      "school": "LGR",
+      "mark": "43-09 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Keith Jefferson",
+      "school": "ATH",
+      "mark": "44-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Andy Bilmanis",
+      "school": "THS",
+      "mark": "47-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Joshua Rollins",
+      "school": "ARU",
+      "mark": "47-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Mike Grimsley",
+      "school": "HDG",
+      "mark": "43-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Chris Smith",
+      "school": "LGR",
+      "mark": "46-08 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Tuan Wreh",
+      "school": "RMT",
+      "mark": "46-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Sheldon Hutchinson",
+      "school": "GAI",
+      "mark": "49-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Jack Delinois",
+      "school": "WIL",
+      "mark": "43-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Chris Suber",
+      "school": "EDG",
+      "mark": "45-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Eric Sye",
+      "school": "DAM",
+      "mark": "44-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Allen Simms",
+      "school": "ELR",
+      "mark": "48-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Carl Hall",
+      "school": "ELK",
+      "mark": "41-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Matt Diggs",
+      "school": "EDG",
+      "mark": "42-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Alton West",
+      "school": "PTX",
+      "mark": "45-08 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Allen Simms",
+      "school": "ELR",
+      "mark": "49-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Carl Hall",
+      "school": "ELK",
+      "mark": "42-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Isa George",
+      "school": "OVE",
+      "mark": "42-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Broderick Maybank",
+      "school": "EVT",
+      "mark": "45-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Frankie Wright",
+      "school": "MVT",
+      "mark": "44-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Eric Ray",
+      "school": "ELK",
+      "mark": "44-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Broderick Maybank",
+      "school": "EVT",
+      "mark": "46-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Tommy Breaux",
+      "school": "RAN",
+      "mark": "45-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Triple Jump",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Frankie Wright",
+      "school": "MVT",
+      "mark": "46-02 1/2"
+    }
+  ]
+}

@@ -1,0 +1,2092 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      51
+    ],
+    "extracted_at": "2026-08-02T20:32:45Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Jessie Rubin",
+      "school": "TSW",
+      "mark": "10:41.28"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Becky Yep",
+      "school": "MTH",
+      "mark": "10:55.18"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Maura Linde",
+      "school": "CNT",
+      "mark": "11:24.57"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Jennifer Cleary",
+      "school": "BHM",
+      "mark": "11:26.56"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Anna Bosse",
+      "school": "WAJ",
+      "mark": "11:14.36"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Megan Schott",
+      "school": "NHF",
+      "mark": "11:29.89"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Hannah Oneda",
+      "school": "WMI",
+      "mark": "11:13.65"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Jessica Peters",
+      "school": "BHM",
+      "mark": "11:35.43"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Caroline Guiot",
+      "school": "WWH",
+      "mark": "11:16.93"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Sara Carter",
+      "school": "HER",
+      "mark": "11:15.25"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Hannah Oneda",
+      "school": "WMI",
+      "mark": "10:52.01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Sarah Zielinski",
+      "school": "BOO",
+      "mark": "11:27.04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Caroline Beakes",
+      "school": "BCC",
+      "mark": "10:56.52"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Emily Mulhern",
+      "school": "URB",
+      "mark": "11:09.04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Julia Nardone",
+      "school": "GLG",
+      "mark": "11:14.43"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Abby Culp",
+      "school": "MVM",
+      "mark": "11:12.96"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Nora McUmber",
+      "school": "BCC",
+      "mark": "10:45.68"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Maria Carberry",
+      "school": "URB",
+      "mark": "11:09.64"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Megan Grams",
+      "school": "BOO",
+      "mark": "10:55.95"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Jessica Narr",
+      "school": "CSD",
+      "mark": "11:33.67"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Bethlehem Taye",
+      "school": "PBR",
+      "mark": "11:01.73"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Maria Carberry",
+      "school": "URB",
+      "mark": "11:05.95"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Hayley Jackson",
+      "school": "PTX",
+      "mark": "10:37.32"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Katie Leisher",
+      "school": "MVM",
+      "mark": "11:19.24"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Maria Coffin",
+      "school": "ANN",
+      "mark": "10:45.90"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Annie Imhof",
+      "school": "GTM",
+      "mark": "11:13.47"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Brit Lang",
+      "school": "OAK",
+      "mark": "10:48.41"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Haley Wright",
+      "school": "BOO",
+      "mark": "11:06.96"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Abigail Green",
+      "school": "WAJ",
+      "mark": "10:45.66"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Nandini Satsangi",
+      "school": "POO",
+      "mark": "11:07.01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Hayley Jackson",
+      "school": "PTX",
+      "mark": "10:21.73"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Erica Lindsay",
+      "school": "SMI",
+      "mark": "11:57.04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Abigail Green",
+      "school": "WAJ",
+      "mark": "10:22.23"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Abby Sweeney",
+      "school": "NOC",
+      "mark": "11:27.01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Faith Meininger",
+      "school": "RVH",
+      "mark": "11:13.31"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Elly Mcgillivray",
+      "school": "BRN",
+      "mark": "11:44.05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Mollie Fenn",
+      "school": "BDN",
+      "mark": "10:59.35"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Oakley Olson",
+      "school": "NOC",
+      "mark": "11:28.38"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Emily Kronkus",
+      "school": "HER",
+      "mark": "11:17.30"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Macy Gerbes",
+      "school": "SPP",
+      "mark": "11:52.38"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Grace M. Finnegan",
+      "school": "RMT",
+      "mark": "11:07.18"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Elizabeth Pickett",
+      "school": "BAR",
+      "mark": "10:43.11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Kathryn Hopkins",
+      "school": "WMI",
+      "mark": "11:38.33"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Ella Ashby",
+      "school": "NOG",
+      "mark": "11:55.96"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Ella Zeigler",
+      "school": "JHB",
+      "mark": "10:59.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Elizabeth Holcombe",
+      "school": "HOW",
+      "mark": "11:06.98"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Sarah van Ornum",
+      "school": "KTI",
+      "mark": "11:21.24"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Caroline Matthews",
+      "school": "BOO",
+      "mark": "11:24.10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Katherine Greenwald",
+      "school": "WWH",
+      "mark": "10:49.37"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Lauren Stine",
+      "school": "NHG",
+      "mark": "10:54.42"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Temi Ariyo",
+      "school": "OVE",
+      "mark": "10:47.80"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Mary Delaney",
+      "school": "MTR",
+      "mark": "11:03.02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Katherine Morey",
+      "school": "WCH",
+      "mark": "10:56.29"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Lauren Stine",
+      "school": "NHG",
+      "mark": "10:47.08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Rebekka Hillier",
+      "school": "HER",
+      "mark": "11:29.46"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Caroline Matthews",
+      "school": "BOO",
+      "mark": "11:36.64"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Ani Bailin",
+      "school": "BCC",
+      "mark": "10:46.58"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Rian Johnson",
+      "school": "NHG",
+      "mark": "10:25.74"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Sylvia Snider",
+      "school": "HER",
+      "mark": "10:57.60"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "3200 Meters",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Sophia Brill",
+      "school": "MTR",
+      "mark": "11:26.31"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1972,
+      "classification": "Comb",
+      "name": "D. Harrod",
+      "school": "SCL",
+      "mark": "7.5y (50yH)"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1973,
+      "classification": "Comb",
+      "name": "Page Croyder",
+      "school": "TSW",
+      "mark": "7.0y (50yH)"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1974,
+      "classification": "Comb",
+      "name": "Pam Humphrey",
+      "school": "DUV",
+      "mark": "7.1y (50yH)"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1975,
+      "classification": "Comb",
+      "name": "Pam Humphrey",
+      "school": "DUV",
+      "mark": "6.9y (50yH)"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1975,
+      "classification": "Comb",
+      "name": "Pam Humphrey",
+      "school": "DUV",
+      "mark": "11.0y (80yH)"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Peggy Pepperone",
+      "school": "SPB",
+      "mark": "10.8y (80yH)"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Jalene Chase",
+      "school": "OLM",
+      "mark": "10.4y (80yH)"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Laura Lemire",
+      "school": "TOW",
+      "mark": "14.9 (30\")"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1977,
+      "classification": "A",
+      "name": "Jalene Chase",
+      "school": "OLM",
+      "mark": "14.4 (30\")"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1977,
+      "classification": "B",
+      "name": "Kathy Taylor",
+      "school": "LAP",
+      "mark": "14.2 (30\")"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1977,
+      "classification": "C",
+      "name": "Susan Striby",
+      "school": "COCK",
+      "mark": "15.3 (30\")"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Rhonda Evans",
+      "school": "POT",
+      "mark": "15.2 (33\")"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1978,
+      "classification": "A",
+      "name": "Vivian Scruggs",
+      "school": "ELR",
+      "mark": "14.6 (33\")"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1978,
+      "classification": "B",
+      "name": "Kathy Taylor",
+      "school": "LAP",
+      "mark": "15.4 (33\")"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1978,
+      "classification": "C",
+      "name": "Susan Striby",
+      "school": "COCK",
+      "mark": "15.9 (33\")"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Sue Striby",
+      "school": "DUL",
+      "mark": "15.2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1979,
+      "classification": "A",
+      "name": "Mary Wilkins",
+      "school": "FAH",
+      "mark": "14.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1979,
+      "classification": "B",
+      "name": "Valerie Pearce",
+      "school": "DAM",
+      "mark": "14.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1979,
+      "classification": "C",
+      "name": "Patty Smith",
+      "school": "SMI",
+      "mark": "15.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Myrtle Chester",
+      "school": "LAU",
+      "mark": "14.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1980,
+      "classification": "A",
+      "name": "Yori Yerrell",
+      "school": "MLM",
+      "mark": "14.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1980,
+      "classification": "B",
+      "name": "Rachel Clary",
+      "school": "SPP",
+      "mark": "14.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1980,
+      "classification": "C",
+      "name": "Joppella Smith",
+      "school": "HAM",
+      "mark": "15.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Lynise Green",
+      "school": "OLM",
+      "mark": "14.5"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1981,
+      "classification": "A",
+      "name": "Michelle Smoot",
+      "school": "MDU",
+      "mark": "14.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1981,
+      "classification": "B",
+      "name": "Diane Thomas",
+      "school": "FRE",
+      "mark": "14.8"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1981,
+      "classification": "C",
+      "name": "Twanda Dorsey",
+      "school": "LIN",
+      "mark": "15.4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Kathy Mendel",
+      "school": "DUL",
+      "mark": "14.8"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1982,
+      "classification": "A",
+      "name": "Karen Woods",
+      "school": "CEN",
+      "mark": "15.2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1982,
+      "classification": "B",
+      "name": "Diane Thomas",
+      "school": "FRE",
+      "mark": "14.4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1982,
+      "classification": "C",
+      "name": "Carol Myers",
+      "school": "FSK",
+      "mark": "15.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Sharnet Rowlan",
+      "school": "DUL",
+      "mark": "14.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1983,
+      "classification": "A",
+      "name": "Paulette Turner",
+      "school": "CEN",
+      "mark": "15.0"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1983,
+      "classification": "B",
+      "name": "Diane Thomas",
+      "school": "FRE",
+      "mark": "14.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1983,
+      "classification": "C",
+      "name": "Carmela Bolden",
+      "school": "NCN",
+      "mark": "15.5"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Jean Wachter",
+      "school": "OLM",
+      "mark": "14.4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1984,
+      "classification": "A",
+      "name": "Barb Williams",
+      "school": "FTH",
+      "mark": "15.8"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1984,
+      "classification": "B",
+      "name": "Lori Amos",
+      "school": "MLM",
+      "mark": "14.5"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1984,
+      "classification": "C",
+      "name": "Deirdre Minor",
+      "school": "HDG",
+      "mark": "16.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Ernestine Marsh",
+      "school": "NWE",
+      "mark": "14.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1985,
+      "classification": "A",
+      "name": "Jackie McKendree",
+      "school": "MDU",
+      "mark": "14.8"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1985,
+      "classification": "B",
+      "name": "Lori Amos",
+      "school": "MLM",
+      "mark": "14.5"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1985,
+      "classification": "C",
+      "name": "Olivia Hill",
+      "school": "FSK",
+      "mark": "16.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Leslie Dancy",
+      "school": "NWE",
+      "mark": "14.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1986,
+      "classification": "A",
+      "name": "Jackie McKendree",
+      "school": "MDU",
+      "mark": "14.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1986,
+      "classification": "B",
+      "name": "Val Manning",
+      "school": "HAM",
+      "mark": "14.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1986,
+      "classification": "C",
+      "name": "Christy Nuice",
+      "school": "BOO",
+      "mark": "16.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Stephanie Hinton",
+      "school": "OLM",
+      "mark": "14.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1987,
+      "classification": "A",
+      "name": "Jackie McKendree",
+      "school": "MDU",
+      "mark": "14.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1987,
+      "classification": "B",
+      "name": "Kellie Roberts",
+      "school": "CEN",
+      "mark": "15.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1987,
+      "classification": "C",
+      "name": "Christy Nuice",
+      "school": "BOO",
+      "mark": "16.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Judith Owens",
+      "school": "AEI",
+      "mark": "14.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1988,
+      "classification": "A",
+      "name": "Rebecca Gregory",
+      "school": "LIN",
+      "mark": "15.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1988,
+      "classification": "B",
+      "name": "Tanya Hughes",
+      "school": "GTM",
+      "mark": "15.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1988,
+      "classification": "C",
+      "name": "Georgette Richardson",
+      "school": "MLM",
+      "mark": "15.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Judith Owens",
+      "school": "AEI",
+      "mark": "14.69"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Tishona Watson",
+      "school": "SUR",
+      "mark": "15.40"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Tanya Hughes",
+      "school": "GTM",
+      "mark": "15.08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Zakia Wilson",
+      "school": "MLM",
+      "mark": "14.80"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Kristie Rohleder",
+      "school": "OLM",
+      "mark": "15.78"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Tishona Watson",
+      "school": "SUR",
+      "mark": "14.74"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Stephanie Love",
+      "school": "CEN",
+      "mark": "15.40"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Sheron Barton",
+      "school": "MLM",
+      "mark": "16.22"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Tyra Moore",
+      "school": "LAR",
+      "mark": "14.82"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Kim Fullmer",
+      "school": "SRI",
+      "mark": "14.74"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Charmene Fields",
+      "school": "CEN",
+      "mark": "14.62"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Sheron Barton",
+      "school": "MLM",
+      "mark": "15.99"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Tyra Moore",
+      "school": "LAR",
+      "mark": "14.50"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Torrey Simons",
+      "school": "WAJ",
+      "mark": "15.03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Tamelia Hutchinson",
+      "school": "SUR",
+      "mark": "15.30"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Thori Staples",
+      "school": "JOP",
+      "mark": "15.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Angie Vaughn",
+      "school": "LAU",
+      "mark": "14.54"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Judy Whims",
+      "school": "GTJ",
+      "mark": "15.51"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Tamelia Hutchinson",
+      "school": "SUR",
+      "mark": "15.39"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Zoe Hunt",
+      "school": "SMI",
+      "mark": "14.86"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Martise Moore",
+      "school": "OLM",
+      "mark": "14.88"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Stacy Jordan",
+      "school": "DUV",
+      "mark": "14.83"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Kisha Jett",
+      "school": "HAM",
+      "mark": "14.60"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Tahira Anderson",
+      "school": "CEN",
+      "mark": "15.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Martise Moore",
+      "school": "OLM",
+      "mark": "14.40 ht"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Judy Whims",
+      "school": "GTJ",
+      "mark": "14.73"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Ilana Finley",
+      "school": "AEI",
+      "mark": "15.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Sylvia Paesani",
+      "school": "SOG",
+      "mark": "16.15"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Ola Sesay",
+      "school": "ELR",
+      "mark": "15.11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Ilana Finley",
+      "school": "AEI",
+      "mark": "15.02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Nyjila Littlejohn",
+      "school": "WLD",
+      "mark": "14.78"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Stacey Greene",
+      "school": "FSK",
+      "mark": "16.13"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Ola Sesay",
+      "school": "ELR",
+      "mark": "14.49"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Carlesha King",
+      "school": "DAM",
+      "mark": "14.76"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Nyjila Littlejohn",
+      "school": "WLD",
+      "mark": "14.12"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Thema Napier",
+      "school": "LGR",
+      "mark": "15.29"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Mardy Przywarty",
+      "school": "FRE",
+      "mark": "15.37"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Indrid Elmore",
+      "school": "DUV",
+      "mark": "15.33"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Lekisha Barnaby",
+      "school": "CEN",
+      "mark": "14.38"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Erica McCann",
+      "school": "SHG",
+      "mark": "15.78"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Genie Lavine",
+      "school": "GAI",
+      "mark": "15.09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Andrea Pressley",
+      "school": "FRD",
+      "mark": "14.82"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Lekisha Barnaby",
+      "school": "CEN",
+      "mark": "14.42"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Jody Bowser",
+      "school": "SOG",
+      "mark": "15.47"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Yorvo Jones",
+      "school": "GAI",
+      "mark": "15.28"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Arike Ogundipe",
+      "school": "DAM",
+      "mark": "15.05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Jeanette Curtis",
+      "school": "MTH",
+      "mark": "15.88"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Beth Sprecher",
+      "school": "SMI",
+      "mark": "15.88"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Romona Modeste",
+      "school": "ELR",
+      "mark": "15.09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Jessica Dunston",
+      "school": "LAP",
+      "mark": "15.02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Tiffany Nesfield",
+      "school": "CHF",
+      "mark": "14.77"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Rachel Clinton",
+      "school": "OAK",
+      "mark": "15.08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Tiffany Nesfield",
+      "school": "CHF",
+      "mark": "14.86"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Jeanette Curtis",
+      "school": "MTH",
+      "mark": "14.65"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Lindsay Grigoriev",
+      "school": "ATH",
+      "mark": "15.48"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Michele Feiser",
+      "school": "SMI",
+      "mark": "15.90"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Tiffany Nesfield",
+      "school": "CHF",
+      "mark": "14.15"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Jeanette Curtis",
+      "school": "MTH",
+      "mark": "14.42"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Paige O'Flaherty",
+      "school": "NHG",
+      "mark": "15.19"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Sarah Hensley",
+      "school": "BOO",
+      "mark": "15.45"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Tiffany Nesfield",
+      "school": "CHF",
+      "mark": "14.45"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Theresa Lews",
+      "school": "WEB",
+      "mark": "14.23"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Nicole Robinson",
+      "school": "ATH",
+      "mark": "15.52"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Corina Campbell",
+      "school": "SMI",
+      "mark": "15.32"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Bever-Leigh Holloway",
+      "school": "ELR",
+      "mark": "14.55"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Theresa Lews",
+      "school": "WEB",
+      "mark": "13.76"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Nicole Robinson",
+      "school": "ATH",
+      "mark": "14.99"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Sarah Hensley",
+      "school": "BOO",
+      "mark": "15.00-wind"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Audrey Gariepy-Bogui",
+      "school": "WCH",
+      "mark": "14.32"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Theresa Lewis",
+      "school": "WEB",
+      "mark": "14.04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Christen Griffin",
+      "school": "MDU",
+      "mark": "14.77"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Lauren Campbell",
+      "school": "WTE",
+      "mark": "15.55"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Audrey Gariepy-Bogui",
+      "school": "WCH",
+      "mark": "13.77"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Letecia Wright",
+      "school": "WEB",
+      "mark": "14.23"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Christen Griffin",
+      "school": "MDU",
+      "mark": "14.80"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Geranda Williams",
+      "school": "NPT",
+      "mark": "15.42"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Imani Colbert",
+      "school": "CHF",
+      "mark": "14.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Christina Manning",
+      "school": "WLA",
+      "mark": "13.99"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Shavon Briscoe",
+      "school": "NPT",
+      "mark": "14.75"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Olivia Durr",
+      "school": "POO",
+      "mark": "14.74"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Lorranine Graham",
+      "school": "CHF",
+      "mark": "13.92"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Kamilah Brown",
+      "school": "RES",
+      "mark": "14.47"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Shavon Briscoe",
+      "school": "NPT",
+      "mark": "14.46"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Olivia Durr",
+      "school": "POO",
+      "mark": "15.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Alexis Franklin",
+      "school": "OLM",
+      "mark": "13.96"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Thea Lafond",
+      "school": "JFK",
+      "mark": "14.74"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Tayler Wheeler",
+      "school": "OAK",
+      "mark": "15.21"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Mykael Dixon",
+      "school": "PIK",
+      "mark": "15.68"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Alexis Franklin",
+      "school": "OLM",
+      "mark": "13.89"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Thea Lafond",
+      "school": "JFK",
+      "mark": "14.45"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Willie Austin",
+      "school": "EDG",
+      "mark": "14.94"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Maggie Sullivan",
+      "school": "BOO",
+      "mark": "15.57"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Mobolaji Adeokun",
+      "school": "DUV",
+      "mark": "13.75"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Christine London",
+      "school": "HOW",
+      "mark": "14.26"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Modesty Lorick",
+      "school": "FRD",
+      "mark": "14.67"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Tiffany Dorsey",
+      "school": "OVE",
+      "mark": "14.89"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Gwen Shaw",
+      "school": "TSW",
+      "mark": "13.75"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Christine London",
+      "school": "HOW",
+      "mark": "14.17"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Modesty Lorick",
+      "school": "FRD",
+      "mark": "14.54"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Daijona Revell",
+      "school": "WTE",
+      "mark": "14.90"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Alexus Pyles",
+      "school": "CLK",
+      "mark": "14.54-w"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Medina Spencer",
+      "school": "MLM",
+      "mark": "14.57-w"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Maggie Sullivan",
+      "school": "BOO",
+      "mark": "14.28-w"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Haley Cianfarini",
+      "school": "NCL",
+      "mark": "14.64-w"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Alexus Pyles",
+      "school": "CLK",
+      "mark": "14.49"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Yinka Alabi",
+      "school": "MLM",
+      "mark": "14.49"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Alaina McCracken",
+      "school": "OAD",
+      "mark": "15.10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Khaalea Collins",
+      "school": "SUR",
+      "mark": "15.65"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Madeleine Akobundu",
+      "school": "DUV",
+      "mark": "13.96"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Deja Stevenson",
+      "school": "BPI",
+      "mark": "14.71"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Sydney Williams",
+      "school": "LAC",
+      "mark": "14.33"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Aidan Alston",
+      "school": "NAF",
+      "mark": "16.13"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Editta Pessima",
+      "school": "NWM",
+      "mark": "14.41"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Nadia Hackett",
+      "school": "BPI",
+      "mark": "14.69"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Sydney Williams",
+      "school": "LAC",
+      "mark": "14.50"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meter High Hurdles",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Alyssa Mullery",
+      "school": "FTH",
+      "mark": "16.30"
+    }
+  ]
+}

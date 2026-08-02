@@ -1,0 +1,2065 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      59
+    ],
+    "extracted_at": "2026-08-02T20:41:37Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Bethaney Perna",
+      "school": "WMI",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Lacie Johnson",
+      "school": "WIL",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Jessica Stadler",
+      "school": "PEH",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Chelsea Truesdale",
+      "school": "NCL",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Bethany Perna",
+      "school": "WMI",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Lacie Johnson",
+      "school": "WIL",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Jessica Stadler",
+      "school": "PEH",
+      "mark": "10-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Jess Huber",
+      "school": "NCL",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Ally Hemmie",
+      "school": "MID",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Jocelyn Henline",
+      "school": "MRR",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Sophie Thomas",
+      "school": "NCL",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Sarah Lueck",
+      "school": "URB",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Jocelyn Henline",
+      "school": "MRR",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Sasha Smallwood",
+      "school": "PIK",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Holly Bowen",
+      "school": "CHA",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Jordanna Lehman",
+      "school": "HER",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Allison Hemme",
+      "school": "MID",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Sasha Smallwood",
+      "school": "PIK",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Megan Wall",
+      "school": "DUL",
+      "mark": "11-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Jeanna Vignale",
+      "school": "STD",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Jamie Russell",
+      "school": "LIB",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Sasha Smallwood",
+      "school": "PIK",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Megan Wall",
+      "school": "DUL",
+      "mark": "12-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Jaid Sandeen",
+      "school": "SHG",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Tori Bertrand",
+      "school": "NEC",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Sasha Smallwood",
+      "school": "PIK",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Sarah Taylor",
+      "school": "CHA",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Justine Kalisz",
+      "school": "URB",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Emma King",
+      "school": "OAD",
+      "mark": "11-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Brittany Wilson",
+      "school": "BHM",
+      "mark": "10-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Emma Staisloff",
+      "school": "SEP",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Kathy Kammerer",
+      "school": "CMW",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Emma King",
+      "school": "OAD",
+      "mark": "12-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Emma Gerhold",
+      "school": "SMI",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Lea Carter",
+      "school": "SRI",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Olivia Gruver",
+      "school": "FRA",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Jackie McNulty",
+      "school": "OAD",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Emma Gerhold",
+      "school": "SMI",
+      "mark": "11-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Lea Carter",
+      "school": "SRI",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Mia Del Borrello",
+      "school": "DAM",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Jackie McNulty",
+      "school": "OAD",
+      "mark": "12-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Sierra Legeer",
+      "school": "SOG",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Victoria Toth",
+      "school": "BCC",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Makenzie Keepers",
+      "school": "GTJ",
+      "mark": "10-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Alexandra Butz",
+      "school": "HER",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Bethany Lohman",
+      "school": "BOO",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Gwendolyn Zeckowski",
+      "school": "SRI",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Hannah Walasik",
+      "school": "OAD",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Kelcie Robertson",
+      "school": "WLK",
+      "mark": "11-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Bethany Lohman",
+      "school": "BOO",
+      "mark": "9-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Kelsey Calabrese",
+      "school": "URB",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Myah Davies",
+      "school": "LIN",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Fiona Mulligan",
+      "school": "KTI",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Ellie Kuhn",
+      "school": "PEV",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Sarah Adams",
+      "school": "SEP",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Clara Desclous",
+      "school": "NHG",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Fiona Mulligan",
+      "school": "KTI",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Ellie Kuhn",
+      "school": "PEV",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Kate Donnelly",
+      "school": "BDN",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Elizabeth Schriver",
+      "school": "HER",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Darian Hauf",
+      "school": "NHF",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Leah Clark",
+      "school": "PEV",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Nia Kombe-Jarvis",
+      "school": "URB",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Elisa Ramos",
+      "school": "GTJ",
+      "mark": "12-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Ava Allen",
+      "school": "MID",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Hannah Custer",
+      "school": "FTH",
+      "mark": "9-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Carson Boteler",
+      "school": "BDN",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Elisa Ramos",
+      "school": "GTJ",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Ava Allen",
+      "school": "MID",
+      "mark": "12-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Michaela Carney",
+      "school": "BOO",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Brunell Owusu",
+      "school": "GTJ",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Lillian Schultz",
+      "school": "OAK",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Ava Allen",
+      "school": "MID",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Delaney Freed",
+      "school": "SCL",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Brunell Owusu",
+      "school": "GTJ",
+      "mark": "12-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Fiona Collins",
+      "school": "OAD",
+      "mark": "11-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Maddie Drylie",
+      "school": "HER",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Pole Vault",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Tessa Altshuler",
+      "school": "SCL",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1972,
+      "classification": "Comb",
+      "name": "Page Croyder",
+      "school": "TSW",
+      "mark": "31-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1973,
+      "classification": "Comb",
+      "name": "Judy Pfau",
+      "school": "CAT",
+      "mark": "35-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1974,
+      "classification": "Comb",
+      "name": "Lynne Pfau",
+      "school": "CAT",
+      "mark": "39-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1975,
+      "classification": "Comb",
+      "name": "Diane Myers",
+      "school": "DUV",
+      "mark": "38-06 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Carol Byrd",
+      "school": "FRI",
+      "mark": "40-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Dorothy Hammond",
+      "school": "MTH",
+      "mark": "38-02 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Carol Byrd",
+      "school": "FRI",
+      "mark": "43-11 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "A",
+      "name": "Donna Lake",
+      "school": "AEI",
+      "mark": "39-04 3/8"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "B",
+      "name": "Patice Myrick",
+      "school": "MEA",
+      "mark": "35-10 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "C",
+      "name": "Vanessa Williams",
+      "school": "LIN",
+      "mark": "37-06 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Karen Ryerson",
+      "school": "LAU",
+      "mark": "40-02 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "A",
+      "name": "Carol Byrd",
+      "school": "FRI",
+      "mark": "43-04 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "B",
+      "name": "Debbie Simon",
+      "school": "DAM",
+      "mark": "38-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "C",
+      "name": "Vanessa Williams",
+      "school": "LIN",
+      "mark": "35-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Lisa Pickney",
+      "school": "NWD",
+      "mark": "39-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "A",
+      "name": "Patrice Myrick",
+      "school": "MEA",
+      "mark": "41-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "B",
+      "name": "Debbie Simon",
+      "school": "DAM",
+      "mark": "39-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "C",
+      "name": "Vanessa Williams",
+      "school": "LIN",
+      "mark": "39-09 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Cynthia Howard",
+      "school": "BLA",
+      "mark": "39-6 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "A",
+      "name": "Gaye Thomas",
+      "school": "ARU",
+      "mark": "37-8"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "B",
+      "name": "Debbie Simon",
+      "school": "DAM",
+      "mark": "37-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "C",
+      "name": "Kathy Duppins",
+      "school": "FSK",
+      "mark": "38-8 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Carolyn Brown",
+      "school": "WOO",
+      "mark": "43-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "A",
+      "name": "Chesha Gartmon",
+      "school": "CEN",
+      "mark": "39-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "B",
+      "name": "Katie Jenkins",
+      "school": "SHE",
+      "mark": "35-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "C",
+      "name": "Kathy Duppins",
+      "school": "FSK",
+      "mark": "34-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Phyllis Addison",
+      "school": "FRI",
+      "mark": "39-00 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "A",
+      "name": "Chesha Gartmon",
+      "school": "CEN",
+      "mark": "38-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "B",
+      "name": "Kim Foreman",
+      "school": "SCL",
+      "mark": "36-05 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "C",
+      "name": "Byrna Jones",
+      "school": "WLD",
+      "mark": "37-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Amy Schwinn",
+      "school": "WWH",
+      "mark": "38-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "A",
+      "name": "Chesha Gartmon",
+      "school": "CEN",
+      "mark": "37-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "B",
+      "name": "Chris Larsen",
+      "school": "LIN",
+      "mark": "38-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "C",
+      "name": "Mary Rowe",
+      "school": "CLS",
+      "mark": "38-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Gayle Gleaves",
+      "school": "OXH",
+      "mark": "40-01 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "A",
+      "name": "Allison Armstrong",
+      "school": "JFK",
+      "mark": "36-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "B",
+      "name": "Laurie Governor",
+      "school": "HOW",
+      "mark": "40-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "C",
+      "name": "Mary Rowe",
+      "school": "CLS",
+      "mark": "37-00 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Shirl Dorsey",
+      "school": "WES",
+      "mark": "39-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "A",
+      "name": "Kelly Joyce",
+      "school": "MDU",
+      "mark": "35-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "B",
+      "name": "Phyllis Boarman",
+      "school": "LEO",
+      "mark": "38-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "C",
+      "name": "Julie Saunders",
+      "school": "SMI",
+      "mark": "33-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Shirl Dorsey",
+      "school": "WES",
+      "mark": "41-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1986,
+      "classification": "A",
+      "name": "Kelly Joyce",
+      "school": "MDU",
+      "mark": "40-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1986,
+      "classification": "B",
+      "name": "Jill Patterson",
+      "school": "BAR",
+      "mark": "32-02 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1986,
+      "classification": "C",
+      "name": "Monica Daniel",
+      "school": "BOO",
+      "mark": "34-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Chrissie Busser",
+      "school": "SEV",
+      "mark": "39-01 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "A",
+      "name": "Wendy Wheeler",
+      "school": "LAP",
+      "mark": "36-11 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "B",
+      "name": "Christine Killebrew",
+      "school": "CEN",
+      "mark": "34-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "C",
+      "name": "Diane Moore",
+      "school": "RIS",
+      "mark": "35-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Chrissy Busser",
+      "school": "SEV",
+      "mark": "39-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "A",
+      "name": "Tara Newton",
+      "school": "MDU",
+      "mark": "38-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "B",
+      "name": "Tracy Miller",
+      "school": "EDG",
+      "mark": "34-02 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "C",
+      "name": "Donna Burcker",
+      "school": "BOO",
+      "mark": "32-11 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Kathy Caldwell",
+      "school": "OLM",
+      "mark": "38-06 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Birgit Alms",
+      "school": "FTH",
+      "mark": "36-04 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Tracy Miller",
+      "school": "EDG",
+      "mark": "39-01 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Donna Burcker",
+      "school": "BOO",
+      "mark": "37-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Kim Johnson",
+      "school": "FRI",
+      "mark": "39-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Kelly Huber",
+      "school": "KEN",
+      "mark": "32-09 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Julie Ricketts",
+      "school": "MID",
+      "mark": "35-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Donna Burcker",
+      "school": "BOO",
+      "mark": "35-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Kim Johnson",
+      "school": "FRI",
+      "mark": "41-11 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Loylita Ennis",
+      "school": "CAL",
+      "mark": "40-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Debbie Snyder",
+      "school": "GLG",
+      "mark": "34-04 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Carla Houser",
+      "school": "WIL",
+      "mark": "33-10 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Michelle Smith",
+      "school": "OLM",
+      "mark": "39-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Loylita Ennis",
+      "school": "CAL",
+      "mark": "39-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Devi Hetz",
+      "school": "FTH",
+      "mark": "38-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Carla Houser",
+      "school": "WIL",
+      "mark": "34-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Michelle Smith",
+      "school": "OLM",
+      "mark": "39-05 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Simona Jones",
+      "school": "GTM",
+      "mark": "37-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Devi Hetz",
+      "school": "FTH",
+      "mark": "36-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Carla Houser",
+      "school": "WIL",
+      "mark": "35-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Samantha McElhaney",
+      "school": "SUI",
+      "mark": "34-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Felicia Rice",
+      "school": "THS",
+      "mark": "37-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Christie McDevitt",
+      "school": "NEA",
+      "mark": "33-07 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Jenni Hartley",
+      "school": "SMI",
+      "mark": "36-01 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Cathy Porter",
+      "school": "OLM",
+      "mark": "36-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Laura Borland",
+      "school": "LEO",
+      "mark": "36-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Stacy Briscoe",
+      "school": "CHO",
+      "mark": "35-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Thera Larson",
+      "school": "WLA",
+      "mark": "38-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Cathy Porter",
+      "school": "OLM",
+      "mark": "38-06 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Grace McCallum",
+      "school": "FRE",
+      "mark": "35-10 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Tracee Cheek",
+      "school": "MLM",
+      "mark": "35-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Heather Abucevicz",
+      "school": "MTS",
+      "mark": "35-00 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Brandi Blevins",
+      "school": "NOC",
+      "mark": "38-01 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Jillian Martin",
+      "school": "GWP",
+      "mark": "37-10 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Meagan Verdeyen",
+      "school": "NHG",
+      "mark": "37-08 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Heather Abuceviez",
+      "school": "MTS",
+      "mark": "37-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Wendy Johnson",
+      "school": "ELR",
+      "mark": "36-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Elisa Jones",
+      "school": "PKV",
+      "mark": "38-04 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Meagan Verdeyen",
+      "school": "NHG",
+      "mark": "39-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Heather Abucevicz",
+      "school": "SMI",
+      "mark": "37-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Kiara Adams",
+      "school": "WES",
+      "mark": "36-11 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Helen Young",
+      "school": "LEO",
+      "mark": "38-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Meagan Verdeyen",
+      "school": "NHG",
+      "mark": "41-05 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Tissa Porter",
+      "school": "SMI",
+      "mark": "33-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Kiara Adams",
+      "school": "WES",
+      "mark": "41-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Brianna Herring",
+      "school": "WLD",
+      "mark": "39-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Ashley Horn",
+      "school": "POT",
+      "mark": "38-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Melissa Smile",
+      "school": "NDC",
+      "mark": "34-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Tanisha Davis",
+      "school": "FDB",
+      "mark": "36-06 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Candace Swann",
+      "school": "WLA",
+      "mark": "40-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Ashley Horn",
+      "school": "POT",
+      "mark": "40-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Melissa Smile",
+      "school": "NDC",
+      "mark": "36-10 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Ginger Williams",
+      "school": "CHA",
+      "mark": "36-10 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Yasmin Edwards",
+      "school": "CAL",
+      "mark": "36-08 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Lindsay Grigoriev",
+      "school": "ATH",
+      "mark": "41-05 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Kacie Escamilla",
+      "school": "BRN",
+      "mark": "36-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Tamika Davis",
+      "school": "LCE",
+      "mark": "39-08 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Yasmin Edwards",
+      "school": "CAL",
+      "mark": "37-04 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Lindsay Grigoriev",
+      "school": "ATH",
+      "mark": "44-01 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Tara Knable",
+      "school": "SMI",
+      "mark": "37-03 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Sue Izevbigie",
+      "school": "CHF",
+      "mark": "35-04 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Quiteelia Boyd",
+      "school": "WLA",
+      "mark": "40-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Dana Reeser",
+      "school": "CNT",
+      "mark": "38-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Tara Knable",
+      "school": "SMI",
+      "mark": "36-11 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Chrissy Robinson",
+      "school": "PTX",
+      "mark": "38-07 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Ashley Thompson",
+      "school": "MDU",
+      "mark": "35-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Dana Reeser",
+      "school": "CNT",
+      "mark": "39-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Katelyn Poss",
+      "school": "POO",
+      "mark": "33-04 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Jocelyn Wheeler",
+      "school": "LAR",
+      "mark": "36-07 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Shannel Shivers",
+      "school": "ABE",
+      "mark": "37-08 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Chrissy Robinson",
+      "school": "PTX",
+      "mark": "41-04 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Katelyn Poss",
+      "school": "POO",
+      "mark": "38-03 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Emily Vannoy",
+      "school": "GTJ",
+      "mark": "46-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Jocelyn Wheeler",
+      "school": "LAR",
+      "mark": "41-00 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Rachelle Wright",
+      "school": "POT",
+      "mark": "41-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Paige Shirk",
+      "school": "CLS",
+      "mark": "33-11 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Emily Vannoy",
+      "school": "GTJ",
+      "mark": "48-07 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Amanda Deller",
+      "school": "ABE",
+      "mark": "41-00 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Vanessa Henry",
+      "school": "FAH",
+      "mark": "41-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Kelly Yarn",
+      "school": "WTE",
+      "mark": "34-04 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Emily Vannoy",
+      "school": "GTJ",
+      "mark": "45-05 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Amanda Deller",
+      "school": "ABE",
+      "mark": "43-11 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Morgan Ostasewski",
+      "school": "NEC",
+      "mark": "36-03 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Paige Shirk",
+      "school": "CLS",
+      "mark": "39-09 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Brelyn Finley",
+      "school": "CHF",
+      "mark": "40-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Charlise Morgan",
+      "school": "LAR",
+      "mark": "40-08 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Meghan Rose",
+      "school": "EVT",
+      "mark": "38-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Paige Shirk",
+      "school": "CLS",
+      "mark": "41-01 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Antonella Taylor",
+      "school": "BOW",
+      "mark": "44-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Paige Dement",
+      "school": "LAP",
+      "mark": "38-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Charlotte Anderson",
+      "school": "NHG",
+      "mark": "36-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Becky Young",
+      "school": "BOO",
+      "mark": "36-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Antonella Taylor",
+      "school": "BOW",
+      "mark": "41-04 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Paige Dement",
+      "school": "LAP",
+      "mark": "38-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Brittney Chavis",
+      "school": "HVT",
+      "mark": "37-08 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Shatiya Johnson",
+      "school": "FOR",
+      "mark": "33-08"
+    }
+  ]
+}

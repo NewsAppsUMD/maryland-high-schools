@@ -1,0 +1,1975 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      59
+    ],
+    "extracted_at": "2026-08-02T19:50:44Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Josiah Nilsen",
+      "school": "Dulaney",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Kaithon McDonald",
+      "school": "South Hagerstown",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Jalen Stanton",
+      "school": "Century",
+      "mark": "6-07"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Michael Hollingsworth",
+      "school": "Southern-Garrett",
+      "mark": "5-10"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Kavi Caster",
+      "school": "South River",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Colby Bannon",
+      "school": "Linganore",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Jalen Stanton",
+      "school": "Century",
+      "mark": "6-07"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Kyle Noll",
+      "school": "Crisfield",
+      "mark": "6-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2020,
+      "classification": "4A",
+      "name": "Leroy Neal",
+      "school": "Richard Montgomery",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2020,
+      "classification": "3A",
+      "name": "Charlie Hoston",
+      "school": "South Hagerstown",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2020,
+      "classification": "2A",
+      "name": "Duane Branch",
+      "school": "Frederick Douglass-PG",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2020,
+      "classification": "1A",
+      "name": "Eric Browner",
+      "school": "Lake Clifton",
+      "mark": "6-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Gavin Shaffer",
+      "school": "Dulaney",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Vaughn DeVaughn III",
+      "school": "Mergenthaler Vo-Tech",
+      "mark": "6-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Aki Harvey",
+      "school": "Oakland Mills",
+      "mark": "5-10"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Tyler Josenhans",
+      "school": "Clear Spring",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Yule Pieters",
+      "school": "Thomas S. Wootton",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Myles Taylor",
+      "school": "Franklin",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Abdur Hassan",
+      "school": "Oakland Mills",
+      "mark": "6-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Jacob Faith",
+      "school": "Clear Spring",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Justin DeVaughn",
+      "school": "Mergenthaler Vo-Tech",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Kian Williams",
+      "school": "Severna Park",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Jadon Gaines",
+      "school": "Hereford",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Larry Steward",
+      "school": "Kent County",
+      "mark": "6-04 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Bakari Taylor",
+      "school": "Winston Churchill",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Mobolaji Popoola",
+      "school": "Great Mills",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Nanjo Levec",
+      "school": "Middletown",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Derrick Jones",
+      "school": "Boonsboro",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "Paul Savchuck",
+      "school": "Springbrook",
+      "mark": "53-11 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Bill Wright",
+      "school": "Severna Park",
+      "mark": "53-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1973,
+      "classification": "ABC",
+      "name": "Mike Niner",
+      "school": "Westminster",
+      "mark": "51-08 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Rico Massimino",
+      "school": "Severna Park",
+      "mark": "50-03 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1974,
+      "classification": "ABC",
+      "name": "Tom Deem",
+      "school": "Friendly",
+      "mark": "55-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Bill Hodge",
+      "school": "Arundel",
+      "mark": "50-10 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1975,
+      "classification": "ABC",
+      "name": "David Lane",
+      "school": "Hereford",
+      "mark": "53-11"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Charlie Lester",
+      "school": "Glen Burnie",
+      "mark": "54-09 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Wayne Mims",
+      "school": "Wilde Lake",
+      "mark": "57-01 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "AA",
+      "name": "George Saah",
+      "school": "Montgomery Blair",
+      "mark": "56-02 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "ABC",
+      "name": "Larry Rosen",
+      "school": "Einstein",
+      "mark": "52-11"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "AA",
+      "name": "George Saah",
+      "school": "Montgomery Blair",
+      "mark": "58-11 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "ABC",
+      "name": "James Joyce",
+      "school": "Gaithersburg",
+      "mark": "59-01 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "AA",
+      "name": "George Saah",
+      "school": "Montgomery Blair",
+      "mark": "60-11 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "ABC",
+      "name": "James Joyce",
+      "school": "Gaithersburg",
+      "mark": "60-05 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Vince Coles",
+      "school": "Montgomery Blair",
+      "mark": "54-09 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "A",
+      "name": "Nick Agoris",
+      "school": "South Carroll",
+      "mark": "49-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "BC",
+      "name": "Donald Washington",
+      "school": "Cambridge",
+      "mark": "51-07"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Dan Garrison",
+      "school": "Friendly",
+      "mark": "52-07 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "A",
+      "name": "Terrence Matthews",
+      "school": "Paint Branch",
+      "mark": "47-07 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "BC",
+      "name": "Joe Fowler",
+      "school": "F.S. Key",
+      "mark": "50-06 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "AA",
+      "name": "John Chinault",
+      "school": "Lansdowne",
+      "mark": "52-07 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "A",
+      "name": "David Kramer",
+      "school": "Queen Anne's",
+      "mark": "48-06 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "BC",
+      "name": "Carlton Adkins",
+      "school": "Wicomico",
+      "mark": "45-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Steve Oleyszyk",
+      "school": "Severna Park",
+      "mark": "53-08 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "A",
+      "name": "Gary Gross",
+      "school": "Northern-C",
+      "mark": "51-10"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "BC",
+      "name": "Mark Engle",
+      "school": "Boonsboro",
+      "mark": "47-11"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Tom Butler",
+      "school": "Oxon Hill",
+      "mark": "49-10 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "A",
+      "name": "Chris Miller",
+      "school": "Frederick",
+      "mark": "50-10 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "BC",
+      "name": "Walter Solley",
+      "school": "North East-Cecil",
+      "mark": "48-05"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Tom Mattras",
+      "school": "Bowie",
+      "mark": "52-03 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "A",
+      "name": "Alex Kyriacos",
+      "school": "Lansdowne",
+      "mark": "47-02 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "BC",
+      "name": "Frank Allnutt",
+      "school": "Poolesville",
+      "mark": "47-04 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1986,
+      "classification": "Combined",
+      "name": "Vic Vali",
+      "school": "Perry Hall",
+      "mark": "56-07"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Nevin Paige",
+      "school": "High Point",
+      "mark": "51-08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "A",
+      "name": "Kenny Banner",
+      "school": "Chesapeake-AA",
+      "mark": "49-10"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "BC",
+      "name": "Jessie Ketterman",
+      "school": "Catoctin",
+      "mark": "47-00 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Jeff Thew",
+      "school": "Meade",
+      "mark": "49-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "A",
+      "name": "Wade Coleman",
+      "school": "Queen Anne's",
+      "mark": "52-01 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "BC",
+      "name": "Gerald Reeder",
+      "school": "Boonsboro",
+      "mark": "50-11 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Demark Thompson",
+      "school": "Friendly",
+      "mark": "51-08 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Rodney Tasker",
+      "school": "South River",
+      "mark": "46-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "2A-1A",
+      "name": "Jessie Ketterman",
+      "school": "Catoctin",
+      "mark": "48-08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Demark Thompson",
+      "school": "Friendly",
+      "mark": "56-01"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Rodney Tasker",
+      "school": "South River",
+      "mark": "48-02 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "2A-1A",
+      "name": "Ed Condon",
+      "school": "Middletown",
+      "mark": "47-01 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Ted Horn",
+      "school": "Gaithersburg",
+      "mark": "48-10 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "3A",
+      "name": "David Becker",
+      "school": "Richard Montgomery",
+      "mark": "44-07 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "2A-1A",
+      "name": "Marshall Hamilton",
+      "school": "Steph. Decatur",
+      "mark": "47-01 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Charles Adams",
+      "school": "Perry Hall",
+      "mark": "52-00 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Chuck Apperson",
+      "school": "Leonardtown",
+      "mark": "46-02"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "2A-1A",
+      "name": "Scott Baker",
+      "school": "Catoctin",
+      "mark": "48-03 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Jaamal Dixon-Hawkins",
+      "school": "Old Mill",
+      "mark": "54-08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "3A",
+      "name": "John Seymour",
+      "school": "Linganore",
+      "mark": "53-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "2A-1A",
+      "name": "Scott Baker",
+      "school": "Catoctin",
+      "mark": "54-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "4A",
+      "name": "David Neubiser",
+      "school": "Gaithersburg",
+      "mark": "52-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Michael Leone",
+      "school": "J.M. Bennett",
+      "mark": "47-05 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "2A-1A",
+      "name": "Allen Mullendore",
+      "school": "Boonsboro",
+      "mark": "46-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Dave Neubiser",
+      "school": "Gaithersburg",
+      "mark": "56-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Dave Keller",
+      "school": "Parkville",
+      "mark": "51-08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "2A-1A",
+      "name": "Adrian Newman",
+      "school": "South River",
+      "mark": "50-05"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Mathias Nkwent",
+      "school": "Wootton",
+      "mark": "50-11"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Rashawn Frost",
+      "school": "Friendly",
+      "mark": "46-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "2A-1A",
+      "name": "Kevin Carpenter",
+      "school": "Linganore",
+      "mark": "53-00 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "4A-3A",
+      "name": "Alton McCullum",
+      "school": "Frederick",
+      "mark": "48-02 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "3A-2A",
+      "name": "Patrick Sherriff",
+      "school": "McDonough",
+      "mark": "48-01 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "2A-1A",
+      "name": "Brian Lawrence",
+      "school": "Fairmont Heights",
+      "mark": "49-05"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "4A-3A",
+      "name": "Robert Frieson",
+      "school": "Gaithersburg",
+      "mark": "51-05"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "3A-2A",
+      "name": "Tom Miller",
+      "school": "Urbana",
+      "mark": "50-07 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "2A-1A",
+      "name": "Andrew Long",
+      "school": "Oakland Mills",
+      "mark": "55-10"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "4A-3A",
+      "name": "John Rydezewski",
+      "school": "Gaithersburg",
+      "mark": "54-02 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "3A-2A",
+      "name": "Tim Bilmanis",
+      "school": "Thomas Stone",
+      "mark": "52-07"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "2A-1A",
+      "name": "Sam Hess",
+      "school": "Hancock",
+      "mark": "50-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "4A-3A",
+      "name": "Vikas Gowda",
+      "school": "Frederick",
+      "mark": "58-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "3A-2A",
+      "name": "Chris Parsons",
+      "school": "Northern-C",
+      "mark": "57-08 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "2A-1A",
+      "name": "Nicholas Fambro",
+      "school": "Oakland Mills",
+      "mark": "45-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "4A-3A",
+      "name": "Vikas Gowda",
+      "school": "Frederick",
+      "mark": "57-09 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "3A-2A",
+      "name": "Nick Williams",
+      "school": "Urbana",
+      "mark": "52-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "2A-1A",
+      "name": "Adam Escamilla",
+      "school": "Brunswick",
+      "mark": "50-02 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "4A-3A",
+      "name": "Leif Crago",
+      "school": "Bowie",
+      "mark": "54-10 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "3A-2A",
+      "name": "Nick Williams",
+      "school": "Urbana",
+      "mark": "55-05"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "2A-1A",
+      "name": "Frederick Ballenger",
+      "school": "Potomac",
+      "mark": "49-07"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2003,
+      "classification": "4A-3A",
+      "name": "Thomas Foley",
+      "school": "Patuxent",
+      "mark": "58-04 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2003,
+      "classification": "3A-2A",
+      "name": "Nick Williams",
+      "school": "Urbana",
+      "mark": "55-01 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2003,
+      "classification": "2A-1A",
+      "name": "Frederick Ballenger",
+      "school": "Potomac",
+      "mark": "56-01 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2004,
+      "classification": "4A-3A",
+      "name": "Kerry Pollard",
+      "school": "E Roosevelt",
+      "mark": "49-02 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2004,
+      "classification": "3A-2A",
+      "name": "Derrick Williams",
+      "school": "Gwynn Park",
+      "mark": "56-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2004,
+      "classification": "2A-1A",
+      "name": "Johnny Cooper",
+      "school": "Fort Hill",
+      "mark": "49-11 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2005,
+      "classification": "4A-3A",
+      "name": "Matt Miller",
+      "school": "Richard Montgomery",
+      "mark": "45-03 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2005,
+      "classification": "3A-2A",
+      "name": "Ricky Moore",
+      "school": "Northern-C",
+      "mark": "53-09 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2005,
+      "classification": "2A-1A",
+      "name": "Johnny Cooper",
+      "school": "Fort Hill",
+      "mark": "56-02 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2006,
+      "classification": "4A-3A",
+      "name": "Matt Miller",
+      "school": "Richard Montgomery",
+      "mark": "51-10 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2006,
+      "classification": "3A-2A",
+      "name": "Phillip Taylor",
+      "school": "Gwynn Park",
+      "mark": "54-03 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2006,
+      "classification": "2A-1A",
+      "name": "Ben Horner",
+      "school": "Brunswick",
+      "mark": "50-07 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2007,
+      "classification": "4A-3A",
+      "name": "Sean Stanley",
+      "school": "Gaithersburg",
+      "mark": "50-06 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2007,
+      "classification": "3A-2A",
+      "name": "Stacey Adams",
+      "school": "Potomac",
+      "mark": "50-03 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2007,
+      "classification": "2A-1A",
+      "name": "Ben Horner",
+      "school": "Brunswick",
+      "mark": "51-01 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Sean Stanley",
+      "school": "Gaithersburg",
+      "mark": "54-11 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Cameron McDearmon",
+      "school": "Franklin",
+      "mark": "49-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Avery Graham",
+      "school": "Clarksburg",
+      "mark": "50-00 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Ben Horner",
+      "school": "Brunswick",
+      "mark": "52-08 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Marcus Brown",
+      "school": "Quince Orchard",
+      "mark": "56-07 3/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Cameron McDearmon",
+      "school": "Franklin",
+      "mark": "51-02 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Robert Thompson",
+      "school": "Clarksburg",
+      "mark": "50-01"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Grant Smith",
+      "school": "Brunswick",
+      "mark": "49-01 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Jeff Butler",
+      "school": "Henry A. Wise",
+      "mark": "54-11"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Yao Andantor",
+      "school": "Reservoir",
+      "mark": "55-01 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Lucas Dayhoff",
+      "school": "Walkersville",
+      "mark": "49-07 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Grant Smith",
+      "school": "Brunswick",
+      "mark": "53-02 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Brian Uthe",
+      "school": "Thomas Johnson",
+      "mark": "52-11"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "3A",
+      "name": "John Randall",
+      "school": "Franklin",
+      "mark": "49-07 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Anthony Winter",
+      "school": "North Hagerstown",
+      "mark": "48-02"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "1A",
+      "name": "John Lowery",
+      "school": "Boonsboro",
+      "mark": "50-07 1/2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Nadim Elhage",
+      "school": "Churchill",
+      "mark": "52-01.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Avon Davey",
+      "school": "Thomas Johnson",
+      "mark": "52-07.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Ralph VanVeen",
+      "school": "Queen Anne's",
+      "mark": "49-04.25"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Pierrysen Henry",
+      "school": "Fairmont Heights",
+      "mark": "53-03.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Dalton Earl",
+      "school": "Leonardtown",
+      "mark": "49-03.25"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Kevin Mackey",
+      "school": "North Harford",
+      "mark": "50-00.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Lamarr Poole",
+      "school": "Owings Mills",
+      "mark": "48-02.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Gerick Allen",
+      "school": "Boonsboro",
+      "mark": "47-00.25"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Devonte Johnson",
+      "school": "Paint Branch",
+      "mark": "50-07.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Collin McKenny",
+      "school": "Huntingtown",
+      "mark": "57-04.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Garrett Friday",
+      "school": "Oakdale",
+      "mark": "49-09.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Caleb Cardone",
+      "school": "Smithsburg",
+      "mark": "41-05.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Noah Vernick",
+      "school": "Quince Orchard",
+      "mark": "53-02.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Steven Thomas",
+      "school": "Baltimore Polytechnic",
+      "mark": "49-10.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Mike Nash",
+      "school": "Hereford",
+      "mark": "48-03.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Heath Hott",
+      "school": "Smithsburg",
+      "mark": "44-06.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Nanakofi Appiah",
+      "school": "Charles H. Flowers",
+      "mark": "45-10.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Jabari Bennett",
+      "school": "James H. Blake",
+      "mark": "51-05.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Alexander Devine",
+      "school": "La Plata",
+      "mark": "51-11.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Jordan Churchey",
+      "school": "Boonsboro",
+      "mark": "43-03.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Ethan Aus",
+      "school": "Leonardtown",
+      "mark": "47-18.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Jabari Bennett",
+      "school": "James H. Blake",
+      "mark": "59-00.25"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Mike Nash",
+      "school": "Hereford",
+      "mark": "55-03.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Nick Kidwell",
+      "school": "Boonsboro",
+      "mark": "51-03.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Elian Ahmar",
+      "school": "Broadneck",
+      "mark": "56-09.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Ryan Brown",
+      "school": "Northern-Calvert",
+      "mark": "49-01.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Connor Yedinak",
+      "school": "North East",
+      "mark": "47-00.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Nick Kidwell",
+      "school": "Boonsboro",
+      "mark": "55-05.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Nnamdi Olebara",
+      "school": "Charles H. Flowers",
+      "mark": "53-01.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Nikolas McKoy",
+      "school": "North Hagerstown",
+      "mark": "49-07.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Dylan Steinwedel",
+      "school": "Winters Mill",
+      "mark": "46-04.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Dominic Hawkins",
+      "school": "Henry E. Lackey",
+      "mark": "51-06.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2020,
+      "classification": "4A",
+      "name": "Collin Greene",
+      "school": "Howard",
+      "mark": "55-11.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2020,
+      "classification": "3A",
+      "name": "Damone Moore",
+      "school": "Towson",
+      "mark": "51-10.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2020,
+      "classification": "2A",
+      "name": "Chet Brunner",
+      "school": "Century",
+      "mark": "53-06.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2020,
+      "classification": "1A",
+      "name": "Renaldi Falwell",
+      "school": "Largo",
+      "mark": "51-00.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Ayden Wheless",
+      "school": "Broadneck",
+      "mark": "52-00.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Adam Szatanek",
+      "school": "Huntingtown",
+      "mark": "58-05.25"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Darius Grimes",
+      "school": "Frederick Douglass-PG",
+      "mark": "46-09"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Nathan Fields",
+      "school": "South Carroll",
+      "mark": "45-02"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Neil Telfer, Jr.",
+      "school": "Seneca Valley",
+      "mark": "49-01.25"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Ethan VanMeter",
+      "school": "South Hagerstown",
+      "mark": "50-09"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Darius Grimes",
+      "school": "Frederick Douglass-PG",
+      "mark": "52-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Sydney Phillips",
+      "school": "Perryville",
+      "mark": "44-06.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Aaron Humes",
+      "school": "Urbana",
+      "mark": "50-08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Grant Lohr",
+      "school": "Oakdale",
+      "mark": "55-05 .50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Xavion Fidele",
+      "school": "Crossland",
+      "mark": "47-07.25"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Carter Hess",
+      "school": "Fort Hill",
+      "mark": "49-05.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Gabriel Amadi",
+      "school": "DuVal",
+      "mark": "48-04.50"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Grant Lohr",
+      "school": "Oakdale",
+      "mark": "56-02"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Mike Simmons",
+      "school": "Henry E. Lackey",
+      "mark": "52-05.25"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Elijah Smith",
+      "school": "Western STES",
+      "mark": "50-02.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Nelson Hardy",
+      "school": "Northeast-AA",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1975,
+      "classification": "ABC",
+      "name": "Paul Schaffner",
+      "school": "Friendly",
+      "mark": "13-01"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Bob Phillips",
+      "school": "Perry Hall",
+      "mark": "12-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Tim Downs",
+      "school": "Richard Montgomery",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Bob Phillips",
+      "school": "Perry Hall",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1977,
+      "classification": "ABC",
+      "name": "Tim Downs",
+      "school": "Richard Montgomery",
+      "mark": "14-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Bob Lloyd",
+      "school": "Perry Hall",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1978,
+      "classification": "ABC",
+      "name": "Maurice McClain",
+      "school": "Arundel",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Jay Hill",
+      "school": "Perry Hall",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1979,
+      "classification": "ABC",
+      "name": "Jamie Dodd",
+      "school": "Paint Branch",
+      "mark": "13-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Grant Wagner",
+      "school": "Peary",
+      "mark": "13-06 1/4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1980,
+      "classification": "A",
+      "name": "Kirby Brown",
+      "school": "Fairmont Heights",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1980,
+      "classification": "BC",
+      "name": "Chuck Clipp",
+      "school": "Williamsport",
+      "mark": "12-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Ed Eisenberg",
+      "school": "Whitman",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1981,
+      "classification": "A",
+      "name": "Kirby Brown",
+      "school": "Fairmont Heights",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1981,
+      "classification": "BC",
+      "name": "Joe Seabright",
+      "school": "Boonsboro",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Jeff Seifeld",
+      "school": "Old Mill",
+      "mark": "12-03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1982,
+      "classification": "A",
+      "name": "Damon Dartouzos",
+      "school": "Paint Branch",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1982,
+      "classification": "BC",
+      "name": "Chris Yakabe",
+      "school": "Einstein",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Bryant Glenn",
+      "school": "Suitland",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1983,
+      "classification": "A",
+      "name": "John Rhinehart",
+      "school": "Northern-C",
+      "mark": "11-09"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1983,
+      "classification": "BC",
+      "name": "Robbie Barber",
+      "school": "Middletown",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Ernie Donaldson",
+      "school": "Perry Hall",
+      "mark": "13-1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1984,
+      "classification": "A",
+      "name": "John Finnessy",
+      "school": "Parkville",
+      "mark": "11-9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "Pole Vault",
+      "year": 1984,
+      "classification": "BC",
+      "name": "Andrew Bevan",
+      "school": "Magruder",
+      "mark": "13-9"
+    }
+  ]
+}

@@ -1,0 +1,1629 @@
+{
+  "meta": {
+    "extractor": "championship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      5,
+      6
+    ],
+    "extracted_at": "2026-08-02T20:04:15Z"
+  },
+  "rows": [
+    {
+      "sport": "Baseball",
+      "year": 1975,
+      "classification": "AA",
+      "champion_school": "Northeast-AA",
+      "champion_coach": "Harry Lentz",
+      "score": "8-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1975,
+      "classification": "A",
+      "champion_school": "Northwood",
+      "champion_coach": "Brady Straub",
+      "score": "4-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1975,
+      "classification": "B",
+      "champion_school": "Williamsport",
+      "champion_coach": "Larry Wadel",
+      "score": "9-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1975,
+      "classification": "C",
+      "champion_school": "Bruce",
+      "champion_coach": "George Wolfe",
+      "score": "4-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1976,
+      "classification": "AA",
+      "champion_school": "Arundel",
+      "champion_coach": "Bernie Walter",
+      "score": "3-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1976,
+      "classification": "A",
+      "champion_school": "Catonsville",
+      "champion_coach": "Jack Peddicord",
+      "score": "4-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1976,
+      "classification": "B",
+      "champion_school": "Paint Branch",
+      "champion_coach": "Kevin Kelly",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1976,
+      "classification": "C",
+      "champion_school": "Joppatowne",
+      "champion_coach": "Dan Gaughan",
+      "score": "2-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1977,
+      "classification": "AA",
+      "champion_school": "Arundel",
+      "champion_coach": "Bernie Walter",
+      "score": "9-6"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1977,
+      "classification": "A",
+      "champion_school": "Oxon Hill",
+      "champion_coach": "Donnie Keys",
+      "score": "5-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1977,
+      "classification": "B",
+      "champion_school": "Cambridge",
+      "champion_coach": "Doug Fleetwood",
+      "score": "6-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1977,
+      "classification": "C",
+      "champion_school": "Joppatowne",
+      "champion_coach": "Dan Gaughan",
+      "score": "6-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1978,
+      "classification": "AA",
+      "champion_school": "Kenwood",
+      "champion_coach": "Carroll Hess",
+      "score": "5-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1978,
+      "classification": "A",
+      "champion_school": "Aberdeen",
+      "champion_coach": "George Connolly",
+      "score": "7-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1978,
+      "classification": "B",
+      "champion_school": "Queen Anne's",
+      "champion_coach": "John Sharp",
+      "score": "2-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1978,
+      "classification": "C",
+      "champion_school": "Walkersville",
+      "champion_coach": "Tom Ford",
+      "score": "5-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1979,
+      "classification": "AA",
+      "champion_school": "Churchill",
+      "champion_coach": "Chuck Stevens",
+      "score": "4-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1979,
+      "classification": "A",
+      "champion_school": "Paint Branch",
+      "champion_coach": "Kevin Kelly",
+      "score": "4-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1979,
+      "classification": "B",
+      "champion_school": "Sparrows Point",
+      "champion_coach": "Rich Eshmont",
+      "score": "7-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1979,
+      "classification": "C",
+      "champion_school": "Mt. Savage",
+      "champion_coach": "George Bishields",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1980,
+      "classification": "AA",
+      "champion_school": "Old Mill",
+      "champion_coach": "Mel Montgomery",
+      "score": "4-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1980,
+      "classification": "A",
+      "champion_school": "Woodward",
+      "champion_coach": "Tom George",
+      "score": "4-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1980,
+      "classification": "B",
+      "champion_school": "Brooklyn Park",
+      "champion_coach": "Tim McMullen",
+      "score": "4-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1980,
+      "classification": "C",
+      "champion_school": "Clear Spring",
+      "champion_coach": "Jim Hutson",
+      "score": "6-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1981,
+      "classification": "AA",
+      "champion_school": "Bowie",
+      "champion_coach": "Bill Vaughn",
+      "score": "3-2",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 1981,
+      "classification": "A",
+      "champion_school": "Arundel",
+      "champion_coach": "Bernie Walter",
+      "score": "4-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1981,
+      "classification": "B",
+      "champion_school": "Edgewood",
+      "champion_coach": "Steve Williams",
+      "score": "3-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1981,
+      "classification": "C",
+      "champion_school": "North East-C",
+      "champion_coach": "Mel Bacon",
+      "score": "6-4",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 1982,
+      "classification": "AA",
+      "champion_school": "Bowie",
+      "champion_coach": "Bill Vaughn",
+      "score": "3-0",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 1982,
+      "classification": "A",
+      "champion_school": "Thomas Stone",
+      "champion_coach": "Ron Stover",
+      "score": "10-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1982,
+      "classification": "B",
+      "champion_school": "Great Mills",
+      "champion_coach": "Steve Hoopengardner",
+      "score": "8-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1982,
+      "classification": "C",
+      "champion_school": "Washington",
+      "champion_coach": "George Stewart",
+      "score": "8-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1983,
+      "classification": "AA",
+      "champion_school": "Dundalk",
+      "champion_coach": "Bo Eibner",
+      "score": "7-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1983,
+      "classification": "A",
+      "champion_school": "Thomas Johnson",
+      "champion_coach": "Steve Parsons",
+      "score": "13-9"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1983,
+      "classification": "B",
+      "champion_school": "Glenelg",
+      "champion_coach": "Terry Coleman",
+      "score": "8-7"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1983,
+      "classification": "C",
+      "champion_school": "Broadneck",
+      "champion_coach": "Tim McMullen",
+      "score": "5-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1984,
+      "classification": "AA",
+      "champion_school": "Bowie",
+      "champion_coach": "Bill Vaughn",
+      "score": "2-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1984,
+      "classification": "A",
+      "champion_school": "Gwynn Park",
+      "champion_coach": "Ken Gentry",
+      "score": "6-5"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1984,
+      "classification": "B",
+      "champion_school": "Milford Mill",
+      "champion_coach": "David Wright",
+      "score": "11-6"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1984,
+      "classification": "C",
+      "champion_school": "Francis Scott Key",
+      "champion_coach": "Richard Long",
+      "score": "15-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1985,
+      "classification": "AA",
+      "champion_school": "Randallstown",
+      "champion_coach": "Jack Peddicord",
+      "score": "2-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1985,
+      "classification": "A",
+      "champion_school": "Franklin",
+      "champion_coach": "Rick Wiscott",
+      "score": "7-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1985,
+      "classification": "B",
+      "champion_school": "North East-C",
+      "champion_coach": "Mel Bacon",
+      "score": "12-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1985,
+      "classification": "C",
+      "champion_school": "Boonsboro",
+      "champion_coach": "Wayne Ridenour",
+      "score": "2-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1986,
+      "classification": "AA",
+      "champion_school": "Woodlawn",
+      "champion_coach": "George McClure",
+      "score": "7-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1986,
+      "classification": "A",
+      "champion_school": "North Hagerstown",
+      "champion_coach": "Chuck Zonis",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1986,
+      "classification": "B",
+      "champion_school": "Pikesville",
+      "champion_coach": "Michael Bruner",
+      "score": "8-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1986,
+      "classification": "C",
+      "champion_school": "Mt. Savage",
+      "champion_coach": "Joe Carter",
+      "score": "4-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1987,
+      "classification": "AA",
+      "champion_school": "Arundel",
+      "champion_coach": "Bernie Walter",
+      "score": "1-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1987,
+      "classification": "A",
+      "champion_school": "Leonardtown",
+      "champion_coach": "Glenn Larnerd",
+      "score": "8-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1987,
+      "classification": "B",
+      "champion_school": "North East-C",
+      "champion_coach": "Mel Bacon",
+      "score": "9-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1987,
+      "classification": "C",
+      "champion_school": "Easton",
+      "champion_coach": "James Knauss",
+      "score": "4-3",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 1988,
+      "classification": "AA",
+      "champion_school": "Annapolis",
+      "champion_coach": "Larry Brogden",
+      "score": "8-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1988,
+      "classification": "A",
+      "champion_school": "Thomas Stone",
+      "champion_coach": "Ed Glaeser",
+      "score": "4-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1988,
+      "classification": "B",
+      "champion_school": "North East-C",
+      "champion_coach": "Mel Bacon",
+      "score": "1-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1988,
+      "classification": "C",
+      "champion_school": "Havre de Grace",
+      "champion_coach": "Shawn Baker",
+      "score": "6-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1989,
+      "classification": "4A",
+      "champion_school": "Old Mill",
+      "champion_coach": "Mel Montgomery",
+      "score": "20-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1989,
+      "classification": "3A",
+      "champion_school": "North Hagerstown",
+      "champion_coach": "Chuck Zonis",
+      "score": "8-5"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1989,
+      "classification": "2A",
+      "champion_school": "Allegany",
+      "champion_coach": "Toby Eirich",
+      "score": "4-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1989,
+      "classification": "1A",
+      "champion_school": "Beall",
+      "champion_coach": "Chuck Eberly",
+      "score": "11-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1990,
+      "classification": "4A",
+      "champion_school": "Perry Hall",
+      "champion_coach": "Larry Butts",
+      "score": "10-6",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 1990,
+      "classification": "3A",
+      "champion_school": "Paint Branch",
+      "champion_coach": "Paul Fahrner",
+      "score": "5-4",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 1990,
+      "classification": "2A",
+      "champion_school": "Allegany",
+      "champion_coach": "Toby Eirich",
+      "score": "9-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1990,
+      "classification": "1A",
+      "champion_school": "Brunswick",
+      "champion_coach": "Jeff Warfle",
+      "score": "3-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1991,
+      "classification": "4A",
+      "champion_school": "Arundel",
+      "champion_coach": "Bernie Walter",
+      "score": "8-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1991,
+      "classification": "3A",
+      "champion_school": "Paint Branch",
+      "champion_coach": "Paul Fahrner",
+      "score": "1-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1991,
+      "classification": "2A",
+      "champion_school": "Northeast-AA",
+      "champion_coach": "Harry Lentz",
+      "score": "7-0",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 1991,
+      "classification": "1A",
+      "champion_school": "Brunswick",
+      "champion_coach": "Jeff Warfle",
+      "score": "6-5"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1992,
+      "classification": "4A",
+      "champion_school": "Perry Hall",
+      "champion_coach": "Larry Butts",
+      "score": "7-1",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 1992,
+      "classification": "3A",
+      "champion_school": "Thomas Johnson",
+      "champion_coach": "Jim Foit",
+      "score": "4-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1992,
+      "classification": "2A",
+      "champion_school": "Northeast-AA",
+      "champion_coach": "Harry Lentz",
+      "score": "7-6"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1992,
+      "classification": "1A",
+      "champion_school": "Brunswick",
+      "champion_coach": "Jeff Warfle",
+      "score": "5-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1993,
+      "classification": "4A",
+      "champion_school": "Arundel",
+      "champion_coach": "Bernie Walter",
+      "score": "11-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1993,
+      "classification": "3A",
+      "champion_school": "Lansdowne",
+      "champion_coach": "Ron Bareford",
+      "score": "3-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1993,
+      "classification": "2A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Terry Coleman",
+      "score": "7-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1993,
+      "classification": "1A",
+      "champion_school": "Mount Savage",
+      "champion_coach": "Joe Carter",
+      "score": "7-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1994,
+      "classification": "4A",
+      "champion_school": "Perry Hall",
+      "champion_coach": "Larry Butts",
+      "score": "5-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1994,
+      "classification": "3A",
+      "champion_school": "Thomas Stone",
+      "champion_coach": "Ed Glaeser",
+      "score": "4-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1994,
+      "classification": "2A",
+      "champion_school": "Elkton",
+      "champion_coach": "Bill Russell",
+      "score": "6-5"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1994,
+      "classification": "1A",
+      "champion_school": "Easton",
+      "champion_coach": "Jack Anthony",
+      "score": "8-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1995,
+      "classification": "4A",
+      "champion_school": "Arundel",
+      "champion_coach": "Bernie Walter",
+      "score": "11-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1995,
+      "classification": "3A",
+      "champion_school": "Broadneck",
+      "champion_coach": "Mark Stover",
+      "score": "2-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1995,
+      "classification": "2A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Ed Ashwell",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1995,
+      "classification": "1A",
+      "champion_school": "Easton",
+      "champion_coach": "Jack Anthony",
+      "score": "14-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1996,
+      "classification": "4A",
+      "champion_school": "Wootton",
+      "champion_coach": "Rhett Ross",
+      "score": "2-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1996,
+      "classification": "3A",
+      "champion_school": "Bel Air",
+      "champion_coach": "Mike Ennis",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1996,
+      "classification": "2A",
+      "champion_school": "South Hagerstown",
+      "champion_coach": "Greg Eversole",
+      "score": "6-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1996,
+      "classification": "1A",
+      "champion_school": "Brunswick",
+      "champion_coach": "Roger Dawson",
+      "score": "6-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1997,
+      "classification": "4A",
+      "champion_school": "Chesapeake-AA",
+      "champion_coach": "Jim Simms",
+      "score": "5-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1997,
+      "classification": "3A",
+      "champion_school": "Liberty",
+      "champion_coach": "Steve Insley",
+      "score": "9-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1997,
+      "classification": "2A",
+      "champion_school": "Great Mills",
+      "champion_coach": "Steven Wolfe",
+      "score": "5-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1997,
+      "classification": "1A",
+      "champion_school": "Rising Sun",
+      "champion_coach": "Dave Fravel",
+      "score": "9-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1998,
+      "classification": "4A",
+      "champion_school": "Arundel",
+      "champion_coach": "Bernie Walter",
+      "score": "12-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1998,
+      "classification": "3A",
+      "champion_school": "Damascus",
+      "champion_coach": "Vic Mollet",
+      "score": "4-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1998,
+      "classification": "2A",
+      "champion_school": "North Caroline",
+      "champion_coach": "Tom Keating",
+      "score": "8-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1998,
+      "classification": "1A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Tom Thrasher",
+      "score": "6-5"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1999,
+      "classification": "4A",
+      "champion_school": "Glen Burnie",
+      "champion_coach": "Bruce Sider",
+      "score": "3-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1999,
+      "classification": "3A",
+      "champion_school": "South Carroll",
+      "champion_coach": "George Richardson",
+      "score": "8-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1999,
+      "classification": "2A",
+      "champion_school": "Walkersville",
+      "champion_coach": "Paul Merrill",
+      "score": "9-5"
+    },
+    {
+      "sport": "Baseball",
+      "year": 1999,
+      "classification": "1A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Tom Thrasher",
+      "score": "12-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2000,
+      "classification": "4A",
+      "champion_school": "Watkins Mill",
+      "champion_coach": "Ken Brace",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2000,
+      "classification": "3A",
+      "champion_school": "Damascus",
+      "champion_coach": "Vic Mollet",
+      "score": "3-2",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 2000,
+      "classification": "2A",
+      "champion_school": "Towson",
+      "champion_coach": "Bill Yosca",
+      "score": "7-5"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2000,
+      "classification": "1A",
+      "champion_school": "Rising Sun",
+      "champion_coach": "Dave Fravel",
+      "score": "8-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2001,
+      "classification": "4A",
+      "champion_school": "Arundel",
+      "champion_coach": "Bernie Walter",
+      "score": "5-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2001,
+      "classification": "3A",
+      "champion_school": "Northeast-AA",
+      "champion_coach": "Marshall Kawecki",
+      "score": "6-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2001,
+      "classification": "2A",
+      "champion_school": "Centennial",
+      "champion_coach": "Dave Appleby",
+      "score": "6-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2001,
+      "classification": "1A",
+      "champion_school": "St. Michaels",
+      "champion_coach": "Brian Femi",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2002,
+      "classification": "4A",
+      "champion_school": "Thomas Johnson",
+      "champion_coach": "Jim Foit",
+      "score": "13-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2002,
+      "classification": "3A",
+      "champion_school": "South Carroll",
+      "champion_coach": "George Richardson",
+      "score": "3-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2002,
+      "classification": "2A",
+      "champion_school": "Atholton",
+      "champion_coach": "Kevin Kelly",
+      "score": "10-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2002,
+      "classification": "1A",
+      "champion_school": "Boonsboro",
+      "champion_coach": "Fred Kreiger",
+      "score": "11-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2003,
+      "classification": "4A",
+      "champion_school": "Old Mill",
+      "champion_coach": "Mel Montgomery",
+      "score": "7-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2003,
+      "classification": "3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Jim Candless",
+      "score": "7-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2003,
+      "classification": "2A",
+      "champion_school": "Walkersville",
+      "champion_coach": "Mike O'Brien",
+      "score": "5-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2003,
+      "classification": "1A",
+      "champion_school": "South Hagerstown",
+      "champion_coach": "Ralph Stottlemyer",
+      "score": "8-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2004,
+      "classification": "4A",
+      "champion_school": "Bowie",
+      "champion_coach": "William Seibert",
+      "score": "8-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2004,
+      "classification": "3A",
+      "champion_school": "Centennial",
+      "champion_coach": "Denis Ahern",
+      "score": "10-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2004,
+      "classification": "2A",
+      "champion_school": "Liberty",
+      "champion_coach": "Erik Barnes",
+      "score": "4-3 (9)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2004,
+      "classification": "1A",
+      "champion_school": "Cambridge/SD",
+      "champion_coach": "Kermit Hines",
+      "score": "8-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2005,
+      "classification": "4A",
+      "champion_school": "Quince Orchard",
+      "champion_coach": "Jason Gasaway",
+      "score": "10-9"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2005,
+      "classification": "3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Jim McCandless",
+      "score": "9-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2005,
+      "classification": "2A",
+      "champion_school": "Eastern Technical",
+      "champion_coach": "Spike McElfish",
+      "score": "9-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2005,
+      "classification": "1A",
+      "champion_school": "Beall",
+      "champion_coach": "Terry DeHaven",
+      "score": "7-6"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2006,
+      "classification": "4A",
+      "champion_school": "Arundel",
+      "champion_coach": "Bernie Walter",
+      "score": "5-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2006,
+      "classification": "3A",
+      "champion_school": "J. M. Bennett",
+      "champion_coach": "Jay Fenoglietto",
+      "score": "3-2 (10)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2006,
+      "classification": "2A",
+      "champion_school": "North East-C",
+      "champion_coach": "Jim Barrow",
+      "score": "2-1 (8)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2006,
+      "classification": "1A",
+      "champion_school": "Snow Hill",
+      "champion_coach": "Todd Lampman",
+      "score": "2-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2007,
+      "classification": "4A",
+      "champion_school": "Eleanor Roosevelt",
+      "champion_coach": "Andrew Capece",
+      "score": "8-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2007,
+      "classification": "3A",
+      "champion_school": "Westminster",
+      "champion_coach": "Bryan Harman",
+      "score": "4-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2007,
+      "classification": "2A",
+      "champion_school": "Eastern Technical",
+      "champion_coach": "Spike McElfish",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2007,
+      "classification": "1A",
+      "champion_school": "Col. Richardson",
+      "champion_coach": "Scott Milligan",
+      "score": "9-7"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2008,
+      "classification": "4A",
+      "champion_school": "Sherwood",
+      "champion_coach": "Bill Goodman",
+      "score": "7-6"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2008,
+      "classification": "3A",
+      "champion_school": "La Plata",
+      "champion_coach": "Daniel DeVitis",
+      "score": "8-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2008,
+      "classification": "2A",
+      "champion_school": "Kent Island",
+      "champion_coach": "Rocco Barletta",
+      "score": "6-5"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2008,
+      "classification": "1A",
+      "champion_school": "St. Michael's",
+      "champion_coach": "Brian Femi",
+      "score": "4-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2009,
+      "classification": "4A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Jim McCandless",
+      "score": "11-1 (5)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2009,
+      "classification": "3A",
+      "champion_school": "Frederick",
+      "champion_coach": "Phil Rhodes",
+      "score": "7-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2009,
+      "classification": "2A",
+      "champion_school": "River Hill",
+      "champion_coach": "Wes McCoy",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2009,
+      "classification": "1A",
+      "champion_school": "Bohemia Manor",
+      "champion_coach": "Russ Morgan",
+      "score": "6-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2010,
+      "classification": "4A",
+      "champion_school": "Sherwood",
+      "champion_coach": "Bill Goodman",
+      "score": "2-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2010,
+      "classification": "3A",
+      "champion_school": "C.M. Wright",
+      "champion_coach": "Tony Blackburn",
+      "score": "4-1",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 2010,
+      "classification": "2A",
+      "champion_school": "North Hagerstown",
+      "champion_coach": "Steve Myers",
+      "score": "10-7 (9)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2010,
+      "classification": "1A",
+      "champion_school": "St. Michael's",
+      "champion_coach": "Brian Femi",
+      "score": "4-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2011,
+      "classification": "4A",
+      "champion_school": "Westminster",
+      "champion_coach": "Bryan Harman",
+      "score": "8-7",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 2011,
+      "classification": "3A",
+      "champion_school": "James M. Bennett",
+      "champion_coach": "Jay Fenoglietto",
+      "score": "5-2 (8)",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 2011,
+      "classification": "2A",
+      "champion_school": "North Caroline",
+      "champion_coach": "Henry Ward",
+      "score": "4-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2011,
+      "classification": "1A",
+      "champion_school": "St. Michael's",
+      "champion_coach": "Brian Femi",
+      "score": "4-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2012,
+      "classification": "4A",
+      "champion_school": "Northwest",
+      "champion_coach": "Todd Varesco",
+      "score": "7-6 (12)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2012,
+      "classification": "3A",
+      "champion_school": "James M. Bennett",
+      "champion_coach": "Jay Fenoglietto & Mike Shockley",
+      "score": "4-2",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 2012,
+      "classification": "2A",
+      "champion_school": "Williamsport",
+      "champion_coach": "David Warrenfeltz",
+      "score": "2-1 (9)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2012,
+      "classification": "1A",
+      "champion_school": "Mountain Ridge",
+      "champion_coach": "John O'Neal",
+      "score": "2-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2013,
+      "classification": "4A",
+      "champion_school": "South River",
+      "champion_coach": "Ken Dunn",
+      "score": "6-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2013,
+      "classification": "3A",
+      "champion_school": "Bel Air",
+      "champion_coach": "John Swanson",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2013,
+      "classification": "2A",
+      "champion_school": "Catoctin",
+      "champion_coach": "Mike Franklin",
+      "score": "4-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2013,
+      "classification": "1A",
+      "champion_school": "Cambridge-SD",
+      "champion_coach": "Troy Brohawn",
+      "score": "15-0 (6)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2014,
+      "classification": "4A",
+      "champion_school": "Chesapeake-AA",
+      "champion_coach": "Ken King",
+      "score": "2-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2014,
+      "classification": "3A",
+      "champion_school": "Reservoir",
+      "champion_coach": "Adam Leader",
+      "score": "2-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2014,
+      "classification": "2A",
+      "champion_school": "Southern-AA",
+      "champion_coach": "Frank Hood",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2014,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Trey Cobb",
+      "score": "9-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2015,
+      "classification": "4A",
+      "champion_school": "Gaithersburg",
+      "champion_coach": "Jeff Rabberman",
+      "score": "5-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2015,
+      "classification": "3A",
+      "champion_school": "Chopticon",
+      "champion_coach": "Ray Sapp",
+      "score": "1-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2015,
+      "classification": "2A",
+      "champion_school": "Southern-AA",
+      "champion_coach": "Frank Hood",
+      "score": "6-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2015,
+      "classification": "1A",
+      "champion_school": "Brunswick",
+      "champion_coach": "Roger Dawson",
+      "score": "4-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2016,
+      "classification": "4A",
+      "champion_school": "Bel Air",
+      "champion_coach": "John Swanson",
+      "score": "8-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2016,
+      "classification": "3A",
+      "champion_school": "Huntingtown",
+      "champion_coach": "Guy Smith",
+      "score": "4-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2016,
+      "classification": "2A",
+      "champion_school": "La Plata",
+      "champion_coach": "John Childers",
+      "score": "4-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2016,
+      "classification": "1A",
+      "champion_school": "Brunswick",
+      "champion_coach": "Roger Dawson",
+      "score": "4-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2017,
+      "classification": "4A",
+      "champion_school": "Northwest",
+      "champion_coach": "Todd Varesco",
+      "score": "8-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2017,
+      "classification": "3A",
+      "champion_school": "Poolesville",
+      "champion_coach": "Steve Orsini",
+      "score": "4-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2017,
+      "classification": "2A",
+      "champion_school": "Middletown",
+      "champion_coach": "Andy Baker",
+      "score": "8-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2017,
+      "classification": "1A",
+      "champion_school": "St. Michael's",
+      "champion_coach": "Brian Femi",
+      "score": "12-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2018,
+      "classification": "4A",
+      "champion_school": "Howard",
+      "champion_coach": "Nick Hoffner",
+      "score": "5-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2018,
+      "classification": "3A",
+      "champion_school": "Gov. Thomas Johnson",
+      "champion_coach": "Billy Gross",
+      "score": "3-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2018,
+      "classification": "2A",
+      "champion_school": "Century",
+      "champion_coach": "Michael Marrale",
+      "score": "4-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2018,
+      "classification": "1A",
+      "champion_school": "Boonsboro",
+      "champion_coach": "Steve Mason",
+      "score": "12-9 (9)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2019,
+      "classification": "4A",
+      "champion_school": "Old Mill",
+      "champion_coach": "Charlie Chaffin",
+      "score": "4-3 (9)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2019,
+      "classification": "3A",
+      "champion_school": "James M. Bennett",
+      "champion_coach": "Jay Fenoglietto & Jesse Serig",
+      "score": "5-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2019,
+      "classification": "2A",
+      "champion_school": "La Plata",
+      "champion_coach": "John Childers",
+      "score": "4-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2019,
+      "classification": "1A",
+      "champion_school": "Col. Richardson",
+      "champion_coach": "Dan Mangum",
+      "score": "6-0 (9)",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 2021,
+      "classification": "4A",
+      "champion_school": "Sherwood",
+      "champion_coach": "Sean Davis",
+      "score": "5-4 (8)",
+      "champion_undefeated": true
+    },
+    {
+      "sport": "Baseball",
+      "year": 2021,
+      "classification": "3A",
+      "champion_school": "Chopticon",
+      "champion_coach": "Raymond Sapp",
+      "score": "4-2"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2021,
+      "classification": "2A",
+      "champion_school": "La Plata",
+      "champion_coach": "John Childers",
+      "score": "8-7"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2021,
+      "classification": "1A",
+      "champion_school": "Catoctin",
+      "champion_coach": "Mike Franklin",
+      "score": "10-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2022,
+      "classification": "4A",
+      "champion_school": "Sherwood",
+      "champion_coach": "Sean Davis",
+      "score": "11-0 (5)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2022,
+      "classification": "3A",
+      "champion_school": "Chesapeake-AA",
+      "champion_coach": "Jeff Young",
+      "score": "5-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2022,
+      "classification": "2A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Steve Tiffany",
+      "score": "4-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2022,
+      "classification": "1A",
+      "champion_school": "Clear Spring",
+      "champion_coach": "Mark Shives",
+      "score": "11-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2023,
+      "classification": "4A",
+      "champion_school": "Sherwood",
+      "champion_coach": "Sean Davis",
+      "score": "7-4"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2023,
+      "classification": "3A",
+      "champion_school": "River Hill",
+      "champion_coach": "Craig Estrin",
+      "score": "1-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2023,
+      "classification": "2A",
+      "champion_school": "Parkside",
+      "champion_coach": "Kyle Daubert",
+      "score": "3-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2023,
+      "classification": "1A",
+      "champion_school": "Clear Spring",
+      "champion_coach": "Brandon Glazer",
+      "score": "3-2 (11)"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2024,
+      "classification": "4A",
+      "champion_school": "Leonardtown",
+      "champion_coach": "Austin Guy",
+      "score": "2-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2024,
+      "classification": "3A",
+      "champion_school": "Col. Zadok Magruder",
+      "champion_coach": "Josh Creighton",
+      "score": "4-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2024,
+      "classification": "2A",
+      "champion_school": "Middletown",
+      "champion_coach": "Andy Baker",
+      "score": "6-5"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2024,
+      "classification": "1A",
+      "champion_school": "Brunswick",
+      "champion_coach": "Roger Dawson",
+      "score": "4-1"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2025,
+      "classification": "4A",
+      "champion_school": "Walter Johnson",
+      "champion_coach": "Steve Sutherland",
+      "score": "7-6"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2025,
+      "classification": "3A",
+      "champion_school": "Sherwood",
+      "champion_coach": "Sean Davis",
+      "score": "8-3"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2025,
+      "classification": "2A",
+      "champion_school": "Huntingtown",
+      "champion_coach": "Guy Smith",
+      "score": "1-0"
+    },
+    {
+      "sport": "Baseball",
+      "year": 2025,
+      "classification": "1A",
+      "champion_school": "Allegany",
+      "champion_coach": "Jon Irons",
+      "score": "6-2"
+    }
+  ]
+}

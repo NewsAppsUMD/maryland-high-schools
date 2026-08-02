@@ -1,0 +1,520 @@
+sport,school,champion_years,finalist_years,semifinalist_years,runner_up_years,quarterfinal_years,source_pdf,source_pages,extracted_at,extraction_model
+Girls Basketball,ABERDEEN,2012; 2013,2011,2002; 2003; 2019,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,ALLEGANY,2000,1999; 2008,2009,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,ANDOVER,1977,1978; 1989,1981; 1982; 1983,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,ARUNDEL,1996; 2000; 2004; 2010,1995; 1998; 2008,2001; 2003; 2006; 2009,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,ATHOLTON,2007,2008; 2017,1982; 2006,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,BETHESDA-CHEVY CHASE,,2024,2018; 2019,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,BLADENSBURG,1975; 1976; 1993,1986; 1995,1987; 2001,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,MONTGOMERY BLAIR,1982,1997,1988; 1990; 1995,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,JAMES H. BLAKE,,2007; 2009,2008,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,BOWIE,,1992,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,BROADNECK,1989; 1990,,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,BROOKLYN PARK,1982; 1985; 1986; 1987; 1988; 1989,1983; 1990,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,BRUNSWICK,1996,,1991; 1992,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,CALVERT,2011; 2012; 2013,2014,1992,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,CATOCTIN,2006,1986; 2022,1985; 1994; 2005; 2024,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,CATONSVILLE,2017,1984; 1987; 2018,1991; 1992; 1996; 2002,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,CENTENNIAL,1981,1980; 1997,2010,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,CENTURY,,2012,1993; 1999; 2002,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,WINSTON CHURCHILL,2002; 2003,2001; 2023,2020,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,CITY COLLEGE,2009,2005,2004,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,CLARKSBURG,2024,2022,2025,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,CROSSLAND,1984,,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,DAMASCUS,,2014,1981; 1992; 2004; 2013,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,STEPHEN DECATUR,,1977,1989; 2001; 2004,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,DIGITAL HARBOR,1978; 2009,1996,1998; 2008; 2010; 2011; 2025,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,DULANEY,1988,,1977; 1981; 1982; 1983; 1984; 1985; 1987; 2008,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,DUNBAR,2000; 2001; 2002; 2003; 2011; 2012,2013,2010; 2014,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,DUVAL,1977; 1980; 1982; 1991; 1999; 2000; 2002,1994; 2003,1983; 1990,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,EASTON,1993; 1994,,2020,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,FAIRMONT HEIGHTS,1984,,1985; 1991; 2001,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,FALLSTON,2009; 2010; 2022,1992; 1995,1984; 1986; 1987; 1993; 1994; 1997; 2007,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,CHARLES H. FLOWERS,2019,,2020; 2022; 2024; 2025,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,FORESTVILLE,2015; 2016,,1985,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,FORT HILL,,1979,1984; 2012; 2022,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,FREDERICK,2011; 2017; 2018; 2019,,1980; 1991; 1999; 2000; 2012; 2016; 2020,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,FRIENDLY,,1988; 1989,1978; 1979; 1982; 1997,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,GAITHERSBURG,2011; 2012,2006; 2010,1980; 1981; 1992,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,GLEN BURNIE,2023,,1983; 2022,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,GLENELG,1999; 2001; 2016,1989; 1992; 2000,1991,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,GREAT MILLS,1990,1984,2008,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,GWYNN PARK,1947; 2002; 2003; 2004,1988; 2010,2000; 2006; 2018; 2022,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,HAMMOND,1992; 1994; 1995; 2024,1993; 1996; 2002,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,HAVRE DE GRACE,,1988,1990,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,HEREFORD,,1982; 2022; 2025,1977; 1999; 2019; 2023,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,HOWARD,1994; 2023,2022,1993; 1996; 2011; 2020,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,GOV. THOMAS JOHNSON,1983; 1989,1988; 1990,1987; 2005,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,JOPPATOWNE,2010,1994,1995; 1996; 2011,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,KENT ISLAND,,2023,2016; 2017,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,FRANCIS SCOTT KEY,1997; 2025,1978; 2024,1987,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,HENRY E. LACKEY,2023,,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,LA PLATA,1977; 1987,1976,1985,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,LARGO,1997; 2007; 2016,1981; 1990; 2017; 2018,1991; 1996; 2009; 2010; 2011; 2019,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,LEONARDTOWN,1988,,1980,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,LIBERTY,,1983,2010,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,LINGANORE,1992; 1996; 1997,2000,1987; 2009,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,LOCH RAVEN,1976,1975,2003; 2004,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,LONG REACH,,2018,2019,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,MARDELA,,1978,1977; 1988; 1990; 1997; 2002; 2010; 2011; 2013,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,MEADE,,1979,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,MIDDLETOWN,1978; 1989; 1993; 2006,1990; 1994; 1998; 2011; 2013; 2019,1973; 1988; 2020,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,MILFORD MILL,2005; 2014; 2015,1998; 1999; 2000; 2001; 2002; 2003; 2006,1993; 2017,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,RICHARD MONTGOMERY,1996,,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,MOUNT HEBRON,1980; 1986; 1987; 1988; 1990; 1991; 2008,,1981; 1995,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,MOUNT SAVAGE,1977,1976; 1987,1975; 1978; 1979; 1980; 1982; 1983; 1986,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,MOUNTAIN RIDGE,,2023,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,NEW TOWN,2017,2014,2005; 2006; 2007; 2016,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,NORTH CAROLINE,,1984; 1991,1986; 1996,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,NORTH HAGERSTOWN,1981; 1985,1978; 1986,1976; 1977; 2009,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,NORTH HARFORD,,1985,1983,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,NORTH POINT,1979; 2013; 2025,1997; 2011; 2014,1991; 1999; 2011; 2012; 2016; 2017; 2018; 2024,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,OAKDALE,,2015; 2024,2025,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,OAKLAND MILLS,1998,1977; 1991; 2025,2015; 2018,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,OLD MILL,1986; 1991; 1992; 1993,2019,1985; 2007; 2015,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,OWINGS MILLS,1984,2012,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,OXON HILL,,1976; 1977; 2000; 2002,1993; 1994; 1995; 2003; 2004; 2017; 2023; 2024,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,PAINT BRANCH,1979; 1980; 2001; 2008,1981; 1983; 2004; 2005; 2009; 2015,1989; 1998; 2000; 2007,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,PARKDALE,1978; 1981,,2016,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,PARKSIDE,1999,1991,1982; 1988; 1989; 1990; 1993; 1995; 2000; 2005; 2009; 2025,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,PARKVILLE,1973,,1976; 1978; 1990,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,PATTERSON MILL,2014; 2015; 2017,,2012; 2013; 2023,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,PIKESVILLE,2019; 2022; 2023; 2024,,2018; 2020,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,POCOMOKE,2008,2003; 2007,1976; 1987; 1995; 2000; 2004; 2005; 2006; 2009; 2015; 2016; 2017,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,BALTIMORE POLYTECHNIC,2022; 2024,2008; 2013; 2016; 2019,2007; 2012; 2014; 2015; 2018; 2020; 2025,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,POOLESVILLE,2018,,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,POTOMAC,2004; 2005,1983,1998,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,QUEEN ANNE'S,,2018,2019,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,RIVER HILL,2006; 2019,2009; 2012; 2013,2005; 2024,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,ROCKVILLE,1987,,1986; 2020; 2022,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,ELEANOR ROOSEVELT,2005; 2006; 2007; 2008; 2009; 2014; 2015; 2018,1980; 1985; 1987,1986; 2013; 2017,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,SENECA VALLEY,2010,,1978,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,SHERWOOD,1974; 1976,1994; 1996,1973; 1977; 1978; 1979,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,SMITHSBURG,1976; 1981; 1983,1979; 1982; 2002; 2010,1977; 1980; 1984; 1988; 2003; 2025,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,SNOW HILL,1979,1973; 1974; 1980; 1981,1975; 1982; 1983; 1992,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,SOUTH CARROLL,1978,1980,1979,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,SOUTH RIVER,1979; 1980; 1983; 1984; 1986; 2004; 2007; 2014; 2018; 2025,1981; 1986; 1987; 1995; 1997; 2001; 2005; 2015; 2016; 2017; 2024; 2025,1984; 1985; 1987; 1989; 1994; 1998; 2006; 2013,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,SOUTHSIDE ACADEMY,2005,2004; 2006,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,SPRINGBROOK,1983,1984; 1991,1977; 1978; 1993; 2005,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,SUITLAND,1998; 1999; 2001,,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,SURRATTSVILLE,,2009,1986; 2007; 2008; 2020,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,TOWSON,1998,1979; 1985,1980; 1982; 1997,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,URBANA,,1999; 2001; 2015,2002; 2003; 2006; 2010,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,VALLEY,,1989,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,WALKERSVILLE,2003,2004,2007; 2014,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,WATKINS MILL,1994; 1995; 2022,1992; 1993; 1999; 2006; 2007; 2010; 2016; 2025,1997; 1998; 2000; 2001; 2004; 2008; 2009; 2019; 2020; 2023,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,WESTERN STES,2013,2012,2015,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,WESTMAR,1990; 1991,1996,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,WHEATON,1985; 1997; 1998,1976; 1982,1975; 1999,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,WALT WHITMAN,1995; 2016,1993; 2017,1979; 1994; 2007; 2013,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,WILDE LAKE,1995,,1976; 1997; 1998,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,WILLIAMSPORT,1992,1993; 1998; 2016,,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,WINTERS MILL,,2011; 2012,2010,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,WOODLAWN,,2003; 2004,1989; 1990; 2002,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Girls Basketball,CHARLES W. WOODWARD,1982,,1984,,,pdfs/Winter record book.pdf,9; 10; 11,2026-08-02T20:19:29Z,regex
+Boys Basketball,ABERDEEN,1951; 1976; 2000,1959; 1996; 2005,1950; 1955; 1962; 1977; 1981; 1983; 1984; 1986; 1998; 1999; 2023,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,ALLEGANY,1947; 1950; 1954; 1963; 1964; 1993,1953; 1956; 1994; 2004; 2006; 2014,1960; 1965; 2005; 2009; 2010; 2015; 2017,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,ANDOVER,,1976; 1982,1968; 1980; 1981,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,ANNAPOLIS,1974; 1990,1979; 1984; 1989,1954; 1958; 1959; 1961; 1968; 1969; 1972; 1973; 1976; 1977; 1978; 1980; 1982; 1985; 1986; 1987; 1991; 1996; 1998; 2000; 2005; 2014; 2017,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,ARUNDEL,1965,1953,1956; 1962; 1970; 1971; 1975; 1995; 2001,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,ATHOLTON,,1971,1967; 1982; 2009; 2020,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,BARTON,1950; 1951; 1953,,1952,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,BEALL,1949,1964; 1977,1961; 1966; 1973; 1978,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,JAMES M. BENNETT,2003,,1968; 1985; 2004,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,BETHESDA-CHEVY CHASE,1959; 1984,1954; 1970; 1973; 1974; 1976; 2005; 2007; 2015,1948; 1960; 1983; 2008,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,BLADENSBURG,1960; 1973,1962; 1963; 1972; 1978,1979,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,MONTGOMERY BLAIR,1952; 1953; 1955; 1961; 1962; 1969; 1975; 1977; 1979,1950; 1957; 1958,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,JAMES HUBERT BLAKE,,2005,2003; 2010,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,BROADNECK,,2019,1986; 1995,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,BROOKLYN PARK,,1966,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,BRUCE,1948; 1949; 1953; 1954,1966; 1984,1975; 1976,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,BRUNSWICK,1977,,1947; 1970; 1991; 1996; 1998; 2000; 2013,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CAMBRIDGE,1955,1947; 1948; 1949; 1975,1956; 1959; 1961; 1963,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CAMBRIDGE-S. DORCHESTER,1980; 1989; 1996; 2025,1993; 2024,1978; 1979; 1985; 1988; 1990; 2004; 2006; 2022,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CATONSVILLE,1992,1975; 1983; 1991,1949; 1969; 1979; 1980,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CENTENNIAL,1950; 1952; 1969; 1984; 1990; 1996; 2015,1951; 1998; 2002; 2003; 2011,1972; 1999; 2012; 2014; 2017,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CENTRAL CONSOLIDATED,1965,,1964,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CENTREVILLE,1956,,1955,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CENTURY,,2017,2002; 2009,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CHESTERTOWN,1958,,1957,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CHOPTICON,,1973; 2003,1993; 2002,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WINSTON CHURCHILL,1978,2022,1969,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CITY COLLEGE,2009; 2010; 2014; 2023,1998,1997; 1999; 2022,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CLARKSVILLE,,1950,1949,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CRISFIELD,1957; 1961; 1964; 1973; 1978; 1980; 1982; 2000,1956; 1962,1958; 1959; 1960; 1970; 1977; 1979; 1997; 2014; 2019,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CROSSLAND,1986,1987; 1988,1974; 1992; 1994; 1997; 2001; 2005,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,DAMASCUS,1949,2023,1948; 1950; 1952,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,STEPHEN DECATUR,1970,1969; 1971; 2016,1957; 1974; 1981; 1984; 1992; 2010; 2017; 2018; 2024,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,DIGITAL HARBOR,1963; 1966; 2002; 2004; 2009; 2010,1964; 1986; 1994; 2009; 2022,2019; 2020,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,PAUL LAURENCE DUNBAR,1993; 1994; 1995; 1996; 1998; 1999; 2001; 2003; 2004; 2005; 2006; 2010; 2011; 2012; 2013; 2018,1997; 2002; 2007,2008; 2025,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,DUVAL,1970; 1991; 1994,1969; 1975,1992; 2015,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,EASTON,1968,1947; 1952; 1954; 1965,1953; 1960; 1988; 2010,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,EDGEWOOD,1975; 1997,1977; 1991; 1999,1966; 1974; 1976; 1993; 1994; 1995; 1998,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,EDMONDSON/WESTSIDE,2013; 2014; 2023; 2024,2017; 2022,2000; 2020; 2025,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,ELKTON,,1950,1948; 1949; 1953; 1990,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,FAIRMONT HEIGHTS,1964; 1966; 1968; 1969; 1970; 1971; 1981; 2017,2007; 2018,1963; 2001; 2020,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,FOREST PARK,1998,,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,FORESTVILLE,1985; 1991; 1992; 1995,,1987,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,FORT HILL,1948; 1949; 1958,1973,1965; 2000; 2001; 2003; 2007; 2008; 2023; 2024,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,FRANKLIN,1948,,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,FREDERICK,1957; 1967; 1974; 1978; 1982; 2024,1968; 1969; 1970; 1981,1963; 1972; 1973; 1975; 1979; 2007; 2023,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,FRIENDLY,1998; 2003; 2004,1983; 2009,1949; 1950; 1984; 2011,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,GAITHERSBURG,1998,1958,1961; 1988; 2018; 2023,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,GARNETT,,1963,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,GLEN BURNIE,,1961,1947; 1950; 1952; 1994; 2003; 2004; 2007,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,GREENBELT,1947,,1948; 1949,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,GWYNN PARK,1968; 1969; 1970; 1972; 1974; 1976; 1980; 1983; 1987,1971; 1975; 1999; 2000; 2002; 2004; 2010,1995; 1996; 2008; 2011,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,HAGERSTOWN,1951,1952; 1955,1947,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,HAMMOND,1983,1989; 1990,1982,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,HANCOCK,,1961; 1964,1959; 1963,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,HAVRE DE GRACE,,1985,1969; 1970; 1972; 1974; 1979; 1984; 1986; 1988; 1996,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,HEREFORD,,1993,1968,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,HIGH POINT,1982; 1989; 1992,1966; 1990,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,HOWARD COUNTY,,1959,1957; 1971,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,HUNTINGTOWN,,2022,2016,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,GOV. THOMAS JOHNSON,1975; 1982; 1985; 1986; 1988; 1997; 1999,1978; 1995; 2001; 2002,1993; 1994; 1998; 2018,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WALTER JOHNSON,1987,,1963; 1976,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,JOPPATOWNE,1990; 1991,,1981; 1987; 2005; 2015,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,JOHN F. KENNEDY,,1996,1989,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,KENWOOD,,1981,1955; 1982,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,FRANCIS SCOTT KEY,,1960,1961; 1977,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,HENRY E. LACKEY,1955; 1958; 1959,1961; 1968; 2006,1954; 1956; 1971; 1978,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,LAKE CLIFTON/EASTERN,1995; 1999; 2009; 2012; 2018; 2019; 2022,2015; 2016; 2023,2001; 2003; 2008; 2020,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,LANSDOWNE,,1970; 2004,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,LARGO,1993; 2008; 2024; 2025,2012; 2023,1975; 1976; 2005; 2007,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,LAUREL,1980; 2025,1957,2008,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,LOCKERMAN,,1965,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,LONG REACH,2006,1997; 2008,2024,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,MACE'S LANE,,1967,1964; 1966; 1969,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,COL. ZADOK MAGRUDER,2001; 2012,2003; 2007; 2013,2002; 2011,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,MEADE,2015,1993; 2016; 2023,1983; 1988; 1999; 2000; 2022; 2025,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,MIDDLETOWN,,1973; 1979; 2016,1975; 1989; 1990; 1996; 1998; 2024; 2025,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,MILFORD MILL,1988; 1992; 1994; 2010; 2011; 2013,1960; 1982; 1985; 1989; 1995; 1997; 2018,1961; 2014; 2025,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,RICHARD MONTGOMERY,1966,1967,1952; 1965; 2019; 2020,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,MOUNT HEBRON,1984,1980; 1981; 1987,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,MOUNT RAINIER,1947,,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,MOUNT SAVAGE,1967,1963; 1970,1966; 1968; 1969; 1971,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,NEW TOWN,2007; 2015; 2016; 2023,2012; 2013; 2025,2006; 2020,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,NEW WINDSOR,,1952; 1954,1958,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,NORTH CAROLINE,1987,1962; 2018,1976; 1977; 1989,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,NORTH DORCHESTER,1999,1983,1949; 1960; 1965,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,NORTH HAGERSTOWN,1972,1977,1959; 1967; 1970; 2002,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,NORTH HARFORD,1962,,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,NORTH POINT,1956; 1967; 1968; 1987; 2011; 2024,1982; 1984; 1990; 1996,1960; 1968; 1989; 1991; 2000; 2012; 2013,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,OAKDALE,2022,2014,2013; 2015; 2018; 2019,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,OAKLAND MILLS,1990; 2015,1995; 2001,1980; 1986; 1988; 1991,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,OCEAN CITY,1952,1948; 1949; 1951,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,OLD MILL,,2010,1992; 2005; 2006; 2018,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,OVERLEA,,1992,2022,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,OWINGS MILLS,,2010,2011,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,OXON HILL,2000; 2003,1955; 1956; 1957; 1998,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,PAINT BRANCH,1977; 2000,1985; 1992,1988; 1996; 1997,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,PARKDALE,1971; 1976; 1991,1997,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,PARKVILLE,2023,1965; 1974,1975; 1986; 1987; 2008; 2020; 2022,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,PATTERSON,2012; 2017; 2019,2011; 2015,2014,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,PERRY HALL,2017; 2018,,2016,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,PERRYVILLE,1954,1992,1967; 1971,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,PIKESVILLE,,1999; 2000,1985; 2001,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,POCOMOKE,1971; 1976; 2002; 2016,1972; 1974; 1991; 1998; 2003; 2005; 2009,1954; 1965; 1967; 1981; 1986; 1992; 2011; 2012,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,BALTIMORE POLYTECHNIC,2017; 2018; 2019,,2013; 2020,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,POOLESVILLE,1962; 1963,1960; 1966; 1967; 1978,1954; 1965; 1990,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,POTOMAC,1981; 1989; 2005; 2014,1977; 1992; 1993; 2013,1974; 1990; 1994; 2006,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,QUINCE ORCHARD,,2000; 2017,1991,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,RANDALLSTOWN,1995; 2001; 2005; 2006,2000; 2008,1980; 1984; 1985; 1990; 1994; 1996; 1997; 2003,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,RESERVOIR,,2019,2013,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,COLONEL RICHARDSON,,1976,1973; 1977; 1990; 1995,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,RIVER HILL,2007,,2018,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,ROCKVILLE,1971; 1973,1980; 1981,1975; 1982,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,ELEANOR ROOSEVELT,2002; 2013; 2016; 2019,2001; 2006; 2012,2007; 2010; 2011,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,FREDERICK SASSCER,1967,,1961,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SAINT CHARLES,,2024,2020,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SEED SCHOOL,,2025,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SHERWOOD,1979; 2007,1978; 1987; 2025,1965; 1970; 1974; 1999; 2012; 2023,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SMITHSBURG,,1988,1983; 2012; 2024,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SNOW HILL,1989; 2001; 2008,,1994; 2007; 2010,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SOMERSET,1965; 1966,1968; 1969,1964,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SOUTH CARROLL,,1989,1984; 2002; 2009; 2011,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SOUTH HAGERSTOWN,1973; 1974; 1981; 1983; 1986; 1993; 1994; 1996,1955; 1961; 1972; 1976; 1979; 1980; 2019,1957; 1970; 1971; 1982; 1984; 1985; 2000; 2001; 2003,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SOUTHWESTERN,1997,,2006,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SPARROWS POINT,1961,1947,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SPRINGBROOK,1972; 1988; 2008; 2009,1963; 1991; 1994; 1995,1962; 1973; 1974; 1981; 1987; 1990; 1993; 2014; 2015,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,THOMAS STONE,1972,1979; 1988; 2008; 2010,1977; 2009; 2019,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SUITLAND,1985,1980,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,SURRATTSVILLE,1960; 1962; 1965; 1997,1967; 2008,1964; 1978; 1979; 2016,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,TOWSON,1963,1964,1962; 1966; 1967; 1972; 1988; 1989,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,VALLEY,1956; 1957; 1959; 1979,1986; 1987,1955; 1958; 1962; 1967; 1969; 1974; 1980,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,VIENNA,,1947,1953,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WALBROOK,2005,,2009,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WALKERSVILLE,1960; 1964; 1984; 1986,1958; 1962; 1965; 1982,1976; 1987; 1992; 2005,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WASHINGTON,1975,1948; 1949; 1972,2013,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WESTLAKE,2022,2014; 2015,2001,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WESTMAR,,1990,1993; 1997,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WESTMINSTER,1947,,1964,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WALT WHITMAN,2006,1968; 1971; 1986; 2014; 2024; 2025,2016,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WICOMICO,2002,1948; 1949; 1950; 1951; 1983; 2001; 2006; 2013; 2019,1947; 1952; 1953; 1954; 1955; 1956; 1957; 1958; 1963; 1967; 1973; 1982; 2007; 2008; 2009; 2015; 2020; 2022; 2023,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WILDE LAKE,1985,1974; 1994,1978; 1991,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WILLIAMSPORT,1948,1996; 2011,1947; 1991; 1992; 1994; 1995; 2000,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,WINTERS MILL,2008; 2014,2009,2017; 2020; 2024,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,ELMER WOLFE,,1953; 1959,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,CHARLES W. WOODWARD,1977,1984; 1986,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,THOMAS S. WOOTTON,1978; 1979; 1983,1985,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Boys Basketball,C. MILTON WRIGHT,2016,,,,,pdfs/Winter record book.pdf,17; 18; 19,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,ANNAPOLIS,,2007,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,ARUNDEL,,1996,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,ATHOLTON,,2005,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,JAMES M. BENNETT,,1983; 2006,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,BETHESDA-CHEVY CHASE,1980; 2008,2003,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,BLADENSBURG,1992,1981; 1990,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,JAMES H. BLAKE,,2023; 2024,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,BOONSBORO,2012; 2013; 2016; 2017,2004; 2011; 2018; 2019; 2022,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,BOWIE,2013,2015,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,BRUNSWICK,,2020,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,CATONSVILLE,1992,1983; 1984; 1991,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,CENTENNIAL,1977; 1981; 1982; 1983; 1984; 1985; 1987; 1988; 1989; 1990; 1991; 1992; 1997; 1999; 2000; 2006,1978; 1979; 1980; 1981; 1986; 1989; 1993; 1994; 1995; 1996,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,CENTURY,2010; 2011; 2025,2022; 2023,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,WINSTON CHURCHILL,,2007,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,CLARKSBURG,2015,2014,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,CROSSLAND,1978; 1979; 1980; 1982; 1983,1977,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,DAMASCUS,1997; 2011,2010,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,DIGITAL HARBOR,1986; 1998; 2007; 2019,1988; 1997; 2009,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,DULANEY,,1979; 1982; 1992; 1999; 2000,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,EDMONDSON/WESTSIDE,2005,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,FAIRMONT HEIGHTS,1995; 1996,1982,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,FALLSTON,2005,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,CHARLES H. FLOWERS,2010; 2016; 2017,2004; 2008; 2020; 2024,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,FRANKLIN,2015; 2017; 2018,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,FREDERICK,1980; 1981; 1982; 1983; 1996,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,FRIENDLY,1981,2017,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,GLENELG,1993; 1999,1998; 2002; 2003,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,HAMMOND,1994,1990; 1991; 1992,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,HARFORD TECHNICAL,2025,2019; 2020; 2024,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,HEREFORD,2012; 2013; 2016; 2017; 2019; 2020; 2022; 2024,1980; 2009; 2025,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,HIGH POINT,,1985,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,HOWARD,,2022; 2025,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,HUNTINGTOWN,2014,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,GOV. THOMAS JOHNSON,,1998; 2011,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,WALTER JOHNSON,2018,1977; 1996,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,HENRY E. LACKEY,2018,2016,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,LARGO,2000; 2013; 2020; 2022,1983; 1988; 2001; 2002; 2003; 2005; 2006; 2012; 2014; 2023,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,LIBERTY,2012,2011; 2013; 2015,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,LINGANORE,1988; 1989; 1990; 1991; 1994; 1995,1993,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,LOCH RAVEN,,2008,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,LONG REACH,2000; 2001,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,COL. ZADOK MAGRUDER,1987,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,MANCHESTER VALLEY,2015,2014,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,MCDONOUGH,,1985; 1987,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,MEADE,,1991,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,MERGENTHALER,,2005,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,MIDDLETOWN,2008; 2009,1982; 1984; 1999; 2000; 2001,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,MILFORD MILL,1984; 1985; 2002; 2003,1987; 1988; 2012; 2014; 2015,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,MOUNT HEBRON,,2002; 2004; 2011; 2019; 2023,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,NORTH CARROLL,2007,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,NORTH HAGERSTOWN,,2010,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,NORTH POINT,2016; 2019; 2022; 2023; 2024,2013; 2018; 2020,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,NORTHWEST,1987; 2011,2010; 2012; 2016; 2017; 2019; 2022,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,OAKDALE,2015,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,OAKLAND MILLS,1998; 2000; 2023,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,OLD MILL,1988; 1989; 1994,1987; 1993; 1995,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,OXON HILL,2025,1984; 1990; 1997; 2009,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,PAINT BRANCH,2009,1989; 1995,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,PIKESVILLE,2014,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,POOLESVILLE,2001; 2002; 2003; 2004; 2008,2006; 2007,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,QUINCE ORCHARD,,1998,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,RIVER HILL,2018,1997; 1999; 2001; 2009,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,ELEANOR ROOSEVELT,1978; 1979; 1990; 1991; 1992; 1993; 1995; 1996; 1997; 1998; 1999; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2012,1980; 1989; 1994,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,SENECA VALLEY,,1981,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,SEVERNA PARK,1977,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,SMITHSBURG,2023; 2024,2010; 2015; 2016; 2017; 2025,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,SOUTH CARROLL,2020,2018,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,SOUTH RIVER,2014,2015; 2024,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,THOMAS STONE,,2013,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,SUITLAND,1984; 1985,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,URBANA,2019; 2020; 2022; 2023; 2025,2016; 2017,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,WATKINS MILL,1993,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,WESTERN-B,2010,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,WESTERN STES,2010; 2011; 2014,2013,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,WESTLAKE,2004,2008,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,WALT WHITMAN,,1994; 2025,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,WILLIAMSPORT,2009,2008,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Girls Indoor Track,WOODLAWN,2024; 2025,,,,,pdfs/Winter record book.pdf,27; 28,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,ANNAPOLIS,2002,2003,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,ARUNDEL,,1975,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,ATHOLTON,1995; 1997; 1998; 2006; 2011,1996; 2009,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,BETHESDA-CHEVY CHASE,,1972,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,BLADENSBURG,1984,,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,MONTGOMERY BLAIR,,2023,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,BOONSBORO,2017; 2018; 2019,2012; 2013,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,BOWIE,,2015; 2024,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,CAMBRIDGE-SOUTH DORCHESTER,,2023,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,CARVER VO-TECH,2010; 2011,,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,CATOCTIN,2022; 2023; 2024,2011,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,CATONSVILLE,,2000,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,CENTENNIAL,,1997; 2014,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,CENTURY,1984; 1985; 1988; 2011; 2013; 2017; 2018,1987; 1993; 2014; 2015; 2016; 2019,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,CHOPTICON,,2019,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WINSTON CHURCHILL,1976,1977,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,CLARKSBURG,2013,2008,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,CROSSLAND,1974; 1975; 1977,1978,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,DAMASCUS,2010,1990,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,DIGITAL HARBOR,2008; 2012; 2013; 2014; 2024,1984; 2025,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,DULANEY,,1982; 2017; 2022,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,DUNDALK,1990,1980,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,DUVAL,1993; 1994; 1999; 2011,1992,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,EASTERN TECH,,1980,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,ALBERT EINSTEIN,1981; 1987,1982,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,FAIRMONT HEIGHTS,1972; 1974; 1975; 1976; 1977; 1978; 1979; 1980; 1982; 2016,1991; 2015,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,CHARLES H. FLOWERS,2005,2003; 2016,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,FORESTVILLE,2006,,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,FRIENDLY,1975; 1981,1974; 1985,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,GAITHERSBURG,2009,,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,GLENELG,1990; 1991; 1992; 2005,1984; 1988; 1997; 2004; 2009,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,GREAT MILLS,,1990,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,GWYNN PARK,,2002,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,HARFORD TECHNICAL,2025,2024,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,HEREFORD,1980; 2024,2013,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,HIGH POINT,1998; 1999,1997,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,HOWARD,1984; 1985; 1989,1993,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,HUNTINGTOWN,2020; 2022,,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,GOV. THOMAS JOHNSON,2009; 2010; 2012; 2024,2011,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WALTER JOHNSON,,1973,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,JOPPATOWNE,1981,,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,HENRY E. LACKEY,,2018; 2019,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,LA PLATA,2007,2001; 2024,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,LARGO,1983; 1986; 2020,,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,LAUREL,1988,,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,LEONARDTOWN,,1991,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,LIBERTY,,2006; 2007; 2023; 2024; 2025,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,LINGANORE,1995; 2018; 2019,1989; 1994; 2008; 2011,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,LOCH RAVEN,,2003,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,LONG REACH,2014,2013,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,MEADE,1989; 1990; 2008,1987; 1988; 1991,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,MERGENTHALER VO-TECH,1997; 2004,1996; 2006; 2022; 2023,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,MIDDLETOWN,2003; 2007,1982; 1999; 2001; 2002; 2004; 2018; 2025,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,MILFORD MILL,1981; 1982; 1983; 1987; 1997; 2015,1992; 2020,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,RICHARD MONTGOMERY,1996,1998; 2020,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,MOUNT HEBRON,,2005; 2015,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,NORTH POINT,1983; 2009; 2023,2024,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,NORTHWEST,2014; 2015; 2016; 2017; 2018,2013,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,NORTHWESTERN-B,,1976; 1999; 2010; 2012,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,OAKDALE,2015; 2019; 2020,2016; 2017,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,OAKLAND MILLS,1991; 1993; 1994; 1999; 2000; 2001; 2002; 2004; 2022; 2023; 2025,1981; 1983; 1987; 1989; 1995; 1998; 2010; 2011,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,OLD MILL,1978; 1979; 1992; 1993; 1994,1977; 1984; 1986; 1990; 2004,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,OXON HILL,2002; 2016; 2017,1981; 2006,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,PAINT BRANCH,2003; 2019; 2020,1982; 1985; 2014; 2025,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,PARKDALE,,1973,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,PARKVILLE,,1988,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,ROBERT E. PEARY,1980,1983,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,PERRY HALL,,1979; 1995,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,PIKESVILLE,2013,2014; 2017; 2020,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,POLYTECHNIC,2007; 2008,2009; 2022,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,POTOMAC,1989; 1992,2012,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,QUINCE ORCHARD,2008,,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,RESERVOIR,,2010; 2018,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,ELEANOR ROOSEVELT,1985; 1991; 1995; 1996; 2001; 2006; 2007,1978; 1979; 1992; 1993; 1994; 2005,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,SENECA VALLEY,,1995,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,SEVERNA PARK,1973; 2022; 2023,,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,SMITHSBURG,2012; 2014; 2015,2016; 2022,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,SOUTH CARROLL,,1980,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,SOUTH RIVER,,1994,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,SUITLAND,2003; 2004,1983; 1989; 2001; 2002; 2010; 2012,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,SURRATTSVILLE,1996,2000,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WALKERSVILLE,2010,2012; 2022,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WESTERN STES,2009,2008,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WESTLAKE,2005; 2009; 2016; 2025,2007; 2008; 2017,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WESTMINSTER,2000,,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WHEATON,,1974,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WICOMICO,,1985,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WILDE LAKE,,1996; 1998,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WILLIAMSPORT,,1976,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WINTERS MILL,2012,2018; 2019,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Boys Indoor Track,WOODLAWN,1987; 1988; 1998,1999; 2000,,,,pdfs/Winter record book.pdf,46; 47,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,BETHESDA-CHEVY CHASE,2020,2019; 2022; 2023,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,MONTGOMERY BLAIR,,2018,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,WINSTON CHURCHILL,2015,2014,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,DAMASCUS,2022; 2025,2019; 2020; 2024,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,EASTON,2023,2015; 2016; 2017; 2018,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,FREDERICK,2010; 2011,2008; 2009,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,WALTER JOHNSON,2017; 2022; 2023; 2025,2016; 2020; 2024,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,MIDDLETOWN,2008,2007; 2010; 2011,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,RICHARD MONTGOMERY,2024,,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,POOLESVILLE,2013; 2015; 2016; 2017; 2018; 2019,2012; 2014; 2022; 2023,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,QUEEN ANNE'S,2009,,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,ELEANOR ROOSEVELT,2008,2007,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,SEVERNA PARK,2007; 2009; 2010,2008; 2011,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,SHERWOOD,2016; 2018; 2019,2013; 2015; 2017,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,URBANA,2007; 2011,2009; 2010,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,WALT WHITMAN,2012,,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,THOMAS WOOTTON,2013; 2014,2012,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Girls Swimming & Diving,C. MILTON WRIGHT,2012; 2014,,,,,pdfs/Winter record book.pdf,62,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,ANNAPOLIS,,2008,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,MONTGOMERY BLAIR,,2013,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,BROADNECK,2008; 2009,2011,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,WINSTON CHURCHILL,2018; 2019; 2022; 2024,2012; 2016; 2017; 2020; 2023,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,DAMASCUS,,2013; 2015; 2019; 2020,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,GOV. THOMAS JOHNSON,,2007,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,WALTER JOHNSON,2012; 2013; 2015; 2025,,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,FALLSTON,2007; 2008; 2009; 2011,,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,MIDDLETOWN,,2007; 2017,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,RICHARD MONTGOMERY,2014; 2016; 2017,2015; 2018; 2019,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,NORTH HARFORD,,2010,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,PATTERSON MILL,,2018,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,POOLESVILLE,2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2022; 2024; 2025,2014,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,ROCKVILLE,2023,2016; 2022; 2024,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,SEVERNA PARK,2010; 2011,2009,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,SOUTH RIVER,,2010,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,STEPHEN DECATUR,,2011,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,URBANA,2007,2008,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,WALKERSVILLE,2010,2009,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,WALT WHITMAN,2020; 2023,2022,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Boys Swimming & Diving,THOMAS WOOTTON,,2014; 2024,,,,pdfs/Winter record book.pdf,71,2026-08-02T20:19:29Z,regex
+Wrestling,BROADNECK,1988,,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,DUVAL,1982,,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,PARKDALE,1974,,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,WICOMICO,1985; 1986,,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,ANNAPOLIS,,2002; 2020,2025,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,ARUNDEL,1997,1999,1996,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,BEALL,,2003,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,BEL AIR,2010,,2018; 2019; 2022; 2023,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,BETHESDA-CHEVY CHASE,,2025,2019; 2020; 2024,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,CALVERT,2004,,1998; 1999,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,CENTENNIAL,2022; 2025,,2003; 2004; 2020,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,WINSTON CHURCHILL,,2018; 2022,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,DAMASCUS,1995; 1999; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020,1994; 2006; 2007; 2024,1998; 2025,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,STEPHEN DECATUR,2008; 2019; 2020; 2022; 2023; 2024,2025,2005; 2006; 2011,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,PAUL LAURENCE DUNBAR,,2016; 2020,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,FREDERICK,1994; 1996,,1997,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,GLENELG,2011,2008; 2010; 2013; 2017; 2018; 2019; 2020,2004; 2007; 2012; 2016,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,HAMMOND,1996; 1998; 2005; 2006,1999,2000; 2001; 2002,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,HEREFORD,,1999; 2006; 2014,2007; 2009,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,HUNTINGTOWN,2018,,2014; 2015; 2016; 2019; 2022; 2024,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,KENT COUNTY,2001,1998; 2000; 2002,1999; 2003; 2004,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,KENT ISLAND,2014,,2013,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,FRANCIS SCOTT KEY,,1996,1995; 1997,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,LA PLATA,2006; 2007; 2011,2003; 2009; 2010,1997; 2008; 2020; 2023,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,HENRY E. LACKEY,1997,,2018; 2019; 2022; 2023; 2024; 2025,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,LINGANORE,2023; 2024,2019; 2025,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,MANCHESTER VALLEY,,2020,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,MIDDLETOWN,2016; 2017,2015; 2022; 2024; 2025,2023,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,MOUNT HEBRON,2002,2018,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,NORTH CARROLL,1994,2008,2006; 2007,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,NORTH HAGERSTOWN,,2014; 2015,1998; 2000; 2012; 2017,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,NORTH POINT,1995; 2000,1996; 2001; 2005; 2007; 2022; 2023,1994; 1999; 2000; 2002; 2012; 2013,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,OAKDALE,,2016,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,OAKLAND MILLS,2015,,2016; 2017,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,OLD MILL,1998; 2000; 2009,1994; 2001,2005; 2007; 2015; 2018,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,OVERLEA,1999,,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,OWINGS MILLS,2002; 2003; 2004,1997; 2009; 2012,1994; 1995; 1996; 1998; 2000; 2001; 2010; 2011; 2013; 2018; 2019,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,PAINT BRANCH,2001,,2002,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,QUINCE ORCHARD,,1995,,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,RESERVOIR,2010,,2022,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,RISING SUN,2007,,1994; 1996; 1997; 2008; 2009; 2011,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,RIVER HILL,2003,2000; 2004; 2012,2005; 2009; 2014,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,SOUTH CARROLL,2022; 2023; 2024; 2025,2005,1995; 1999; 2001; 2010,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,SOUTH RIVER,2009; 2018; 2019; 2020; 2022; 2023,2019; 2024,2008; 2013,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,SPARROWS PONT,,2017; 2018; 2019; 2023,2015; 2020; 2022,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,SPRINGBROOK,2019; 2020,2022,2024,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,URBANA,2012; 2018,2011; 2013; 2023,2010,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,WALKERSVILLE,,2004,2002,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,WESTMINSTER,,1997; 1998,1996,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,WALT WHITMAN,2005; 2024; 2025,,2004; 2008; 2009; 2010,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex
+Wrestling,WINTERS MILL,2012; 2013,,2023,,,pdfs/Winter record book.pdf,90; 91; 95,2026-08-02T20:19:29Z,regex

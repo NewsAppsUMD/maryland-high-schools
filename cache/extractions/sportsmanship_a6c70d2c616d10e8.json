@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "extractor": "sportsmanship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      22
+    ],
+    "extracted_at": "2026-08-02T20:21:00Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1998,
+      "classification": null,
+      "school": "Centennial"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1999,
+      "classification": null,
+      "school": "Queen Anne's"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2000,
+      "classification": null,
+      "school": "Queen Anne's"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2001,
+      "classification": null,
+      "school": "C. Milton Wright"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2002,
+      "classification": null,
+      "school": "Pikesville"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2003,
+      "classification": null,
+      "school": "Glenelg"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2004,
+      "classification": null,
+      "school": "Westminster"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2005,
+      "classification": null,
+      "school": "Parkside"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2006,
+      "classification": null,
+      "school": "Urbana"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2007,
+      "classification": null,
+      "school": "Parkside"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2008,
+      "classification": null,
+      "school": "Southern-AA"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2009,
+      "classification": null,
+      "school": "South River"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2010,
+      "classification": null,
+      "school": "Queen Anne's"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2011,
+      "classification": null,
+      "school": "Middletown"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2012,
+      "classification": null,
+      "school": "Glenelg"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2013,
+      "classification": null,
+      "school": "Century"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2014,
+      "classification": null,
+      "school": "North East-C"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2015,
+      "classification": null,
+      "school": "North East-C"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2016,
+      "classification": null,
+      "school": "Northern-Calvert"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2017,
+      "classification": null,
+      "school": "Liberty"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2018,
+      "classification": null,
+      "school": "Eleanor Roosevelt"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2019,
+      "classification": null,
+      "school": "Westminster"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2021,
+      "classification": null,
+      "school": "Catonsville"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2022,
+      "classification": null,
+      "school": "Smithsburg"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2023,
+      "classification": null,
+      "school": "Sherwood"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2024,
+      "classification": null,
+      "school": "Towson"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2025,
+      "classification": null,
+      "school": "Middletown"
+    }
+  ]
+}

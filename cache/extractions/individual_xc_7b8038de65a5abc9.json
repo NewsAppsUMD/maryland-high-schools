@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "extractor": "individual_xc",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      26
+    ],
+    "extracted_at": "2026-08-02T02:25:13Z"
+  },
+  "rows": []
+}

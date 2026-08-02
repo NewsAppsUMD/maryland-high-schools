@@ -1,0 +1,2038 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      39
+    ],
+    "extracted_at": "2026-08-02T19:37:21Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Sheila Simon",
+      "school": "Churchill",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1979,
+      "classification": "ABC",
+      "name": "Juanita Alston",
+      "school": "Central-PG",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Wanda Johnson",
+      "school": "Parkdale",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1980,
+      "classification": "A",
+      "name": "Gail Scriber",
+      "school": "Leonardtown",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1980,
+      "classification": "BC",
+      "name": "Karen Jack",
+      "school": "Joppatowne",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Mary Likens",
+      "school": "Perry Hall",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1981,
+      "classification": "A",
+      "name": "Susan Alele",
+      "school": "Walter Johnson",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1981,
+      "classification": "BC",
+      "name": "Jackie Thompson",
+      "school": "Oakland Mills",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Kira Kiladis",
+      "school": "Perry Hall",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1982,
+      "classification": "A",
+      "name": "Monica Jones",
+      "school": "Fairmont Heights",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1982,
+      "classification": "BC",
+      "name": "Shelloy Lewis",
+      "school": "Middletown",
+      "mark": "4-10"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Lynn Warner",
+      "school": "High Point",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1983,
+      "classification": "A",
+      "name": "Ginny Hanlon",
+      "school": "Sherwood",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1983,
+      "classification": "BC",
+      "name": "Paula Royer",
+      "school": "Frederick",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Margo Williams",
+      "school": "Potomac",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1984,
+      "classification": "A",
+      "name": "Ginny Hanlon",
+      "school": "Sherwood",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1984,
+      "classification": "BC",
+      "name": "MaryLea Thompson",
+      "school": "Middletown",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Amy Ellis",
+      "school": "Crossland",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1985,
+      "classification": "A",
+      "name": "Ginny Hanlon",
+      "school": "Sherwood",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1985,
+      "classification": "BC",
+      "name": "Lori Amos",
+      "school": "Milford Mill",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1986,
+      "classification": "Combined",
+      "name": "Amy Ellis",
+      "school": "Crossland",
+      "mark": "5-06 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Rachel Doering",
+      "school": "Perry Hall",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1987,
+      "classification": "A",
+      "name": "Dawn Yates",
+      "school": "Calvert",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1987,
+      "classification": "BC",
+      "name": "Janet Mayhugh",
+      "school": "Hammond",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Rhonda Boarman",
+      "school": "Glen Burnie",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1988,
+      "classification": "A",
+      "name": "Marianne Carpenter",
+      "school": "McDonough",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1988,
+      "classification": "BC",
+      "name": "Georgette Richardson",
+      "school": "Milford Mill",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Rachel Doering",
+      "school": "Perry Hall",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Robyn Bouch",
+      "school": "Linganore",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1989,
+      "classification": "2A-1A",
+      "name": "Tanya Hughes",
+      "school": "Great Mills",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Erica Radden",
+      "school": "E Roosevelt",
+      "mark": "4-11"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Rachel Smith",
+      "school": "Oakland Mills",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1990,
+      "classification": "2A-1A",
+      "name": "Tracy Tyler",
+      "school": "J.M. Bennett",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Tyra Moore",
+      "school": "Largo",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Rachel Smith",
+      "school": "Oakland Mills",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1991,
+      "classification": "2A-1A",
+      "name": "Nicole Wyant",
+      "school": "Easton",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Tyra Moore",
+      "school": "Largo",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Meredith Benzing",
+      "school": "Catonsville",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1992,
+      "classification": "2A-1A",
+      "name": "Tish Campbell",
+      "school": "North Hagerstown",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Erica Radden",
+      "school": "Eleanor Roosevelt",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Melissa Williamson",
+      "school": "Howard",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1993,
+      "classification": "2A-1A",
+      "name": "Tish Campbell",
+      "school": "North Hagerstown",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Christina Chillemi",
+      "school": "Dulaney",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Nana Jeffrey-Idun",
+      "school": "Wheaton",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1994,
+      "classification": "2A-1A",
+      "name": "Amy Bidle",
+      "school": "Boonsboro",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Kristin Wimbrow",
+      "school": "Old Mill",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Nana Jeffre-Dunn",
+      "school": "Wheaton",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1995,
+      "classification": "2A-1A",
+      "name": "Amy Bidle",
+      "school": "Boonsboro",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Michelle June",
+      "school": "Meade",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Kacey Childs",
+      "school": "Damascus",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1996,
+      "classification": "2A-1A",
+      "name": "Kathy Messner",
+      "school": "Catoctin",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1997,
+      "classification": "4A-3A",
+      "name": "Vanessa Jones",
+      "school": "Sherwood",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1997,
+      "classification": "3A-2A",
+      "name": "Kacey Childs",
+      "school": "Damascus",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1997,
+      "classification": "2A-1A",
+      "name": "Kathy Messner",
+      "school": "Catoctin",
+      "mark": "5-07"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1998,
+      "classification": "4A-3A",
+      "name": "Emily Owens",
+      "school": "Richard Montgomery",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1998,
+      "classification": "3A-2A",
+      "name": "Sarah White",
+      "school": "Parkville",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1998,
+      "classification": "2A-1A",
+      "name": "Kathy Messner",
+      "school": "Catoctin",
+      "mark": "5-09"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1999,
+      "classification": "4A-3A",
+      "name": "Carla Franklin",
+      "school": "Laurel",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1999,
+      "classification": "3A-2A",
+      "name": "Tianna Goldring",
+      "school": "La Plata",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 1999,
+      "classification": "2A-1A",
+      "name": "Lindsay Martin",
+      "school": "Centennial",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2000,
+      "classification": "4A-3A",
+      "name": "Stephanie Kuehne",
+      "school": "Dulaney",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2000,
+      "classification": "3A-2A",
+      "name": "Cynthia Nicholls",
+      "school": "Long Reach",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2000,
+      "classification": "2A-1A",
+      "name": "Jen Frey",
+      "school": "Boonsboro",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2001,
+      "classification": "4A-3A",
+      "name": "Donna Wright",
+      "school": "Suitland",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2001,
+      "classification": "3A-2A",
+      "name": "Brittany Tesla",
+      "school": "North Hagerstown",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2001,
+      "classification": "2A-1A",
+      "name": "Ashley Wall",
+      "school": "Atholton",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2002,
+      "classification": "4A-3A",
+      "name": "Cassie Tressler",
+      "school": "Damascus",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2002,
+      "classification": "3A-2A",
+      "name": "Maleka Diggs",
+      "school": "Annapolis",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2002,
+      "classification": "2A-1A",
+      "name": "Meghan Walsh",
+      "school": "Rising Sun",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2003,
+      "classification": "4A-3A",
+      "name": "Cassie Tressler",
+      "school": "Damascus",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2003,
+      "classification": "3A-2A",
+      "name": "Toni Aluko",
+      "school": "Paint Branch",
+      "mark": "5-08 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2003,
+      "classification": "2A-1A",
+      "name": "Joanne Urbanski",
+      "school": "Beall",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2004,
+      "classification": "4A-3A",
+      "name": "Toni Aluko",
+      "school": "Paint Branch",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2004,
+      "classification": "3A-2A",
+      "name": "Catlin Hilbert",
+      "school": "North Carroll",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2004,
+      "classification": "2A-1A",
+      "name": "Jessica Yu",
+      "school": "Smithsburg",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2005,
+      "classification": "4A-3A",
+      "name": "Emma Hanson",
+      "school": "Damascus",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2005,
+      "classification": "3A-2A",
+      "name": "Stephanie Fowler",
+      "school": "La Plata",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2005,
+      "classification": "2A-1A",
+      "name": "Jessica Carey",
+      "school": "Parkside",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2006,
+      "classification": "4A-3A",
+      "name": "Audrey Gariepy-Bogui",
+      "school": "Churchill",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2006,
+      "classification": "3A-2A",
+      "name": "Chowan Brightful",
+      "school": "Linganore",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2006,
+      "classification": "2A-1A",
+      "name": "Kathleen McCormick",
+      "school": "Clear Spring",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2007,
+      "classification": "4A-3A",
+      "name": "Audrey Gariepy-Bogui",
+      "school": "Churchill",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2007,
+      "classification": "3A-2A",
+      "name": "Amina Smith",
+      "school": "Patuxent",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2007,
+      "classification": "2A-1A",
+      "name": "Kate Paczynski",
+      "school": "Liberty",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Lorraine Graham",
+      "school": "C.H. Flowers",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Vanessa Jules",
+      "school": "Paint Branch",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Amina Smith",
+      "school": "Patuxent",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Jess Lockatell",
+      "school": "South Carroll",
+      "mark": "4-10"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Amber Melville",
+      "school": "North Carroll",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Vanessa Jules",
+      "school": "Paint Branch",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Amina Smith",
+      "school": "Patuxent",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Hannah Stone",
+      "school": "Catoctin",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Evann Slaughter",
+      "school": "Oxon Hill",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Eryn Donaldson",
+      "school": "Mount Hebron",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Amina Smith",
+      "school": "Patuxent",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Erika Hurd",
+      "school": "Manchester Valley",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Chelsea Harris",
+      "school": "Gaithersburg",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Thea Lafond",
+      "school": "Kennedy",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Beth Wagner",
+      "school": "North Hagerstown",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Erika Hurd",
+      "school": "Manchester Valley",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Tabitha Pyatt",
+      "school": "Baltimore Polytechnic",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Natalie Alper",
+      "school": "Atholton",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Hannah Stone",
+      "school": "Catoctin",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Erika Hurd",
+      "school": "Manchester Valley",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Danielle Baker",
+      "school": "North Point",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Laura Janss",
+      "school": "Damascus",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Laura Woollen",
+      "school": "Fallston",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Sarah Elwood",
+      "school": "Clear Spring",
+      "mark": "4-08"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Reilly Wagner",
+      "school": "South River",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Tabitha Pyatt",
+      "school": "Polytechnic",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Isabella Laurel",
+      "school": "South Carroll",
+      "mark": "5-08"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Crystal Parker",
+      "school": "Central-PG",
+      "mark": "4-11"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Reilly Wagner",
+      "school": "South River",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Caitlin Bowman",
+      "school": "Northern-C",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Abby Stultz",
+      "school": "Oakdale",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Liz Leahy",
+      "school": "Manchester Valley",
+      "mark": "4-11"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Aleya Mayo",
+      "school": "Dr. Henry A. Wise",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Deanna Young",
+      "school": "Wilde Lake",
+      "mark": "5-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Lillian Reese",
+      "school": "La Plata",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Rosie Cicmanec",
+      "school": "Brunswick",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Dejah Grant",
+      "school": "Charles H. Flowers",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Kelly Garriott",
+      "school": "Manchester Valley",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Beyonce Kelly",
+      "school": "Harford Technical",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Rosie Cicmanec",
+      "school": "Brunswick",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Taylor Wright",
+      "school": "Northwest",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Kathleen Gallagher",
+      "school": "Linganore",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Beyonce Kelly",
+      "school": "Harford Technical",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Rosie Cicmanec",
+      "school": "Brunswick",
+      "mark": "5-01"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Taylor Wright",
+      "school": "Northwest",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "3A",
+      "name": "LeNisha Chance",
+      "school": "South Hagerstown",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Beyonce Kelly",
+      "school": "Harford Technical",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Sanaya Ross",
+      "school": "Largo",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2020,
+      "classification": "4A",
+      "name": "Madison Depry",
+      "school": "Wheaton",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2020,
+      "classification": "3A",
+      "name": "Samantha Leo",
+      "school": "Chesapeake-AA",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2020,
+      "classification": "2A",
+      "name": "Autumn Winston",
+      "school": "Frederick Douglass-PG",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2020,
+      "classification": "1A",
+      "name": "Joseline Adeoye",
+      "school": "Largo",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Dylan Countiss",
+      "school": "Leonardtown",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Ruth Smih",
+      "school": "Howard",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Lizzie Lopez",
+      "school": "Hereford",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Ashleigh Porter",
+      "school": "Francis Scott Key",
+      "mark": "4-10"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Jaelynn Blackwell",
+      "school": "Charles H. Flowers",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Ruth Smih",
+      "school": "Howard",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Hailey Eliott",
+      "school": "Wicomico",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Ashleigh Porter",
+      "school": "Francis Scott Key",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Casey Gish",
+      "school": "Broadneck",
+      "mark": "5-03"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Valerie Ashamu",
+      "school": "Oakland Mills",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Aiyana Smalley",
+      "school": "Patuxent",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Maeleigh Plummer",
+      "school": "Fort Hill",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Ava Morales",
+      "school": "Frederick",
+      "mark": "5-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Sierra Swangin",
+      "school": "James Hubert Blake",
+      "mark": "5-05"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Olivia St. Vil",
+      "school": "Maurice J. McDonough",
+      "mark": "5-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Winter Evans",
+      "school": "Harford Technical",
+      "mark": "5-02"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Girale Wilson",
+      "school": "Glen Burnie",
+      "mark": "38-08 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "ABC",
+      "name": "Donna Lake",
+      "school": "Einstein",
+      "mark": "36-01 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Beth Grupenhoff",
+      "school": "Churchill",
+      "mark": "40-09 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "ABC",
+      "name": "Donna Lake",
+      "school": "Einstein",
+      "mark": "38-08 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Jackie Leeds",
+      "school": "Randallstown",
+      "mark": "39-01 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "ABC",
+      "name": "Dawn Gayle",
+      "school": "Central-PG",
+      "mark": "39-03"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Cynthia Howard",
+      "school": "Bladensburg",
+      "mark": "39-05 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "A",
+      "name": "Stacey Browne",
+      "school": "B-CC",
+      "mark": "36-05"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "BC",
+      "name": "Barbara Davis",
+      "school": "Frederick",
+      "mark": "37-02 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Phyllis Addison",
+      "school": "Friendly",
+      "mark": "37-07"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "A",
+      "name": "Chesha Gartmon",
+      "school": "Central-PG",
+      "mark": "39-05 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "BC",
+      "name": "Christine Clifton",
+      "school": "Douglass-PG",
+      "mark": "36-03"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Phyllis Addison",
+      "school": "Friendly",
+      "mark": "41-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "A",
+      "name": "Chesha Gartmon",
+      "school": "Central-PG",
+      "mark": "38-01 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "BC",
+      "name": "Naomi Flowers",
+      "school": "Col. Richardson",
+      "mark": "33-01 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Amy Schwinn",
+      "school": "Whitman",
+      "mark": "36-02 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "A",
+      "name": "Chesha Gartmon",
+      "school": "Central-PG",
+      "mark": "37-11"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "BC",
+      "name": "Mary Rowe",
+      "school": "Clear Spring",
+      "mark": "34-10 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Gayle Greaves",
+      "school": "Oxon Hill",
+      "mark": "38-10 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "A",
+      "name": "Allison Armstrong",
+      "school": "Kennedy",
+      "mark": "34-11 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "BC",
+      "name": "Mary Rowe",
+      "school": "Clear Spring",
+      "mark": "39-05 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Dee Campbell",
+      "school": "Bladensburg",
+      "mark": "36-10 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "A",
+      "name": "Nancy Murray",
+      "school": "Andover",
+      "mark": "35-03"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "BC",
+      "name": "Tracy Lake",
+      "school": "Einstein",
+      "mark": "35-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1986,
+      "classification": "Combined",
+      "name": "Kelly Joyce",
+      "school": "McDonough",
+      "mark": "39-11 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Chrissie Buser",
+      "school": "Seneca Valley",
+      "mark": "37-01"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "A",
+      "name": "Terri Bosse",
+      "school": "Overlea",
+      "mark": "35-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "BC",
+      "name": "Janet Mayhugh",
+      "school": "Hammond",
+      "mark": "34-00 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Kathy Caldwell",
+      "school": "Old Mill",
+      "mark": "39-08"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "A",
+      "name": "Tara Newton",
+      "school": "McDonough",
+      "mark": "37-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "BC",
+      "name": "Donna Burcker",
+      "school": "Boonsboro",
+      "mark": "35-07 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Michelle Robinson",
+      "school": "Old Mill",
+      "mark": "37-07 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Chantel Tyler",
+      "school": "Linganore",
+      "mark": "34-05 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "2A-1A",
+      "name": "Christine Kellibrew",
+      "school": "Central-PG",
+      "mark": "37-07 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Kim Johnson",
+      "school": "Friendly",
+      "mark": "41-10 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Suzin Whitten",
+      "school": "Paint Branch",
+      "mark": "30-05"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "2A-1A",
+      "name": "Donna Burcker",
+      "school": "Boonsboro",
+      "mark": "36-08 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Kim Johnson",
+      "school": "Friendly",
+      "mark": "39-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Wendy Berman",
+      "school": "Thomas Johnson",
+      "mark": "35-08 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "2A-1A",
+      "name": "Sheri Huckleberry",
+      "school": "Middletown",
+      "mark": "33-07"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Mattie Cymek",
+      "school": "Chesapeake-AA",
+      "mark": "40-05 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Simona Jones",
+      "school": "Great Mills",
+      "mark": "36-06"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "2A-1A",
+      "name": "Sheri Huckleberry",
+      "school": "Middletown",
+      "mark": "35-06 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Michele Smith",
+      "school": "Old Mill",
+      "mark": "39-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Simona Jones",
+      "school": "Great Mills",
+      "mark": "38-00 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "2A-1A",
+      "name": "Sheri Huckleberry",
+      "school": "Middletown",
+      "mark": "37-04 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Cathy Porter",
+      "school": "Old Mill",
+      "mark": "33-05"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Erin Williams",
+      "school": "Linganore",
+      "mark": "34-09"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "2A-1A",
+      "name": "Nicole Walker",
+      "school": "Towson",
+      "mark": "36-08"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Lakiesha Brown",
+      "school": "High Point",
+      "mark": "36-04 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Erin Williams",
+      "school": "Linganore",
+      "mark": "35-07"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "2A-1A",
+      "name": "Jennifer Hartley",
+      "school": "Smithsburg",
+      "mark": "360-0"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Cathy Porter",
+      "school": "Old Mill",
+      "mark": "38-03 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Thera Larson",
+      "school": "Westlake",
+      "mark": "36-08"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "2A-1A",
+      "name": "Sarah Morris",
+      "school": "Smithsburg",
+      "mark": "35-04"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "4A-3A",
+      "name": "Ruth Kura",
+      "school": "Quince Orchard",
+      "mark": "39-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "3A-2A",
+      "name": "Jillian Martin",
+      "school": "Gwynn Park",
+      "mark": "35-08 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "2A-1A",
+      "name": "Katie Wise",
+      "school": "Glenelg",
+      "mark": "35-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "4A-3A",
+      "name": "Wendy Johnson",
+      "school": "Eleanor Roosevelt",
+      "mark": "39-02 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "3A-2A",
+      "name": "Meagan Verdeyen",
+      "school": "N. Hagerstown",
+      "mark": "41-03 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "2A-1A",
+      "name": "Ebony Dew",
+      "school": "Fairmont Heights",
+      "mark": "34-09 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "4A-3A",
+      "name": "Kiara Adams",
+      "school": "Westminster",
+      "mark": "36-01"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "3A-2A",
+      "name": "Meagan Verdeyen",
+      "school": "N. Hagerstown",
+      "mark": "42-02 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "2A-1A",
+      "name": "Erin Smith",
+      "school": "Hancock",
+      "mark": "32-03 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "4A-3A",
+      "name": "Kiara Adams",
+      "school": "Westminster",
+      "mark": "40-00 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "3A-2A",
+      "name": "Sabrina Boyd",
+      "school": "DuVal",
+      "mark": "37-03 3/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "2A-1A",
+      "name": "Ashley Horn",
+      "school": "Potomac",
+      "mark": "38-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "4A-3A",
+      "name": "Tierra Lucas",
+      "school": "Thomas Johnson",
+      "mark": "36-03 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "3A-2A",
+      "name": "Candace Swann",
+      "school": "Westlake",
+      "mark": "41-01 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "2A-1A",
+      "name": "Ashley Horn",
+      "school": "Potomac",
+      "mark": "39-10 1/2"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "4A-3A",
+      "name": "Amy Bilmanis",
+      "school": "Thomas Stone",
+      "mark": "36-02 1/4"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "3A-2A",
+      "name": "Merredes Rogers",
+      "school": "Milford Mill",
+      "mark": "35-00"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "2A-1A",
+      "name": "Lindsay Carlson",
+      "school": "Century",
+      "mark": "32-06 1/2"
+    }
+  ]
+}

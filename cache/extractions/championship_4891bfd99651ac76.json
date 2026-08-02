@@ -1,0 +1,2228 @@
+{
+  "meta": {
+    "extractor": "championship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      14,
+      15
+    ],
+    "extracted_at": "2026-08-02T19:27:06Z",
+    "manual_correction": "Removed 2 segregated-school tournament semifinal rows (1950 State Semis North Street, 1951 C-State Semis Lincoln) extracted from the 'SEGREGATED SCHOOL TOURNAMENTS' section. These are not MPSSAA championships (1951 Lincoln lost the C-State Finals); segregated-section handling deferred."
+  },
+  "rows": [
+    {
+      "sport": "Boys Basketball",
+      "year": 1927,
+      "classification": "Combined",
+      "champion_school": "Allegany",
+      "champion_coach": "Bill Bowers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1928,
+      "classification": "Combined",
+      "champion_school": "Catonsville",
+      "champion_coach": null,
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1929,
+      "classification": "Combined",
+      "champion_school": "Penn Avenue",
+      "champion_coach": "Bobby Cavanaugh",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1930,
+      "classification": "Combined",
+      "champion_school": "Allegany",
+      "champion_coach": "Bill Bowers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1931,
+      "classification": "Combined",
+      "champion_school": "Allegany",
+      "champion_coach": "Bill Bowers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1932,
+      "classification": "Combined",
+      "champion_school": "Allegany",
+      "champion_coach": "Bill Bowers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1933,
+      "classification": "Combined",
+      "champion_school": "Allegany",
+      "champion_coach": "Bill Bowers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1934,
+      "classification": "Combined",
+      "champion_school": "Allegany",
+      "champion_coach": "Bill Bowers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1935,
+      "classification": "Combined",
+      "champion_school": "Penn Avenue",
+      "champion_coach": "Bobby Cavanaugh",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1936,
+      "classification": "Combined",
+      "champion_school": "Allegany",
+      "champion_coach": "Bill Bowers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1937,
+      "classification": "Combined",
+      "champion_school": "Allegany",
+      "champion_coach": "Bill Bowers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1938,
+      "classification": "Combined",
+      "champion_school": "Fort Hill",
+      "champion_coach": "Bobby Cavanaugh",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1939,
+      "classification": "Combined",
+      "champion_school": "Fort Hill",
+      "champion_coach": "Bobby Cavanaugh",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1948,
+      "classification": "D",
+      "champion_school": "North Street",
+      "champion_coach": null,
+      "finalist_school": "Easton",
+      "finalist_coach": null,
+      "score": "37-20",
+      "notes": "Hagerstown"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1950,
+      "classification": "State Finals",
+      "champion_school": "North Street",
+      "champion_coach": null,
+      "finalist_school": "Carver",
+      "finalist_coach": null,
+      "score": "46-39",
+      "notes": "Hagerstown (Elkton)"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1951,
+      "classification": "C-State Finals",
+      "champion_school": "Carver",
+      "champion_coach": null,
+      "finalist_school": "Lincoln",
+      "finalist_coach": null,
+      "score": "45-44",
+      "notes": "Towson (Frederick)"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1947,
+      "classification": "A",
+      "champion_school": "Allegany",
+      "champion_coach": "Bill Bowers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "45-16"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1947,
+      "classification": "B",
+      "champion_school": "Westminster",
+      "champion_coach": "Herb Ruby",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "39-24"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1947,
+      "classification": "C",
+      "champion_school": "Greenbelt",
+      "champion_coach": null,
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "42-29"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1947,
+      "classification": "D",
+      "champion_school": "Mt. Rainier",
+      "champion_coach": null,
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "34-16"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1948,
+      "classification": "A",
+      "champion_school": "Fort Hill",
+      "champion_coach": "Bobby Cavanaugh",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "79-16"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1948,
+      "classification": "B",
+      "champion_school": "Franklin",
+      "champion_coach": "Frank Dorn",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "62-38"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1948,
+      "classification": "C",
+      "champion_school": "Bruce",
+      "champion_coach": "Jack Petry",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "57-30"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1948,
+      "classification": "D",
+      "champion_school": "Williamsport",
+      "champion_coach": "Richard Doub",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "49-33"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1949,
+      "classification": "A",
+      "champion_school": "Fort Hill",
+      "champion_coach": "Bobby Cavanaugh",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "53-36"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1949,
+      "classification": "B",
+      "champion_school": "Beall",
+      "champion_coach": "Ebbie Finzel",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "47-23"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1949,
+      "classification": "C",
+      "champion_school": "Bruce",
+      "champion_coach": "Jack Grindle",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "49-26"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1949,
+      "classification": "D",
+      "champion_school": "Damascus",
+      "champion_coach": "Harry Stipe",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "63-54"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1950,
+      "classification": "A",
+      "champion_school": "Allegany",
+      "champion_coach": "Bill Bowers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "53-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1950,
+      "classification": "B",
+      "champion_school": "Central-Lonaconing",
+      "champion_coach": "Johnny Myers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "50-37"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1950,
+      "classification": "C",
+      "champion_school": "Barton",
+      "champion_coach": "John Thomas",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "58-39"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1951,
+      "classification": "A",
+      "champion_school": "Hagerstown",
+      "champion_coach": null,
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "28-27"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1951,
+      "classification": "B",
+      "champion_school": "Aberdeen",
+      "champion_coach": null,
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "44-43"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1951,
+      "classification": "C",
+      "champion_school": "Barton",
+      "champion_coach": null,
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "52-45"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1952,
+      "classification": "A",
+      "champion_school": "Montgomery Blair",
+      "champion_coach": "David Carrasco",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "42-34"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1952,
+      "classification": "B",
+      "champion_school": "Central-Lonaconing",
+      "champion_coach": "John Meyers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "47-45"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1952,
+      "classification": "C",
+      "champion_school": "Ocean City",
+      "champion_coach": "Richard DeHart",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "70-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1953,
+      "classification": "A",
+      "champion_school": "Montgomery Blair",
+      "champion_coach": "David Carrasco",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "60-57"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1953,
+      "classification": "B",
+      "champion_school": "Bruce",
+      "champion_coach": "Augie Eichorn",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "59-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1953,
+      "classification": "C",
+      "champion_school": "Barton",
+      "champion_coach": "Paul Footen",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "55-33"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1954,
+      "classification": "A",
+      "champion_school": "Allegany",
+      "champion_coach": "Walter Bowers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "76-41"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1954,
+      "classification": "B",
+      "champion_school": "Bruce",
+      "champion_coach": "Augie Eichorn",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "50-45"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1954,
+      "classification": "C",
+      "champion_school": "Perryville",
+      "champion_coach": "Kenneth Wood",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "65-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1955,
+      "classification": "A",
+      "champion_school": "Montgomery Blair",
+      "champion_coach": "David Carrasco",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "58-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1955,
+      "classification": "B",
+      "champion_school": "Cambridge",
+      "champion_coach": "Frank LaFontaine",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "47-37"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1955,
+      "classification": "C",
+      "champion_school": "Henry E. Lackey",
+      "champion_coach": null,
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "50-46"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1956,
+      "classification": "A",
+      "champion_school": "Northwestern-PG",
+      "champion_coach": "Bill Yarnall",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "59-48"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1956,
+      "classification": "B",
+      "champion_school": "Valley",
+      "champion_coach": "John Meyers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "66-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1956,
+      "classification": "C",
+      "champion_school": "Centreville",
+      "champion_coach": "Leonard Feist",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "53-48 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1957,
+      "classification": "A",
+      "champion_school": "Frederick",
+      "champion_coach": "Homer Brooks",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "58-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1957,
+      "classification": "B",
+      "champion_school": "Valley",
+      "champion_coach": "John Meyers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-44"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1957,
+      "classification": "C",
+      "champion_school": "Crisfield",
+      "champion_coach": "Nick Scallion",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "48-37"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1958,
+      "classification": "A",
+      "champion_school": "Fort Hill",
+      "champion_coach": "John Cavanaugh",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "62-44"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1958,
+      "classification": "B",
+      "champion_school": "Chestertown",
+      "champion_coach": "Wallace Smith",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "48-45"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1958,
+      "classification": "C",
+      "champion_school": "Henry E. Lackey",
+      "champion_coach": "Frank LaFontaine",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "53-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1959,
+      "classification": "A",
+      "champion_school": "Bethesda-Chevy Chase",
+      "champion_coach": "Floris Davisson",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "75-49"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1959,
+      "classification": "B",
+      "champion_school": "Valley",
+      "champion_coach": "John Meyers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "57-43"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1959,
+      "classification": "C",
+      "champion_school": "Henry E. Lackey",
+      "champion_coach": "Frank LaFontaine",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "36-29"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1960,
+      "classification": "A",
+      "champion_school": "Bladensburg",
+      "champion_coach": "Al Kyber",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "75-54"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1960,
+      "classification": "B",
+      "champion_school": "Surrattsville",
+      "champion_coach": "Edward Andrauskas/S. D. Harpe",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "47-41"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1960,
+      "classification": "C",
+      "champion_school": "Walkersville",
+      "champion_coach": "Bill Talley",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "62-53"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1961,
+      "classification": "AA",
+      "champion_school": "Montgomery Blair",
+      "champion_coach": "Eddie Moffatt",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "75-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1961,
+      "classification": "A",
+      "champion_school": "Sparrows Point",
+      "champion_coach": "Warren Ormiston",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "68-61"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1961,
+      "classification": "B",
+      "champion_school": "Bruce",
+      "champion_coach": "Leonard Ritchie",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "59-50"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1961,
+      "classification": "C",
+      "champion_school": "Crisfield",
+      "champion_coach": "Jack Morgan",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "63-59"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1962,
+      "classification": "AA",
+      "champion_school": "Montgomery Blair",
+      "champion_coach": "Eddie Moffatt",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "59-48"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1962,
+      "classification": "A",
+      "champion_school": "Surrattsville",
+      "champion_coach": "Bob Vaughn",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "63-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1962,
+      "classification": "B",
+      "champion_school": "North Harford",
+      "champion_coach": "Robert Garbacik",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "44-33"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1962,
+      "classification": "C",
+      "champion_school": "Poolesville",
+      "champion_coach": "Robert Mowen",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "67-40"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1963,
+      "classification": "AA",
+      "champion_school": "Towson",
+      "champion_coach": "Randy Walker",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "75-60"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1963,
+      "classification": "A",
+      "champion_school": "Allegany",
+      "champion_coach": "Chester Payne",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "57-39"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1963,
+      "classification": "B",
+      "champion_school": "Douglass-PG",
+      "champion_coach": "Charles Briggs",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "68-61"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1963,
+      "classification": "C",
+      "champion_school": "Poolesville",
+      "champion_coach": "Robert Mowen",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "99-77"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1964,
+      "classification": "AA",
+      "champion_school": "Allegany",
+      "champion_coach": "Chester Payne",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "84-61"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1964,
+      "classification": "A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Ken Freeman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "72-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1964,
+      "classification": "B",
+      "champion_school": "Walkersville",
+      "champion_coach": "Bill Talley",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "83-68"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1964,
+      "classification": "C",
+      "champion_school": "Crisfield",
+      "champion_coach": "Jack Morgan",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "73-64"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1965,
+      "classification": "AA",
+      "champion_school": "Surrattsville",
+      "champion_coach": "Bob Vaughn",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-61"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1965,
+      "classification": "A",
+      "champion_school": "Arundel",
+      "champion_coach": "William Crowell",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "71-64"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1965,
+      "classification": "B",
+      "champion_school": "Somerset",
+      "champion_coach": "J. R. Robinson",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "75-73"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1965,
+      "classification": "C",
+      "champion_school": "Central Consolidated",
+      "champion_coach": "William Brown",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "55-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1966,
+      "classification": "AA",
+      "champion_school": "Richard Montgomery",
+      "champion_coach": "E. Wathall",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "48-45"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1966,
+      "classification": "A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Ken Freeman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "81-47"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1966,
+      "classification": "B",
+      "champion_school": "Douglass-PG",
+      "champion_coach": "S. A. Williams",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "63-60"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1966,
+      "classification": "C",
+      "champion_school": "Somerset",
+      "champion_coach": "J. Robinson",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "88-71"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1967,
+      "classification": "AA",
+      "champion_school": "Northwestern-PG",
+      "champion_coach": "William Longsworth",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "72-41"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1967,
+      "classification": "A",
+      "champion_school": "Frederick",
+      "champion_coach": "Homer Brooks",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "59-41"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1967,
+      "classification": "B",
+      "champion_school": "Frederick Sasscer",
+      "champion_coach": "Chester Pietras",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "94-79"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1967,
+      "classification": "C",
+      "champion_school": "Mt. Savage",
+      "champion_coach": "Robert Kirk",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "56-54"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1968,
+      "classification": "AA",
+      "champion_school": "Northwestern-PG",
+      "champion_coach": "William Longsworth",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "71-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1968,
+      "classification": "A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Ken Freeman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "67-66"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1968,
+      "classification": "B",
+      "champion_school": "Easton",
+      "champion_coach": "Gary Shaffer",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "75-62"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1968,
+      "classification": "C",
+      "champion_school": "Gwynn Park",
+      "champion_coach": "Tim Carney",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "87-72"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1969,
+      "classification": "AA",
+      "champion_school": "Montgomery Blair",
+      "champion_coach": "Edward Clements",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "56-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1969,
+      "classification": "A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Robert O'Brien",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "47-44"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1969,
+      "classification": "B",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Ken Freeman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "82-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1969,
+      "classification": "C",
+      "champion_school": "Gwynn Park",
+      "champion_coach": "Larry Gandee",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "85-59"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1970,
+      "classification": "AA",
+      "champion_school": "DuVal",
+      "champion_coach": "Bob Tucker",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "68-65 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1970,
+      "classification": "A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Ken Freeman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "91-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1970,
+      "classification": "B",
+      "champion_school": "Stephen Decatur",
+      "champion_coach": "Ward Lambert",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1970,
+      "classification": "C",
+      "champion_school": "Gwynn Park",
+      "champion_coach": "Larry Gandee",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "60-50"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1971,
+      "classification": "AA",
+      "champion_school": "Parkdale",
+      "champion_coach": "Stan Kernan",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "87-72"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1971,
+      "classification": "A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Ken Freeman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "120-69"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1971,
+      "classification": "B",
+      "champion_school": "Rockville",
+      "champion_coach": "Jim Conner",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "51-44"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1971,
+      "classification": "C",
+      "champion_school": "Pocomoke",
+      "champion_coach": "Ronnie Ross",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "80-64"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1972,
+      "classification": "AA",
+      "champion_school": "Springbrook",
+      "champion_coach": "John Barrett",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "72-59"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1972,
+      "classification": "A",
+      "champion_school": "North Hagerstown",
+      "champion_coach": "James Brown",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "79-70"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1972,
+      "classification": "B",
+      "champion_school": "Thomas Stone",
+      "champion_coach": "Dale Cornette",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "74-66"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1972,
+      "classification": "C",
+      "champion_school": "Gwynn Park",
+      "champion_coach": "Larry Gandee",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "75-74"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1973,
+      "classification": "AA",
+      "champion_school": "Bladensburg",
+      "champion_coach": "Roy Henderson",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-60"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1973,
+      "classification": "A",
+      "champion_school": "Southern-AA",
+      "champion_coach": "Tom Albright",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "30-24"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1973,
+      "classification": "B",
+      "champion_school": "Rockville",
+      "champion_coach": "Jim Conner",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "62-44"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1973,
+      "classification": "C",
+      "champion_school": "Crisfield",
+      "champion_coach": "William Cain",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "73-72"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1974,
+      "classification": "AA",
+      "champion_school": "Annapolis",
+      "champion_coach": "Al Laramore",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "69-61"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1974,
+      "classification": "A",
+      "champion_school": "South Hagerstown",
+      "champion_coach": "Nick Scallion",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "83-70"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1974,
+      "classification": "B",
+      "champion_school": "Frederick",
+      "champion_coach": "Bill Brooks",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "54-53"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1974,
+      "classification": "C",
+      "champion_school": "Gwynn Park",
+      "champion_coach": "Larry Gandee",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "70-65"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1975,
+      "classification": "AA",
+      "champion_school": "Montgomery Blair",
+      "champion_coach": "Gene Doane",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "66-61"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1975,
+      "classification": "A",
+      "champion_school": "Thomas Johnson",
+      "champion_coach": "Tom Dickman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "52-50"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1975,
+      "classification": "B",
+      "champion_school": "Edgewood",
+      "champion_coach": "Paul Mezger",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "52-50"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1975,
+      "classification": "C",
+      "champion_school": "Washington",
+      "champion_coach": "Larry Sterling",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "85-82 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1976,
+      "classification": "AA",
+      "champion_school": "Parkdale",
+      "champion_coach": "Stan Kernan",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "53-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1976,
+      "classification": "A",
+      "champion_school": "Aberdeen",
+      "champion_coach": "Terry Colaw",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "66-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1976,
+      "classification": "B",
+      "champion_school": "Gwynn Park",
+      "champion_coach": "Larry Gandee",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "79-59"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1976,
+      "classification": "C",
+      "champion_school": "Pocomoke",
+      "champion_coach": "Carey Reece",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "80-66"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1977,
+      "classification": "AA",
+      "champion_school": "Montgomery Blair",
+      "champion_coach": "Gene Doane",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "70-68 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1977,
+      "classification": "A",
+      "champion_school": "Charles W. Woodward",
+      "champion_coach": "H. Thomas George",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "60-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1977,
+      "classification": "B",
+      "champion_school": "Paint Branch",
+      "champion_coach": "Hank Galotta",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "76-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1977,
+      "classification": "C",
+      "champion_school": "Brunswick",
+      "champion_coach": "Bill Kubat",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "65-61 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1978,
+      "classification": "AA",
+      "champion_school": "Winston Churchill",
+      "champion_coach": "Les Lombardi",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "77-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1978,
+      "classification": "A",
+      "champion_school": "Thomas S. Wootton",
+      "champion_coach": "Dale Miller",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "81-67"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1978,
+      "classification": "B",
+      "champion_school": "Frederick",
+      "champion_coach": "Bill Brooks",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-62"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1978,
+      "classification": "C",
+      "champion_school": "Crisfield",
+      "champion_coach": "Bill Cain",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "65-58"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1979,
+      "classification": "AA",
+      "champion_school": "Montgomery Blair",
+      "champion_coach": "Marty Dickerson",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "55-53"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1979,
+      "classification": "A",
+      "champion_school": "Thomas S. Wootton",
+      "champion_coach": "Dale Miller",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "62-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1979,
+      "classification": "B",
+      "champion_school": "Sherwood",
+      "champion_coach": "Harry Laughner",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "79-58"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1979,
+      "classification": "C",
+      "champion_school": "Valley",
+      "champion_coach": "John Meyers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "54-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1980,
+      "classification": "AA",
+      "champion_school": "Laurel",
+      "champion_coach": "Randy Maddox",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "55-49"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1980,
+      "classification": "A",
+      "champion_school": "Gwynn Park",
+      "champion_coach": "Larry Gandee",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "75-74 (2 OT)"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1980,
+      "classification": "B",
+      "champion_school": "Cambridge/SD",
+      "champion_coach": "Ken Edgar",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "55-47"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1980,
+      "classification": "C",
+      "champion_school": "Crisfield",
+      "champion_coach": "Bill Cain",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "66-60"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1981,
+      "classification": "AA",
+      "champion_school": "Potomac",
+      "champion_coach": "Taft Hickman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "69-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1981,
+      "classification": "A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Paul Pinsky",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "73-69"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1981,
+      "classification": "B",
+      "champion_school": "Southern-AA",
+      "champion_coach": "Tom Albright",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "63-59"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1981,
+      "classification": "C",
+      "champion_school": "Valley",
+      "champion_coach": "John Meyers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "55-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1982,
+      "classification": "AA",
+      "champion_school": "High Point",
+      "champion_coach": "Al Moraz",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "54-52"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1982,
+      "classification": "A",
+      "champion_school": "Thomas Johnson",
+      "champion_coach": "Tom Dickman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "59-50"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1982,
+      "classification": "B",
+      "champion_school": "Frederick",
+      "champion_coach": "Bud Rogers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "70-58"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1982,
+      "classification": "C",
+      "champion_school": "Crisfield",
+      "champion_coach": "Bill Cain",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "68-60"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1983,
+      "classification": "AA",
+      "champion_school": "Thomas S. Wootton",
+      "champion_coach": "Stan Wolk",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "70-64"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1983,
+      "classification": "A",
+      "champion_school": "Gwynn Park",
+      "champion_coach": "Owen Johnson",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "62-48"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1983,
+      "classification": "B",
+      "champion_school": "Southern-AA",
+      "champion_coach": "Tom Albright",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "75-67 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1983,
+      "classification": "C",
+      "champion_school": "Hammond",
+      "champion_coach": "Mike Mongelli",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "73-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1984,
+      "classification": "AA",
+      "champion_school": "Bethesda-Chevy Chase",
+      "champion_coach": "Bill Wright",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "57-54"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1984,
+      "classification": "A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Walter Fulton",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "76-71 (2 OT)"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1984,
+      "classification": "B",
+      "champion_school": "Mt. Hebron",
+      "champion_coach": "Chuck Monninger",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "56-54"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1984,
+      "classification": "C",
+      "champion_school": "Walkersville",
+      "champion_coach": "Dave Miller",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "63-46"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1985,
+      "classification": "AA",
+      "champion_school": "Suitland",
+      "champion_coach": "Irvin Hay",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "73-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1985,
+      "classification": "A",
+      "champion_school": "Thomas Johnson",
+      "champion_coach": "Tom Dickman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "68-55"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1985,
+      "classification": "B",
+      "champion_school": "Forestville",
+      "champion_coach": "Aaron Holder",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "67-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1985,
+      "classification": "C",
+      "champion_school": "Wilde Lake",
+      "champion_coach": "Frank Rhodes",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "53-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1986,
+      "classification": "AA",
+      "champion_school": "Crossland",
+      "champion_coach": "Earl Hawkins",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-59"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1986,
+      "classification": "A",
+      "champion_school": "Thomas Johnson",
+      "champion_coach": "Tom Dickman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "83-62"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1986,
+      "classification": "B",
+      "champion_school": "Southern-AA",
+      "champion_coach": "Tom Albright",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1986,
+      "classification": "C",
+      "champion_school": "Walkersville",
+      "champion_coach": "David Miller",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "62-49 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1987,
+      "classification": "AA",
+      "champion_school": "Northwestern-PG",
+      "champion_coach": "Cornell Jones",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "73-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1987,
+      "classification": "A",
+      "champion_school": "Gwynn Park",
+      "champion_coach": "George Leftwich",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "59-38"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1987,
+      "classification": "B",
+      "champion_school": "Walter Johnson",
+      "champion_coach": "Hal Templeton",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "55-53"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1987,
+      "classification": "C",
+      "champion_school": "North Caroline",
+      "champion_coach": "Henry Ward",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "59-57"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1988,
+      "classification": "AA",
+      "champion_school": "Springbrook",
+      "champion_coach": "John Barrett",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "77-73"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1988,
+      "classification": "A",
+      "champion_school": "Thomas Johnson",
+      "champion_coach": "Tom Dickman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "88-69"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1988,
+      "classification": "B",
+      "champion_school": "Gwynn Park",
+      "champion_coach": "George Leftwich",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "63-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1988,
+      "classification": "C",
+      "champion_school": "Milford Mill",
+      "champion_coach": "Homer Seidel",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "65-61"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1989,
+      "classification": "AA",
+      "champion_school": "High Point",
+      "champion_coach": "Ernie Welch",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "92-84"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1989,
+      "classification": "A",
+      "champion_school": "Potomac",
+      "champion_coach": "Taft Hickman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "82-56"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1989,
+      "classification": "B",
+      "champion_school": "Cambridge/SD",
+      "champion_coach": "Grayson Hurley",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "77-73"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1989,
+      "classification": "C",
+      "champion_school": "Snow Hill",
+      "champion_coach": "Allen Miller",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "89-78"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1990,
+      "classification": "AA",
+      "champion_school": "Annapolis",
+      "champion_coach": "John Brady",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "106-102"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1990,
+      "classification": "A",
+      "champion_school": "Oakland Mills",
+      "champion_coach": "Dave Appleby",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "81-72"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1990,
+      "classification": "B",
+      "champion_school": "Central-PG",
+      "champion_coach": "Walter Fulton",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "79-77 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1990,
+      "classification": "C",
+      "champion_school": "Joppatowne",
+      "champion_coach": "Mike Bauer",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "71-47"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1991,
+      "classification": "AA",
+      "champion_school": "Parkdale",
+      "champion_coach": "Ken Freeman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "68-54"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1991,
+      "classification": "A",
+      "champion_school": "DuVal",
+      "champion_coach": "Artie Walker, Sr.",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "85-66"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1991,
+      "classification": "B",
+      "champion_school": "Forestville",
+      "champion_coach": "Gary McCorkle",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "77-59"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1991,
+      "classification": "C",
+      "champion_school": "Joppatowne",
+      "champion_coach": "Mike Bauer",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "67-47"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1992,
+      "classification": "AA",
+      "champion_school": "High Point",
+      "champion_coach": "Ernie Welch",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "65-53"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1992,
+      "classification": "A",
+      "champion_school": "Catonsville",
+      "champion_coach": "Art Gamzon",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "70-69"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1992,
+      "classification": "B",
+      "champion_school": "Forestville",
+      "champion_coach": "Gary McCorkle",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "84-53"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1992,
+      "classification": "C",
+      "champion_school": "Milford Mill",
+      "champion_coach": "Homer Seidel",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "88-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1993,
+      "classification": "AA",
+      "champion_school": "Largo",
+      "champion_coach": "Louis Wilson",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "82-70"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1993,
+      "classification": "A",
+      "champion_school": "Southern-B",
+      "champion_coach": "Meredith Smith",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "70-57"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1993,
+      "classification": "B",
+      "champion_school": "Allegany",
+      "champion_coach": "Toby Eirich",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "50-45 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1993,
+      "classification": "C",
+      "champion_school": "Dunbar",
+      "champion_coach": "Pete Pompey",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "66-59"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1994,
+      "classification": "AA",
+      "champion_school": "Southern-B",
+      "champion_coach": "Meredith Smith",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "68-58"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1994,
+      "classification": "A",
+      "champion_school": "DuVal",
+      "champion_coach": "Artie Walker, Sr.",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "60-58"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1994,
+      "classification": "B",
+      "champion_school": "Dunbar",
+      "champion_coach": "Paul Smith",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "90-62"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1994,
+      "classification": "C",
+      "champion_school": "Milford Mill",
+      "champion_coach": "Homer Seidel",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "68-54"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1995,
+      "classification": "AA",
+      "champion_school": "Lake Clifton/Eastern",
+      "champion_coach": "Charlie Moore",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "65-62"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1995,
+      "classification": "A",
+      "champion_school": "Randallstown",
+      "champion_coach": "Kim Rivers",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "58-57"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1995,
+      "classification": "B",
+      "champion_school": "Dunbar",
+      "champion_coach": "Paul Smith",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "100-58"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1995,
+      "classification": "C",
+      "champion_school": "Forestville",
+      "champion_coach": "Irvin Hay",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "67-63"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1996,
+      "classification": "AA",
+      "champion_school": "Southern-B",
+      "champion_coach": "Meredith Smith",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-41"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1996,
+      "classification": "A",
+      "champion_school": "Dunbar",
+      "champion_coach": "Paul Smith",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "66-60"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1996,
+      "classification": "B",
+      "champion_school": "Central-PG",
+      "champion_coach": "Walter Fulton",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "82-64"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1996,
+      "classification": "C",
+      "champion_school": "Cambridge/SD",
+      "champion_coach": "Grayson Hurley",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "71-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1997,
+      "classification": "AA",
+      "champion_school": "Southwestern",
+      "champion_coach": "Terry Leverett",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "81-75 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1997,
+      "classification": "A",
+      "champion_school": "Thomas Johnson",
+      "champion_coach": "Tom Dickman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "82-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1997,
+      "classification": "B",
+      "champion_school": "Surrattsville",
+      "champion_coach": "Jim Butler",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "72-45"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1997,
+      "classification": "C",
+      "champion_school": "Edgewood",
+      "champion_coach": "Bob Slagle",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "60-51"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1998,
+      "classification": "AA",
+      "champion_school": "Gaithersburg",
+      "champion_coach": "Paul Foringer",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "96-91 OT"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1998,
+      "classification": "A",
+      "champion_school": "Friendly",
+      "champion_coach": "Jim Griffin",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "55-46"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1998,
+      "classification": "B",
+      "champion_school": "Dunbar",
+      "champion_coach": "Lynn Badham",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "57-40"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1998,
+      "classification": "C",
+      "champion_school": "Forest Park",
+      "champion_coach": "Gregory Warren",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "45-43"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1999,
+      "classification": "AA",
+      "champion_school": "Lake Clifton/Eastern",
+      "champion_coach": "Herman Harried",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "50-48"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1999,
+      "classification": "A",
+      "champion_school": "Thomas Johnson",
+      "champion_coach": "Tom Dickman",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "64-62"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1999,
+      "classification": "B",
+      "champion_school": "Dunbar",
+      "champion_coach": "Lynn Badham",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "79-43"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1999,
+      "classification": "C",
+      "champion_school": "North Dorchester",
+      "champion_coach": "Vic Burns",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "73-42"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2000,
+      "classification": "AA",
+      "champion_school": "Oxon Hill",
+      "champion_coach": "Billy Lanier",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "60-42"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2000,
+      "classification": "A",
+      "champion_school": "Paint Branch",
+      "champion_coach": "Walter Hardy",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "67-50"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2000,
+      "classification": "B",
+      "champion_school": "Aberdeen",
+      "champion_coach": "Richard Hart",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "50-48"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2000,
+      "classification": "C",
+      "champion_school": "Crisfield",
+      "champion_coach": "Phillip Rayfield",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "42-37"
+    }
+  ]
+}

@@ -1,0 +1,1930 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      53
+    ],
+    "extracted_at": "2026-08-02T19:44:19Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "Larry Jewell",
+      "school": "Towson",
+      "mark": "1:16.2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Dave Watt",
+      "school": "Woodlawn",
+      "mark": "1:16.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1973,
+      "classification": "ABC",
+      "name": "Mitch Williams",
+      "school": "F.S. Key",
+      "mark": "1:17.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Mike Selmer",
+      "school": "Northwestern-PG",
+      "mark": "1:15.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1974,
+      "classification": "ABC",
+      "name": "Clarence Franklin",
+      "school": "Fairmont Heights",
+      "mark": "1:16.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Dennis Ivory",
+      "school": "Crossland",
+      "mark": "1:14.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1975,
+      "classification": "ABC",
+      "name": "Clarence Franklin",
+      "school": "Fairmont Heights",
+      "mark": "1:16.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Mike Jones",
+      "school": "Northwestern-PG",
+      "mark": "1:15.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Mike Taylor",
+      "school": "Williamsport",
+      "mark": "1:15.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Bill Martinelli",
+      "school": "Arundel",
+      "mark": "1:16.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1977,
+      "classification": "ABC",
+      "name": "Giles Hunter",
+      "school": "Paint Branch",
+      "mark": "1:12.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Keith Price",
+      "school": "Woodlawn",
+      "mark": "1:14.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1978,
+      "classification": "ABC",
+      "name": "Bob Charette",
+      "school": "Walter Johnson",
+      "mark": "1:13.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Paul Sewell",
+      "school": "Woodlawn",
+      "mark": "1:14.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1979,
+      "classification": "ABC",
+      "name": "John Wallace",
+      "school": "Fairmont Heights",
+      "mark": "1:12.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Paul Sewell",
+      "school": "Woodlawn",
+      "mark": "1:12.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1980,
+      "classification": "A",
+      "name": "John Wallace",
+      "school": "Fairmont Heights",
+      "mark": "1:13.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1980,
+      "classification": "BC",
+      "name": "Dave Greear",
+      "school": "Sparrows Point",
+      "mark": "1:10.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Brian Garland",
+      "school": "Bladensburg",
+      "mark": "1:11.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1981,
+      "classification": "A",
+      "name": "Brad Hansen",
+      "school": "Einstein",
+      "mark": "1:13.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1981,
+      "classification": "BC",
+      "name": "Chris Corveese",
+      "school": "Joppatowne",
+      "mark": "1:17.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Donald Battle",
+      "school": "Suitland",
+      "mark": "1:11.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1982,
+      "classification": "A",
+      "name": "Kelvin Jones",
+      "school": "Fairmont Heights",
+      "mark": "1:12.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1982,
+      "classification": "BC",
+      "name": "Jeff Coates",
+      "school": "Bel Air",
+      "mark": "1:15.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Chris Elliott",
+      "school": "Churchill",
+      "mark": "1:16.2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1983,
+      "classification": "A",
+      "name": "Rodney Giles",
+      "school": "Northern-C",
+      "mark": "1:12.2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "600 Yard",
+      "year": 1983,
+      "classification": "BC",
+      "name": "Jeff Coates",
+      "school": "Bel Air",
+      "mark": "1:13.2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Joe Daniel",
+      "school": "Suitland",
+      "mark": "1:59.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1984,
+      "classification": "A",
+      "name": "Carl Martin",
+      "school": "Central-PG",
+      "mark": "2:03.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1984,
+      "classification": "BC",
+      "name": "Amos Jones",
+      "school": "North Dorchester",
+      "mark": "2:03.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Byron Brown",
+      "school": "Friendly",
+      "mark": "2:04.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1985,
+      "classification": "A",
+      "name": "Kirk Young",
+      "school": "Central-PG",
+      "mark": "2:02.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1985,
+      "classification": "BC",
+      "name": "Kenny Maddox",
+      "school": "Howard",
+      "mark": "2:05.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1986,
+      "classification": "Combined",
+      "name": "Robert McKenzie",
+      "school": "Wicomico",
+      "mark": "1:59.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Warren Gilchrist",
+      "school": "Largo",
+      "mark": "1:59.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1987,
+      "classification": "A",
+      "name": "Brian Dixon",
+      "school": "Thomas Johnson",
+      "mark": "2:02.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1987,
+      "classification": "BC",
+      "name": "Robert McKenzie",
+      "school": "Wicomico",
+      "mark": "2:03.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Thomas Bowman",
+      "school": "Suitland",
+      "mark": "1:57.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1988,
+      "classification": "A",
+      "name": "Brent Squires",
+      "school": "Surrattsville",
+      "mark": "2:02.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1988,
+      "classification": "BC",
+      "name": "Steve White",
+      "school": "Central-PG",
+      "mark": "2:01.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Kenneth Carroll",
+      "school": "Suitland",
+      "mark": "2:04.05"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Mike Pack",
+      "school": "Dundalk",
+      "mark": "2:04.03"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1989,
+      "classification": "2A-1A",
+      "name": "Victor Kaitell",
+      "school": "Hammond",
+      "mark": "2:08.94"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Rodney Shields",
+      "school": "Oxon Hill",
+      "mark": "2:02.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Billy Gale",
+      "school": "Franklin",
+      "mark": "2:03.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1990,
+      "classification": "2A-1A",
+      "name": "Mike Holthaus",
+      "school": "Wilde Lake",
+      "mark": "2:00.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Tim Collins",
+      "school": "Broadneck",
+      "mark": "2:06.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Greg Yancey",
+      "school": "Howard",
+      "mark": "2:03.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1991,
+      "classification": "2A-1A",
+      "name": "Mark Coleman",
+      "school": "Glenelg",
+      "mark": "2:05.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Sam Lomax",
+      "school": "North County",
+      "mark": "2:03.23"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Kris Gawin",
+      "school": "Walter Johnson",
+      "mark": "2:07.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1992,
+      "classification": "2A-1A",
+      "name": "Bruce Lentz",
+      "school": "Hereford",
+      "mark": "2:05.00"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Marlon Harris",
+      "school": "Woodlawn",
+      "mark": "2:02.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Peter Kimball",
+      "school": "Whitman",
+      "mark": "2:03.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1993,
+      "classification": "2A-1A",
+      "name": "Bruce Lentz",
+      "school": "Hereford",
+      "mark": "2:04.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Aaron McKinney",
+      "school": "Bowie",
+      "mark": "2:02.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Peter Kimball",
+      "school": "Whitman",
+      "mark": "2:02.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1994,
+      "classification": "2A-1A",
+      "name": "Xavier Brisco",
+      "school": "Oakland Mills",
+      "mark": "2:03.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Karl Thomas",
+      "school": "E Roosevelt",
+      "mark": "2:03.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Fred Hunter",
+      "school": "Seneca Valley",
+      "mark": "2:06.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1995,
+      "classification": "2A-1A",
+      "name": "Greg Lopata",
+      "school": "Hereford",
+      "mark": "2:04.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Michael Curtis",
+      "school": "Mergenthaler",
+      "mark": "2:01.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Jason Joubert",
+      "school": "Richard Montgomery",
+      "mark": "2:03.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1996,
+      "classification": "2A-1A",
+      "name": "Corey McClinton",
+      "school": "Surrattsville",
+      "mark": "2:03.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1997,
+      "classification": "4A-3A",
+      "name": "Omar Knight",
+      "school": "Perry Hall",
+      "mark": "2:00.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1997,
+      "classification": "3A-2A",
+      "name": "Aaron Blum",
+      "school": "Wilde Lake",
+      "mark": "2:05.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1997,
+      "classification": "2A-1A",
+      "name": "Chris Selmer",
+      "school": "Glenelg",
+      "mark": "2:05.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1998,
+      "classification": "4A-3A",
+      "name": "Shawn Barnett",
+      "school": "High Point",
+      "mark": "2:04.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1998,
+      "classification": "3A-2A",
+      "name": "Erik Necciai",
+      "school": "Linganore",
+      "mark": "2:01.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1998,
+      "classification": "2A-1A",
+      "name": "Michael Zaron",
+      "school": "Atholton",
+      "mark": "2:07.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1999,
+      "classification": "4A-3A",
+      "name": "Jesse O'Connell",
+      "school": "Westminster",
+      "mark": "2:03.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1999,
+      "classification": "3A-2A",
+      "name": "Johnavin McKinley",
+      "school": "N. Hagerstown",
+      "mark": "2:03.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 1999,
+      "classification": "2A-1A",
+      "name": "Josh Zobenica",
+      "school": "Stephen Decatur",
+      "mark": "2:05.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2000,
+      "classification": "4A-3A",
+      "name": "Jesse O'Connell",
+      "school": "Westminster",
+      "mark": "1:59.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2000,
+      "classification": "3A-2A",
+      "name": "Jason Airing",
+      "school": "Linganore",
+      "mark": "2:01.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2000,
+      "classification": "2A-1A",
+      "name": "Francis Ciganek",
+      "school": "Kent County",
+      "mark": "2:04.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2001,
+      "classification": "4A-3A",
+      "name": "Timothy Riley",
+      "school": "Suitland",
+      "mark": "1:59.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2001,
+      "classification": "3A-2A",
+      "name": "Shane Stroup",
+      "school": "River Hill",
+      "mark": "1:58.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2001,
+      "classification": "2A-1A",
+      "name": "Shawn Castillo",
+      "school": "Fort Hill",
+      "mark": "2:03.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2002,
+      "classification": "4A-3A",
+      "name": "Timothy Riley",
+      "school": "Suitland",
+      "mark": "1:58.08"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2002,
+      "classification": "3A-2A",
+      "name": "C. R. Thomas",
+      "school": "Linganore",
+      "mark": "2:00.70"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2002,
+      "classification": "2A-1A",
+      "name": "Izudin Mehmedovic",
+      "school": "Oakland Mills",
+      "mark": "2:03.10"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2003,
+      "classification": "4A-3A",
+      "name": "Isaac Matthews",
+      "school": "Oxon Hill",
+      "mark": "1:58.15"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2003,
+      "classification": "3A-2A",
+      "name": "C. R. Thomas",
+      "school": "Linganore",
+      "mark": "1:57.28"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2003,
+      "classification": "2A-1A",
+      "name": "Matthew Boyd",
+      "school": "DuVal",
+      "mark": "2:04.72"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2004,
+      "classification": "4A-3A",
+      "name": "Barchieo Bowman",
+      "school": "C.M. Wright",
+      "mark": "2:00.38"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2004,
+      "classification": "3A-2A",
+      "name": "Julius Coleman",
+      "school": "Mergenthaler",
+      "mark": "2:00.79"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2004,
+      "classification": "2A-1A",
+      "name": "Drew Graybeal",
+      "school": "Glenelg",
+      "mark": "1:59.49"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2005,
+      "classification": "4A-3A",
+      "name": "Kyle Rauser",
+      "school": "Old Mill",
+      "mark": "1:59.28"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2005,
+      "classification": "3A-2A",
+      "name": "David Anderson",
+      "school": "La Plata",
+      "mark": "2:03.43"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2005,
+      "classification": "2A-1A",
+      "name": "Johnny Beltran",
+      "school": "Atholton",
+      "mark": "2:04.05"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2006,
+      "classification": "4A-3A",
+      "name": "Kelli Thibeau",
+      "school": "E. Roosevelt",
+      "mark": "1:57.18"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2006,
+      "classification": "3A-2A",
+      "name": "Andrew Revelle",
+      "school": "Atholton",
+      "mark": "2:01.22"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2006,
+      "classification": "2A-1A",
+      "name": "Christopher Anderson",
+      "school": "Forestville",
+      "mark": "2:00.52"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2007,
+      "classification": "4A-3A",
+      "name": "Jerod Franklin",
+      "school": "C.H. Flowers",
+      "mark": "1:56.94"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2007,
+      "classification": "3A-2A",
+      "name": "Chris Wagner",
+      "school": "Fallston",
+      "mark": "1:57.04"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2007,
+      "classification": "2A-1A",
+      "name": "Brent Dawson",
+      "school": "Century",
+      "mark": "2:03.12"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Chris Moen",
+      "school": "Walter Johnson",
+      "mark": "1:56.77"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Matthew Brinkley",
+      "school": "Meade",
+      "mark": "2:01.86"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Giovanni Ruemante",
+      "school": "Northwood",
+      "mark": "2:01.72"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Connor Pencek",
+      "school": "Glenelg",
+      "mark": "2:04.82"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Wayne Bartholomew",
+      "school": "Quince Orchard",
+      "mark": "1:55.98"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Ryan Chelton",
+      "school": "Hereford",
+      "mark": "2:01.67"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Chris Frock",
+      "school": "Winters Mill",
+      "mark": "2:01.46"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Connor Pencek",
+      "school": "Glenelg",
+      "mark": "2:04.74"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Garland Brooks",
+      "school": "C.H. Flowers",
+      "mark": "2:01.01"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Ryan O'Connor",
+      "school": "Northern-C",
+      "mark": "1:59.47"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Robby Creese",
+      "school": "Glenelg",
+      "mark": "1:58.11"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Mark Oliver",
+      "school": "Williamsport",
+      "mark": "2:04.04"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Edose Ibadin",
+      "school": "DuVal",
+      "mark": "1:57.57"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Scott Heydrick",
+      "school": "River Hill",
+      "mark": "2:00.93"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Robbie Creese",
+      "school": "Glenelg",
+      "mark": "1:58.93"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Daniel Trettel",
+      "school": "Brunswick",
+      "mark": "2:05.63"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Jalen Robinson-McCoy",
+      "school": "C.H. Flowers",
+      "mark": "1:57.91"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Tim Virostek",
+      "school": "Wilde Lake",
+      "mark": "2:00.37"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Scott Berryman",
+      "school": "Walkersville",
+      "mark": "2:01.22"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Kody Wilson",
+      "school": "North Carroll",
+      "mark": "2:01.59"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Sam Pershall",
+      "school": "Severna Park",
+      "mark": "1:57.98"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Tim Virostek",
+      "school": "Wilde Lake",
+      "mark": "1:57.44"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Terrell Green",
+      "school": "Douglass-PG",
+      "mark": "2:01.37"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Maury Sall",
+      "school": "Pikesville",
+      "mark": "2:03.01"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Ryan Le Tourneau",
+      "school": "E Roosevelt",
+      "mark": "1:58.79"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Christopher Heydrick",
+      "school": "River Hill",
+      "mark": "1:57.84"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Warren Staver",
+      "school": "Queen Anne's",
+      "mark": "1:56.77"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Rasheed Oridedi",
+      "school": "New Town",
+      "mark": "2:02.79"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Diego Zarate",
+      "school": "Northwest",
+      "mark": "1:58.30"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Jordan Leon",
+      "school": "Milford Mill",
+      "mark": "1:56.14"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Patrick Vandercruyssen",
+      "school": "Catoctin",
+      "mark": "1:59.88"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Anthony Glasgow",
+      "school": "Fairmont Heights",
+      "mark": "2:04.06"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Liam Walsh",
+      "school": "Quince Orchard",
+      "mark": "1:58.40"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Jason Tyler",
+      "school": "St. Charles",
+      "mark": "1:58.12"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Myles Smith",
+      "school": "La Plata",
+      "mark": "2:00.41"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Micah Daigneault",
+      "school": "Smithsburg",
+      "mark": "2:01.86"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Chase Osborne",
+      "school": "Northwest",
+      "mark": "1:57.93"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Gary Ross",
+      "school": "Oxon Hill",
+      "mark": "1:59.73"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Taylor Baranoski",
+      "school": "Eastern Technical",
+      "mark": "1:57.64"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Matt Koletsky",
+      "school": "Cambridge-SD",
+      "mark": "2:03.67"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Chase Osborne",
+      "school": "Northwest",
+      "mark": "1:58.01"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Kai Muniz",
+      "school": "Reservoir",
+      "mark": "1:59.02"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Riley McDermott",
+      "school": "Middletown",
+      "mark": "1:59.62"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Donovan McClellan",
+      "school": "Boonsboro",
+      "mark": "2:00.28"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Tanner Piotrowski",
+      "school": "Arundel",
+      "mark": "1:58.83"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Dylan McMahan",
+      "school": "Chopticon",
+      "mark": "1:59.23"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Kyle Lund",
+      "school": "Oakdale",
+      "mark": "1:56.77"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Donovan McClellan",
+      "school": "Boonsboro",
+      "mark": "2:00.11"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2020,
+      "classification": "4A",
+      "name": "Sam Keeny",
+      "school": "South River",
+      "mark": "1:59.96"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2020,
+      "classification": "3A",
+      "name": "Tamrat Snyder",
+      "school": "Damascus",
+      "mark": "1:56.40"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2020,
+      "classification": "2A",
+      "name": "Kyle Lund",
+      "school": "Oakdale",
+      "mark": "1:52.57"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2020,
+      "classification": "1A",
+      "name": "Cameron Rejonis",
+      "school": "Smithsburg",
+      "mark": "2:07.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Tyler Dailey",
+      "school": "Dulaney",
+      "mark": "2:00.43"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Korede Otusajo",
+      "school": "Milford Mill",
+      "mark": "1:59.45"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Timothy Cherry",
+      "school": "Glenelg",
+      "mark": "2:02.13"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Cameron Rejonis",
+      "school": "Smithsburg",
+      "mark": "2:06.43"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Tyler Dailey",
+      "school": "Dulaney",
+      "mark": "1:58.47"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Colin Abrams",
+      "school": "Colonel Zadok Magruder",
+      "mark": "1:56.73"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Tyler Edson",
+      "school": "Liberty",
+      "mark": "2:00.75"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Cameron Rejonis",
+      "school": "Smithsburg",
+      "mark": "2:03.29"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Tsedeke Jakovics",
+      "school": "Old Mill",
+      "mark": "1:54.82"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Weston Carr",
+      "school": "Chopticon",
+      "mark": "1:58.46"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Eric Penkala",
+      "school": "Southern-AA",
+      "mark": "1:58.44"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Justin Naylor",
+      "school": "Joppatowne",
+      "mark": "2:01.91"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Jacob Martin",
+      "school": "Paint Branch",
+      "mark": "1:56.43"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Tsedeke Jakovics",
+      "school": "Old Mill",
+      "mark": "1:56.48"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Ben Marks",
+      "school": "Queen Anne's",
+      "mark": "1:55.90"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "800 m",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Alexander Wockenfuss",
+      "school": "Harford Technincal",
+      "mark": "1:57.73"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "Gordon Oliver",
+      "school": "B-CC",
+      "mark": "2:22.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Dave Sandridge",
+      "school": "Parkdale",
+      "mark": "2:16.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1973,
+      "classification": "ABC",
+      "name": "Rick Umstead",
+      "school": "Einstein",
+      "mark": "2:30.2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Jim Peterson",
+      "school": "Wheaton",
+      "mark": "2:19.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1974,
+      "classification": "ABC",
+      "name": "Peter Kirk",
+      "school": "Kennedy",
+      "mark": "2:21.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Kent Burno",
+      "school": "Crossland",
+      "mark": "2:18.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1975,
+      "classification": "ABC",
+      "name": "Doug Stover",
+      "school": "Westminster",
+      "mark": "2:24.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Richard Brody",
+      "school": "Whitman",
+      "mark": "2:20.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Tony Ehman",
+      "school": "Surattsville",
+      "mark": "2:22.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Arthur Taylor & Scott Paul",
+      "school": "Crossland & Bel Air",
+      "mark": "2:18.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1977,
+      "classification": "ABC",
+      "name": "Karsten Schulz",
+      "school": "Westminster",
+      "mark": "2:19.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Karsten Schulz",
+      "school": "Westminster",
+      "mark": "2:19.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1978,
+      "classification": "ABC",
+      "name": "Darron Geary",
+      "school": "Lackey",
+      "mark": "2:15.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Dwain Thomas",
+      "school": "Annapolis",
+      "mark": "2:18.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1979,
+      "classification": "ABC",
+      "name": "Theo Hodge",
+      "school": "E Roosevelt",
+      "mark": "2:17.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Dave Cole",
+      "school": "Dundalk",
+      "mark": "2:17.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1980,
+      "classification": "A",
+      "name": "John Wallace",
+      "school": "Fairmont Heights",
+      "mark": "2:18.3"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1980,
+      "classification": "BC",
+      "name": "George Fitch",
+      "school": "Eastern Technical",
+      "mark": "2:07.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Chris Parker",
+      "school": "Largo",
+      "mark": "2:19.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1981,
+      "classification": "A",
+      "name": "Paul Kolb",
+      "school": "Walter Johnson",
+      "mark": "2:19.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1981,
+      "classification": "BC",
+      "name": "Victor Jerome",
+      "school": "Joppatowne",
+      "mark": "2:24.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Donald Battle",
+      "school": "Suitland",
+      "mark": "2:13.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1982,
+      "classification": "A",
+      "name": "Rodney Giles",
+      "school": "Northern-C",
+      "mark": "2:18.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1982,
+      "classification": "BC",
+      "name": "Jeff Coates",
+      "school": "Bel Air",
+      "mark": "2:20.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Eric Holland",
+      "school": "Largo",
+      "mark": "2:20.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1983,
+      "classification": "A",
+      "name": "Rodney Giles",
+      "school": "Northern-C",
+      "mark": "2:15.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1000 Yard",
+      "year": 1983,
+      "classification": "BC",
+      "name": "Jeff Coates",
+      "school": "Bel Air",
+      "mark": "2:20.9"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "Gordon Oliver",
+      "school": "B-CC",
+      "mark": "4:26.2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Dave Sandridge",
+      "school": "Parkdale",
+      "mark": "4:18.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1973,
+      "classification": "ABC",
+      "name": "Dave Hildabrand",
+      "school": "Woodward",
+      "mark": "4:35.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Jim Peterson",
+      "school": "Wheaton",
+      "mark": "4:16.0"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1974,
+      "classification": "ABC",
+      "name": "Peter Kirk",
+      "school": "Kennedy",
+      "mark": "4:27.2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Kent Burno",
+      "school": "Crossland",
+      "mark": "4:29.8"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1975,
+      "classification": "ABC",
+      "name": "Mark Pyke",
+      "school": "Friendly",
+      "mark": "4:30.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Richard Brody",
+      "school": "Whitman",
+      "mark": "4:23.2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Greg Holder",
+      "school": "Williamsport",
+      "mark": "4:29.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Arthur Taylor",
+      "school": "Crossland",
+      "mark": "4:23.2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1977,
+      "classification": "ABC",
+      "name": "Karsten Schulz",
+      "school": "Westminster",
+      "mark": "4:23.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Karsten Shulz",
+      "school": "Westminster",
+      "mark": "4:19.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1978,
+      "classification": "ABC",
+      "name": "Tom Cuff",
+      "school": "Seneca Valley",
+      "mark": "4:24.2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Chris Engle",
+      "school": "Northwood",
+      "mark": "4:18.6"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1979,
+      "classification": "ABC",
+      "name": "Tom Cuff",
+      "school": "Seneca Valley",
+      "mark": "4:19.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1980,
+      "classification": "AA",
+      "name": "David Cole",
+      "school": "Dundalk",
+      "mark": "4:17.2"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1980,
+      "classification": "A",
+      "name": "Todd Ashley",
+      "school": "South Carroll",
+      "mark": "4:24.1"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1980,
+      "classification": "BC",
+      "name": "John Wheeler",
+      "school": "Cambridge",
+      "mark": "4:29.5"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Robbie Raisbeck",
+      "school": "High Point",
+      "mark": "4:21.4"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1981,
+      "classification": "A",
+      "name": "Bern Altman",
+      "school": "Einstein",
+      "mark": "4:20.7"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "event": "1600 m",
+      "year": 1981,
+      "classification": "BC",
+      "name": "Tony Lewis",
+      "school": "Middletown",
+      "mark": "4:35.8"
+    }
+  ]
+}

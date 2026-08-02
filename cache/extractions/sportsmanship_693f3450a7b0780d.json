@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "extractor": "sportsmanship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      79
+    ],
+    "extracted_at": "2026-08-02T19:58:11Z",
+    "manual_correction": "Boys Swimming & Diving classifications (4A/3A, 3A/2A/1A) restored from prior cache extraction; fresh LLM call had returned null classification."
+  },
+  "rows": [
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2017,
+      "classification": "4A/3A",
+      "school": "Walt Whitman"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2017,
+      "classification": "3A/2A/1A",
+      "school": "Queen Anne's"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2018,
+      "classification": "4A/3A",
+      "school": "Annapolis"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2018,
+      "classification": "3A/2A/1A",
+      "school": "Elkton"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2019,
+      "classification": "4A/3A",
+      "school": "Sherwood"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2019,
+      "classification": "3A/2A/1A",
+      "school": "Patterson Mill"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2020,
+      "classification": "4A/3A",
+      "school": "Severna Park"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2020,
+      "classification": "3A/2A/1A",
+      "school": "Patterson Mill"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2022,
+      "classification": "4A/3A",
+      "school": "Walt Whitman"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2022,
+      "classification": "3A/2A/1A",
+      "school": "Patterson Mill"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2023,
+      "classification": "4A/3A",
+      "school": "Richard Montgomery"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2023,
+      "classification": "3A/2A/1A",
+      "school": "Damascus"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2024,
+      "classification": "4A/3A",
+      "school": "Quince Orchard"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2024,
+      "classification": "3A/2A/1A",
+      "school": "Kent Island"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2025,
+      "classification": "4A/3A",
+      "school": "Thomas S. Wootton"
+    },
+    {
+      "sport": "Boys Swimming & Diving",
+      "year": 2025,
+      "classification": "3A/2A/1A",
+      "school": "North Harford"
+    }
+  ]
+}

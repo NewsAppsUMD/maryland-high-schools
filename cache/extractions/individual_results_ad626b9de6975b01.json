@@ -1,0 +1,2128 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      93
+    ],
+    "extracted_at": "2026-08-02T21:08:21Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1964,
+      "classification": "AA",
+      "name": "Craig Brisbane",
+      "school": "NWD",
+      "mark": "54-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1964,
+      "classification": "A",
+      "name": "Bob Henry",
+      "school": "FTH",
+      "mark": "54-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1964,
+      "classification": "B",
+      "name": "Gordon Smith",
+      "school": "WLK",
+      "mark": "47-08 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1964,
+      "classification": "C",
+      "name": "Washington",
+      "school": "Kennard",
+      "mark": "45-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1965,
+      "classification": "AA",
+      "name": "Craig Brisbane",
+      "school": "NWD",
+      "mark": "58-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1965,
+      "classification": "A",
+      "name": "Bill Sullivan",
+      "school": "AND",
+      "mark": "57-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1965,
+      "classification": "C",
+      "name": "Ned Era",
+      "school": "NDC",
+      "mark": "49-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1966,
+      "classification": "AA",
+      "name": "Francis Foreman",
+      "school": "FRE",
+      "mark": "59-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1966,
+      "classification": "A",
+      "name": "Jim Bloom",
+      "school": "EDG",
+      "mark": "51-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1966,
+      "classification": "B",
+      "name": "Goldsboro Farrow",
+      "school": "MAL",
+      "mark": "51-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1966,
+      "classification": "C",
+      "name": "Theadore Watkins",
+      "school": "Kennard",
+      "mark": "45-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1967,
+      "classification": "AA",
+      "name": "Bill Mathis",
+      "school": "NWD",
+      "mark": "54-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1967,
+      "classification": "A",
+      "name": "Fred McMillan",
+      "school": "FTH",
+      "mark": "54-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1967,
+      "classification": "B",
+      "name": "Gary Getridge",
+      "school": "BOO",
+      "mark": "48-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1967,
+      "classification": "C",
+      "name": "Larry Clark",
+      "school": "GARN",
+      "mark": "44-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1968,
+      "classification": "AA",
+      "name": "Tom Brosius",
+      "school": "SPB",
+      "mark": "64-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1968,
+      "classification": "A",
+      "name": "John Allen",
+      "school": "FAH",
+      "mark": "55-05-3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1968,
+      "classification": "B",
+      "name": "Clark",
+      "school": "CHT",
+      "mark": "50-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1968,
+      "classification": "C",
+      "name": "Harvey Lanier",
+      "school": "FRD",
+      "mark": "41-08 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1969,
+      "classification": "AA",
+      "name": "Durwood Yates",
+      "school": "NWD",
+      "mark": "55-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1969,
+      "classification": "A",
+      "name": "Chuck Collins",
+      "school": "CEN",
+      "mark": "50-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1969,
+      "classification": "B",
+      "name": "George Neal",
+      "school": "CHO",
+      "mark": "49-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1969,
+      "classification": "C",
+      "name": "Jim Pyles",
+      "school": "MSD",
+      "mark": "44-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1970,
+      "classification": "AA",
+      "name": "Roger DeGeorges",
+      "school": "WWH",
+      "mark": "52-05 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1970,
+      "classification": "A",
+      "name": "Fred Tabron",
+      "school": "FAH",
+      "mark": "55-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1970,
+      "classification": "B",
+      "name": "George Neal",
+      "school": "CHO",
+      "mark": "49-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1970,
+      "classification": "C",
+      "name": "Doug Pearl",
+      "school": "BRN",
+      "mark": "46-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1971,
+      "classification": "AA",
+      "name": "Roger DeGeorges",
+      "school": "WWH",
+      "mark": "56-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1971,
+      "classification": "A",
+      "name": "Steve Stone",
+      "school": "NHG",
+      "mark": "54-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1971,
+      "classification": "B",
+      "name": "Ron Morley",
+      "school": "FSK",
+      "mark": "51-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1971,
+      "classification": "C",
+      "name": "Jones",
+      "school": "SDC",
+      "mark": "46-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1972,
+      "classification": "AA",
+      "name": "Paul Sauchuch",
+      "school": "SPB",
+      "mark": "54-11 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1972,
+      "classification": "A",
+      "name": "Steve Stone",
+      "school": "NHG",
+      "mark": "56-10 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1972,
+      "classification": "B",
+      "name": "Ron Morley",
+      "school": "FSK",
+      "mark": "54-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1972,
+      "classification": "C",
+      "name": "Mike Hammond",
+      "school": "WLK",
+      "mark": "45-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Stewart McCallum",
+      "school": "CRO",
+      "mark": "51-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1973,
+      "classification": "A",
+      "name": "Mike Niner",
+      "school": "WES",
+      "mark": "55-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1973,
+      "classification": "B",
+      "name": "John Britner",
+      "school": "WIL",
+      "mark": "54-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1973,
+      "classification": "C",
+      "name": "Rick Caldwell",
+      "school": "MSD",
+      "mark": "48-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Pat Kehoe",
+      "school": "PKD",
+      "mark": "54-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1974,
+      "classification": "A",
+      "name": "Tom Deem",
+      "school": "FRI",
+      "mark": "57-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1974,
+      "classification": "B",
+      "name": "Chris Gooch",
+      "school": "EAS",
+      "mark": "53-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1974,
+      "classification": "C",
+      "name": "Gordon Ausherman",
+      "school": "MID",
+      "mark": "47-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Cordell Martin",
+      "school": "ARU",
+      "mark": "53-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1975,
+      "classification": "A",
+      "name": "Irvin Pankey",
+      "school": "ABE",
+      "mark": "56-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1975,
+      "classification": "B",
+      "name": "Dave Lane",
+      "school": "HER",
+      "mark": "54-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1975,
+      "classification": "C",
+      "name": "Dan Swope",
+      "school": "CLS",
+      "mark": "46-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Charles Lester",
+      "school": "GLB",
+      "mark": "57-6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1976,
+      "classification": "A",
+      "name": "Irvin Pankey",
+      "school": "ABE",
+      "mark": "59-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1976,
+      "classification": "B",
+      "name": "Wayne Mims",
+      "school": "WLD",
+      "mark": "52-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1976,
+      "classification": "C",
+      "name": "Dan Swope",
+      "school": "CLS",
+      "mark": "48-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Brian Holloway",
+      "school": "WCH",
+      "mark": "60-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "A",
+      "name": "Larry Rosen",
+      "school": "AEI",
+      "mark": "58-05 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "B",
+      "name": "Ray Hicks",
+      "school": "CAL",
+      "mark": "57-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1977,
+      "classification": "C",
+      "name": "Jim Rodgers",
+      "school": "SMI",
+      "mark": "51-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "AA",
+      "name": "George Saah",
+      "school": "MTB",
+      "mark": "60-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "A",
+      "name": "Jim Joyce",
+      "school": "GAI",
+      "mark": "58-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "B",
+      "name": "Jim Hyson",
+      "school": "FSK",
+      "mark": "56-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1978,
+      "classification": "C",
+      "name": "Jim Rodgers",
+      "school": "SMI",
+      "mark": "50-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "AA",
+      "name": "George Saah",
+      "school": "MTB",
+      "mark": "62-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "A",
+      "name": "Jim Joyce",
+      "school": "GAI",
+      "mark": "63-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "B",
+      "name": "Don Washington",
+      "school": "CSD",
+      "mark": "49-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1979,
+      "classification": "C",
+      "name": "Jim Rodgers",
+      "school": "SMI",
+      "mark": "55-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "AA",
+      "name": "J.D. Gross",
+      "school": "NWE",
+      "mark": "57-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "A",
+      "name": "Nick Agoris",
+      "school": "SCL",
+      "mark": "52-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "B",
+      "name": "Jim Benfield",
+      "school": "ATH",
+      "mark": "48-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1980,
+      "classification": "C",
+      "name": "Joe Fowler",
+      "school": "FSK",
+      "mark": "49-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Mike Bracken",
+      "school": "ELR",
+      "mark": "53-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "A",
+      "name": "Ed Martin",
+      "school": "THS",
+      "mark": "53-11 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "B",
+      "name": "Keith Miles",
+      "school": "GLG",
+      "mark": "49-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1981,
+      "classification": "C",
+      "name": "Joe Fowler",
+      "school": "FSK",
+      "mark": "54-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Steve Olekszyk",
+      "school": "SEP",
+      "mark": "53-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "A",
+      "name": "Corwin Aker",
+      "school": "NWD",
+      "mark": "51-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "B",
+      "name": "Keith Miles",
+      "school": "GLG",
+      "mark": "48-08 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1982,
+      "classification": "C",
+      "name": "Miller",
+      "school": "HVT",
+      "mark": "46-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Steve Olekszyk",
+      "school": "SEP",
+      "mark": "53-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "A",
+      "name": "Gary Gross",
+      "school": "NOC",
+      "mark": "53-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "B",
+      "name": "Chris Miller",
+      "school": "FRE",
+      "mark": "46-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1983,
+      "classification": "C",
+      "name": "Miller",
+      "school": "HVT",
+      "mark": "52-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Joe Henicke",
+      "school": "OLM",
+      "mark": "50-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "A",
+      "name": "Chris Miller",
+      "school": "FRE",
+      "mark": "51-08 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "B",
+      "name": "Walter Solley",
+      "school": "NEA",
+      "mark": "50-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1984,
+      "classification": "C",
+      "name": "Jeff Riley",
+      "school": "HDG",
+      "mark": "52-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Tom Mattras",
+      "school": "BOW",
+      "mark": "53-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "A",
+      "name": "Mike Smith",
+      "school": "SHE",
+      "mark": "55-09 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "B",
+      "name": "Butch Balordi",
+      "school": "NCL",
+      "mark": "48-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1985,
+      "classification": "C",
+      "name": "Greg McGuirk",
+      "school": "SMI",
+      "mark": "50-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Vic Vali",
+      "school": "PEH",
+      "mark": "53-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1986,
+      "classification": "A",
+      "name": "Eric Fenwick",
+      "school": "CHO",
+      "mark": "52-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1986,
+      "classification": "B",
+      "name": "Bill Couglas",
+      "school": "WLD",
+      "mark": "53-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1986,
+      "classification": "C",
+      "name": "David Bell",
+      "school": "FSK",
+      "mark": "44-11 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Nevin Paige",
+      "school": "HPT",
+      "mark": "53-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "A",
+      "name": "Eric Fenwick",
+      "school": "CHO",
+      "mark": "53-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "B",
+      "name": "Mike Reid",
+      "school": "ALL",
+      "mark": "52-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1987,
+      "classification": "C",
+      "name": "David Bell",
+      "school": "FSK",
+      "mark": "53-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Jeff Thew",
+      "school": "MEA",
+      "mark": "52-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "A",
+      "name": "Wade Coleman",
+      "school": "QAN",
+      "mark": "50-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "B",
+      "name": "Randy Wolford",
+      "school": "ALL",
+      "mark": "47-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1988,
+      "classification": "C",
+      "name": "Jessie Ketterman",
+      "school": "CTT",
+      "mark": "50-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Demark Thompson",
+      "school": "FRI",
+      "mark": "54-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Rodney Tasker",
+      "school": "SRI",
+      "mark": "46-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Randy Wolford",
+      "school": "ALL",
+      "mark": "49-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Jesse Ketterman",
+      "school": "CTT",
+      "mark": "48-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Demark Thompson",
+      "school": "FRI",
+      "mark": "56-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Rodney Tasker",
+      "school": "SRI",
+      "mark": "50-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Ron Webb",
+      "school": "SHG",
+      "mark": "51-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Will Vogtman",
+      "school": "BEA",
+      "mark": "46-11 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Carlos Cromwell",
+      "school": "BDN",
+      "mark": "47-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Daryl Smith",
+      "school": "CMW",
+      "mark": "53-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Sfron Gordon",
+      "school": "WTM",
+      "mark": "53-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Scott Baker",
+      "school": "CTT",
+      "mark": "47-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Charles Adams",
+      "school": "PEH",
+      "mark": "50-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "3A",
+      "name": "John Seymour",
+      "school": "LIN",
+      "mark": "54-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Daryl Rider",
+      "school": "WIC",
+      "mark": "53-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Scott Baker",
+      "school": "CTT",
+      "mark": "49-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Charles Adams",
+      "school": "PEH",
+      "mark": "54-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "3A",
+      "name": "John Seymour",
+      "school": "LIN",
+      "mark": "51-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Malik Barbour",
+      "school": "CEN",
+      "mark": "48-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Jason Fazenbaker",
+      "school": "NOG",
+      "mark": "52-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Adam Connolly",
+      "school": "SPB",
+      "mark": "55-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Shawn Green",
+      "school": "LAP",
+      "mark": "47-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Bill Kidd",
+      "school": "SHG",
+      "mark": "48-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Scott Brown",
+      "school": "SMI",
+      "mark": "50-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Dave Neubeiser",
+      "school": "GAI",
+      "mark": "55-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Arto Vartanian",
+      "school": "BDN",
+      "mark": "51-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Steve Shaw",
+      "school": "NHF",
+      "mark": "51-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Jon Hall",
+      "school": "WIL",
+      "mark": "50-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Matt Pfferman",
+      "school": "SUI",
+      "mark": "52-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Andre Daniel",
+      "school": "FRE",
+      "mark": "50-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Steve Shaw",
+      "school": "NHF",
+      "mark": "55-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Dave Schofield",
+      "school": "NOG",
+      "mark": "49-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Alton McCullum",
+      "school": "FRE",
+      "mark": "50-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Lorenzo Davis",
+      "school": "GTJ",
+      "mark": "50-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Andrew Long",
+      "school": "OAK",
+      "mark": "53-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Ryan Suter",
+      "school": "BOO",
+      "mark": "52-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "4A",
+      "name": "John Rydzewski",
+      "school": "GAI",
+      "mark": "49-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Chris Parsons",
+      "school": "NOC",
+      "mark": "52-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Tom Miller",
+      "school": "URB",
+      "mark": "52-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Andrew Long",
+      "school": "OAK",
+      "mark": "54-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "4A",
+      "name": "John Rydezewski",
+      "school": "GAI",
+      "mark": "52-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Chris Parsons",
+      "school": "NOC",
+      "mark": "54-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Tom MIller",
+      "school": "URB",
+      "mark": "57-07 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Elvis Addison",
+      "school": "CHH",
+      "mark": "51-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Vikas Gowda",
+      "school": "FRE",
+      "mark": "59-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Chris Parsons",
+      "school": "NOC",
+      "mark": "56-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "2A",
+      "name": "D. J. Costello",
+      "school": "MID",
+      "mark": "54-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Ryan McDonald",
+      "school": "WIL",
+      "mark": "51-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Vikas Gowda",
+      "school": "FRE",
+      "mark": "63-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Roy Bassford",
+      "school": "THS",
+      "mark": "52-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "2A",
+      "name": "D J. Costello",
+      "school": "MID",
+      "mark": "55-08 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Adam Escamilla",
+      "school": "BRN",
+      "mark": "52-08 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Kelly Jackson",
+      "school": "MVT",
+      "mark": "57-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Kareem Reed",
+      "school": "ANN",
+      "mark": "54-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Frederick Ballenger",
+      "school": "POT",
+      "mark": "53-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Todd Bowman",
+      "school": "BOO",
+      "mark": "49-08 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Jared Wasser",
+      "school": "TSW",
+      "mark": "54-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2003,
+      "classification": "3A",
+      "name": "T J Foley",
+      "school": "PTX",
+      "mark": "57-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Glenwood Edwards",
+      "school": "LAN",
+      "mark": "58-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2003,
+      "classification": "1A",
+      "name": "James Price",
+      "school": "SHG",
+      "mark": "49-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Chris Prior",
+      "school": "WES",
+      "mark": "49-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Sean Thompson",
+      "school": "MDU",
+      "mark": "54-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Joshua Root",
+      "school": "FTH",
+      "mark": "53-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Gerome Jones",
+      "school": "SOB",
+      "mark": "53-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Matt Miller",
+      "school": "RMT",
+      "mark": "48-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Ricky Moore",
+      "school": "NOC",
+      "mark": "54-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Johnny Cooper",
+      "school": "FTH",
+      "mark": "52-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Gerome Jones",
+      "school": "DGH",
+      "mark": "58-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Marcus Green",
+      "school": "LAR",
+      "mark": "51-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Turner Coggins",
+      "school": "LAP",
+      "mark": "48-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Trey Jones",
+      "school": "SHG",
+      "mark": "50-05 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Ben Horner",
+      "school": "BRN",
+      "mark": "48-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Sean Stanley",
+      "school": "GAI",
+      "mark": "53-08 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Turner Coggins",
+      "school": "LAP",
+      "mark": "51-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Trey Jones",
+      "school": "SHG",
+      "mark": "49-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Ben Horner",
+      "school": "BRN",
+      "mark": "50-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Sean Stanley",
+      "school": "GAI",
+      "mark": "60-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Kyle Heniritz",
+      "school": "NOC",
+      "mark": "50-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Avery Graham",
+      "school": "CLK",
+      "mark": "48-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Davin Meggett",
+      "school": "SUR",
+      "mark": "48-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Sean Stanely",
+      "school": "GAI",
+      "mark": "60-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Dimitri Brandford",
+      "school": "ANN",
+      "mark": "53-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Christian Smith",
+      "school": "CLK",
+      "mark": "50-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Grant Smith",
+      "school": "BRN",
+      "mark": "53-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Jeff Butler",
+      "school": "HWI",
+      "mark": "55-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Yao Adantor",
+      "school": "RES",
+      "mark": "55-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Lucas Dayhoff",
+      "school": "WLK",
+      "mark": "51-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Grant Smith",
+      "school": "BRN",
+      "mark": "55-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Avon Davey",
+      "school": "GTJ",
+      "mark": "53-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Charlie Ryan",
+      "school": "HER",
+      "mark": "53-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Rehvon Bryan",
+      "school": "SOA",
+      "mark": "49-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2011,
+      "classification": "1A",
+      "name": "John Lowery",
+      "school": "BOO",
+      "mark": "53-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Isaac Rana",
+      "school": "OXH",
+      "mark": "51-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Avon Davey",
+      "school": "GTJ",
+      "mark": "51-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Quincey Sutton",
+      "school": "FRD",
+      "mark": "55-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2012,
+      "classification": "1A",
+      "name": "John Lowery",
+      "school": "BOO",
+      "mark": "56-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Artavius Simpson",
+      "school": "RMT",
+      "mark": "49-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Nick Moorhead",
+      "school": "NEA",
+      "mark": "53-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Godfrey Durham",
+      "school": "NEC",
+      "mark": "52-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Darryl Johnson",
+      "school": "PEV",
+      "mark": "48-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Devonte Johnson",
+      "school": "PBR",
+      "mark": "54-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Collin McKenny",
+      "school": "HUN",
+      "mark": "55-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Caleb Vrzak",
+      "school": "CNT",
+      "mark": "51-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Jhamail Johnson",
+      "school": "JOP",
+      "mark": "49-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Zach Delker",
+      "school": "CAT",
+      "mark": "53-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Nicholas Coburn",
+      "school": "CTN",
+      "mark": "49-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Tyler Cox",
+      "school": "WMI",
+      "mark": "51-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Chase Dewitt",
+      "school": "ALL",
+      "mark": "47-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Charles Monie",
+      "school": "CHF",
+      "mark": "48-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Jabari Bennett",
+      "school": "JHB",
+      "mark": "55-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Mike Nash",
+      "school": "HER",
+      "mark": "56-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Tim Friend",
+      "school": "FTH",
+      "mark": "49-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Ethan Aus",
+      "school": "LEO",
+      "mark": "49-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Jabari Bennett",
+      "school": "JHB",
+      "mark": "56-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Mike Nash",
+      "school": "HER",
+      "mark": "57-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Nick Kidwell",
+      "school": "BOO",
+      "mark": "52-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Elian Ahmar",
+      "school": "BDN",
+      "mark": "58-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Ryan Brown",
+      "school": "NOC",
+      "mark": "50-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Jamion Franklin",
+      "school": "NCN",
+      "mark": "55-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Nick Kidwell",
+      "school": "BOO",
+      "mark": "54-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Preston Duffield",
+      "school": "MEA",
+      "mark": "55-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Brian Duperval",
+      "school": "JMB",
+      "mark": "53-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Waman Kendron",
+      "school": "NCN",
+      "mark": "49-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Henry Kanu",
+      "school": "Largo",
+      "mark": "52-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Aaron Jones",
+      "school": "WAJ",
+      "mark": "50-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Liam Lovering",
+      "school": "CTN",
+      "mark": "51-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Benjamin Treat",
+      "school": "LIB",
+      "mark": "51-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Bryce Purnell",
+      "school": "SNH",
+      "mark": "54-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Chimdy Onoh",
+      "school": "DUN",
+      "mark": "55-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Adam Szatanek",
+      "school": "HUN",
+      "mark": "54-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Darius Grimes",
+      "school": "FRD",
+      "mark": "52-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Bryce Purnell",
+      "school": "SNH",
+      "mark": "47-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Chimdy Onoh",
+      "school": "DUN",
+      "mark": "57-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Grant Lohr",
+      "school": "OAD",
+      "mark": "53-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Jordan Dickerson",
+      "school": "WIC",
+      "mark": "53-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Sydney Phillips",
+      "school": "PEV",
+      "mark": "49-02 1/4"
+    }
+  ]
+}

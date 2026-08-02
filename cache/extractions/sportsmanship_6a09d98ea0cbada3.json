@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "extractor": "sportsmanship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      100
+    ],
+    "extracted_at": "2026-08-02T05:32:09Z"
+  },
+  "rows": [
+    {
+      "sport": "Wrestling",
+      "year": 2016,
+      "classification": null,
+      "school": "Oakland Mills"
+    },
+    {
+      "sport": "Wrestling",
+      "year": 2017,
+      "classification": null,
+      "school": "Leonardtown"
+    },
+    {
+      "sport": "Wrestling",
+      "year": 2018,
+      "classification": null,
+      "school": "North Caroline"
+    },
+    {
+      "sport": "Wrestling",
+      "year": 2019,
+      "classification": null,
+      "school": "Bel Air"
+    },
+    {
+      "sport": "Wrestling",
+      "year": 2020,
+      "classification": null,
+      "school": "Manchester Valley"
+    },
+    {
+      "sport": "Wrestling",
+      "year": 2022,
+      "classification": null,
+      "school": "Northern-Garrett"
+    },
+    {
+      "sport": "Wrestling",
+      "year": 2023,
+      "classification": null,
+      "school": "Dr. Henry A. Wise, Jr."
+    },
+    {
+      "sport": "Wrestling",
+      "year": 2024,
+      "classification": null,
+      "school": "Middletown"
+    },
+    {
+      "sport": "Wrestling",
+      "year": 2025,
+      "classification": null,
+      "school": "Linganore"
+    }
+  ]
+}

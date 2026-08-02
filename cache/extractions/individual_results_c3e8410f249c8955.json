@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      61
+    ],
+    "extracted_at": "2026-08-02T20:42:57Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Lacey Fowler",
+      "school": "SRI",
+      "mark": "115-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Sarah Meredith",
+      "school": "FRE",
+      "mark": "119-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Sytieia Brown",
+      "school": "ELK",
+      "mark": "119-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Ryann Bennett",
+      "school": "FTH",
+      "mark": "137-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Samantha Heyison",
+      "school": "URB",
+      "mark": "123-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Gabby Cope",
+      "school": "NOC",
+      "mark": "121-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Emma Vanden Berg",
+      "school": "LAP",
+      "mark": "109-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Carly Bennett",
+      "school": "FTH",
+      "mark": "114-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Samantha Heyison",
+      "school": "URB",
+      "mark": "121-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Gabby Cope",
+      "school": "NOC",
+      "mark": "139-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Caroline Mercer",
+      "school": "RIS",
+      "mark": "120-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Adeline Kraics",
+      "school": "FSK",
+      "mark": "119-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Tatiyann Black",
+      "school": "ELR",
+      "mark": "125-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Emma Reaves",
+      "school": "WES",
+      "mark": "153-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Caroline Mercer",
+      "school": "RIS",
+      "mark": "133-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Kassidy Young",
+      "school": "CSD",
+      "mark": "124-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Julie Patchou",
+      "school": "URB",
+      "mark": "128-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Jecolia Traore",
+      "school": "JMB",
+      "mark": "120-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Haille Dry",
+      "school": "NEC",
+      "mark": "126-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Avery Miller",
+      "school": "ALL",
+      "mark": "115-04"
+    }
+  ]
+}

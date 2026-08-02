@@ -1,0 +1,1291 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      56
+    ],
+    "extracted_at": "2026-08-02T20:38:34Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1972,
+      "classification": "Comb",
+      "name": "P. Kennedy",
+      "school": "TOW",
+      "mark": "16-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1973,
+      "classification": "Comb",
+      "name": "Denise Washington",
+      "school": "DUV",
+      "mark": "17-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1974,
+      "classification": "Comb",
+      "name": "Denise Washington",
+      "school": "DUV",
+      "mark": "18-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1975,
+      "classification": "Comb",
+      "name": "Denise Washington",
+      "school": "DUV",
+      "mark": "19-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Laura Lemire",
+      "school": "TOW",
+      "mark": "18-00 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Janice Evans",
+      "school": "JMB",
+      "mark": "17-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Laura Lemire",
+      "school": "TOW",
+      "mark": "18-04 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1977,
+      "classification": "A",
+      "name": "Cathy Barber",
+      "school": "FAH",
+      "mark": "17-05 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1977,
+      "classification": "B",
+      "name": "Juanita Alston",
+      "school": "CEN",
+      "mark": "18-02 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1977,
+      "classification": "C",
+      "name": "Kim Brooks",
+      "school": "CLR",
+      "mark": "16-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Krista McFarren",
+      "school": "WCH",
+      "mark": "17-03 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1978,
+      "classification": "A",
+      "name": "Cathy Barber",
+      "school": "FAH",
+      "mark": "19-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1978,
+      "classification": "B",
+      "name": "Korby Kesserling",
+      "school": "WIL",
+      "mark": "17-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1978,
+      "classification": "C",
+      "name": "Kim Brooks",
+      "school": "CLR",
+      "mark": "19-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Krista McFarren",
+      "school": "WCH",
+      "mark": "18-10 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1979,
+      "classification": "A",
+      "name": "Juanita Alston",
+      "school": "CEN",
+      "mark": "19-01 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1979,
+      "classification": "B",
+      "name": "Rachel Clary",
+      "school": "SPP",
+      "mark": "18-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1979,
+      "classification": "C",
+      "name": "Rhonda Holland",
+      "school": "BRN",
+      "mark": "15-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Myrtle Chester",
+      "school": "LAU",
+      "mark": "17-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1980,
+      "classification": "A",
+      "name": "Andrea Clark",
+      "school": "CEN",
+      "mark": "16-06 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1980,
+      "classification": "B",
+      "name": "Darlene Sheff",
+      "school": "LAC",
+      "mark": "17-06 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1980,
+      "classification": "C",
+      "name": "Darlene Seth",
+      "school": "NCL",
+      "mark": "17-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Bernadine Bocus",
+      "school": "WCH",
+      "mark": "18-03 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1981,
+      "classification": "A",
+      "name": "Paulette Turner",
+      "school": "CEN",
+      "mark": "17-03 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1981,
+      "classification": "B",
+      "name": "Darlene Sheff",
+      "school": "LAC",
+      "mark": "18-06 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1981,
+      "classification": "C",
+      "name": "Twanda Dorsey",
+      "school": "LIN",
+      "mark": "17-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Bernadine Bocus",
+      "school": "WCH",
+      "mark": "18-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1982,
+      "classification": "A",
+      "name": "Paulette Turner",
+      "school": "CEN",
+      "mark": "17-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1982,
+      "classification": "B",
+      "name": "Odessa Barnes",
+      "school": "GTM",
+      "mark": "18-04 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1982,
+      "classification": "C",
+      "name": "Ruth McGraw",
+      "school": "SMI",
+      "mark": "17-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Sharnet Rowlan",
+      "school": "DUL",
+      "mark": "18-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1983,
+      "classification": "A",
+      "name": "Barbara Williams",
+      "school": "FTH",
+      "mark": "16-10 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1983,
+      "classification": "B",
+      "name": "Alece Shockley",
+      "school": "PKS",
+      "mark": "17-00 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1983,
+      "classification": "C",
+      "name": "Heather Smith",
+      "school": "NDC",
+      "mark": "17-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Lisa Harrison",
+      "school": "LAR",
+      "mark": "17-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1984,
+      "classification": "A",
+      "name": "Barbara Williams",
+      "school": "FTH",
+      "mark": "17-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1984,
+      "classification": "B",
+      "name": "Alece Shockley",
+      "school": "PKS",
+      "mark": "17-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1984,
+      "classification": "C",
+      "name": "Kim Howard",
+      "school": "FSK",
+      "mark": "17-09 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Jennifer Dunn",
+      "school": "SEP",
+      "mark": "16-10 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1985,
+      "classification": "A",
+      "name": "Barbara Williams",
+      "school": "FTH",
+      "mark": "17-07 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1985,
+      "classification": "B",
+      "name": "Wanda Evans",
+      "school": "CZM",
+      "mark": "18-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1985,
+      "classification": "C",
+      "name": "Kim Howard",
+      "school": "FSK",
+      "mark": "17-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Patricia Rice",
+      "school": "WCH",
+      "mark": "17-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1986,
+      "classification": "A",
+      "name": "Wanda Evans",
+      "school": "CZM",
+      "mark": "18-04 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1986,
+      "classification": "B",
+      "name": "Val Manning",
+      "school": "HAM",
+      "mark": "17-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1986,
+      "classification": "C",
+      "name": "Amy Stevens",
+      "school": "FSK",
+      "mark": "16-05 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Krista Hicks",
+      "school": "ROC",
+      "mark": "16-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1987,
+      "classification": "A",
+      "name": "Wanda Evans",
+      "school": "CZM",
+      "mark": "19-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1987,
+      "classification": "B",
+      "name": "Sheree Beardon",
+      "school": "CEN",
+      "mark": "17-06 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1987,
+      "classification": "C",
+      "name": "Tia Jackson",
+      "school": "MAR",
+      "mark": "16-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Theresa Tyler",
+      "school": "OLM",
+      "mark": "16-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1988,
+      "classification": "A",
+      "name": "Jill Mandura",
+      "school": "FTH",
+      "mark": "17-05 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1988,
+      "classification": "B",
+      "name": "Tanya Hughes",
+      "school": "GTM",
+      "mark": "17-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1988,
+      "classification": "C",
+      "name": "Faith Bishop",
+      "school": "HAN",
+      "mark": "17-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Tyra Moore",
+      "school": "SPB",
+      "mark": "17-10 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Rena Mason",
+      "school": "LEO",
+      "mark": "17-01 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Tanya Hughes",
+      "school": "GTM",
+      "mark": "18-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Tia Jackson",
+      "school": "MAR",
+      "mark": "17-03 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Tyra Moore",
+      "school": "LAR",
+      "mark": "18-05 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Tanya Hughes",
+      "school": "GTM",
+      "mark": "18-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Heather Hunter",
+      "school": "FTH",
+      "mark": "16-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Tia Jackson",
+      "school": "MAR",
+      "mark": "17-07 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Tyra Moore",
+      "school": "LAR",
+      "mark": "19-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Tanya Green",
+      "school": "PKV",
+      "mark": "17-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Katie Hemingway",
+      "school": "WLK",
+      "mark": "16-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Thori Staples",
+      "school": "JOP",
+      "mark": "17-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Tyra Moore",
+      "school": "LAR",
+      "mark": "18-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Lisa Montgomery",
+      "school": "LAC",
+      "mark": "17-09 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Francine Hewes",
+      "school": "NCL",
+      "mark": "16-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Thori Staples",
+      "school": "JOP",
+      "mark": "17-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Raina Domneys",
+      "school": "OLM",
+      "mark": "17-02 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Lisa Montgomery",
+      "school": "LAC",
+      "mark": "17-03 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Tish Campbell",
+      "school": "NHG",
+      "mark": "16-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Zoe Hunt",
+      "school": "SMI",
+      "mark": "17-11 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Val Williams",
+      "school": "FRE",
+      "mark": "18-07 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Laura Borland",
+      "school": "LEO",
+      "mark": "17-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Lisa Montgomery",
+      "school": "LAC",
+      "mark": "17-01 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Chandra Booker",
+      "school": "PEV",
+      "mark": "17-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Val Williams",
+      "school": "FRE",
+      "mark": "18-08 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Mona Jackson",
+      "school": "HOW",
+      "mark": "18-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Chandra Curtis",
+      "school": "CHO",
+      "mark": "16-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Kerry Wilson",
+      "school": "NEC",
+      "mark": "16-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Alisha McClinton",
+      "school": "PEH",
+      "mark": "19-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Valerie Williams",
+      "school": "FRE",
+      "mark": "19-10 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Kerry Wilson",
+      "school": "NEC",
+      "mark": "17-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Kathy Messner",
+      "school": "CTT",
+      "mark": "18-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Ola Sesay",
+      "school": "ELR",
+      "mark": "19-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Chandra Curtis",
+      "school": "CHO",
+      "mark": "17-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Cassi Niemann",
+      "school": "CEN",
+      "mark": "16-00 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Kathy Messner",
+      "school": "CTT",
+      "mark": "17-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Toni Jefferson",
+      "school": "WEB",
+      "mark": "19-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Pun Chittchang",
+      "school": "SCL",
+      "mark": "18-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Rolanda Howard",
+      "school": "LGR",
+      "mark": "16-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Toni Sullivan",
+      "school": "SOG",
+      "mark": "16-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Jessica Defreitas",
+      "school": "ELR",
+      "mark": "19-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Pun Chittchang",
+      "school": "SCL",
+      "mark": "20-01 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Rolanda Howard",
+      "school": "LGR",
+      "mark": "17-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Katie Hoffman",
+      "school": "SMI",
+      "mark": "17-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Kalifa Pilgrim",
+      "school": "ELR",
+      "mark": "16-09 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Rolanda Howard",
+      "school": "LGR",
+      "mark": "18-06 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Allyson Hardy",
+      "school": "NWM",
+      "mark": "17-07 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Katie Hoffman",
+      "school": "SMI",
+      "mark": "17-04 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Daniell Robbins",
+      "school": "FRE",
+      "mark": "17-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Rolanda Howard",
+      "school": "LGR",
+      "mark": "18-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Ashley Wall",
+      "school": "ATH",
+      "mark": "17-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Ashley Reeder",
+      "school": "BOO",
+      "mark": "16-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2002,
+      "classification": "4A",
+      "name": "India Ransom",
+      "school": "LAR",
+      "mark": "18-06 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Aajah Showell",
+      "school": "MDU",
+      "mark": "17-06 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Lauren Dunn",
+      "school": "EDG",
+      "mark": "16-11 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Lissy Dean",
+      "school": "BHM",
+      "mark": "17-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Latosha Wallace",
+      "school": "WEB",
+      "mark": "17-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Toni Aluko",
+      "school": "PBR",
+      "mark": "18-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Ashlynne Jones",
+      "school": "SOA",
+      "mark": "16-06 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Sarah Harris",
+      "school": "BOO",
+      "mark": "16-09 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Michaylin Golladay",
+      "school": "LAR",
+      "mark": "17-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Tiffani Long",
+      "school": "LGR",
+      "mark": "18-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Teresa Vannone",
+      "school": "CNT",
+      "mark": "16-11 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Ashley Loh",
+      "school": "POO",
+      "mark": "16-08 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Michaylin Golladay",
+      "school": "LAR",
+      "mark": "17-06 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Tiffani Long",
+      "school": "LGR",
+      "mark": "19-00-wind"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Amanda Spickler",
+      "school": "MID",
+      "mark": "16-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Becca Tucker",
+      "school": "BRN",
+      "mark": "16-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Michaylin Golladay",
+      "school": "LAR",
+      "mark": "18-08 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Danielle Brock",
+      "school": "WLA",
+      "mark": "18-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Michelle Newman",
+      "school": "EVT",
+      "mark": "16-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Britney Davidson",
+      "school": "DGH",
+      "mark": "16-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Uju Ofoche",
+      "school": "PKV",
+      "mark": "18-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Kristen Haley",
+      "school": "MTH",
+      "mark": "18-03 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Michelle Newman",
+      "school": "EVT",
+      "mark": "18-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Hayley Harnett",
+      "school": "BOO",
+      "mark": "17-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Uju Ofoche",
+      "school": "PKV",
+      "mark": "18-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Christina Manning",
+      "school": "WLA",
+      "mark": "19-01 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Sarah Wrieden",
+      "school": "MID",
+      "mark": "17-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Cayla Broadwater",
+      "school": "WIL",
+      "mark": "17-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Cenarda Jackson",
+      "school": "GTJ",
+      "mark": "17-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Vernetta Biggs",
+      "school": "FRI",
+      "mark": "17-01 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Bailee Freeman",
+      "school": "CLK",
+      "mark": "17-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Cayla Broadwater",
+      "school": "WIL",
+      "mark": "17-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Lindsay Pinckney",
+      "school": "SPB",
+      "mark": "17-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Thea Lafond",
+      "school": "JFK",
+      "mark": "17-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Kristin Fawole",
+      "school": "LGR",
+      "mark": "1608"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Long Jump",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Desirae Diamond",
+      "school": "HVT",
+      "mark": "16-03 1/2"
+    }
+  ]
+}

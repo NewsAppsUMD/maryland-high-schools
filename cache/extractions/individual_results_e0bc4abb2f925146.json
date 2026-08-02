@@ -1,0 +1,2056 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      49
+    ],
+    "extracted_at": "2026-08-02T20:30:29Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Chika Chuku",
+      "school": "LAR",
+      "mark": "2:14.60"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Sally Glynn",
+      "school": "WAJ",
+      "mark": "2:14.74"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Kristen Ritter",
+      "school": "LIN",
+      "mark": "2:16.00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Al Jones",
+      "school": "FSK",
+      "mark": "2:22.50"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Chika Chuku",
+      "school": "LAR",
+      "mark": "2:16.11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Mary Beth Rollins",
+      "school": "CMW",
+      "mark": "2:21.46"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Coleen Parker",
+      "school": "HOW",
+      "mark": "2:20.65"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Thema Napier",
+      "school": "LGR",
+      "mark": "2:22.79"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Chika Chuku",
+      "school": "LAR",
+      "mark": "2:17.39"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Joy Parker",
+      "school": "FRD",
+      "mark": "2:18.39"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Thema Napier",
+      "school": "LGR",
+      "mark": "2:16.03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Kate Gall",
+      "school": "ALL",
+      "mark": "2:18.92"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Ohita Asein",
+      "school": "LAR",
+      "mark": "2:18.74"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Brynn Dutcher",
+      "school": "WAJ",
+      "mark": "2:17.62"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Randy Buzzell",
+      "school": "MID",
+      "mark": "2:21.97"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Korin MIller",
+      "school": "RIS",
+      "mark": "2:21.10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Crystal Anyanwu",
+      "school": "HPT",
+      "mark": "2:17.15"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Erin Gaeng",
+      "school": "GTJ",
+      "mark": "2:17.70"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Randy Buzell",
+      "school": "MID",
+      "mark": "2:19.40"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Catherine Olsen",
+      "school": "CTT",
+      "mark": "2:22.44"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Crystal Anyanwu",
+      "school": "HPT",
+      "mark": "2:17.12"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Jamie Smith",
+      "school": "PBR",
+      "mark": "2:19.02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Randy Buzzell",
+      "school": "MID",
+      "mark": "2:19.17"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Catherine Olsen",
+      "school": "CTT",
+      "mark": "2:24.14"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Krystal Anywanu",
+      "school": "ELR",
+      "mark": "2:14.21"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Jamie Smith",
+      "school": "PBR",
+      "mark": "2:17.00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Mary Rollyson",
+      "school": "GLG",
+      "mark": "2:18.17"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Erin Moore",
+      "school": "POO",
+      "mark": "2:21.33"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Krystal Anyanwu",
+      "school": "ELR",
+      "mark": "2:14.77"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Leigh Rivlin",
+      "school": "WAJ",
+      "mark": "2:18.03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Katie Pencek",
+      "school": "GLG",
+      "mark": "2:19.86"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Danielle Keely",
+      "school": "NEC",
+      "mark": "2:19.10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Lauren Centrowitz",
+      "school": "BDN",
+      "mark": "2:13.73"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Quantikia Stepney",
+      "school": "MVT",
+      "mark": "2:16.68"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Katherine Nicholson",
+      "school": "ATH",
+      "mark": "2:16.73"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Hayley Harnett",
+      "school": "BOO",
+      "mark": "2:24.81"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Tameka Jameson",
+      "school": "ELR",
+      "mark": "2:15.88"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Starema Flood",
+      "school": "FRD",
+      "mark": "2:16.61"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Alison Smith",
+      "school": "ATH",
+      "mark": "2:15.58"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Hayley Harnett",
+      "school": "BOO",
+      "mark": "2:22.17"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Tasha Stanley",
+      "school": "ELR",
+      "mark": "2:15.21"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Liz McCarter",
+      "school": "MTH",
+      "mark": "2:16.17"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Alison Smith",
+      "school": "ATH",
+      "mark": "2:15.96"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Meagan Smithyman",
+      "school": "BRN",
+      "mark": "2:24.32"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Leslie Morrison",
+      "school": "WWH",
+      "mark": "2:14.02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Liz McCarter",
+      "school": "MTH",
+      "mark": "2:14.71"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Alison Smith",
+      "school": "ATH",
+      "mark": "2:16.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Hayley Harnett",
+      "school": "BOO",
+      "mark": "2:19.57"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Tasha Stanley",
+      "school": "ELR",
+      "mark": "2:11.31"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Nicole Franklin",
+      "school": "LAR",
+      "mark": "2:17.18"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Brittney Caudle",
+      "school": "MID",
+      "mark": "2:18.48"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Amanda Twigg",
+      "school": "FTH",
+      "mark": "2:19.63"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Amirah Johnson",
+      "school": "ELR",
+      "mark": "2:17.21"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Brinae Robinson",
+      "school": "WEB",
+      "mark": "2:17.61"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Maura Linde",
+      "school": "CNT",
+      "mark": "2:17.35"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Morgan Keplinger",
+      "school": "WIL",
+      "mark": "2:17.19"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Deseree King",
+      "school": "OXH",
+      "mark": "2:13.54"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Brinae Robinson",
+      "school": "WEB",
+      "mark": "2:20.00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Samantha McElroy",
+      "school": "LIB",
+      "mark": "2:18.51"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Jennifer Cleary",
+      "school": "BHM",
+      "mark": "2:19.19"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Britt Eckerstrom",
+      "school": "NWM",
+      "mark": "2:12.32"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Michaela Wilkins",
+      "school": "MTH",
+      "mark": "2:16.05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Samantha McElroy",
+      "school": "LIB",
+      "mark": "2:18.88"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Savannah Steinly",
+      "school": "CTT",
+      "mark": "2:18.63"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Brittney Wade",
+      "school": "BCC",
+      "mark": "2:13.88"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Michaela Wilkins",
+      "school": "MTH",
+      "mark": "2:12.02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Caitlin Boyles",
+      "school": "LAR",
+      "mark": "2:21.32"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Rebeka Holt",
+      "school": "WTE",
+      "mark": "2:15.62"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Clare Severe",
+      "school": "WWH",
+      "mark": "2:17.27"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Rachel Halmon",
+      "school": "THS",
+      "mark": "2:19.88"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Zoe Wolfe",
+      "school": "MID",
+      "mark": "2:19.08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Rebeka Holt",
+      "school": "WTE",
+      "mark": "2:19.35"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Clare Severe",
+      "school": "WWH",
+      "mark": "2:14.54"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Jennifer Bleakney",
+      "school": "ATH",
+      "mark": "2:18.37"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Rebeka Holt",
+      "school": "WTE",
+      "mark": "2:13.45"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Molly Walsh",
+      "school": "NCL",
+      "mark": "2:23.07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Obichi Onwukwe",
+      "school": "PKD",
+      "mark": "2:16.67"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Jennifer Bleakney",
+      "school": "ATH",
+      "mark": "2:14.21"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Megan Grams",
+      "school": "BOO",
+      "mark": "2:15.03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Katie Leisher",
+      "school": "MVM",
+      "mark": "2:19.27"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Kyra Badrian",
+      "school": "PBR",
+      "mark": "2:17.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Nyjari McNeil",
+      "school": "FRA",
+      "mark": "2:14.45"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Mone't Peterson",
+      "school": "THS",
+      "mark": "2:17.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Haley Wright",
+      "school": "BOO",
+      "mark": "2:21.46"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Morgan Casey",
+      "school": "MTB",
+      "mark": "2:16.22"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Nyjari McNeil",
+      "school": "FRA",
+      "mark": "2:11.27"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Hayley Jackson",
+      "school": "PTX",
+      "mark": "2:12.81"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Kate Eckart",
+      "school": "PPM",
+      "mark": "2:21.82"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Abigail Green",
+      "school": "WAJ",
+      "mark": "2:12.64"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Nyjari McNeil",
+      "school": "FRA",
+      "mark": "2:16.00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Allison Zolkiewicz",
+      "school": "SCL",
+      "mark": "2:15.21"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Marissa Lapinsky",
+      "school": "PPM",
+      "mark": "2:21.69"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Ella Auderset",
+      "school": "URB",
+      "mark": "2:18.17"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Satori Valentine",
+      "school": "MTH",
+      "mark": "2:15.82"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Kyra Schulties",
+      "school": "KTI",
+      "mark": "2:17.03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Brooke Walz",
+      "school": "BHM",
+      "mark": "2:22.11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Jahmei Wyatt",
+      "school": "CLK",
+      "mark": "2:16.19"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Mikayla Moxley",
+      "school": "LIN",
+      "mark": "2:16.25"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Nia Warren",
+      "school": "DGH",
+      "mark": "2:16.85"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Jenna Zentz",
+      "school": "CTT",
+      "mark": "2:25.97"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Ella Zeigler",
+      "school": "JHB",
+      "mark": "2:15.42"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Nimrit Ahuja",
+      "school": "HOW",
+      "mark": "2:16.14"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Piper Lentz",
+      "school": "HER",
+      "mark": "2:19.60"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Avery Miller",
+      "school": "ALL",
+      "mark": "2:17.00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Grace Finnegan",
+      "school": "RMT",
+      "mark": "2:17.29"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Marella Virmani",
+      "school": "RVH",
+      "mark": "2:14.24"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Reese Delp",
+      "school": "KTI",
+      "mark": "2:13.84"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Mary Delaney",
+      "school": "MTR",
+      "mark": "2:14.25"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Megan Raue",
+      "school": "WAJ",
+      "mark": "2:16.51"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Elizabeth Szybalski",
+      "school": "MVM",
+      "mark": "2:12.49"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Cailyn Stine",
+      "school": "CNT",
+      "mark": "2:14.49"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Laila Sollas",
+      "school": "PPM",
+      "mark": "2:18.19"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Megan Raue",
+      "school": "WAJ",
+      "mark": "2:17.45"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Taylor Riley",
+      "school": "OXH",
+      "mark": "2:12.11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Rebecca Burgee",
+      "school": "SOA",
+      "mark": "2:19.17"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "800 Meters",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Avery Miller",
+      "school": "ALL",
+      "mark": "2:14.03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Wheelchair 800 Meters",
+      "year": 2008,
+      "classification": "Comb",
+      "name": "Tatyana McFadden",
+      "school": "ATH",
+      "mark": "1:59.77"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Wheelchair 800 Meters",
+      "year": 2011,
+      "classification": "Comb",
+      "name": "Hannah McFadden",
+      "school": "ATH",
+      "mark": "2:20.74"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1973,
+      "classification": "Comb",
+      "name": "Debbie Scott",
+      "school": "DUV",
+      "mark": "5:35.8y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1974,
+      "classification": "Comb",
+      "name": "Dottie Rowe",
+      "school": "GAI",
+      "mark": "5:26.1y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1975,
+      "classification": "Comb",
+      "name": "Gale Morse",
+      "school": "BCC",
+      "mark": "5:27.9y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Sharon Stuart",
+      "school": "PKD",
+      "mark": "5:17.4y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Ruth Drengwitz",
+      "school": "NWD",
+      "mark": "5:09.7y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Debbie Pavik",
+      "school": "DUL",
+      "mark": "5:10.8y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1977,
+      "classification": "A",
+      "name": "Ruth Drengwitz",
+      "school": "NWD",
+      "mark": "5:16.6y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1977,
+      "classification": "B",
+      "name": "Doreen Maraffa",
+      "school": "SHE",
+      "mark": "5:29.5y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1977,
+      "classification": "C",
+      "name": "Jeanette Simms",
+      "school": "SMI",
+      "mark": "5:34.1y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Aileen O'Connor",
+      "school": "HPT",
+      "mark": "4:56.1y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1978,
+      "classification": "A",
+      "name": "Carolyn Hughes",
+      "school": "BCC",
+      "mark": "5:05.5y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1978,
+      "classification": "B",
+      "name": "Mendel Mathews",
+      "school": "OAK",
+      "mark": "5:27.4y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1978,
+      "classification": "C",
+      "name": "Jeanette Simms",
+      "school": "SMI",
+      "mark": "5:34.8y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Laurie Taylor",
+      "school": "ANN",
+      "mark": "5:05.0y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1979,
+      "classification": "A",
+      "name": "Carolyn Hughes",
+      "school": "BCC",
+      "mark": "5:05.7y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1979,
+      "classification": "B",
+      "name": "Grace DeFries",
+      "school": "GLG",
+      "mark": "5:14.5y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1979,
+      "classification": "C",
+      "name": "Jeanette Simms",
+      "school": "SMI",
+      "mark": "5:43.0y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Karin Wagner",
+      "school": "LAN",
+      "mark": "5:10.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1980,
+      "classification": "A",
+      "name": "Margaret Salive",
+      "school": "TSW",
+      "mark": "5:09.2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1980,
+      "classification": "B",
+      "name": "Grace DeFries",
+      "school": "GLG",
+      "mark": "5:15.5"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1980,
+      "classification": "C",
+      "name": "Shelly Smith",
+      "school": "WIL",
+      "mark": "5:18.5"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Karin Wagner",
+      "school": "LAN",
+      "mark": "5:02.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1981,
+      "classification": "A",
+      "name": "Jill Violet",
+      "school": "BCC",
+      "mark": "5:08.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1981,
+      "classification": "B",
+      "name": "Carolyn Forde",
+      "school": "ATH",
+      "mark": "4:54.5"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1981,
+      "classification": "C",
+      "name": "Shelly Smith",
+      "school": "WIL",
+      "mark": "5:15.0"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Kris Kavetski",
+      "school": "BOW",
+      "mark": "5:06.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1982,
+      "classification": "A",
+      "name": "Theresa Peck",
+      "school": "SHE",
+      "mark": "5:12.4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1982,
+      "classification": "B",
+      "name": "Carolyn Forde",
+      "school": "ATH",
+      "mark": "4:53.2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1982,
+      "classification": "C",
+      "name": "Nadja DeSantis",
+      "school": "MID",
+      "mark": "5:25.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Lisa Winter",
+      "school": "GAI",
+      "mark": "5:07.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1983,
+      "classification": "A",
+      "name": "Kristine Ogris",
+      "school": "WHE",
+      "mark": "5:14.0"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1983,
+      "classification": "B",
+      "name": "Cindy Kearns",
+      "school": "CWW",
+      "mark": "5:14.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1983,
+      "classification": "C",
+      "name": "Billie Jo Hoffman",
+      "school": "BRN",
+      "mark": "5:16.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Patsy Ellis",
+      "school": "CRO",
+      "mark": "5:05.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1984,
+      "classification": "A",
+      "name": "Beth Hanlon",
+      "school": "SHE",
+      "mark": "5:13.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1984,
+      "classification": "B",
+      "name": "Mary Bodnar",
+      "school": "AEI",
+      "mark": "5:19.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1984,
+      "classification": "C",
+      "name": "Jennifer Amyx",
+      "school": "WLK",
+      "mark": "5:21.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Amy Harden",
+      "school": "WES",
+      "mark": "5:06.5"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1985,
+      "classification": "A",
+      "name": "Vicki Avey",
+      "school": "FTH",
+      "mark": "5:12.5"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1985,
+      "classification": "B",
+      "name": "Kim Flannery",
+      "school": "NCL",
+      "mark": "5:21.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1985,
+      "classification": "C",
+      "name": "Billie Jo Hoffman",
+      "school": "BRN",
+      "mark": "5:29.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Denise Knickman",
+      "school": "ELR",
+      "mark": "5:09.5"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1986,
+      "classification": "A",
+      "name": "Amanda McIntosh",
+      "school": "TOW",
+      "mark": "5:07.0"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1986,
+      "classification": "B",
+      "name": "Karen Eisemann",
+      "school": "CMW",
+      "mark": "5:15.8"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1986,
+      "classification": "C",
+      "name": "Sharon Webb",
+      "school": "SMI",
+      "mark": "5:35.0"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Shauna Clark",
+      "school": "NWE",
+      "mark": "5:12.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1987,
+      "classification": "A",
+      "name": "Tracey Snyder",
+      "school": "NCL",
+      "mark": "5:19.4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1987,
+      "classification": "B",
+      "name": "Steffi Rausch",
+      "school": "HOW",
+      "mark": "5:11.8"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1987,
+      "classification": "C",
+      "name": "Sharon Webb",
+      "school": "SMI",
+      "mark": "5:27.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Donna Zubalik",
+      "school": "OLM",
+      "mark": "5:06.51"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1988,
+      "classification": "A",
+      "name": "Lynn Ziegler",
+      "school": "NHG",
+      "mark": "5:11.50"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1988,
+      "classification": "B",
+      "name": "Steffi Rausch",
+      "school": "HOW",
+      "mark": "5:25.50"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1988,
+      "classification": "C",
+      "name": "Mary Leffel",
+      "school": "HER",
+      "mark": "5:26.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Kendra Hickman",
+      "school": "ELR",
+      "mark": "5:09.60"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Christine Barr",
+      "school": "NOC",
+      "mark": "5:24.90"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Dana Colligan",
+      "school": "CTN",
+      "mark": "5:16.30"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Allison Ellis",
+      "school": "MAR",
+      "mark": "5:26.40"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Stephanie Morningstar",
+      "school": "WES",
+      "mark": "5:11.30"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Latashia Key",
+      "school": "NHG",
+      "mark": "5:31.60"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Jenny Howard",
+      "school": "FAL",
+      "mark": "5:15.80"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Lora Price",
+      "school": "BRN",
+      "mark": "5:31.10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Amanda White",
+      "school": "DUL",
+      "mark": "5:03.60"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Alexandra Clark",
+      "school": "CAT",
+      "mark": "5:24.53"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Jenny Howard",
+      "school": "FAL",
+      "mark": "5:10.32"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Lora Price",
+      "school": "BRN",
+      "mark": "5:31.14"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Amanda White",
+      "school": "DUL",
+      "mark": "4:56.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Kerrie Bowes",
+      "school": "MDU",
+      "mark": "5:11.00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Michell Barrett",
+      "school": "ALL",
+      "mark": "5:09.40"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Rebecca Bell",
+      "school": "POO",
+      "mark": "5:13.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Amanda White",
+      "school": "DUL",
+      "mark": "4:59.34"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Sally Glynn",
+      "school": "WAJ",
+      "mark": "5:00.03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Kelly Pelovitz",
+      "school": "GLG",
+      "mark": "5:19.50"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Lora Price",
+      "school": "BRN",
+      "mark": "5:17.97"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Kristen Nicolini",
+      "school": "ANN",
+      "mark": "4:53.63"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Sally Glynn",
+      "school": "WAJ",
+      "mark": "4:49.85"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Dana Strickland",
+      "school": "ATH",
+      "mark": "5:13.70"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Adrian Unger",
+      "school": "BRN",
+      "mark": "5:29.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Kristen Nicolini",
+      "school": "ANN",
+      "mark": "4:46.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Sally Glynn",
+      "school": "WAJ",
+      "mark": "4:51.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Leigh Hancil",
+      "school": "FAH",
+      "mark": "5:08.60"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Adrian Unger",
+      "school": "BRN",
+      "mark": "5:17.80"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Renee Berry",
+      "school": "SEV",
+      "mark": "5:02.34"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Sally Glynn",
+      "school": "WAJ",
+      "mark": "4:50.39"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Kristen Ritter",
+      "school": "LIN",
+      "mark": "5:05.80"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Liz Lowrie",
+      "school": "URB",
+      "mark": "5:18.81"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Jennifer Ng",
+      "school": "ARU",
+      "mark": "5:12.56"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Mary Beth Rollins",
+      "school": "CMW",
+      "mark": "5:11.96"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Briged O'Connell",
+      "school": "CAT",
+      "mark": "5:20.88"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Jen Linkous",
+      "school": "URB",
+      "mark": "5:26.37"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Sarah Pettit",
+      "school": "CZM",
+      "mark": "5:10.94"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Jen Gerous",
+      "school": "PKV",
+      "mark": "5:06.73"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Randy Buzzell",
+      "school": "MID",
+      "mark": "5:08.16"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Korin MIller",
+      "school": "RIS",
+      "mark": "5:11.93"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Tenke Zoltani",
+      "school": "DUL",
+      "mark": "5:07.57"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Cecily Garber",
+      "school": "RMT",
+      "mark": "5:11.46"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Liz Lowrie",
+      "school": "URB",
+      "mark": "5:11.10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Korin MIller",
+      "school": "RIS",
+      "mark": "5:08.93"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Tenke Zoltani",
+      "school": "DUL",
+      "mark": "5:04.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Erin Masterson",
+      "school": "ANN",
+      "mark": "5:07.29"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Randy Buzell",
+      "school": "MID",
+      "mark": "5:16.41"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Catherine Olsen",
+      "school": "CTT",
+      "mark": "5:20.70"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Cara Wettlauffer",
+      "school": "CMW",
+      "mark": "5:10.21"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Erin Masterson",
+      "school": "ANN",
+      "mark": "5:13.37"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Randy Buzzell",
+      "school": "MID",
+      "mark": "5:11.00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Laura Stouffer",
+      "school": "SMI",
+      "mark": "5:20.67"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Lauren Centrowitz",
+      "school": "BDN",
+      "mark": "5:03.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Susan Hendrick",
+      "school": "PTX",
+      "mark": "5:02.30"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Carrie Selmer",
+      "school": "GLG",
+      "mark": "5:09.39"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "1600 Meters",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Jenni Schappert",
+      "school": "RIS",
+      "mark": "5:13.79"
+    }
+  ]
+}

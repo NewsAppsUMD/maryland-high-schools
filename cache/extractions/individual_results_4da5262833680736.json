@@ -1,0 +1,2066 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      46
+    ],
+    "extracted_at": "2026-08-02T20:26:53Z",
+    "manual_correction": "Rows recovered from prior cache extraction (orphan); fresh LLM call had dropped these events on this page: ['60 yds.']"
+  },
+  "rows": [
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1972,
+      "classification": "Comb",
+      "name": "D. Jones",
+      "school": "JMB",
+      "mark": "11.2y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1973,
+      "classification": "Comb",
+      "name": "Marilyn McRoy",
+      "school": "LAU",
+      "mark": "11.5y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1974,
+      "classification": "Comb",
+      "name": "Carol Ihrig",
+      "school": "FRI",
+      "mark": "11.4y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1975,
+      "classification": "Comb",
+      "name": "Carolyn Groom",
+      "school": "LAR",
+      "mark": "11.4y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Terry Matthews",
+      "school": "BLA",
+      "mark": "11.1y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Roxanne White",
+      "school": "WLD",
+      "mark": "10.8y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Terry Matthews",
+      "school": "BLA",
+      "mark": "11.5y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1977,
+      "classification": "A",
+      "name": "Winnie Spence",
+      "school": "CHA",
+      "mark": "10.8y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1977,
+      "classification": "B",
+      "name": "Renee Keck",
+      "school": "CEN",
+      "mark": "11.2y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1977,
+      "classification": "C",
+      "name": "Kim Brooks",
+      "school": "CLR",
+      "mark": "11.4y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Paula Hines",
+      "school": "BLA",
+      "mark": "10.9y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1978,
+      "classification": "A",
+      "name": "Cathy Barber",
+      "school": "FAH",
+      "mark": "11.2y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1978,
+      "classification": "B",
+      "name": "Renita Dingle",
+      "school": "FRD",
+      "mark": "10.9y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1978,
+      "classification": "C",
+      "name": "Kim Brooks",
+      "school": "CLR",
+      "mark": "11.5y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Debbie Murphy",
+      "school": "MTB",
+      "mark": "11.4y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1979,
+      "classification": "A",
+      "name": "Darlene Jefferson",
+      "school": "ELR",
+      "mark": "10.8y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1979,
+      "classification": "B",
+      "name": "Nannette Seth",
+      "school": "NCN",
+      "mark": "11.1y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1979,
+      "classification": "C",
+      "name": "Monique Bankins",
+      "school": "LEO",
+      "mark": "11.4y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Paula Hines",
+      "school": "BLA",
+      "mark": "11.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1980,
+      "classification": "A",
+      "name": "Cathy Rattray",
+      "school": "BCC",
+      "mark": "12.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1980,
+      "classification": "B",
+      "name": "Sherri Bullard",
+      "school": "NOC",
+      "mark": "12.2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1980,
+      "classification": "C",
+      "name": "Jackie Mowatt",
+      "school": "HAM",
+      "mark": "12.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Jenny Buckler",
+      "school": "DUL",
+      "mark": "12.0"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1981,
+      "classification": "A",
+      "name": "Pam Carter",
+      "school": "CEN",
+      "mark": "12.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1981,
+      "classification": "B",
+      "name": "Sherri Bullard",
+      "school": "NOC",
+      "mark": "11.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1981,
+      "classification": "C",
+      "name": "Nannette Seth",
+      "school": "NCN",
+      "mark": "12.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Linda White",
+      "school": "ARU",
+      "mark": "12.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1982,
+      "classification": "A",
+      "name": "Robin Benjamin",
+      "school": "CEN",
+      "mark": "12.2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1982,
+      "classification": "B",
+      "name": "Heather Pyle",
+      "school": "CWW",
+      "mark": "13.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1982,
+      "classification": "C",
+      "name": "Nannette Seth",
+      "school": "NCN",
+      "mark": "12.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Sonora Clark",
+      "school": "OXH",
+      "mark": "12.0"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1983,
+      "classification": "A",
+      "name": "Robin Benjamin",
+      "school": "CEN",
+      "mark": "11.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1983,
+      "classification": "B",
+      "name": "Michelle Dixon",
+      "school": "FAL",
+      "mark": "12.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1983,
+      "classification": "C",
+      "name": "Heather Smith",
+      "school": "NDC",
+      "mark": "12.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Martrell Gamble",
+      "school": "PKD",
+      "mark": "12.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1984,
+      "classification": "A",
+      "name": "Helen Jessie",
+      "school": "NHG",
+      "mark": "12.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1984,
+      "classification": "B",
+      "name": "Jennifer Koss",
+      "school": "GLG",
+      "mark": "12.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1984,
+      "classification": "C",
+      "name": "Darlene Brown",
+      "school": "NCN",
+      "mark": "12.4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Lashawn Haythe",
+      "school": "GAI",
+      "mark": "12.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1985,
+      "classification": "A",
+      "name": "Nikki Young",
+      "school": "CEN",
+      "mark": "12.2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1985,
+      "classification": "B",
+      "name": "Jennifer Koss",
+      "school": "GLG",
+      "mark": "12.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1985,
+      "classification": "C",
+      "name": "Dionne Smith",
+      "school": "NDC",
+      "mark": "12.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Lashawn Haythe",
+      "school": "GAI",
+      "mark": "12.0"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1986,
+      "classification": "A",
+      "name": "Helen Jessie",
+      "school": "NHG",
+      "mark": "12.1"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1986,
+      "classification": "B",
+      "name": "Teri Smith",
+      "school": "BAR",
+      "mark": "12.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1986,
+      "classification": "C",
+      "name": "Desiree Rowe",
+      "school": "BOO",
+      "mark": "12.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Ania Sloan",
+      "school": "JFK",
+      "mark": "12.2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1987,
+      "classification": "A",
+      "name": "Flirtisha Harris",
+      "school": "CAL",
+      "mark": "12.3"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1987,
+      "classification": "B",
+      "name": "Teri Smith",
+      "school": "BAR",
+      "mark": "12.2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1987,
+      "classification": "C",
+      "name": "Zelma Owens",
+      "school": "PEV",
+      "mark": "12.8"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Twanna Shields",
+      "school": "NWE",
+      "mark": "12.21"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1988,
+      "classification": "A",
+      "name": "Shaye Hardy",
+      "school": "SUR",
+      "mark": "12.30"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1988,
+      "classification": "B",
+      "name": "Flirtisha Harris",
+      "school": "CAL",
+      "mark": "12.400"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1988,
+      "classification": "C",
+      "name": "Heather Crump",
+      "school": "MTS",
+      "mark": "12.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Melanie Etz",
+      "school": "SEV",
+      "mark": "12.27"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Teresa Israel",
+      "school": "PBR",
+      "mark": "12.43"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Flirtisha Harris",
+      "school": "CAL",
+      "mark": "11.98"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Angie Green",
+      "school": "FSK",
+      "mark": "12.71"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Ebony Robinson",
+      "school": "ELR",
+      "mark": "12.25"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Flirtisha Harris",
+      "school": "CAL",
+      "mark": "12.45"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Mekka Richardson",
+      "school": "HAM",
+      "mark": "13.11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Angie Green",
+      "school": "FSK",
+      "mark": "12.82"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Ebony Robinson",
+      "school": "ELR",
+      "mark": "11.70"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Teresa Israel",
+      "school": "PBR",
+      "mark": "12.21"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Kisha Jett",
+      "school": "HAM",
+      "mark": "12.14"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Sheron Barton",
+      "school": "MLM",
+      "mark": "13.24"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Ebony Robinson",
+      "school": "ELR",
+      "mark": "11.50"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Lisa Montgomery",
+      "school": "LAC",
+      "mark": "12.02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Kisha Jett",
+      "school": "HAM",
+      "mark": "11.80"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Zoe Hunt",
+      "school": "SMI",
+      "mark": "12.60"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Kakisha Addison",
+      "school": "GAI",
+      "mark": "12.00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Robin Smith",
+      "school": "WAJ",
+      "mark": "12.52"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Kisha Jett",
+      "school": "HOW",
+      "mark": "12.04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Tominka Howard",
+      "school": "WLD",
+      "mark": "13.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Suziann Reid",
+      "school": "ELR",
+      "mark": "12.13"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Stacy Jordan",
+      "school": "DUV",
+      "mark": "12.55"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Kisha Jett",
+      "school": "HAM",
+      "mark": "12.04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Sirena Williams",
+      "school": "CEN",
+      "mark": "12.70"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Suziann Reid",
+      "school": "ELR",
+      "mark": "11.85"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Natalie Johnson",
+      "school": "PBR",
+      "mark": "12.25"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Debbie Dunn",
+      "school": "FAH",
+      "mark": "12.31"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Sirena Williams",
+      "school": "CEN",
+      "mark": "12.70"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Amber Robinson",
+      "school": "ELR",
+      "mark": "12.41"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Michelle Higginbottom",
+      "school": "FRE",
+      "mark": "12.57"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Miranda Baker",
+      "school": "SUR",
+      "mark": "13.10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Kathy Messner",
+      "school": "CTT",
+      "mark": "13.08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Amber Robinson",
+      "school": "ELR",
+      "mark": "11.71"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Sharell Augusta",
+      "school": "FRD",
+      "mark": "12.30"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Tameca Riley",
+      "school": "LAC",
+      "mark": "12.13"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Teyarnte Carter",
+      "school": "LGR",
+      "mark": "12.07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Janelle Ralph",
+      "school": "SPB",
+      "mark": "12.22"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Chanel Spriggs",
+      "school": "NOC",
+      "mark": "12.47"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Teyarnte Carter",
+      "school": "LGR",
+      "mark": "12.39"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Amber Day",
+      "school": "OAK",
+      "mark": "12.47"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Jessica Defreitas",
+      "school": "ELR",
+      "mark": "11.80"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Mylennie Dade",
+      "school": "WLA",
+      "mark": "12.60"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Lekisha Barnaby",
+      "school": "CEN",
+      "mark": "11.99"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Tiesha Nickson",
+      "school": "CLR",
+      "mark": "12.70"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Imani White",
+      "school": "FRE",
+      "mark": "12.15"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Teyarnte Carter",
+      "school": "LGR",
+      "mark": "12.18"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Laura Ryans",
+      "school": "QAN",
+      "mark": "12.84"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Emilie Bonano",
+      "school": "SHG",
+      "mark": "12.92"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2001,
+      "classification": "4A",
+      "name": "India Ransom",
+      "school": "LAR",
+      "mark": "12.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Leonie Prao",
+      "school": "WLD",
+      "mark": "12.68"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Christa Brown",
+      "school": "CEN",
+      "mark": "12.84"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Tiesha Nixon",
+      "school": "CLR",
+      "mark": "12.77"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2002,
+      "classification": "4A",
+      "name": "India Ransom",
+      "school": "LAR",
+      "mark": "11.80"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Kelly Ennis",
+      "school": "LEO",
+      "mark": "12.47"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2002,
+      "classification": "2A",
+      "name": "ShadŽ Smith",
+      "school": "HAM",
+      "mark": "12.47"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Melissa Wynn",
+      "school": "SHG",
+      "mark": "12.85"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Tiandra Ponteen",
+      "school": "ELR",
+      "mark": "12.08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Damara Parrish",
+      "school": "LGR",
+      "mark": "12.54"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2003,
+      "classification": "2A",
+      "name": "ShadŽ Smith",
+      "school": "HAM",
+      "mark": "12.43"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Caitlin Witman",
+      "school": "WIL",
+      "mark": "12.93"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Michaylin Golladay",
+      "school": "LAR",
+      "mark": "12.12"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Alyssa Evering",
+      "school": "FAL",
+      "mark": "12.11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Cierra Layne",
+      "school": "EDW",
+      "mark": "12.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Phoenix Ruff",
+      "school": "RFL",
+      "mark": "12.23"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Tenesha Hill",
+      "school": "GAI",
+      "mark": "11.97-wind"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Alyssa Evbering",
+      "school": "FAL",
+      "mark": "12.19"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Alexis Booker",
+      "school": "FRI",
+      "mark": "12.46"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Rachel Mccallum",
+      "school": "BRN",
+      "mark": "12.76-wind"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Elan Hilaire",
+      "school": "ELR",
+      "mark": "11.99"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Shalaiyah Sommerville",
+      "school": "WEB",
+      "mark": "12.24"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Aunye Boone",
+      "school": "CAL",
+      "mark": "12.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Rachel McCallum",
+      "school": "BRN",
+      "mark": "12.65"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Waquesha Canty",
+      "school": "CHF",
+      "mark": "12.07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Jessica Tongue",
+      "school": "ANN",
+      "mark": "11.82"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Aunye Boone",
+      "school": "CAL",
+      "mark": "11.86"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Jermia Dix",
+      "school": "WTE",
+      "mark": "12.32"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Olivia Ekpone",
+      "school": "TSW",
+      "mark": "11.77"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Funmi Alabi",
+      "school": "LGR",
+      "mark": "11.81"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Alese Forbes",
+      "school": "NWB",
+      "mark": "12.27"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Alyssa McClure",
+      "school": "DGH",
+      "mark": "12.20"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Aurieyall Scott",
+      "school": "ELR",
+      "mark": "11.89"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Funmi Alabi",
+      "school": "LGR",
+      "mark": "11.81"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Alese Forbes",
+      "school": "NWB",
+      "mark": "12.45"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Alyssa McClure",
+      "school": "DGH",
+      "mark": "11.86"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Olivia Ekpone",
+      "school": "NWM",
+      "mark": "11.94"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Mercedes Jackson",
+      "school": "HUN",
+      "mark": "12.01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Renee Phillips",
+      "school": "NHG",
+      "mark": "12.25"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Abby Duncan",
+      "school": "BOO",
+      "mark": "12.26"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Olivia Ekpone",
+      "school": "NWM",
+      "mark": "11.85"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Mercedes Jackson",
+      "school": "HUN",
+      "mark": "11.99"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Aneesha Scott",
+      "school": "LGR",
+      "mark": "12.22"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Abby Duncan",
+      "school": "BOO",
+      "mark": "12.31"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Mobolaji Adeokun",
+      "school": "DUV",
+      "mark": "11.91"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Jimmia McCluskey",
+      "school": "ABE",
+      "mark": "12.36"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Dnique Phillip",
+      "school": "NEC",
+      "mark": "12.05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Abby Duncan",
+      "school": "BOO",
+      "mark": "12.13"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Lexus Ramsey",
+      "school": "BOW",
+      "mark": "12.05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Jimmia McCluskey",
+      "school": "ABE",
+      "mark": "12.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Kara Patrice",
+      "school": "LIB",
+      "mark": "12.48"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Valerie Mizansky",
+      "school": "NCL",
+      "mark": "12.48"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Stephanie Davis",
+      "school": "CZM",
+      "mark": "12.01-w"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Shania Collins",
+      "school": "HUN",
+      "mark": "11.81-w"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Paige Chapman",
+      "school": "HVT",
+      "mark": "12.23-w"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Mary Foday",
+      "school": "CEN",
+      "mark": "12.34-w"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Martha Sam",
+      "school": "JHB",
+      "mark": "12.04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Kiara Parker",
+      "school": "WLA",
+      "mark": "11.97"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Micah Meekins",
+      "school": "MRR",
+      "mark": "12.43"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Mary Foday",
+      "school": "CEN",
+      "mark": "12.40"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Pharist O'Neal",
+      "school": "CHF",
+      "mark": "11.93"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Jaida Smith",
+      "school": "FRE",
+      "mark": "12.03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Mary Foday",
+      "school": "CEN",
+      "mark": "12.30"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Khaalea Collins",
+      "school": "SUR",
+      "mark": "12.65"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Pharist O'Neal",
+      "school": "CHF",
+      "mark": "11.92"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Jaida Smith",
+      "school": "FRE",
+      "mark": "12.15"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Sydney Williams",
+      "school": "LAC",
+      "mark": "12.17"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Aubree Boyle",
+      "school": "ALL",
+      "mark": "12.61"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Carmen Henderson",
+      "school": "NPT",
+      "mark": "12.16"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Jaida Smith",
+      "school": "FRE",
+      "mark": "11.63"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Sydney Robinson",
+      "school": "RVH",
+      "mark": "12.08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Crystal Johnson",
+      "school": "WTE",
+      "mark": "11.99"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Taylor Wright",
+      "school": "NWM",
+      "mark": "12.29"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Jada Sobratti",
+      "school": "FRE",
+      "mark": "12.25"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Olivia Garner",
+      "school": "WLA",
+      "mark": "12.39"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Malia Watkins",
+      "school": "FRD",
+      "mark": "12.30"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Saniya Simmons",
+      "school": "HWI",
+      "mark": "12.32"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Janasia Buckner",
+      "school": "RVH",
+      "mark": "12.24"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Caitlyn Bobb",
+      "school": "HVT",
+      "mark": "12.00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Ty'Liyah Hannah",
+      "school": "FRI",
+      "mark": "12.15"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Brooke Cochran",
+      "school": "JHB",
+      "mark": "12.14"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Jamie Adams",
+      "school": "RES",
+      "mark": "11.91"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Amanda Ballard",
+      "school": "PKS",
+      "mark": "12.03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Diamond Richardson",
+      "school": "SUR",
+      "mark": "12.26"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Cohren Corbin",
+      "school": "NPT",
+      "mark": "12.05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Arayana Ladson",
+      "school": "MTH",
+      "mark": "12.14"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Tressia Davis",
+      "school": "FRI",
+      "mark": "12.32"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Avery Miller",
+      "school": "ALL",
+      "mark": "12.39"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Arayana Ladson",
+      "school": "WOO",
+      "mark": "11.58"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Shania Staats",
+      "school": "OAK",
+      "mark": "12.07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Bryannah Smith",
+      "school": "LAP",
+      "mark": "12.00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Avery Miller",
+      "school": "ALL",
+      "mark": "12.06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Cohren Corbin",
+      "school": "NPT",
+      "mark": "11.58"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Sydney Rhodes",
+      "school": "HOW",
+      "mark": "11.74"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Winter Evans",
+      "school": "HVT",
+      "mark": "12.18"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "100 Meters",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Tressia Davis",
+      "school": "FRI",
+      "mark": "11.95"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1972,
+      "classification": "Comb",
+      "name": "Tina Leatherman",
+      "school": "GTJ",
+      "mark": "26.4y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1973,
+      "classification": "Comb",
+      "name": "Carolyn McRoy",
+      "school": "LAU",
+      "mark": "26.1y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1974,
+      "classification": "Comb",
+      "name": "Terri Walker",
+      "school": "ABE",
+      "mark": "25.5y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1975,
+      "classification": "Comb",
+      "name": "Paulette Clagon",
+      "school": "LAR",
+      "mark": "25.4y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Bonnie Bataglia",
+      "school": "PKV",
+      "mark": "25.7y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Terri Walker",
+      "school": "WIC",
+      "mark": "25.4y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Louise Osborne",
+      "school": "SUI",
+      "mark": "25.7y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1977,
+      "classification": "A",
+      "name": "Winnie Spence",
+      "school": "CHA",
+      "mark": "25.0y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1977,
+      "classification": "B",
+      "name": "Melissa Hill",
+      "school": "CEN",
+      "mark": "25.2y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1977,
+      "classification": "C",
+      "name": "Jennifer Whitfield",
+      "school": "OAK",
+      "mark": "26.0y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Paula Hines",
+      "school": "BLA",
+      "mark": "24.6y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1978,
+      "classification": "A",
+      "name": "Cathy Barber",
+      "school": "FAH",
+      "mark": "25.7y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1978,
+      "classification": "B",
+      "name": "Renita Dingle",
+      "school": "FRD",
+      "mark": "25.0y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1978,
+      "classification": "C",
+      "name": "Kim Brooks",
+      "school": "CLR",
+      "mark": "25.0y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Paula Hines",
+      "school": "BLA",
+      "mark": "25.0y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1979,
+      "classification": "A",
+      "name": "Darlene Jefferson",
+      "school": "ELR",
+      "mark": "24.2y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1979,
+      "classification": "B",
+      "name": "Rachel Clary",
+      "school": "SPP",
+      "mark": "24.7y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1979,
+      "classification": "C",
+      "name": "Donna Bugg",
+      "school": "LIN",
+      "mark": "26.9y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Paula Hines",
+      "school": "BLA",
+      "mark": "24.0"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1980,
+      "classification": "A",
+      "name": "Cathy Rattray",
+      "school": "BCC",
+      "mark": "24.4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1980,
+      "classification": "B",
+      "name": "Sherri Bullard",
+      "school": "NOC",
+      "mark": "25.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1980,
+      "classification": "C",
+      "name": "Jackie Mowatt",
+      "school": "HAM",
+      "mark": "25.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Michelle Collins",
+      "school": "MTB",
+      "mark": "24.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1981,
+      "classification": "A",
+      "name": "Pam Carter",
+      "school": "CEN",
+      "mark": "24.9"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1981,
+      "classification": "B",
+      "name": "Sherri Bullard",
+      "school": "NOC",
+      "mark": "24.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1981,
+      "classification": "C",
+      "name": "Nannette Seth",
+      "school": "NCN",
+      "mark": "25.6"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Michelle Collins",
+      "school": "MTB",
+      "mark": "24.7"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "200 Meters",
+      "year": 1982,
+      "classification": "A",
+      "name": "Robin Benjamin",
+      "school": "CEN",
+      "mark": "25.0"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "60 yds.",
+      "year": 1973,
+      "classification": "Comb",
+      "name": "Carolyn McRoy",
+      "school": "LAU",
+      "mark": "7.1y"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "60 yds.",
+      "year": 1974,
+      "classification": "Comb",
+      "name": "Denise Washington",
+      "school": "DUV",
+      "mark": "7.2y"
+    }
+  ]
+}

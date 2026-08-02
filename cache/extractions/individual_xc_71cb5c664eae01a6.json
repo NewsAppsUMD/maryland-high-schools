@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "extractor": "individual_xc",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      25
+    ],
+    "extracted_at": "2026-08-02T02:25:09Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Cross Country",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Evan Woods",
+      "school": "Walt Whitman",
+      "time": "15:49.1",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Nick Fransham",
+      "school": "North Harford",
+      "time": "15:41.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Zach Gascho",
+      "school": "Catoctin",
+      "time": "16:24.2",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Ty Franks",
+      "school": "Bohemia Manor",
+      "time": "16:26.1",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Eric Walz",
+      "school": "Dulaney",
+      "time": "16:06.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Matt Bennett",
+      "school": "Northern-C",
+      "time": "16:14.8",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Brian Cave",
+      "school": "South Carroll",
+      "time": "16:33.7",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Will Merritt",
+      "school": "Smithsburg",
+      "time": "16:50.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Rohann Asfaw",
+      "school": "Richard Montgomery",
+      "time": "16:04.2",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Ryan Lockett",
+      "school": "Poolesville",
+      "time": "16:00.7",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Taylor Baranoski",
+      "school": "Eastern Technical",
+      "time": "16:03.9",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Will Merritt",
+      "school": "Smithsburg",
+      "time": "15:54.6",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Adam Nakasaka",
+      "school": "Bethesda-CC",
+      "time": "15:50.63",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Kieran McDermott",
+      "school": "Bel Air",
+      "time": "15:59.19",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Ryan Lockett",
+      "school": "Poolesville",
+      "time": "16:13.07",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Zachary Laird",
+      "school": "Bohemia Manor",
+      "time": "16:09.17",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Obsaa Feda",
+      "school": "Northwood",
+      "time": "15:44.05",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Michael Belmaggio",
+      "school": "Linganore",
+      "time": "16:16.21",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Anish Nanjappa",
+      "school": "River Hill",
+      "time": "15:58.08",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Zachary Laird",
+      "school": "Bohemia Manor",
+      "time": "16:36.36",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Sam Keeny",
+      "school": "South River",
+      "time": "15:34.98",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Anish Nanjappa",
+      "school": "River Hill",
+      "time": "15:45.64",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Kyle Lund",
+      "school": "Oakdale",
+      "time": "15:47.76",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Zane Chalker",
+      "school": "Williamsport",
+      "time": "16:00.47",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Luke Coffin",
+      "school": "Annapolis",
+      "time": "16:14.4",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Antonio Camacho-Bucks",
+      "school": "Centennial",
+      "time": "15:51.4",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Ethan Aidam",
+      "school": "Oakland Mills",
+      "time": "16:43.6",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2021,
+      "classification": "1A",
+      "name": "John Condon",
+      "school": "Cambridge-SD",
+      "time": "16:55.2",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Tyler Dailey",
+      "school": "Dulaney",
+      "time": "16:25.2",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Henry Hopper",
+      "school": "Wilde Lake",
+      "time": "16:11.7",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Ethan Aidam",
+      "school": "Oakland Mills",
+      "time": "16:45.7",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Alexander Contreras",
+      "school": "Catoctin",
+      "time": "17:07.6",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2023,
+      "classification": "4A",
+      "name": "James Partlow",
+      "school": "Gov. Thomas Johnson",
+      "time": "15:39.28",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Kieran Mischke",
+      "school": "Towson",
+      "time": "15:50.1",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Eric Penkala",
+      "school": "Southern-AA",
+      "time": "15:47.8",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Gregory Schellberg",
+      "school": "Liberty",
+      "time": "16:35.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Mateo Gros-Slovinsky",
+      "school": "Walt Whitman",
+      "time": "15:44.74",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Tsedeke Jacovics",
+      "school": "Old Mill",
+      "time": "15:52.04",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Eric Penkala",
+      "school": "Southern-AA",
+      "time": "15:37.37",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Gregory Schellberg",
+      "school": "Liberty",
+      "time": "16:19.22",
+      "distance": "3.0 Miles"
+    }
+  ]
+}
