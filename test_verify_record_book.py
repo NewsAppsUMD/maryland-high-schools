@@ -198,6 +198,17 @@ class TestDuplicateKeys:
         report = check_duplicate_keys(book)
         assert report["tables"]["individual_xc_champions"]["duplicate_key_count"] == 1
 
+    def test_stat_records_duplicate_keys_detected(self):
+        book = {"stat_records": [
+            {"sport": "Football", "category": "team", "record": "Most TDs, Season",
+             "holder": "Fort Hill", "year": "2016"},
+            {"sport": "Football", "category": "team", "record": "Most TDs, Season",
+             "holder": "Fort Hill", "year": "2016"},
+        ]}
+        report = check_duplicate_keys(book)
+        assert report["tables"]["stat_records"]["duplicate_key_count"] == 1
+        assert report["errors"] == 1
+
 
 class TestContinuity:
     def test_no_gaps(self):
@@ -471,6 +482,7 @@ class TestTableKeys:
         expected = {
             "championship_results", "school_records", "individual_xc_champions",
             "individual_results", "golf_results", "sportsmanship_awards",
+            "stat_records",
         }
         assert set(TABLE_KEYS) == expected
 

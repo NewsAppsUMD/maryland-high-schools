@@ -1298,6 +1298,10 @@ def main(argv=None) -> None:
     all_golf: list[dict] = []
     all_stat_records: list[dict] = []
 
+    # Guard: a stat_records route that yielded 0 rows usually means the LLM
+    # dropped the page (the relay-drop failure mode). Surface it loudly.
+    stat_zero: list[tuple[str, list[int]]] = []
+
     for sport, (start, end) in sections.items():
         print(f"── {sport}  (PDF indices {start}–{end - 1}) ──")
         routed = route_pages(pages, sport, start, end)
@@ -1356,6 +1360,8 @@ def main(argv=None) -> None:
             all_stat_records.extend(rows)
             print(f"  stat records        : {len(rows)} rows  "
                   f"({len(pairs)} pages, LLM)")
+            if not rows:
+                stat_zero.append((sport, sorted(i + 1 for i, _ in pairs)))
 
         # Sportsmanship (LLM) — all pages in one call (dual Boys/Girls detection)
         if routed.get("sportsmanship"):
@@ -1367,6 +1373,10 @@ def main(argv=None) -> None:
                   f"({len(pairs)} pages, LLM)")
 
         print()
+
+    for sport, pgs in stat_zero:
+        print(f"  ! WARNING: stat_records routed for {sport} pages {pgs} "
+              f"but extracted 0 rows — possible LLM drop; re-run with --refresh")
 
     # ── Normalise classification labels (post-extraction, pre-dedup) ────────
     # The LLM occasionally emits "CLASS 1A" or "B*" for the class label; the
