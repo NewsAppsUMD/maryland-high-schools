@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "extractor": "stat_records",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      76
+    ],
+    "extracted_at": "2026-08-02T22:46:22Z"
+  },
+  "rows": [
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Kills/Match",
+      "value": "67",
+      "holder": "Alex Holston",
+      "school": "Sherwood",
+      "year": "2012",
+      "co_holder": false,
+      "notes": "Semifinal and Final matches combined (7 games)"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Assists",
+      "value": "90",
+      "holder": "Kristina Swan",
+      "school": "Centennial",
+      "year": "2006",
+      "co_holder": false,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Aces",
+      "value": "14",
+      "holder": "Taylor Belella",
+      "school": "Smithsburg",
+      "year": "2009",
+      "co_holder": true,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Aces",
+      "value": "14",
+      "holder": "Payton Belella",
+      "school": "Smithsburg",
+      "year": "2014",
+      "co_holder": true,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Blocks",
+      "value": "14",
+      "holder": "Morgan Lowrey",
+      "school": "Northwest",
+      "year": "2018",
+      "co_holder": false,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Service Points",
+      "value": "34",
+      "holder": "Shkala Karzai",
+      "school": "Glenelg",
+      "year": "2003",
+      "co_holder": false,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Service Percentage (40+ attempts)",
+      "value": "1.00",
+      "holder": "Stephanie Sims",
+      "school": "Glenelg",
+      "year": "2003",
+      "co_holder": true,
+      "notes": "Semifinal and Final matches combined (41/41)"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Service Percentage (40+ attempts)",
+      "value": "1.00",
+      "holder": "Julie Hollrah",
+      "school": "Glenelg",
+      "year": "2005",
+      "co_holder": true,
+      "notes": "Semifinal and Final matches combined (40/40)"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Kill Efficiency (75+ attacks)",
+      "value": ".432",
+      "holder": "Jenaisya Moore",
+      "school": "Northwest",
+      "year": "2017",
+      "co_holder": false,
+      "notes": "Semifinal and Final matches combined (59-13)/111"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Kills/Match",
+      "value": "111",
+      "holder": "Centennial",
+      "school": "Centennial",
+      "year": "2006",
+      "co_holder": false,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Assists",
+      "value": "91",
+      "holder": "Glenelg",
+      "school": "Glenelg",
+      "year": "2003",
+      "co_holder": true,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Assists",
+      "value": "91",
+      "holder": "Centennial",
+      "school": "Centennial",
+      "year": "2006",
+      "co_holder": true,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Aces",
+      "value": "35",
+      "holder": "North East-Cecil",
+      "school": "North East-Cecil",
+      "year": "2006",
+      "co_holder": true,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Aces",
+      "value": "35",
+      "holder": "Rising Sun",
+      "school": "Rising Sun",
+      "year": "2006",
+      "co_holder": true,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Blocks",
+      "value": "18",
+      "holder": "Northwest",
+      "school": "Northwest",
+      "year": "2018",
+      "co_holder": true,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Blocks",
+      "value": "18",
+      "holder": "Arundel",
+      "school": "Arundel",
+      "year": "2019",
+      "co_holder": true,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Fewest Points Allowed",
+      "value": "42",
+      "holder": "Smithsburg",
+      "school": "Smithsburg",
+      "year": "2016",
+      "co_holder": false,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Fewest Service Points Allowed",
+      "value": "9",
+      "holder": "Smithsburg",
+      "school": "Smithsburg",
+      "year": "2016",
+      "co_holder": false,
+      "notes": "Semifinal and Final matches combined"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Service Percentage",
+      "value": ".968",
+      "holder": "Huntingtown",
+      "school": "Huntingtown",
+      "year": "2007",
+      "co_holder": false,
+      "notes": "Semifinal and Final matches combined (120/124)"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Kill Efficiency",
+      "value": ".406",
+      "holder": "Smithsburg",
+      "school": "Smithsburg",
+      "year": "2014",
+      "co_holder": false,
+      "notes": "Semifinal and Final matches combined (61-18/106)"
+    }
+  ]
+}

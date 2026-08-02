@@ -1,0 +1,286 @@
+sport,category,record,value,holder,school,year,co_holder,notes,source_pdf,source_pages,extracted_at,extraction_model
+Football,team,"Most Points, Finals (2 teams) - Class 1A",92,Dunbar v. Allegany,,2007,False,58-34,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (2 teams) - Class 1A,103,Allegany v. Elkton,,2001,False,"SF, 55-48 2 OT",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (winning team) - Class 1A",58,Valley v. Snow Hill,Valley,1977,True,58-16,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (winning team) - Class 1A",58,Dunbar v. Allegany,Dunbar,2007,True,58-34,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (winning team) - Class 1A,74,Fort Hill v. Southern-Gar,Fort Hill,2022,False,"RR1, 74-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (losing team) - Class 1A",34,Allegany v. Dunbar,Allegany,2007,False,58-34,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (losing team) - Class 1A,48,Elkton v. Allegany,Elkton,2001,False,"SF, 55-48, 2OT",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (2 teams) - Class 1A",13,,,"'78, '85, '93, '95",True,4 contests,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (2 teams) - Class 1A,3,Havre de Grace v. FAET,,2015,False,"SF, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (winning team) - Class 1A",7,J.M. Bennett v. Havre de Grace,J.M. Bennett,1985,False,"7-6, OT",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (winning team) - Class 1A,3,Havre de Grace v. FAET,Havre de Grace,2015,False,"SF, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (post season) - Class 1A,230,Fort Hill,Fort Hill,2022,False,,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (2 teams) - Class 2A/1A",44,Dunbar v. South Carroll,,2021,False,38-6,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (2 teams) - Class 2A/1A,98,Elkton v. Rising Sun,,2021,False,"RR1, 58-40",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (winning team) - Class 2A/1A",38,Dunbar v. South Carroll,Dunbar,2021,False,38-6,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (winning team) - Class 2A/1A,72,Dunbar v. Western STES,Dunbar,2023,False,"RR2, 72-6",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (losing team) - Class 2A/1A",13,Patuxent v. Dunbar,Patuxent,2022,False,22-13,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (losing team) - Class 2A/1A,43,Liberty v. Williamsport,Liberty,2022,False,"RR2, 45-43",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (2 teams) - Class 2A/1A",8,Dunbar v. Calvert,,2023,False,8-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (2 teams) - Class 2A/1A,8,Dunbar v. Calvert,,2023,False,"FINAL, 8-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (winning team) - Class 2A/1A",8,Dunbar v. Calvert,Dunbar,2023,False,8-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (winning team) - Class 2A/1A,7,Elkton v. Cambridge-South Dorchester,Elkton,2022,False,"RR1, 7-6",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (post season) - Class 2A/1A,192,Dunbar,Dunbar,2021,False,,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (2 teams) - Class 2A",69,Urbana v. Edmondson,,1999,False,51-18,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (2 teams) - Class 2A,101,Patuxent v. Oakland Mills,,2014,False,"RSF, 60-41",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (winning team) - Class 2A",51,Urbana v. Edmondson,Urbana,1999,False,51-18,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (winning team) - Class 2A,67,Milford Mill v. Lansdowne,Milford Mill,2022,False,"RR1, 67-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (losing team) - Class 2A",25,Potomac v. Aberdeen,Potomac,2003,False,"33-25, OT",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (losing team) - Class 2A,41,Patuxent v. Oakland Mills,Patuxent,2014,True,"RSF, 60-41",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (losing team) - Class 2A,41,Walkersville v. Oakland Mills,Walkersville,2021,True,"RR2, 42-41",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (2 teams) - Class 2A",10,Magruder v. Cambridge-SD,,1984,False,10-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (2 teams) - Class 2A,3,River Hill v. Westlake,,2018,True,"RSF, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (2 teams) - Class 2A,3,New Town v. Frederick Douglass-PG,,2019,True,"QF, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (winning team) - Class 2A",10,Magruder v. Cambridge-SD,Magruder,1984,False,10-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (winning team) - Class 2A,3,River Hill v. Westlake,River Hill,2018,True,"RSF, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (winning team) - Class 2A,3,New Town v. Frederick Douglass-PG,New Town,2019,True,"QF, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (post season) - Class 2A,207,Milford Mill,Milford Mill,2022,False,,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (2 teams) - Class 3A",77,Oakdale v. Linganore,,2023,False,42-35,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (2 teams) - Class 3A,91,Calvert v. Eastern Tech,,2000,True,"QF, 63-28",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (2 teams) - Class 3A,91,Damascus v. Potomac,,2016,True,"SF, 63-28",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (winning team) - Class 3A",55,Damascus v. Dundalk,Damascus,2015,False,55-14,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (winning team) - Class 3A,70,River Hill v. J.M. Bennett,River Hill,2009,False,70-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (losing team) - Class 3A",35,Linganore v. Patuxent,Linganore,2023,False,42-35,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (losing team) - Class 3A,38,River Hill v. Linganore,River Hill,2013,True,"SF, 41-38",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (losing team) - Class 3A,38,Franklin v. Frederick,Franklin,2021,True,"QF, 49-38",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (2 teams) - Class 3A",3,Linganore v. Magruder,,1989,False,3-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (2 teams) - Class 3A,3,Linganore v. Magruder,,1989,True,"FINAL, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (2 teams) - Class 3A,3,Wilde Lake v. Friendly,,1997,True,"SF, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (2 teams) - Class 3A,3,River Hill v. Wilde Lake,,2021,True,"RR1, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (winning team) - Class 3A",3,Linganore v. Magruder,Linganore,1989,False,3-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (winning team) - Class 3A,3,Linganore v. Magruder,Linganore,1989,True,3-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (winning team) - Class 3A,3,Wilde Lake v. Friendly,Wilde Lake,1997,True,"SF, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (winning team) - Class 3A,3,River Hill v. Wilde Lake,River Hill,2021,True,"RR1, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (post season) - Class 3A,261,Oakdale,Oakdale,2023,False,,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (2 teams) - Class 4A/3A",45,North Point v. Arundel,,2022,False,31-14,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (2 teams) - Class 4A/3A,83,Mergenthaler Vo-Tech v. Catonsville,,2022,False,"RR1, 66-17",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (winning team) - Class 4A/3A",31,North Point v. Arundel,North Point,2022,False,31-14,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (winning team) - Class 4A/3A,66,Mergenthaler Vo-Tech v. Catonsville,Mergenthaler Vo-Tech,2022,False,"RR1, 66-17",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (losing team) - Class 4A/3A",14,Arundel v. North Point,Arundel,2022,False,31-14,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (losing team) - Class 4A/3A,25,Tuscarora v. Col. Zadok Magruder,Tuscarora,2023,False,"RR1, 42-25",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (2 teams) - Class 4A/3A",21,Mergenthaler Vo-Tech v. North Point,,2023,False,14-7,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (2 teams) - Class 4A/3A,6,Arundel v. Dundalk,,2022,False,"SF, 6-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (winning team) - Class 4A/3A",14,Mergenthaler Vo-Tech v. North Point,Mergenthaler Vo-Tech,2023,False,14-7,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (winning team) - Class 4A/3A,6,Arundel v. Dundalk,Arundel,2022,True,"SF, 6-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (winning team) - Class 4A/3A,6,Mergenthaler Vo-Tech v. J.H. Blake,Mergenthaler Vo-Tech,2023,True,"SF, 6-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (post season) - Class 4A/3A,182,North Point,North Point,2023,False,,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (2 teams) - Class 4A",73,Quince Orchard v. No. Point,,2018,False,40-33,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (2 teams) - Class 4A,113,Old Mill v. Arundel,,2009,False,"RF, 58-55, 2 OT",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (winning team) - Class 4A",55,Dr. Henry A. Wise v. Howard,Dr. Henry A. Wise,2015,False,55-6,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (winning team) - Class 4A,82,Charles H. Flowers v. Northwestern (PG),Charles H. Flowers,2022,False,"RRI, 82-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Most Points, Finals (losing team) - Class 4A",35,Quince Orchard v. Old Mill,Quince Orchard,2011,False,36-35,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (losing team) - Class 4A,55,Arundel v. Old Mill,Arundel,2009,False,"RF, 58-55, 2 OT",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (2 teams) - Class 4A",6,Friendly v. High Point,,1983,True,6-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (2 teams) - Class 4A",6,Urbana v. Henry A. Wise,,2010,True,6-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (2 teams) - Class 4A,3,Churchill v. Annapolis,,1985,False,"QF, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (winning team) - Class 4A",6,Friendly v. High Point,Friendly,1983,True,6-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,"Least Points, Finals (winning team) - Class 4A",6,Urbana v. Henry A. Wise,Urbana,2010,True,6-0,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Least Points (winning team) - Class 4A,3,Churchill v. Annapolis,Churchill,1985,False,"QF, 3-0",pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most Points (post season) - Class 4A,219,"Dr. Henry A. Wise, Jr.","Dr. Henry A. Wise, Jr.",2021,False,,pdfs/FallRecordBook2024.pdf,37,2026-08-02T22:44:43Z,glm-5.2:cloud
+Football,team,Most State Championships,13,Dunbar,Dunbar,,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Consecutive State Championships,4,Urbana,Urbana,1998-2001,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Consecutive State Championships,4,Fort Hill,Fort Hill,2013-2016,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Most Playoff Appearances,38,Cambridge/South Dorchester,Cambridge/South Dorchester,"1974-2019, 2021-2024",True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Most Playoff Appearances,38,Fort Hill,Fort Hill,1974-2024,True,*No 2020 season,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Most Undefeated Teams (Overall),11,Allegany,Allegany,1936-41-42-45-48-60-71-80-83-88-05,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Undefeated Teams, Regular Season",21,Fort Hill,Fort Hill,1948-50-57-58-63-73-75-77-90-94-95-97-00-09-11-13-14-16-18-21-23,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Consecutive Undefeated Seasons (Overall),4,Urbana,Urbana,1998-2001,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Consecutive Wins,53,Damascus,Damascus,2015-2018,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Consecutive Games without a Loss,53,Damascus,Damascus,2015-2018,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Consecutive Games without a Loss,54,City College,City College,1934-41,False,Prior to formation of MPSSAA,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Longest Rivalries (in terms of games played),135,City v Polytechnic,,,False,"City 67 wins, Polytechnic 62 wins, 6 ties",pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Longest Rivalries (in Terms of Consecutive Years),121,Polytechnic v City,,1903-2024,False,*No 2020 season,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Most Overtime Periods,7,Overlea v Milford Mill,Overlea,1981,False,"Overlea 12, Milford Mill 6",pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Points, Season (13-14 Games)",682,Fort Hill,Fort Hill,2016,False,(14 Games),pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Points, Season (11-12 Games)",544,Arundel,Arundel,2009,False,(12 Games),pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Points, Season (10 or Fewer Games)",412,Smithsburg,Smithsburg,1973,False,(10 games),pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Per Game Average (Minimum 8 Games),48.45,Wicomico,Wicomico,2007,False,(533 in 11),pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Points Scored, Game",84,Cambridge/SD,Cambridge/SD,2015,False,v Snow Hill,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Most Consecutive Games Scoring,192,Fort Hill,Fort Hill,2005-2019,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Touchdowns, Season",98,Fort Hill,Fort Hill,2016,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Touchdowns, Game",13,Patterson,Patterson,1992,False,v Milford Mill,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Field Goals, Season",13,Cambridge-SD,Cambridge-SD,2010,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Field Goals, Season",13,Havre de Grace,Havre de Grace,2016,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Field Goals, Game",4,Havre de Grace,Havre de Grace,2016,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Field Goals, Game",4,Old Mill,Old Mill,2014,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Field Goals, Game",4,Oakland Mills,Oakland Mills,1996,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Field Goals, Game",4,Howard,Howard,1973,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Kicking Extra Points, Season",78,Hereford,Hereford,2007,False,(14 games),pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Kicking Extra Points, Game",12,Cambridge-SD,Cambridge-SD,2015,False,v Snow Hill,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Total Yards Gained, Season","5,868",Hereford,Hereford,2002,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Total Yards Gained, Season","5,868",Fort Hill,Fort Hill,2016,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Total Yards Gained, Game",776,C. Milton Wright,C. Milton Wright,2013,False,v Bel Air,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Rushing Yards, Season","5,086",Fort Hill,Fort Hill,2016,False,(14 games),pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Rushing Yards, Game",596,Bel Air,Bel Air,2014,False,v C. Milton Wright,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Passing Yards, Season","4,049",Westminster,Westminster,2012,False,(13 games),pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Passing Yards, Game",557,Thomas Wootton,Thomas Wootton,2013,False,v Rockville,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Passes Attempted, Season",482,Arundel,Arundel,2009,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Passes Attempted, Game",65,Brunswick,Brunswick,2011,False,v. Fort Hill,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Passes Completed, Season",312,Arundel,Arundel,2009,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Passes Completed, Game",42,Brunswick,Brunswick,2011,False,v Fort Hill,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Shutouts, Season",11,Seneca Valley,Seneca Valley,1977,True,(12 games),pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,"Most Shutouts, Season",11,River Hill,River Hill,2007,True,(14 games),pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Consecutive Shutouts,8,"Dr. Henry A. Wise, Jr.","Dr. Henry A. Wise, Jr.",2009,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,team,Consecutive Shutout Quarters,35,"Dr. Henry A. Wise, Jr.","Dr. Henry A. Wise, Jr.",2009,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Points Scored, Career",790,Tavon Austin,Dunbar,2005-08,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Points Scored, Season",346,Jake Funk,Damascus,2015,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Points Scored, Game",54,Adrian Platt,Seneca Valley,2016,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Touchdowns, Career",123,Tavon Austin,Dunbar,2005-08,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Touchdowns, Season",57,Jake Funk,Damascus,2015,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Touchdowns, Game",9,Adrian Platt,Seneca Valley,2016,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Field Goals, Career",27,Adam Green,Broadneck,2010-2012,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Field Goals, Season",14,Chris Coleman,Broadneck,2022,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Field Goals, Game",4,Clay Harris,Havre de Grace,2016,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Field Goals, Game",4,Chris Walker,Old Mill,2014,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Field Goals, Game",4,T. J. Smith,Oakland Mills,1996,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Field Goals, Game",4,Jim Fink,Howard,1973,True,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,Longest Field Goal,59,Shane West,Havre de Grace,2003,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Kicking Extra Points, Career",205,Alex Eckard,Linganore,2006-2009,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Kicking Extra Points, Season",78,Adam Yates,Hereford,2007,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Kicking Extra Points, Game",12,Tyler Harding,Cambridge-SD,2015,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Total Offensive Yards, Career","9,258",Tavon Austin,Dunbar,2005-2008,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Total Offensive Yards, Season","4,074",Billy Cosh,Arundel,2008,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Rushing Yards, Career","7,962",Tavon Austin,Dunbar,2005-2008,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Rushing Yards, Season","2,918",Isiaha Smith,South Hagerstown,2013,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Rushing Yards, Game",446,Sam Hess,Hancock,1998,False,v St. James,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Rushing Yards, Per Game Average, Season",265.3,Isiaha Smith,S. Hagerstown,2013,False,(11 Games),pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Rushing Attempts, Career",751,Morgan Green,Lackey,2002-2005,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Rushing Attempts, Season",419,Jaren Maybin,Catonsville,2005,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Rushing Attempts, Game",56,Cole Dickerson,North Harford,2016,True,v Fallston,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Rushing Attempts, Game",56,Evan Greenwood,Kent Island,2013,True,v Fallston,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Passing Yards, Career","7,433",Billy Cosh,Arundel,2007-2009,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Passing Yards, Season","3,913",Billy Cosh,Arundel,2008,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Passing Yards, Game",667,Nick Cyrus,City College,2023,False,v Poly,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Passes Attempted, Career",909,Billy Cosh,Arundel,2007-2009,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Passes Attempted, Season",480,Collin Nusbaum,Brunswick,2012,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Passes Attempted, Game",64,Billy Cosh,Arundel,2008,True,v Linganore,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Passes Attempted, Game",64,Ian Fisher,Brunswick,2011,True,v Fort Hill,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Passes Completed, Career",594,Billy Cosh,Arundel,2007-2009,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Passes Completed, Season",292,Billy Cosh,Arundel,2008,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Pass Completions, Game",41,Ian Fisher,Brunswick,2011,False,v Fort Hill,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Best Completion Percentage, Career",.693,Savan Briggs,Quince Orchard,2021-22,False,167 of 241,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Best Completion Percentage, Season (min 100 att)",.703,Michael Janis,Winston Churchill,2018,False,123/175,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Touchdown Passes, Career",112,Billy Cosh,Arundel,2007-2009,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Touchdown Passes, Season",63,Deryk Kern,Westminster,2012,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Touchdown Passes, Game",8,Chad Palmer Jr.,Westlake,2014,True,v LaPlata,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Touchdown Passes, Game",8,Chuck Reece,Rockville,2013,True,v Magruder,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Receiving Yards, Career","4,284",Miles Halbert,Northern-C,2022-24,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Receiving Yards, Season","1,955",Miles Halbert,Northern-C,2023,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Receiving Yards, Game",333,Miles Halbert,Northern-C,2023,False,v Westlake,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Receptions, Career",270,Blaine Price,Brunswick,2010-12,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Receptions, Season",134,Blaine Price,Brunswick,2012,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Receptions, Game",21,Nat Randall,North County,1999,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Receiving Touchdowns, Career",53,Ethon Williams,Broadneck,2016-18,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Receiving Touchdowns, Season",28,Ronnie Harris,Arundel,2009,False,,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Football,individual,"Most Receiving Touchdowns, Game",6,Ryder Johnston,N. Hagerstown,2023,False,v Williamsport,pdfs/FallRecordBook2024.pdf,38,2026-08-02T22:45:33Z,glm-5.2:cloud
+Volleyball,individual,Kills/Game,14,Elisa Davidson,Glenelg,1995,False,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Assists/Game,22,Jaime Pirotte,Severna Park,1992,False,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Aces/Game,6,Shannon Patrick,River Hill,1999,False,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Blocks/Game,5,Jen Thompson,C. Milton Wright,1997,True,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Blocks/Game,5,Carey Brennan,Smithsburg,1998,True,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Blocks/Game,5,Ijeoma Ekeocha,Perry Hall,2002,True,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Kills/Match,37,Elisa Davidson,Glenelg,1995,False,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Assists/Match,70,Jessica Benchoff,Williamsport,1992,False,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Aces/Match,11,Kelly Quinn,Mount Hebron,1992,False,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Blocks/Match,12,Becky Stephens,Williamsport,1992,True,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Blocks/Match,12,Ashley Olszeski,North Hagerstown,1998,True,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Points/Game,14,Megan Mitchell,River Hill,2000,False,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Points/Match,24,Shannon Patrick,River Hill,1999,False,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage/Match (25+ attempts),1.00,Jen Anderson,North Hagerstown,1998,True,"29/29, semifinal",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage/Match (25+ attempts),1.00,Casey Nogle,Smithsburg,1998,True,"29/29, semifinal",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage/Match (25+ attempts),1.00,Cara Franklin,Glenelg,1995,True,"27/27, final",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage/Match (25+ attempts),1.00,Megan Getty,Allegany,1998,True,"27/27, semifinal",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage/Match (25+ attempts),1.00,Christy Mann,North East-C,1996,True,"26/26, final",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage/Match (25+ attempts),1.00,Denise Sullivan,Williamsport,2001,True,"26/26, semifinal",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage/Match (25+ attempts),1.00,Lauren Boyd,Severna Park,1998,True,"25/25, semifinal",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage/Match (25+ attempts),1.00,Leanne Costa,Dulaney,1999,True,"25/25, semifinal",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage/Match (25+ attempts),1.00,Katy Powell,Smithsburg,2001,True,"25/25, final",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Kill Efficiency/Match (15+ attacks),.765,Emily Berman,Towson,2002,False,"13-0/17, semifinal",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Kills/Match (Sf and Final combined),49,Shannon Patrick,River Hill,1999,False,,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Assists/Match (Sf and Final combined),79,Tera Blevins,Northern-Calvert,1997,False,,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Aces/Match (Sf and Final combined),12,Robyn West,Centennial,1997,False,,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Blocks/Match (Sf and Final combined),14,Ashley Olszeski,North Hagerstown,1998,False,,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Service Points/Match (Sf and Final combined),32,Brandi Blevins,Northern-Calvert,1996,False,,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,"Service Percentage (40+ attempts, Sf and Final combined)",1.00,Stacey Carroll,Mt. Hebron,2002,False,41/41,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Kill Efficiency (Sf and Final combined),.545,Lisa Cline,Northern-Calvert,1994,True,13-1/22,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Kill Efficiency (Sf and Final combined),.545,Briana Zolak,Centennial,1997,True,20-2/33,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Kills/Game,27,Severna Park,Severna Park,1992,False,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Assists/Game,24,Severna Park,Severna Park,1992,False,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Aces/Game,9,Thomas Johnson,Thomas Johnson,1996,False,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Blocks/Game,9,Quince Orchard,Quince Orchard,1993,True,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Blocks/Game,9,Broadneck,Broadneck,2002,True,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Kills/Match,75,Severna Park,Severna Park,1992,False,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Assists/Match,73,Williamsport,Williamsport,1992,False,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Aces/Match,21,Thomas Johnson,Thomas Johnson,1996,False,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Blocks/Match,28,North Hagerstown,North Hagerstown,1998,False,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Game,0,Centennial,Centennial,1993,True,final,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Game,0,Centennial,Centennial,1997,True,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Game,0,North Hagerstown,North Hagerstown,1997,True,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Game,0,Williamsport,Williamsport,1999,True,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Game,0,Rising Sun,Rising Sun,2000,True,"twice, semifinal",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Game,0,Smithsburg,Smithsburg,2000,True,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Game,0,Northern-Calvert,Northern-Calvert,2000,True,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Game,0,Glenelg,Glenelg,2002,True,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Match,4,Francis Scott Key,Francis Scott Key,2000,False,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Service Percentage/Match,1.00,North Hagerstown,North Hagerstown,1998,False,"48/48, final",pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Kill Efficiency/Match,.718,Francis Scott Key,Francis Scott Key,1999,False,semifinal,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Kills/Match (Sf and Final combined),104,Centennial,Centennial,1996,False,,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Assists/Match (Sf and Final combined),98,Centennial,Centennial,1996,False,,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Aces/Match (Sf and Final combined),29,Centennial,Centennial,1997,False,,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Blocks/Match (Sf and Final combined),30,North Hagerstown,North Hagerstown,1998,False,,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Match (Sf and Final combined),22,Centennial,Centennial,1997,False,,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Service Percentage (Sf and Final combined),.992,Smithsburg,Smithsburg,2000,False,127/128,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,team,Kill Efficiency (Sf and Final combined),.327,Centennial,Centennial,1997,False,56-16/122,pdfs/FallRecordBook2024.pdf,74,2026-08-02T22:45:54Z,glm-5.2:cloud
+Volleyball,individual,Kills/Game,14,Jenaisya Moore,Northwest,2018,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Assists/Game,17,Lauren Locklear,Liberty,2004,True,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Assists/Game,17,Megan Frye,Francis Scott Key,2009,True,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Aces/Game,11,Taylor Belella,Smithsburg,2009,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Blocks/Game,4,Erin Mason,Gaithersburg,2005,True,f,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Blocks/Game,4,Cara Lewis,Bowie,2016,True,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Blocks/Game,4,Morgan Lowrey,Northwest,2018,True,f,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Kills/Match,42,Alex Holston,Sherwood,2012,False,"sf, 4 games",pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Assists/Match,50,Emily Bartlett,Westminster,2018,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Aces/Match,14,Hailey Jones,Perryville,2017,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Blocks/Match,8,Mary Smith,Severna Park,2014,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Service Points/Game,13,Annie Sekerak,Poolesville,2005,True,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Service Points/Game,13,Danielle Hudson,Smithsburg,2010,True,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Service Points/Match,23,Taylor Belella,Smithsburg,2009,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage/Match (25+ attempts),28/28,Staci Grabill,Williamsport,2003,True,f,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage/Match (25+ attempts),26/26,Julie Hollrah,Glenelg,2005,True,f,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Kill Efficiency/Match (15+ attacks),.684,Inge Rasmussen,Poolesville,2005,False,"sf, 14-1/19",pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Kills/Game,26,Oakdale,Oakdale,2014,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Assists/Game,18,Francis Scott Key,Francis Scott Key,2009,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Aces/Game,11,Smithsburg,Smithsburg,2009,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Blocks/Game,12,Bowie,Bowie,2004,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Kills/Match,67,River Hill,River Hill,2009,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Assists/Match,57,Rising Sun,Rising Sun,2007,True,f,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Assists/Match,57,Centennial,Centennial,2010,True,f,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Aces/Match,33,Smithsburg,Smithsburg,2014,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Blocks/Match,12,Severna Park,Severna Park,2014,True,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Blocks/Match,12,Arundel,Arundel,2019,True,f,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Fewest Points Allowed/Game,1,Smithsburg,Smithsburg,"2009, 2010, 2016",False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Game,0,Smithsburg,Smithsburg,2009,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed/Match,0,Smithsburg,Smithsburg,2016,False,sf,pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Service Percentage/Match,.986,Towson,Towson,2008,False,"sf, 73/74",pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,team,Kill Efficiency/Match,.618,Smithsburg,Smithsburg,2014,False,"sf, 25-4/34",pdfs/FallRecordBook2024.pdf,75,2026-08-02T22:46:06Z,glm-5.2:cloud
+Volleyball,individual,Kills/Match,67,Alex Holston,Sherwood,2012,False,Semifinal and Final matches combined (7 games),pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,individual,Assists,90,Kristina Swan,Centennial,2006,False,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,individual,Aces,14,Taylor Belella,Smithsburg,2009,True,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,individual,Aces,14,Payton Belella,Smithsburg,2014,True,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,individual,Blocks,14,Morgan Lowrey,Northwest,2018,False,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,individual,Service Points,34,Shkala Karzai,Glenelg,2003,False,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage (40+ attempts),1.00,Stephanie Sims,Glenelg,2003,True,Semifinal and Final matches combined (41/41),pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,individual,Service Percentage (40+ attempts),1.00,Julie Hollrah,Glenelg,2005,True,Semifinal and Final matches combined (40/40),pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,individual,Kill Efficiency (75+ attacks),.432,Jenaisya Moore,Northwest,2017,False,Semifinal and Final matches combined (59-13)/111,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,team,Kills/Match,111,Centennial,Centennial,2006,False,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,team,Assists,91,Glenelg,Glenelg,2003,True,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,team,Assists,91,Centennial,Centennial,2006,True,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,team,Aces,35,North East-Cecil,North East-Cecil,2006,True,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,team,Aces,35,Rising Sun,Rising Sun,2006,True,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,team,Blocks,18,Northwest,Northwest,2018,True,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,team,Blocks,18,Arundel,Arundel,2019,True,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,team,Fewest Points Allowed,42,Smithsburg,Smithsburg,2016,False,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,team,Fewest Service Points Allowed,9,Smithsburg,Smithsburg,2016,False,Semifinal and Final matches combined,pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,team,Service Percentage,.968,Huntingtown,Huntingtown,2007,False,Semifinal and Final matches combined (120/124),pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
+Volleyball,team,Kill Efficiency,.406,Smithsburg,Smithsburg,2014,False,Semifinal and Final matches combined (61-18/106),pdfs/FallRecordBook2024.pdf,76,2026-08-02T22:46:22Z,glm-5.2:cloud
