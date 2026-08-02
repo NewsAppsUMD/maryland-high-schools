@@ -246,6 +246,20 @@ class TestClassifiersSynthetic:
     def test_is_stat_records_negative_school_records(self):
         assert not is_stat_records("ALLEGANY\nCh: 1997, 1998\nFn: 1988")
 
+    def test_is_stat_records_bullet_cluster_no_header(self):
+        # exercises the bullet-cluster fallback in isolation (no header keyword)
+        text = ("Football All-Time Records\n"
+                "• Most Touchdowns, Season\n98 ....Fort Hill 2016\n"
+                "• Consecutive Wins\n53 ....Damascus 2015-2018\n"
+                "• Longest Winning Streak\n22 ....Suitland 1990-1992\n")
+        assert is_stat_records(text)
+
+    def test_is_stat_records_bullet_cluster_below_threshold(self):
+        text = ("Football All-Time Records\n"
+                "• Most Touchdowns, Season\n98 ....Fort Hill 2016\n"
+                "• Consecutive Wins\n53 ....Damascus 2015-2018\n")
+        assert not is_stat_records(text)
+
     def test_detect_season_fall(self):
         assert detect_season("pdfs/FallRecordBook2024.pdf") == "fall"
 
