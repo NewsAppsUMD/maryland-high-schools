@@ -1402,19 +1402,45 @@ def test_stat_records_dedup_keeps_co_holders():
     assert warns == []
 
 
-def test_stat_records_dedup_value_mismatch_warns():
+def test_stat_records_dedup_keeps_distinct_values_for_same_holder_year():
+    # `value` is part of the dedup key because ranked-list records legitimately
+    # share (record, holder, year) while differing on value: a school with both a
+    # 4-peat and a 3-peat ("Consecutive Championships"), or a player with two
+    # 34+ point games in one tournament ("34-Plus Point Scorers", same year,
+    # different point totals). These are distinct achievements, not duplicates,
+    # so both rows survive and no warning is emitted.
+    from parse_record_book import dedup, DEDUP_KEYS
+    rows = [
+        {"sport": "Boys Basketball", "category": "individual",
+         "record": "34-Plus Point Scorers", "value": "38",
+         "holder": "Jamahl Brown", "school": "Surrattsville",
+         "year": "2008", "co_holder": False, "notes": "Class 1A Semifinal"},
+        {"sport": "Boys Basketball", "category": "individual",
+         "record": "34-Plus Point Scorers", "value": "36",
+         "holder": "Jamahl Brown", "school": "Surrattsville",
+         "year": "2008", "co_holder": False, "notes": "Class 1A Final"},
+    ]
+    out, warns = dedup(rows, DEDUP_KEYS["stat_records"], "stat_records")
+    assert len(out) == 2
+    assert {r["value"] for r in out} == {"38", "36"}
+    assert warns == []
+
+
+def test_stat_records_dedup_true_duplicate_same_value_collapses():
+    # An exact duplicate (same value too) still collapses — `value` in the key
+    # only distinguishes rows whose value genuinely differs.
     from parse_record_book import dedup, DEDUP_KEYS
     rows = [
         {"sport": "Football", "category": "team", "record": "Most TDs, Season",
          "value": "98", "holder": "Fort Hill", "school": "Fort Hill",
          "year": "2016", "co_holder": False, "notes": None},
         {"sport": "Football", "category": "team", "record": "Most TDs, Season",
-         "value": "97", "holder": "Fort Hill", "school": "Fort Hill",
+         "value": "98", "holder": "Fort Hill", "school": "Fort Hill",
          "year": "2016", "co_holder": False, "notes": None},
     ]
     out, warns = dedup(rows, DEDUP_KEYS["stat_records"], "stat_records")
     assert len(out) == 1
-    assert len(warns) == 1
+    assert warns == []
 
 
 def test_stat_records_prompt_returns_schema():

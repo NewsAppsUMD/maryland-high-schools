@@ -680,7 +680,7 @@ DEDUP_KEYS: dict[str, tuple[str, ...]] = {
     "individual_results": ("sport", "event", "year", "classification"),
     "golf_results": ("year", "classification", "individual_gender"),
     "sportsmanship_awards": ("sport", "year", "classification", "school"),
-    "stat_records": ("sport", "category", "record", "holder", "year"),
+    "stat_records": ("sport", "category", "record", "holder", "value", "year"),
 }
 
 

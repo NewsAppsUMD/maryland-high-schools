@@ -74,7 +74,7 @@ TABLE_KEYS = {
     "individual_results": ("sport", "event", "year", "classification"),
     "golf_results": ("year", "classification", "individual_gender"),
     "sportsmanship_awards": ("sport", "year", "classification"),
-    "stat_records": ("sport", "category", "record", "holder", "year"),
+    "stat_records": ("sport", "category", "record", "holder", "value", "year"),
 }
 
 
