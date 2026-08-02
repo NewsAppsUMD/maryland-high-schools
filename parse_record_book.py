@@ -662,7 +662,8 @@ def classify_page(text: str, sport: str) -> set[str]:
     # routed to a mutually-exclusive route is left alone.
     if (sport == "Wrestling" and is_wrestling_weightclass(text)
             and not (routes & {"championship", "sportsmanship", "golf",
-                               "individual_xc", "individual_results"})):
+                               "individual_xc", "stat_records",
+                               "individual_results"})):
         routes.add("individual_results")
     return routes
 
