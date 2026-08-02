@@ -602,6 +602,30 @@ def is_golf_results(text: str) -> bool:
     return bool(re.search(r"Team Champion\b[^\n]*\.{3,}", text))
 
 
+def is_stat_records(text: str) -> bool:
+    """Detect all-time statistical-superlative record pages (football,
+    basketball, baseball, lacrosse, volleyball, softball): 'Most Touchdowns',
+    'Consecutive Wins', 'Dugout Chatter', 'Tournament Appearances', etc.
+
+    Distinct from year-by-year championship tables (is_year_class_table /
+    is_multicolumn_results) and event-based individual_results
+    (Athlete-School-Mark headers). Ranked lists (Tournament Appearances,
+    X-Plus Point Scorers) are included.
+    """
+    headers = (
+        r"TEAM RECORDS|INDIVIDUAL RECORDS|Tournament Records|Dugout Chatter|"
+        r"Tournament Trivia|Tournament Appearances|Plus Point Scorers|"
+        r"Stats and Records|State Tournament Records"
+    )
+    if re.search(headers, text):
+        return True
+    # cluster of record bullets: "• Most …", "• Consecutive …", "• Longest …"
+    bullets = re.findall(
+        r"^\s*•\s*(?:Most|Consecutive|Longest|Fewest|Highest|Lowest|Best)\b",
+        text, re.MULTILINE)
+    return len(bullets) >= 3
+
+
 # ── Page routing ──────────────────────────────────────────────────────────────
 # Classifiers a page can be routed to. ``school_records`` is independent — a
 # page may carry both school-record stats and a championship table; every other

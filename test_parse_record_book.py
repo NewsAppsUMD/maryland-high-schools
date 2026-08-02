@@ -39,6 +39,7 @@ from parse_record_book import (
     is_multicolumn_results,
     is_school_records,
     is_sportsmanship,
+    is_stat_records,
     is_wrestling_weightclass,
     is_year_class_table,
     load_page_titles,
@@ -212,6 +213,38 @@ class TestClassifiersSynthetic:
 
     def test_is_school_records_uppercase(self):
         assert is_school_records("Aberdeen (16, 7-15)\nCH: 2003 (2AE)")
+
+    def test_is_stat_records_football_bullets(self):
+        text = ("TEAM RECORDS\n• Most State Championships\n13 ....Dunbar\n"
+                "• Consecutive Wins\n53 ....Damascus 2015-2018\n"
+                "• Most Touchdowns, Season\n98 ....Fort Hill 2016\n")
+        assert is_stat_records(text)
+
+    def test_is_stat_records_basketball_headers(self):
+        text = ("Girls Tournament Records\nINDIVIDUAL RECORDS\n"
+                "MOST POINTS - final game\n48 - Janet Flora, Loch Raven 1976\n")
+        assert is_stat_records(text)
+
+    def test_is_stat_records_baseball_dugout(self):
+        text = ("Dugout Chatter - Hits, Runs and Records\nRuns Scored\n"
+                "Season ..............................331 ..Bowie 2016\n")
+        assert is_stat_records(text)
+
+    def test_is_stat_records_appearances_list(self):
+        text = ("Boys Tournament Trivia\nTournament Appearances (10 minimum)\n"
+                "29 ............Wicomico\n28 ............Annapolis\n")
+        assert is_stat_records(text)
+
+    def test_is_stat_records_negative_championship_table(self):
+        assert not is_stat_records("YEAR CLASS CHAMPION COACH FINALIST COACH\n"
+                                   "1975 1st DuVal - Beverly Bigham\n")
+
+    def test_is_stat_records_negative_individual_results(self):
+        # event-based individual_results use Athlete—School—Mark, not stat headers
+        assert not is_stat_records("Athlete—School—Mark\n100 m Dash\n")
+
+    def test_is_stat_records_negative_school_records(self):
+        assert not is_stat_records("ALLEGANY\nCh: 1997, 1998\nFn: 1988")
 
     def test_detect_season_fall(self):
         assert detect_season("pdfs/FallRecordBook2024.pdf") == "fall"
