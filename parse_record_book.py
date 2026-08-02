@@ -1410,6 +1410,7 @@ def main(argv=None) -> None:
         "individual_results": all_individual,
         "golf_results": all_golf,
         "sportsmanship_awards": all_sportsmanship,
+        "stat_records": all_stat_records,
     }
     tables: dict[str, list[dict]] = {}
     warnings: list[str] = []
@@ -1467,6 +1468,12 @@ def main(argv=None) -> None:
              "individual_winner_name", "individual_winner_school",
              "individual_score", "individual_gender"] + pf,
         )
+    write_csv(
+        out_dir / "stat_records.csv",
+        tables["stat_records"],
+        ["sport", "category", "record", "value", "holder", "school",
+         "year", "co_holder", "notes"] + pf,
+    )
 
     record_book = {
         "meta": {
@@ -1481,6 +1488,7 @@ def main(argv=None) -> None:
         "individual_results": tables["individual_results"],
         "sportsmanship_awards": tables["sportsmanship_awards"],
         "golf_results": tables["golf_results"],
+        "stat_records": tables["stat_records"],
     }
     json_path = out_dir / "record_book.json"
     json_path.parent.mkdir(parents=True, exist_ok=True)
