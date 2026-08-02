@@ -631,7 +631,7 @@ def is_stat_records(text: str) -> bool:
 # page may carry both school-record stats and a championship table; every other
 # route is mutually exclusive, evaluated in priority order below.
 
-ROUTE_ORDER = ("golf", "sportsmanship", "individual_results", "individual_xc", "championship")
+ROUTE_ORDER = ("golf", "sportsmanship", "individual_results", "individual_xc", "stat_records", "championship")
 
 
 def classify_page(text: str, sport: str) -> set[str]:
@@ -652,6 +652,8 @@ def classify_page(text: str, sport: str) -> set[str]:
         routes.add("individual_results")
     elif is_individual_xc(text):
         routes.add("individual_xc")
+    elif is_stat_records(text):
+        routes.add("stat_records")
     elif is_year_class_table(text) or is_multicolumn_results(text):
         routes.add("championship")
     # Wrestling weight-class champion pages have no table header, so the

@@ -940,6 +940,27 @@ class TestClassifyPage:
         assert "golf" in classify_page(fall_pages[51], "Golf")
         assert "golf" in classify_page(fall_pages[52], "Golf")
 
+    def test_classify_stat_records_football(self):
+        text = ("TEAM RECORDS\n• Most State Championships\n13 ....Dunbar\n"
+                "• Consecutive Wins\n53 ....Damascus 2015-2018\n"
+                "• Most Touchdowns, Season\n98 ....Fort Hill 2016\n")
+        routes = classify_page(text, "Football")
+        assert "stat_records" in routes
+        assert "championship" not in routes
+
+    def test_classify_stat_records_does_not_steal_championship(self):
+        # a year-class championship table must still route to championship
+        text = "YEAR CLASS CHAMPION COACH FINALIST COACH\n1975 B Bates-53 Worcester-26\n"
+        routes = classify_page(text, "Football")
+        assert "championship" in routes
+        assert "stat_records" not in routes
+
+    def test_classify_stat_records_does_not_steal_individual_results(self):
+        text = ("Athlete—School—Mark\n1990 4A 100 m Dash 10.4 John, School 10.4\n")
+        routes = classify_page(text, "Boys Track and Field")
+        assert "individual_results" in routes
+        assert "stat_records" not in routes
+
 
 # ── dedup() ───────────────────────────────────────────────────────────────────
 
