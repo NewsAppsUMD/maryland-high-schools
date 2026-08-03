@@ -18,12 +18,19 @@ C. M. Wright,C. Milton Wright
 C.M. Wright,C. Milton Wright
 E. Roosevelt,Eleanor Roosevelt
 R. Montgomery,Richard Montgomery
-Balto. Polytechnic,Baltimore Polytechnic
-Baltimore Poly. Inst.,Baltimore Polytechnic
+Balto. Polytechnic,Baltimore Polytechnic Institute
+Baltimore Polytechnic,Baltimore Polytechnic Institute
+Baltimore Poly. Inst.,Baltimore Polytechnic Institute
+Baltimore Polytechnic Inst.,Baltimore Polytechnic Institute
+Balto. Polytechnic Institute,Baltimore Polytechnic Institute
+Balto. Poly,Baltimore Polytechnic Institute
+Polytechnic,Baltimore Polytechnic Institute
 Mergenthaler Vo-Tech,Mergenthaler
 Mervo,Mergenthaler
 Baltimore City College,City College
 City Coll.,City College
+Bethesda-CC,Bethesda-Chevy Chase
+Bethesda C-C,Bethesda-Chevy Chase
 
 # --- Extraction typos / spelling variants (normalized so the site merges them;
 # these are LLM spelling errors in individual_results/championships, not source
