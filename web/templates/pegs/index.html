@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Story pegs &mdash; Maryland HS Sports Record Book{% endblock %}
+{% block content %}
+<h1>Story pegs</h1>
+<p class="muted">Precomputed angles for local newsrooms, all derived from the MPSSAA record
+  books. Each links back to the source PDF page.</p>
+<ul class="peg-list">
+  <li><a href="{{ root }}pegs/droughts/index.html">Title droughts</a> —
+    longest active championship droughts, overall and per sport ({{ droughts }} schools).</li>
+  <li><a href="{{ root }}pegs/streaks/index.html">Streaks &amp; dynasties</a> —
+    longest consecutive-title runs and active streaks entering next season ({{ streaks }} dynasties).</li>
+  <li><a href="{{ root }}pegs/never-won/index.html">Never won</a> —
+    schools that have reached a final but never won a title, and schools with no championship history.</li>
+  <li><a href="{{ root }}pegs/first-title-watch/index.html">First-title watch</a> —
+    recent finalists still chasing their first title in a sport ({{ watch }} candidates).</li>
+  <li><a href="{{ root }}pegs/anniversaries/index.html">Anniversaries</a> —
+    round-number title anniversaries (25/50/75/100 yrs) falling this season ({{ anniversaries }}).</li>
+</ul>
+<p class="muted">Machine-readable: each peg has a matching <code>.json</code> file in this directory.</p>
+{% endblock %}

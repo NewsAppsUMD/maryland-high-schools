@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}First-title watch &mdash; Maryland HS Sports Record Book{% endblock %}
+{% block content %}
+<h1>First-title watch</h1>
+<p class="muted">Schools that reached a state final in the most recent season
+  ({{ data.latest_year }}) but have never won a title in that sport — first-title
+  candidates to watch next season.</p>
+{% if data.candidates %}
+<table class="results">
+  <thead><tr><th>School</th><th>Sport</th><th>Class</th><th>Year</th></tr></thead>
+  <tbody>
+  {% for r in data.candidates %}
+    <tr>
+      <td><a href="{{ root }}schools/{{ r.slug }}/index.html">{{ r.school }}</a></td>
+      <td>{{ r.sport }}</td>
+      <td>{{ r.classification or '' }}</td>
+      <td>{{ r.year }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p class="muted">No qualifying finalists in {{ data.latest_year }}.</p>
+{% endif %}
+{% endblock %}

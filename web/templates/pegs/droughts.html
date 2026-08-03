@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}Title droughts &mdash; Maryland HS Sports Record Book{% endblock %}
+{% block content %}
+<h1>Title droughts</h1>
+<p class="muted">Years since each school's last state title, anchored to the most recent
+  championship season in the data ({{ data.current_year }}). A drought of 0 means reigning.</p>
+
+<h2>Overall longest active droughts</h2>
+<table class="results">
+  <thead><tr><th>#</th><th>School</th><th class="num">Last title</th><th class="num">Years since</th></tr></thead>
+  <tbody>
+  {% for r in data.overall[:50] %}
+    <tr>
+      <td class="num">{{ loop.index }}</td>
+      <td><a href="{{ root }}schools/{{ r.slug }}/index.html">{{ r.school }}</a></td>
+      <td class="num">{{ r.last_title }}</td>
+      <td class="num">{{ r.drought }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+<h2>Per-sport longest active droughts</h2>
+<table class="results">
+  <thead><tr><th>School</th><th>Sport</th><th class="num">Last title</th><th class="num">Years since</th></tr></thead>
+  <tbody>
+  {% for r in data.per_sport[:50] %}
+    <tr>
+      <td><a href="{{ root }}schools/{{ r.slug }}/index.html">{{ r.school }}</a></td>
+      <td>{{ r.sport }}</td>
+      <td class="num">{{ r.last_title }}</td>
+      <td class="num">{{ r.drought }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

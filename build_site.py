@@ -573,11 +573,23 @@ def render_timeline_svg(titles: list[dict], *, width: int = 760,
 
 
 # ── Citation helper ──────────────────────────────────────────────────────────
+def pdf_label(pdf: str) -> str:
+    """Human label for a source PDF: 'FallRecordBook2024.pdf' -> 'Fall Record Book 2024'."""
+    stem = Path(pdf).stem if pdf else ""
+    # Split camelCase: insert a space before each uppercase letter past the first.
+    stem = re.sub(r"(?<!^)(?=[A-Z])", " ", stem)
+    # Separate a trailing 4-digit year: 'Book 2024' (already split) or 'Book2024'.
+    stem = re.sub(r"(?<=\D)(\d{4})$", r" \1", stem)
+    # Normalize 'record book' (any casing/spacing) to 'Record Book'.
+    stem = re.sub(r"(?i)record\s*book", "Record Book", stem)
+    return re.sub(r"\s+", " ", stem).strip()
+
+
 def cite_str(row: dict) -> str:
     """'p. 37, Fall Record Book 2024' or 'pp. 37–38, Fall Record Book 2024'."""
     pdf = row.get("source_pdf", "")
     pages = sorted(set(row.get("source_pages") or []))
-    label = re.sub(r"(?i)record\s*book", "Record Book", Path(pdf).stem) if pdf else ""
+    label = pdf_label(pdf)
     if not pages:
         return label
     if len(pages) == 1:
@@ -727,6 +739,191 @@ def school_json(school: School) -> dict:
     }
 
 
+# ── Peg computations (story angles) ──────────────────────────────────────────
+# Pure functions over the unified school index: droughts, streaks, never-won,
+# first-title watch, and round-number anniversaries. All deterministic.
+
+_ANNIVERSARY_YEARS = (25, 50, 75, 100)
+
+
+def _longest_consecutive_run(years: list[int]) -> tuple[int, int | None, int | None]:
+    """Return (length, start, end) of the longest run of consecutive years."""
+    yrs = sorted(set(y for y in years if y is not None))
+    if not yrs:
+        return 0, None, None
+    best_len, best_start, best_end = 1, yrs[0], yrs[0]
+    cur_start, cur_len = yrs[0], 1
+    for i in range(1, len(yrs)):
+        if yrs[i] == yrs[i - 1] + 1:
+            cur_len += 1
+        else:
+            if cur_len > best_len:
+                best_len, best_start, best_end = cur_len, cur_start, yrs[i - 1]
+            cur_start, cur_len = yrs[i], 1
+    if cur_len > best_len:
+        best_len, best_start, best_end = cur_len, cur_start, yrs[-1]
+    return best_len, best_start, best_end
+
+
+def _latest_year(registry: SchoolRegistry) -> int:
+    years = [t.get("year") for s in registry.by_key.values() for t in s.titles if t.get("year")]
+    years += [f.get("year") for s in registry.by_key.values() for f in s.finals if f.get("year")]
+    years = [y for y in years if y is not None]
+    return max(years) if years else 2025
+
+
+def compute_droughts(registry: SchoolRegistry, current_year: int | None = None) -> dict:
+    """Active title droughts: years since a school's last title.
+
+    ``overall`` is per school (last title in any sport); ``per_sport`` is per
+    (school, sport). Sorted by drought length descending.
+    """
+    if current_year is None:
+        current_year = _latest_year(registry)
+    overall, per_sport = [], []
+    for s in registry.by_key.values():
+        if not s.titles:
+            continue
+        last = max(t["year"] for t in s.titles if t.get("year") is not None)
+        overall.append({"school": s.display_name, "slug": s.slug,
+                        "last_title": last, "drought": current_year - last})
+        by_sport: dict[str, list[int]] = defaultdict(list)
+        for t in s.titles:
+            by_sport[t["sport"]].append(t["year"])
+        for sport, yrs in by_sport.items():
+            last = max(yrs)
+            per_sport.append({"school": s.display_name, "slug": s.slug, "sport": sport,
+                              "last_title": last, "drought": current_year - last})
+    overall.sort(key=lambda r: (-r["drought"], r["school"]))
+    per_sport.sort(key=lambda r: (-r["drought"], r["sport"], r["school"]))
+    return {"current_year": current_year, "overall": overall, "per_sport": per_sport}
+
+
+def compute_streaks(registry: SchoolRegistry) -> dict:
+    """Longest consecutive-title runs per (school, sport) + active streaks.
+
+    A streak is consecutive calendar years with a title in the same sport.
+    ``active`` streaks are those ending at the latest title year in the data.
+    """
+    latest = _latest_year(registry)
+    runs, active = [], []
+    for s in registry.by_key.values():
+        by_sport: dict[str, list[int]] = defaultdict(list)
+        for t in s.titles:
+            by_sport[t["sport"]].append(t["year"])
+        for sport, yrs in by_sport.items():
+            length, start, end = _longest_consecutive_run(yrs)
+            if length >= 2:
+                runs.append({"school": s.display_name, "slug": s.slug, "sport": sport,
+                             "length": length, "start": start, "end": end})
+            if yrs and max(yrs) == latest and length >= 2 and end == latest:
+                active.append({"school": s.display_name, "slug": s.slug, "sport": sport,
+                               "length": length, "start": start, "end": end})
+    runs.sort(key=lambda r: (-r["length"], r["sport"], r["school"]))
+    active.sort(key=lambda r: (-r["length"], r["sport"], r["school"]))
+    return {"latest_year": latest, "dynasties": runs, "active": active}
+
+
+def compute_never_won(registry: SchoolRegistry) -> dict:
+    """Schools that have reached a final but never won, and schools with no
+    championship history at all."""
+    reached_final_no_title = []
+    no_title_any_sport = []
+    no_history = []
+    for s in registry.by_key.values():
+        has_title = bool(s.titles)
+        # finalist_years comes from school_records (all seasons).
+        finalist_years = {y for r in s.school_record_rows
+                          for y in (r.get("finalist_years") or [])}
+        has_final = bool(s.finals) or bool(finalist_years)
+        if not has_title and has_final:
+            no_title_any_sport.append({
+                "school": s.display_name, "slug": s.slug,
+                "finals": len(s.finals) + len(finalist_years),
+            })
+        if not has_title and not has_final:
+            no_history.append({"school": s.display_name, "slug": s.slug})
+        # per-sport: reached a final in a sport, never won that sport
+        rec_by_sport = {r["sport"]: r for r in s.school_record_rows}
+        for sport, rec in rec_by_sport.items():
+            fy = rec.get("finalist_years") or []
+            cy = rec.get("champion_years") or []
+            if fy and not cy:
+                reached_final_no_title.append({
+                    "school": s.display_name, "slug": s.slug, "sport": sport,
+                    "finalist_years": sorted(fy),
+                })
+    no_title_any_sport.sort(key=lambda r: (-r["finals"], r["school"]))
+    reached_final_no_title.sort(key=lambda r: (r["sport"], r["school"]))
+    no_history.sort(key=lambda r: r["school"])
+    return {"reached_final_no_title": reached_final_no_title,
+            "no_title_any_sport": no_title_any_sport, "no_history": no_history}
+
+
+def compute_first_title_watch(registry: SchoolRegistry) -> dict:
+    """Most-recent-season finalists who have never won a title in that sport."""
+    latest = _latest_year(registry)
+    candidates = []
+    for s in registry.by_key.values():
+        titles_by_sport = {t["sport"] for t in s.titles}
+        for f in s.finals:
+            if f.get("year") != latest:
+                continue
+            sport = f.get("sport")
+            if sport and sport not in titles_by_sport:
+                candidates.append({
+                    "school": s.display_name, "slug": s.slug, "sport": sport,
+                    "year": latest, "classification": f.get("classification"),
+                })
+    # De-dup (a school could appear twice across seasons in the same sport).
+    seen, unique = set(), []
+    for c in candidates:
+        key = (c["slug"], c["sport"])
+        if key in seen:
+            continue
+        seen.add(key)
+        unique.append(c)
+    unique.sort(key=lambda r: (r["sport"], r["school"]))
+    return {"latest_year": latest, "candidates": unique}
+
+
+def compute_anniversaries(registry: SchoolRegistry, current_year: int | None = None) -> dict:
+    """Round-number title anniversaries (25/50/75/100 yrs) falling in the
+    latest championship year. Each entry carries its PDF citation.
+
+    The record books carry years but no dates, so entries are keyed by
+    anniversary year rather than calendar week; the page presents them as
+    'this season's round-number anniversaries.'
+    """
+    if current_year is None:
+        current_year = _latest_year(registry)
+    targets = {current_year - a: a for a in _ANNIVERSARY_YEARS}
+    out = []
+    for s in registry.by_key.values():
+        for t in s.titles:
+            y = t.get("year")
+            if y in targets:
+                out.append({
+                    "school": s.display_name, "slug": s.slug, "sport": t["sport"],
+                    "year": y, "anniversary": targets[y],
+                    "classification": t.get("classification"),
+                    "citation": cite_str(t),
+                })
+    out.sort(key=lambda r: (-r["anniversary"], r["sport"], r["school"]))
+    return {"current_year": current_year, "anniversaries": out}
+
+
+def compute_pegs(registry: SchoolRegistry) -> dict:
+    """All story-peg computations in one bundle."""
+    return {
+        "droughts": compute_droughts(registry),
+        "streaks": compute_streaks(registry),
+        "never_won": compute_never_won(registry),
+        "first_title_watch": compute_first_title_watch(registry),
+        "anniversaries": compute_anniversaries(registry),
+    }
+
+
 # ── Rendering ────────────────────────────────────────────────────────────────
 def _jinja_env() -> "jinja2.Environment":
     import jinja2
@@ -788,11 +985,50 @@ def build_site(registry: SchoolRegistry, report: dict, out_dir: Path) -> dict:
         (schools_dir / f"{school.slug}.json").write_text(
             json.dumps(school_json(school), indent=2), encoding="utf-8")
 
+    # Story pegs.
+    peg_pages = build_pegs(registry, out_dir, root)
+
     return {
         "schools": len(schools),
-        "pages": len(schools) + 2,  # school pages + home + index
-        "json_files": len(schools) + 1,  # per-school + schools-index
+        "pages": len(schools) + 2 + peg_pages,  # schools + home + index + pegs
+        "json_files": len(schools) + 1 + 5,     # per-school + index + 5 peg JSON
     }
+
+
+def build_pegs(registry: SchoolRegistry, out_dir: Path, root: str) -> int:
+    """Render the story-peg pages + JSON. Returns number of pages rendered."""
+    env = _jinja_env()
+    pegs = compute_pegs(registry)
+    pegs_dir = out_dir / "pegs"
+    pegs_dir.mkdir(parents=True, exist_ok=True)
+
+    # Peg index.
+    (pegs_dir / "index.html").write_text(
+        env.get_template("pegs/index.html").render(
+            root=root,
+            droughts=len(pegs["droughts"]["overall"]),
+            streaks=len(pegs["streaks"]["dynasties"]),
+            watch=len(pegs["first_title_watch"]["candidates"]),
+            anniversaries=len(pegs["anniversaries"]["anniversaries"]),
+        ), encoding="utf-8")
+
+    # One page + one JSON each. (page_root is ../../ for /pegs/<name>/index.html)
+    pages = [
+        ("droughts", "droughts.html", pegs["droughts"]),
+        ("streaks", "streaks.html", pegs["streaks"]),
+        ("never-won", "never_won.html", pegs["never_won"]),
+        ("first-title-watch", "first_title.html", pegs["first_title_watch"]),
+        ("anniversaries", "anniversaries.html", pegs["anniversaries"]),
+    ]
+    for slug, tmpl, data in pages:
+        sub = pegs_dir / slug
+        sub.mkdir(parents=True, exist_ok=True)
+        (sub / "index.html").write_text(
+            env.get_template(f"pegs/{tmpl}").render(root="../../", data=data),
+            encoding="utf-8")
+        (pegs_dir / f"{slug.replace('-', '_')}.json").write_text(
+            json.dumps(data, indent=2), encoding="utf-8")
+    return len(pages) + 1  # 5 peg pages + index
 
 
 def _relative_root() -> str:

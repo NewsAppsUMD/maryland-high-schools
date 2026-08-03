@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}Never won &mdash; Maryland HS Sports Record Book{% endblock %}
+{% block content %}
+<h1>Never won</h1>
+
+<h2>Reached a final but never won a title (per sport)</h2>
+<table class="results">
+  <thead><tr><th>School</th><th>Sport</th><th>Finalist years</th></tr></thead>
+  <tbody>
+  {% for r in data.reached_final_no_title %}
+    <tr>
+      <td><a href="{{ root }}schools/{{ r.slug }}/index.html">{{ r.school }}</a></td>
+      <td>{{ r.sport }}</td>
+      <td>{{ r.finalist_years|join(', ') }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+<h2>Schools with the most finals appearances and no title</h2>
+<table class="results">
+  <thead><tr><th>School</th><th class="num">Finals appearances</th></tr></thead>
+  <tbody>
+  {% for r in data.no_title_any_sport[:50] %}
+    <tr>
+      <td><a href="{{ root }}schools/{{ r.slug }}/index.html">{{ r.school }}</a></td>
+      <td class="num">{{ r.finals }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+{% if data.no_history %}
+<h2>Schools with no championship history on file</h2>
+<p class="muted">{{ data.no_history|length }} schools appear in the record books (individual
+  champions, sportsmanship, or stat records) but have no team championship or finals appearance.</p>
+<p class="mutedschools">
+  {% for r in data.no_history %}<a href="{{ root }}schools/{{ r.slug }}/index.html">{{ r.school }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+</p>
+{% endif %}
+{% endblock %}

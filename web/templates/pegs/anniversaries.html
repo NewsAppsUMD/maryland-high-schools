@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}Anniversaries &mdash; Maryland HS Sports Record Book{% endblock %}
+{% block content %}
+<h1>This season's round-number anniversaries</h1>
+<p class="muted">Title anniversaries (25/50/75/100 years) falling in the most recent
+  championship season ({{ data.current_year }}). The record books carry years but no
+  dates, so these are keyed by anniversary year, not calendar week.</p>
+{% if data.anniversaries %}
+<table class="results">
+  <thead><tr><th class="num">Years</th><th>Original year</th><th>School</th><th>Sport</th><th>Class</th><th>Source</th></tr></thead>
+  <tbody>
+  {% for r in data.anniversaries %}
+    <tr>
+      <td class="num">{{ r.anniversary }}</td>
+      <td>{{ r.year }}</td>
+      <td><a href="{{ root }}schools/{{ r.slug }}/index.html">{{ r.school }}</a></td>
+      <td>{{ r.sport }}</td>
+      <td>{{ r.classification or '' }}</td>
+      <td class="cite">{{ r.citation }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p class="muted">No round-number anniversaries this season.</p>
+{% endif %}
+{% endblock %}

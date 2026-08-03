@@ -11,12 +11,21 @@ import pytest
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from build_site import (
     _base_normalize,
+    _longest_consecutive_run,
     best_display_name,
     build_school_index,
+    cite_str,
+    compute_anniversaries,
+    compute_droughts,
+    compute_first_title_watch,
+    compute_never_won,
+    compute_pegs,
+    compute_streaks,
     fast_facts_paragraph,
     load_aliases,
     load_books,
     make_normalizer,
+    pdf_label,
     render_timeline_svg,
     schools_index_json,
     slugify,
@@ -25,6 +34,30 @@ from build_site import (
 
 ALIAS_MAP, CANON_DISPLAY = load_aliases()
 NORM = make_normalizer(ALIAS_MAP)
+
+
+# ── Citation helper ──────────────────────────────────────────────────────────
+class TestCiteStr:
+    def test_camelcase_pdf_label(self):
+        assert pdf_label("FallRecordBook2024.pdf") == "Fall Record Book 2024"
+        assert pdf_label("pdfs/Winter record book.pdf") == "Winter Record Book"
+        assert pdf_label("Spring record book 2025.pdf") == "Spring Record Book 2025"
+
+    def test_single_page(self):
+        assert cite_str({"source_pdf": "FallRecordBook2024.pdf", "source_pages": [37]}) == \
+            "p. 37, Fall Record Book 2024"
+
+    def test_contiguous_range(self):
+        assert cite_str({"source_pdf": "FallRecordBook2024.pdf", "source_pages": [37, 38]}) == \
+            "pp. 37–38, Fall Record Book 2024"
+
+    def test_scattered_pages(self):
+        assert cite_str({"source_pdf": "FallRecordBook2024.pdf", "source_pages": [37, 39]}) == \
+            "pp. 37, 39, Fall Record Book 2024"
+
+    def test_no_pages(self):
+        assert cite_str({"source_pdf": "FallRecordBook2024.pdf", "source_pages": []}) == \
+            "Fall Record Book 2024"
 
 
 # ── base normalization ───────────────────────────────────────────────────────
@@ -322,3 +355,112 @@ class TestCanonicalDisplayName:
         r, _ = index
         bpi = r.lookup("Baltimore Polytechnic Institute")
         assert bpi.display_name == "Baltimore Polytechnic Institute"
+
+
+# ── Peg computations ─────────────────────────────────────────────────────────
+class TestLongestConsecutiveRun:
+    def test_simple_run(self):
+        assert _longest_consecutive_run([1990, 1991, 1992, 1994, 1995]) == (3, 1990, 1992)
+
+    def test_single_year(self):
+        assert _longest_consecutive_run([2000]) == (1, 2000, 2000)
+
+    def test_empty(self):
+        assert _longest_consecutive_run([]) == (0, None, None)
+
+    def test_no_consecutive(self):
+        length, start, end = _longest_consecutive_run([1990, 1992, 1995])
+        assert length == 1 and start == 1990 and end == 1990
+
+    def test_dedups_repeats(self):
+        # Repeated years (e.g. co-champions same year) don't extend a streak.
+        assert _longest_consecutive_run([2010, 2010, 2011, 2012]) == (3, 2010, 2012)
+
+
+class TestComputeDroughts:
+    def test_sorted_descending_and_nonnegative(self, index):
+        r, _ = index
+        d = compute_droughts(r)
+        droughts = [x["drought"] for x in d["overall"]]
+        assert droughts == sorted(droughts, reverse=True)
+        assert all(x >= 0 for x in droughts)
+
+    def test_reigning_school_has_zero_drought(self, index):
+        r, _ = index
+        d = compute_droughts(r)
+        alleg = next(x for x in d["overall"] if x["school"] == "Allegany")
+        assert alleg["drought"] == 0  # last title 2025, current_year 2025
+
+    def test_current_year_anchored_to_data(self, index):
+        r, _ = index
+        d = compute_droughts(r)
+        assert d["current_year"] == 2025
+
+    def test_per_sport_has_sport_field(self, index):
+        r, _ = index
+        d = compute_droughts(r)
+        assert all("sport" in x for x in d["per_sport"])
+        assert d["per_sport"]
+
+
+class TestComputeStreaks:
+    def test_dynasties_length_at_least_two(self, index):
+        r, _ = index
+        s = compute_streaks(r)
+        assert all(x["length"] >= 2 for x in s["dynasties"])
+
+    def test_dynasties_sorted_desc(self, index):
+        r, _ = index
+        s = compute_streaks(r)
+        lens = [x["length"] for x in s["dynasties"]]
+        assert lens == sorted(lens, reverse=True)
+
+    def test_active_ends_at_latest_year(self, index):
+        r, _ = index
+        s = compute_streaks(r)
+        for a in s["active"]:
+            assert a["end"] == s["latest_year"]
+
+
+class TestComputeNeverWon:
+    def test_reached_final_no_title_has_years(self, index):
+        r, _ = index
+        nw = compute_never_won(r)
+        assert all(e["finalist_years"] for e in nw["reached_final_no_title"])
+
+    def test_no_title_any_sport_sorted_by_finals(self, index):
+        r, _ = index
+        nw = compute_never_won(r)
+        finals = [e["finals"] for e in nw["no_title_any_sport"]]
+        assert finals == sorted(finals, reverse=True)
+
+
+class TestComputeFirstTitleWatch:
+    def test_candidates_are_latest_year_and_titleless(self, index):
+        r, _ = index
+        ft = compute_first_title_watch(r)
+        for c in ft["candidates"]:
+            assert c["year"] == ft["latest_year"]
+
+
+class TestComputeAnniversaries:
+    def test_anniversaries_are_round(self, index):
+        r, _ = index
+        a = compute_anniversaries(r)
+        assert all(e["anniversary"] in (25, 50, 75, 100) for e in a["anniversaries"])
+        # year + anniversary == current_year
+        for e in a["anniversaries"]:
+            assert e["year"] + e["anniversary"] == a["current_year"]
+
+    def test_each_has_citation(self, index):
+        r, _ = index
+        a = compute_anniversaries(r)
+        assert all(e["citation"] for e in a["anniversaries"])
+
+
+class TestComputePegs:
+    def test_has_all_sections(self, index):
+        r, _ = index
+        p = compute_pegs(r)
+        assert set(p) == {"droughts", "streaks", "never_won",
+                          "first_title_watch", "anniversaries"}

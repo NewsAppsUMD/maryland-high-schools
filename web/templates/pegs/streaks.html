@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}Streaks &amp; dynasties &mdash; Maryland HS Sports Record Book{% endblock %}
+{% block content %}
+<h1>Streaks &amp; dynasties</h1>
+<p class="muted">Longest runs of consecutive state titles in the same sport. Active streaks
+  are those still alive entering the next season (latest title year: {{ data.latest_year }}).</p>
+
+<h2>Longest dynasties</h2>
+<table class="results">
+  <thead><tr><th>#</th><th>School</th><th>Sport</th><th class="num">Length</th><th>Span</th></tr></thead>
+  <tbody>
+  {% for r in data.dynasties[:50] %}
+    <tr>
+      <td class="num">{{ loop.index }}</td>
+      <td><a href="{{ root }}schools/{{ r.slug }}/index.html">{{ r.school }}</a></td>
+      <td>{{ r.sport }}</td>
+      <td class="num">{{ r.length }}</td>
+      <td>{{ r.start }}–{{ r.end }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+{% if data.active %}
+<h2>Active streaks entering next season</h2>
+<table class="results">
+  <thead><tr><th>School</th><th>Sport</th><th class="num">Length</th><th>Since</th></tr></thead>
+  <tbody>
+  {% for r in data.active %}
+    <tr>
+      <td><a href="{{ root }}schools/{{ r.slug }}/index.html">{{ r.school }}</a></td>
+      <td>{{ r.sport }}</td>
+      <td class="num">{{ r.length }}</td>
+      <td>{{ r.start }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+{% endblock %}
