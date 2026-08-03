@@ -269,9 +269,11 @@ class TestRenderTimelineSvg:
 
     def test_decade_gridlines_present(self):
         svg = render_timeline_svg(self.TITLES)
-        # 1990, 2000, 2010 decade lines should appear within the 1992-2010 range.
-        assert "1990" in svg and "2000" in svg and "2010" in svg
-        assert svg.count('class="tl-grid"') >= 3
+        # Range is 1992-2010. 1990 sits left of year_min and is suppressed so
+        # it doesn't cross the sport-label zone; 2000 and 2010 appear.
+        assert "1990" not in svg
+        assert "2000" in svg and "2010" in svg
+        assert svg.count('class="tl-grid"') >= 2
 
     def test_sport_labels_rendered(self):
         svg = render_timeline_svg(self.TITLES)
@@ -294,6 +296,33 @@ class TestRenderTimelineSvg:
         svg = render_timeline_svg([{"sport": "Track & Field", "year": 2000}])
         assert "Track &amp; Field" in svg
         assert "Track & Field<" not in svg  # no raw ampersand inside an element
+
+    def test_long_sport_label_not_clipped(self):
+        """Right-anchored sport labels must fit inside the viewBox left edge.
+
+        Regression: 'Boys Swimming & Diving' (22 chars) right-anchored at a
+        fixed x=36 extended to ~x=-72 and was clipped. The left padding must
+        grow with the longest label so its left edge stays >= 0.
+        """
+        import re as _re
+        sport = "Boys Swimming & Diving"
+        svg = render_timeline_svg([{"sport": sport, "year": 2010}])
+        m = _re.search(r'<text class="tl-sport" x="([\d.]+)"', svg)
+        assert m, "no sport label found"
+        x_attr = float(m.group(1))
+        # Right-anchored text spans [x - width, x]; require x >= width estimate
+        # so the left edge is >= 0 (inside the viewBox).
+        assert x_attr >= len(sport) * 6, f"label x={x_attr} clips {len(sport)}-char sport"
+
+    def test_decades_before_year_min_suppressed(self):
+        """A decade boundary below year_min must not appear on the axis."""
+        import re as _re
+        # year_min=1992 → 1990 gridline is left of the plot and suppressed.
+        svg = render_timeline_svg(self.TITLES)
+        years_on_axis = [int(y) for y in _re.findall(
+            r'<text class="tl-axis"[^>]*>(\d+)</text>', svg)]
+        assert 1990 not in years_on_axis
+        assert 2000 in years_on_axis
 
 
 # ── Fast-facts paragraph generator ───────────────────────────────────────────

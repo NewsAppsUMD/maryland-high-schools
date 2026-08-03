@@ -531,20 +531,29 @@ def render_timeline_svg(titles: list[dict], *, width: int = 760,
     # One swimlane per sport, sorted alphabetically for stable layout.
     sports = sorted({t["sport"] for t in titles})
     sport_y = {s: padding + i * row_height for i, s in enumerate(sports)}
-    plot_w = width - 2 * padding
+    # Size the left padding from the longest sport label so right-anchored
+    # labels (text-anchor="end" at x=left_pad-8) don't overflow the viewBox
+    # and get clipped. ~6.2px per character at the 11px label font.
+    max_label_chars = max(len(s) for s in sports)
+    left_pad = max(padding, int(max_label_chars * 6.2) + 12)
+    right_pad = padding
+    plot_w = width - left_pad - right_pad
     inner_h = padding + len(sports) * row_height + padding // 2
     height = inner_h
 
     def x(year: int) -> float:
-        return padding + (year - year_min) / (year_max - year_min) * plot_w
+        return left_pad + (year - year_min) / (year_max - year_min) * plot_w
 
     parts = [
         f'<svg class="timeline" viewBox="0 0 {width} {height}" width="100%" '
         f'role="img" aria-label="Championship timeline {year_min} to {year_max}">'
     ]
 
-    # Decade gridlines + labels.
+    # Decade gridlines + labels. Skip decades before year_min so the leftmost
+    # gridline sits at the plot's left edge, not in the sport-label zone.
     decade = (year_min // 10) * 10
+    if decade < year_min:
+        decade += 10
     d = decade
     while d <= year_max:
         gx = x(d)
@@ -557,7 +566,7 @@ def render_timeline_svg(titles: list[dict], *, width: int = 760,
     # Sport labels (left) + swimlane dots.
     for sport in sports:
         y = sport_y[sport] + row_height / 2
-        parts.append(f'<text class="tl-sport" x="{padding-8}" y="{y+4:.1f}" '
+        parts.append(f'<text class="tl-sport" x="{left_pad-8}" y="{y+4:.1f}" '
                      f'text-anchor="end">{_esc(sport)}</text>')
         color = _sport_color(sport)
         for t in titles:
