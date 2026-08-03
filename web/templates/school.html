@@ -1,0 +1,119 @@
+{% extends "base.html" %}
+{% block title %}{{ school.name }} &mdash; Maryland HS Sports Record Book{% endblock %}
+{% block content %}
+<article class="clip-file">
+  <header class="clip-header">
+    <h1>{{ school.name }}</h1>
+    <p class="fast-facts">{{ fast_facts }}</p>
+    <div class="copy-row">
+      <button class="copy-btn" data-copy="{{ fast_facts|e }}" type="button">Copy paragraph</button>
+      <span class="muted">Paste-ready for a story.</span>
+    </div>
+    <dl class="fact-grid">
+      <div><dt>State titles</dt><dd>{{ school.total_titles }}</dd></div>
+      <div><dt>Finals appearances</dt><dd>{{ school.total_finals }}</dd></div>
+      <div><dt>Last title</dt><dd>{{ school.last_title or '—' }}</dd></div>
+      <div><dt>Sportsmanship awards</dt><dd>{{ school.sportsmanship_count }}</dd></div>
+    </dl>
+  </header>
+
+  <section class="timeline-section">
+    <h2>Championship timeline</h2>
+    {{ timeline_svg|safe }}
+  </section>
+
+  {% for g in sports %}
+  <section class="sport-section">
+    <h2>{{ g.sport }}</h2>
+
+    {% if g.titles %}
+    <table class="results">
+      <caption>State championship games</caption>
+      <thead><tr><th>Year</th><th>Class</th><th>Score</th><th>Opponent</th><th>Source</th></tr></thead>
+      <tbody>
+      {% for r in g.titles %}
+        <tr>
+          <td>{{ r.year }}</td>
+          <td>{{ r.classification or '' }}</td>
+          <td>{{ r.score or '' }}</td>
+          <td>{{ r.opponent or '' }}{% if r.co_champion %} <span class="tag">co-champion</span>{% endif %}</td>
+          <td class="cite">{{ r|cite }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    {% endif %}
+
+    {% if g.record_years and (g.record_years.champion_years or g.record_years.finalist_years or g.record_years.semifinalist_years or g.record_years.runner_up_years) %}
+    <table class="year-lists">
+      <caption>Appearances (from school records)</caption>
+      <tbody>
+      {% if g.record_years.champion_years %}<tr><th>Champion</th><td>{{ g.record_years.champion_years|join(', ') }}</td></tr>{% endif %}
+      {% if g.record_years.finalist_years %}<tr><th>Finalist</th><td>{{ g.record_years.finalist_years|join(', ') }}</td></tr>{% endif %}
+      {% if g.record_years.semifinalist_years %}<tr><th>Semifinalist</th><td>{{ g.record_years.semifinalist_years|join(', ') }}</td></tr>{% endif %}
+      {% if g.record_years.runner_up_years %}<tr><th>Runner-up</th><td>{{ g.record_years.runner_up_years|join(', ') }}</td></tr>{% endif %}
+      </tbody>
+    </table>
+    {% endif %}
+
+    {% if g.individual %}
+    <table class="results">
+      <caption>Individual champions from {{ school.name }}</caption>
+      <thead><tr><th>Year</th><th>Event</th><th>Name</th><th>Mark</th><th>Source</th></tr></thead>
+      <tbody>
+      {% for r in g.individual %}
+        <tr>
+          <td>{{ r.year }}</td>
+          <td>{{ r.event or r.classification or '' }}</td>
+          <td>{{ r.name }}</td>
+          <td>{{ r.mark or r.time or '' }}</td>
+          <td class="cite">{{ r|cite }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    {% endif %}
+
+    {% if g.sportsmanship %}
+    <table class="results">
+      <caption>Sportsmanship awards</caption>
+      <thead><tr><th>Year</th><th>Class</th><th>Source</th></tr></thead>
+      <tbody>
+      {% for r in g.sportsmanship %}
+        <tr><td>{{ r.year }}</td><td>{{ r.classification or '' }}</td><td class="cite">{{ r|cite }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    {% endif %}
+
+    {% if g.stat_records %}
+    <table class="results">
+      <caption>All-time stat records</caption>
+      <thead><tr><th>Record</th><th>Value</th><th>Holder</th><th>Year</th><th>Source</th></tr></thead>
+      <tbody>
+      {% for r in g.stat_records %}
+        <tr>
+          <td>{{ r.record }}</td>
+          <td>{{ r.value or '' }}</td>
+          <td>{{ r.holder or '' }}{% if r.co_holder %} <span class="tag">tie</span>{% endif %}</td>
+          <td>{{ r.year or '' }}</td>
+          <td class="cite">{{ r|cite }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    {% endif %}
+
+    {% if not (g.titles or g.record_years or g.individual or g.sportsmanship or g.stat_records) %}
+      {# skip empty sections entirely #}
+    {% endif %}
+  </section>
+  {% endfor %}
+
+  {% if not sports %}
+  <p class="muted">No championship history on file for {{ school.name }}.</p>
+  {% endif %}
+
+  <p class="json-link">Machine-readable data: <a href="../{{ school.slug }}.json">{{ school.slug }}.json</a></p>
+</article>
+{% endblock %}

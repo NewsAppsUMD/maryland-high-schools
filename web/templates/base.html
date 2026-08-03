@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Maryland HS Sports Record Book{% endblock %}</title>
+  <link rel="stylesheet" href="{{ root }}static/site.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="{{ root }}index.html">Maryland HS Sports Record Book</a>
+      <nav>
+        <a href="{{ root }}schools/index.html">Schools</a>
+        <a href="{{ root }}pegs/index.html">Story pegs</a>
+        <a href="{{ root }}embed/index.html">Embeds</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap">
+    {% block content %}{% endblock %}
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Data from the <a href="https://mpssaa.org/">MPSSAA</a> seasonal record books
+        (fall 2024, winter, spring 2025). Every row links back to its source PDF page.
+        Built by the Maryland newsrooms project.</p>
+      <p class="muted">Automated extraction; report errors to the project maintainers.</p>
+    </div>
+  </footer>
+  <script src="{{ root }}static/site.js"></script>
+</body>
+</html>

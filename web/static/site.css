@@ -1,0 +1,86 @@
+/* Maryland HS Sports Record Book — site styles.
+   Print-friendly: system fonts, modest color, no external requests. */
+:root {
+  --ink: #1a1a1a;
+  --muted: #5a6470;
+  --line: #d8dde3;
+  --bg: #ffffff;
+  --tint: #f5f7fa;
+  --accent: #b3001b;   /* Maryland red */
+  --link: #1a5490;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --ink:#e8eaed; --muted:#9aa3ad; --line:#3a4150; --bg:#121417; --tint:#1b1f24; --link:#7db4ec; }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; color: var(--ink); background: var(--bg);
+  font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.wrap { max-width: 980px; margin: 0 auto; padding: 0 20px; }
+.muted { color: var(--muted); }
+.num { text-align: right; font-variant-numeric: tabular-nums; }
+
+/* header */
+.site-header { border-bottom: 1px solid var(--line); background: var(--tint); }
+.site-header .wrap { display: flex; align-items: center; gap: 20px; padding-top: 10px; padding-bottom: 10px; flex-wrap: wrap; }
+.brand { font-weight: 700; font-size: 1.05rem; color: var(--ink); }
+.site-header nav { display: flex; gap: 16px; margin-left: auto; }
+.site-header nav a { color: var(--ink); }
+.site-footer { border-top: 1px solid var(--line); margin-top: 40px; padding: 20px 0; color: var(--muted); font-size: .9rem; }
+.site-footer p { margin: .3em 0; }
+
+/* home */
+.hero h1 { font-size: 2rem; margin: .2em 0; }
+.lede { font-size: 1.1rem; color: var(--muted); max-width: 40em; }
+.btn { display: inline-block; padding: 8px 16px; background: var(--accent); color: #fff; border-radius: 4px; }
+.btn:hover { text-decoration: none; opacity: .9; }
+.btn-ghost { background: transparent; color: var(--link); border: 1px solid var(--line); }
+.stats { display: flex; flex-wrap: wrap; gap: 24px; margin: 32px 0; }
+.stats > div { display: flex; flex-direction: column; }
+.stats .num { font-size: 1.8rem; font-weight: 700; text-align: left; color: var(--accent); }
+.stats .label { color: var(--muted); font-size: .9rem; }
+
+/* search + tables */
+.search { margin: 16px 0; }
+.search input { padding: 8px 10px; font-size: 1rem; width: 100%; max-width: 420px; border: 1px solid var(--line); border-radius: 4px; background: var(--bg); color: var(--ink); }
+table { border-collapse: collapse; width: 100%; margin: 12px 0 24px; font-size: .95rem; }
+caption { text-align: left; font-weight: 600; padding: 6px 0; color: var(--muted); }
+th, td { padding: 6px 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+thead th { border-bottom: 2px solid var(--line); }
+tbody tr:hover { background: var(--tint); }
+.school-index th, .school-index td { white-space: nowrap; }
+.cite { color: var(--muted); font-size: .85rem; white-space: nowrap; }
+.tag { display: inline-block; background: var(--tint); border: 1px solid var(--line); border-radius: 3px; padding: 0 5px; font-size: .75rem; color: var(--muted); }
+
+/* clip file */
+.clip-header h1 { margin-bottom: .1em; }
+.fast-facts { font-size: 1.05rem; max-width: 44em; margin: .2em 0 .6em; }
+.copy-row { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
+.copy-btn { padding: 6px 12px; border: 1px solid var(--line); border-radius: 4px; background: var(--tint); color: var(--ink); cursor: pointer; font: inherit; }
+.copy-btn.copied { background: var(--accent); color: #fff; border-color: var(--accent); }
+.fact-grid { display: flex; flex-wrap: wrap; gap: 24px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 12px 0; }
+.fact-grid > div { display: flex; flex-direction: column; }
+.fact-grid dt { color: var(--muted); font-size: .8rem; }
+.fact-grid dd { margin: 0; font-weight: 700; font-size: 1.1rem; }
+.sport-section h2 { border-bottom: 2px solid var(--accent); padding-bottom: 4px; margin-top: 32px; }
+.year-lists th { width: 120px; color: var(--muted); font-weight: 600; }
+.json-link { margin-top: 32px; font-size: .9rem; color: var(--muted); }
+
+/* timeline SVG */
+.timeline { display: block; background: var(--bg); border: 1px solid var(--line); border-radius: 4px; margin: 8px 0 4px; }
+.timeline text { font: 11px ui-sans-serif, system-ui, sans-serif; fill: var(--ink); }
+.timeline .tl-grid { stroke: var(--line); stroke-width: 1; }
+.timeline .tl-axis { fill: var(--muted); font-size: 10px; }
+.timeline .tl-sport { fill: var(--ink); font-size: 11px; }
+.timeline .tl-dot { stroke: var(--bg); stroke-width: 1; }
+.timeline .tl-empty { fill: var(--muted); }
+
+@media print {
+  .site-header nav, .copy-row, .search, .json-link { display: none; }
+  .timeline { border: none; }
+  a { color: var(--ink); text-decoration: underline; }
+}

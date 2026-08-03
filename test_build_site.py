@@ -16,6 +16,7 @@ from build_site import (
     load_aliases,
     load_books,
     make_normalizer,
+    render_timeline_svg,
     schools_index_json,
     slugify,
     split_cochampions,
@@ -207,3 +208,53 @@ class TestSchoolsIndexJson:
         assert idx[0].keys() >= {"slug", "name", "titles", "finals",
                                  "individual_champions", "sportsmanship"}
         assert len(idx) == len(registry.by_key)
+
+
+# ── SVG timeline renderer ────────────────────────────────────────────────────
+class TestRenderTimelineSvg:
+    TITLES = [
+        {"sport": "Football", "year": 1992},
+        {"sport": "Football", "year": 1995},
+        {"sport": "Girls Basketball", "year": 2010},
+    ]
+
+    def test_empty_titles_returns_placeholder(self):
+        svg = render_timeline_svg([])
+        assert svg.startswith("<svg") and "No titles yet" in svg
+
+    def test_returns_svg_root(self):
+        svg = render_timeline_svg(self.TITLES)
+        assert svg.startswith("<svg") and svg.rstrip().endswith("</svg>")
+        assert "viewBox" in svg
+
+    def test_one_dot_per_title(self):
+        svg = render_timeline_svg(self.TITLES)
+        assert svg.count("<circle") == 3
+
+    def test_decade_gridlines_present(self):
+        svg = render_timeline_svg(self.TITLES)
+        # 1990, 2000, 2010 decade lines should appear within the 1992-2010 range.
+        assert "1990" in svg and "2000" in svg and "2010" in svg
+        assert svg.count('class="tl-grid"') >= 3
+
+    def test_sport_labels_rendered(self):
+        svg = render_timeline_svg(self.TITLES)
+        assert "Football" in svg and "Girls Basketball" in svg
+
+    def test_title_tooltip_per_dot(self):
+        svg = render_timeline_svg(self.TITLES)
+        assert "<title>Football 1992</title>" in svg
+
+    def test_single_title_pads_axis(self):
+        # A single title should still produce a usable (decade-padded) axis.
+        svg = render_timeline_svg([{"sport": "Baseball", "year": 2016}])
+        assert svg.count("<circle") == 1
+        assert "2010" in svg and "2020" in svg
+
+    def test_deterministic_across_calls(self):
+        assert render_timeline_svg(self.TITLES) == render_timeline_svg(self.TITLES)
+
+    def test_special_chars_escaped(self):
+        svg = render_timeline_svg([{"sport": "Track & Field", "year": 2000}])
+        assert "Track &amp; Field" in svg
+        assert "Track & Field<" not in svg  # no raw ampersand inside an element

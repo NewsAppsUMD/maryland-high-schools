@@ -17,6 +17,7 @@ import argparse
 import csv
 import json
 import re
+import shutil
 import sys
 import unicodedata
 from collections import defaultdict
@@ -465,6 +466,320 @@ def schools_index_json(registry: SchoolRegistry) -> list[dict]:
     return out
 
 
+# ── SVG timeline renderer ────────────────────────────────────────────────────
+# Build-time inline SVG: fast, print-friendly, works without JS. One
+# swimlane per sport the school has won a title in, decade gridlines, a dot per
+# title year. Pure function — deterministic, no randomness.
+
+_SPORT_PALETTE = (
+    "#1f77b4", "#d62728", "#2ca02c", "#9467bd", "#ff7f0e",
+    "#8c564b", "#17becf", "#bcbd22", "#e377c2", "#7f7f7f",
+    "#aec7e8", "#ffbb78", "#98df8a", "#f7b6d2", "#c5b0d5",
+)
+
+
+def _sport_color(sport: str) -> str:
+    return _SPORT_PALETTE[hash(sport) % len(_SPORT_PALETTE)]
+
+
+def _esc(text: str) -> str:
+    """XML-escape text for safe inline SVG."""
+    return (text.replace("&", "&amp;").replace("<", "&lt;")
+            .replace(">", "&gt;").replace('"', "&quot;"))
+
+
+def render_timeline_svg(titles: list[dict], *, width: int = 760,
+                        row_height: int = 20, padding: int = 44) -> str:
+    """Render an all-sport championship timeline as inline SVG.
+
+    ``titles`` is a list of dicts each with ``year`` (int) and ``sport`` (str).
+    Returns a self-contained ``<svg>...</svg>`` string. Decade gridlines are
+    drawn at every 10-year boundary within the year range.
+    """
+    if not titles:
+        return ('<svg class="timeline" width="100%" height="48" '
+                'role="img" aria-label="No championship titles">'
+                '<text x="6" y="20" class="timeline-empty">No titles yet</text></svg>')
+
+    years = [int(t["year"]) for t in titles if t.get("year") is not None]
+    if not years:
+        return ('<svg class="timeline" width="100%" height="48" '
+                'role="img" aria-label="No championship titles">'
+                '<text x="6" y="20" class="timeline-empty">No titles yet</text></svg>')
+
+    year_min = min(years)
+    year_max = max(years)
+    # Pad the range so a single-title school still gets a usable axis.
+    if year_max - year_min < 10:
+        year_min = (year_min // 10) * 10
+        year_max = ((year_max // 10) + 1) * 10
+
+    # One swimlane per sport, sorted alphabetically for stable layout.
+    sports = sorted({t["sport"] for t in titles})
+    sport_y = {s: padding + i * row_height for i, s in enumerate(sports)}
+    plot_w = width - 2 * padding
+    inner_h = padding + len(sports) * row_height + padding // 2
+    height = inner_h
+
+    def x(year: int) -> float:
+        return padding + (year - year_min) / (year_max - year_min) * plot_w
+
+    parts = [
+        f'<svg class="timeline" viewBox="0 0 {width} {height}" width="100%" '
+        f'role="img" aria-label="Championship timeline {year_min} to {year_max}">'
+    ]
+
+    # Decade gridlines + labels.
+    decade = (year_min // 10) * 10
+    d = decade
+    while d <= year_max:
+        gx = x(d)
+        parts.append(f'<line class="tl-grid" x1="{gx:.1f}" y1="{padding-6}" '
+                     f'x2="{gx:.1f}" y2="{inner_h - padding//2}" />')
+        parts.append(f'<text class="tl-axis" x="{gx:.1f}" y="{height-6}" '
+                     f'text-anchor="middle">{d}</text>')
+        d += 10
+
+    # Sport labels (left) + swimlane dots.
+    for sport in sports:
+        y = sport_y[sport] + row_height / 2
+        parts.append(f'<text class="tl-sport" x="{padding-8}" y="{y+4:.1f}" '
+                     f'text-anchor="end">{_esc(sport)}</text>')
+        color = _sport_color(sport)
+        for t in titles:
+            if t["sport"] != sport or t.get("year") is None:
+                continue
+            cx = x(int(t["year"]))
+            parts.append(f'<circle class="tl-dot" cx="{cx:.1f}" cy="{y:.1f}" '
+                         f'r="4.5" fill="{color}"><title>{_esc(sport)} '
+                         f'{int(t["year"])}</title></circle>')
+
+    parts.append('</svg>')
+    return "\n".join(parts)
+
+
+# ── Citation helper ──────────────────────────────────────────────────────────
+def cite_str(row: dict) -> str:
+    """'p. 37, Fall Record Book 2024' or 'pp. 37–38, Fall Record Book 2024'."""
+    pdf = row.get("source_pdf", "")
+    pages = sorted(set(row.get("source_pages") or []))
+    label = re.sub(r"(?i)record\s*book", "Record Book", Path(pdf).stem) if pdf else ""
+    if not pages:
+        return label
+    if len(pages) == 1:
+        return f"p. {pages[0]}, {label}"
+    # Contiguous range vs scattered pages.
+    if pages == list(range(pages[0], pages[-1] + 1)):
+        return f"pp. {pages[0]}–{pages[-1]}, {label}"
+    return f"pp. {', '.join(str(p) for p in pages)}, {label}"
+
+
+# ── Per-school page data ─────────────────────────────────────────────────────
+def _last_title_str(titles: list[dict]) -> str | None:
+    if not titles:
+        return None
+    t = max(titles, key=lambda r: r.get("year") or 0)
+    cls = t.get("classification") or ""
+    return f"{cls} {t['sport']} {t['year']}".strip()
+
+
+def fast_facts_paragraph(name: str, school: School) -> str:
+    """Deterministic paste-ready summary. (Richer phrasing lands in Batch 3.)"""
+    n_titles = len(school.titles)
+    n_finals = len(school.finals)
+    n_indiv = len(school.individual_champions)
+    sports_won = sorted({t["sport"] for t in school.titles})
+    parts: list[str] = []
+    if n_titles:
+        s_pl = "s" if n_titles != 1 else ""
+        sp_pl = "s" if len(sports_won) != 1 else ""
+        parts.append(f"{name} has won {n_titles} state championship{s_pl} "
+                     f"across {len(sports_won)} sport{sp_pl}")
+        last = _last_title_str(school.titles)
+        if last:
+            parts.append(f"most recently {last}")
+        if n_finals:
+            parts.append(f"with {n_finals} finals appearance{'s' if n_finals != 1 else ''}")
+        bits = "; ".join(p for p in parts if p)
+        if not bits.endswith((";", ".")):
+            bits += "."
+        return bits.replace("; most recently", ", most recently").replace("; with", " and")
+    base = f"{name} has no recorded state titles"
+    if n_finals:
+        base += f" but reached {n_finals} final{'s' if n_finals != 1 else ''}"
+    extra = []
+    if n_indiv:
+        extra.append(f"{n_indiv} individual state champion{'s' if n_indiv != 1 else ''}")
+    if school.sportsmanship:
+        extra.append(f"{len(school.sportsmanship)} sportsmanship award"
+                     f"{'s' if len(school.sportsmanship) != 1 else ''}")
+    if extra:
+        base += " and " + " and ".join(extra)
+    return base + "."
+
+
+def _grouped_by_sport(rows: list[dict]) -> dict[str, list[dict]]:
+    g: dict[str, list[dict]] = defaultdict(list)
+    for r in rows:
+        g[r.get("sport") or ""].append(r)
+    return g
+
+
+def school_page_data(school: School) -> dict:
+    """Assemble the context dict for the school clip-file template."""
+    titles_by_sport = _grouped_by_sport(school.titles)
+    rec_by_sport = _grouped_by_sport(school.school_record_rows)
+    indiv_by_sport = _grouped_by_sport(school.individual_champions)
+    sport_by_sport = _grouped_by_sport(school.sportsmanship)
+    stat_by_sport = _grouped_by_sport(school.stat_records)
+
+    all_sports = sorted(set(titles_by_sport) | set(rec_by_sport) | set(indiv_by_sport)
+                        | set(sport_by_sport) | set(stat_by_sport))
+
+    sports = []
+    for sport in all_sports:
+        titles = sorted(titles_by_sport.get(sport, []), key=lambda r: (r.get("year") or 0))
+        # Opponent = finalist school (fall/winter); spring rows lack it.
+        title_rows = [{
+            "year": r.get("year"), "classification": r.get("classification"),
+            "score": r.get("score"), "opponent": r.get("finalist_school"),
+            "co_champion": r.get("co_champion"),
+            "source_pdf": r.get("source_pdf"), "source_pages": r.get("source_pages"),
+        } for r in titles]
+
+        rec = rec_by_sport.get(sport, [{}])[0] if rec_by_sport.get(sport) else {}
+        record_years = {
+            "champion_years": sorted(rec.get("champion_years") or []),
+            "finalist_years": sorted(rec.get("finalist_years") or []),
+            "semifinalist_years": sorted(rec.get("semifinalist_years") or []),
+            "runner_up_years": sorted(rec.get("runner_up_years") or []),
+        } if rec else {"champion_years": [], "finalist_years": [],
+                       "semifinalist_years": [], "runner_up_years": []}
+
+        sports.append({
+            "sport": sport,
+            "titles": title_rows,
+            "record_years": record_years,
+            "individual": sorted(indiv_by_sport.get(sport, []),
+                                 key=lambda r: (r.get("year") or 0)),
+            "sportsmanship": sorted(sport_by_sport.get(sport, []),
+                                    key=lambda r: (r.get("year") or 0)),
+            "stat_records": stat_by_sport.get(sport, []),
+        })
+
+    return {
+        "school": {
+            "name": school.display_name,
+            "slug": school.slug,
+            "total_titles": len(school.titles),
+            "total_finals": len(school.finals),
+            "last_title": _last_title_str(school.titles),
+            "sportsmanship_count": len(school.sportsmanship),
+        },
+        "fast_facts": fast_facts_paragraph(school.display_name, school),
+        "timeline_svg": render_timeline_svg(school.titles),
+        "sports": sports,
+    }
+
+
+def school_json(school: School) -> dict:
+    """Machine-readable per-school record (powers embeds; Phase 2 API)."""
+    return {
+        "slug": school.slug,
+        "name": school.display_name,
+        "totals": {
+            "titles": len(school.titles),
+            "finals": len(school.finals),
+            "individual_champions": len(school.individual_champions),
+            "sportsmanship": len(school.sportsmanship),
+            "golf_team": len(school.golf_team),
+            "golf_individual": len(school.golf_individual),
+            "stat_records": len(school.stat_records),
+        },
+        "last_title": _last_title_str(school.titles),
+        "titles": school.titles,
+        "finals": school.finals,
+        "individual_champions": school.individual_champions,
+        "sportsmanship": school.sportsmanship,
+        "golf_team": school.golf_team,
+        "golf_individual": school.golf_individual,
+        "stat_records": school.stat_records,
+    }
+
+
+# ── Rendering ────────────────────────────────────────────────────────────────
+def _jinja_env() -> "jinja2.Environment":
+    import jinja2
+    env = jinja2.Environment(
+        loader=jinja2.FileSystemLoader(str(WEB_DIR / "templates")),
+        autoescape=jinja2.select_autoescape(["html", "xml"]),
+        trim_blocks=True, lstrip_blocks=True,
+    )
+    env.filters["cite"] = cite_str
+    return env
+
+
+def build_site(registry: SchoolRegistry, report: dict, out_dir: Path) -> dict:
+    """Render the full static site to ``out_dir``. Returns page counts."""
+    env = _jinja_env()
+    root = _relative_root()  # path prefix from a page back to site root
+    schools = sorted(registry.by_key.values(), key=lambda s: s.display_name.lower())
+
+    # Clean output so merged-away schools don't leave stale pages behind.
+    if out_dir.exists():
+        shutil.rmtree(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Static assets.
+    static_src = WEB_DIR / "static"
+    static_dst = out_dir / "static"
+    if static_dst.exists():
+        shutil.rmtree(static_dst)
+    shutil.copytree(static_src, static_dst)
+
+    # Home page.
+    home = env.get_template("home.html")
+    (out_dir / "index.html").write_text(home.render(
+        root=root, school_count=len(schools),
+        totals={
+            "championships": report["championship_rows"],
+            "schools": len(schools),
+            "individual": report["individual_rows"],
+            "stat_records": report["stat_records_rows"],
+        }), encoding="utf-8")
+
+    # Schools index page + JSON.
+    index_tmpl = env.get_template("index.html")
+    schools_dir = out_dir / "schools"
+    schools_dir.mkdir(parents=True, exist_ok=True)
+    (schools_dir / "index.html").write_text(
+        index_tmpl.render(root=root, schools=schools_index_json(registry)),
+        encoding="utf-8")
+
+    # Per-school pages + JSON. Pages live at site/schools/{slug}/index.html,
+    # so their root back to the site root is ../../
+    school_tmpl = env.get_template("school.html")
+    for school in schools:
+        page_dir = schools_dir / school.slug
+        page_dir.mkdir(parents=True, exist_ok=True)
+        ctx = school_page_data(school)
+        (page_dir / "index.html").write_text(
+            school_tmpl.render(root="../../", **ctx), encoding="utf-8")
+        (schools_dir / f"{school.slug}.json").write_text(
+            json.dumps(school_json(school), indent=2), encoding="utf-8")
+
+    return {
+        "schools": len(schools),
+        "pages": len(schools) + 2,  # school pages + home + index
+        "json_files": len(schools) + 1,  # per-school + schools-index
+    }
+
+
+def _relative_root() -> str:
+    """Path prefix from a top-level page to the site root (empty for flat)."""
+    return "./"
+
+
 def render_report(report: dict) -> str:
     """Human-readable build report, including unmatched names for curation."""
     lines = [
@@ -539,10 +854,13 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     args.out.mkdir(parents=True, exist_ok=True)
+    counts = build_site(registry, report, args.out)
+    # Top-level schools-index.json (the search dataset) + build report.
     (args.out / "schools-index.json").write_text(
         json.dumps(schools_index_json(registry), indent=2), encoding="utf-8")
     (args.out / "site-build-report.txt").write_text(render_report(report), encoding="utf-8")
-    print(f"\nWrote {args.out / 'schools-index.json'} ({len(registry.by_key)} schools).")
+    print(f"\nBuilt {counts['pages']} pages and {counts['json_files']} JSON files "
+          f"to {args.out}/ ({counts['schools']} schools).")
     return 0
 
 

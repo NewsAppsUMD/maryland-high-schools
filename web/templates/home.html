@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Maryland HS Sports Record Book{% endblock %}
+{% block content %}
+<section class="hero">
+  <h1>Maryland high school sports, all-time</h1>
+  <p class="lede">Every MPSSAA state champion, finalist, and record holder from the
+    official seasonal record books &mdash; organized school by school, with a
+    citation back to the PDF page for every row.</p>
+  <p>
+    <a class="btn" href="{{ root }}schools/index.html">Browse {{ school_count }} schools</a>
+    &nbsp; <a class="btn btn-ghost" href="{{ root }}pegs/index.html">Story pegs</a>
+  </p>
+</section>
+<section class="stats">
+  <div><span class="num">{{ totals.championships }}</span><span class="label">championships</span></div>
+  <div><span class="num">{{ totals.schools }}</span><span class="label">schools</span></div>
+  <div><span class="num">{{ totals.individual }}</span><span class="label">individual champions</span></div>
+  <div><span class="num">{{ totals.stat_records }}</span><span class="label">stat records</span></div>
+</section>
+{% endblock %}
