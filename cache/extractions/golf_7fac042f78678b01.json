@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "extractor": "golf",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      51
+    ],
+    "extracted_at": "2026-08-02T14:32:14Z"
+  },
+  "rows": [
+    {
+      "year": 1971,
+      "classification": "Combined",
+      "team_champion_school": "Magruder",
+      "team_score": 610,
+      "individual_winner_name": "Frank Reese",
+      "individual_winner_school": "Parkdale",
+      "individual_score": 146,
+      "individual_gender": null
+    },
+    {
+      "year": 1972,
+      "classification": "Combined",
+      "team_champion_school": "Frederick",
+      "team_score": 627,
+      "individual_winner_name": "Paul Rapley",
+      "individual_winner_school": "Churchill",
+      "individual_score": 148,
+      "individual_gender": null
+    },
+    {
+      "year": 1973,
+      "classification": "Combined",
+      "team_champion_school": "Magruder",
+      "team_score": 677,
+      "individual_winner_name": "Al Roberts",
+      "individual_winner_school": "Sherwood",
+      "individual_score": 153,
+      "individual_gender": null
+    },
+    {
+      "year": 1974,
+      "classification": "Combined",
+      "team_champion_school": "Gaithersburg",
+      "team_score": 632,
+      "individual_winner_name": "Matt Sughrue",
+      "individual_winner_school": "Churchill",
+      "individual_score": 147,
+      "individual_gender": null
+    },
+    {
+      "year": 1975,
+      "classification": "Combined",
+      "team_champion_school": "Walt Whitman",
+      "team_score": 646,
+      "individual_winner_name": "David Hughes",
+      "individual_winner_school": "Whitman",
+      "individual_score": 153,
+      "individual_gender": null
+    },
+    {
+      "year": 1976,
+      "classification": "Combined",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 630,
+      "individual_winner_name": "Regan O'Rourke",
+      "individual_winner_school": "Churchill",
+      "individual_score": 150,
+      "individual_gender": null
+    },
+    {
+      "year": 1977,
+      "classification": "Combined",
+      "team_champion_school": "Walt Whitman",
+      "team_score": 307,
+      "individual_winner_name": "Webb Heintzelman",
+      "individual_winner_school": "Whitman",
+      "individual_score": 69,
+      "individual_gender": null
+    },
+    {
+      "year": 1978,
+      "classification": "Combined",
+      "team_champion_school": "Robert E. Peary",
+      "team_score": 657,
+      "individual_winner_name": "Pete Hiskey",
+      "individual_winner_school": "Northwestern",
+      "individual_score": 143,
+      "individual_gender": null
+    },
+    {
+      "year": 1979,
+      "classification": "Combined",
+      "team_champion_school": "Walt Whitman",
+      "team_score": 635,
+      "individual_winner_name": "Webb Heintzelman",
+      "individual_winner_school": "Whitman",
+      "individual_score": 144,
+      "individual_gender": null
+    },
+    {
+      "year": 1980,
+      "classification": "Combined",
+      "team_champion_school": "Sherwood",
+      "team_score": 641,
+      "individual_winner_name": "Joe Venari",
+      "individual_winner_school": "Atholton",
+      "individual_score": 147,
+      "individual_gender": null
+    },
+    {
+      "year": 1981,
+      "classification": "Combined",
+      "team_champion_school": "Bowie",
+      "team_score": 658,
+      "individual_winner_name": "Doug Monroe",
+      "individual_winner_school": "Whitman",
+      "individual_score": 145,
+      "individual_gender": null
+    },
+    {
+      "year": 1982,
+      "classification": "Combined",
+      "team_champion_school": "Seneca Valley",
+      "team_score": 699,
+      "individual_winner_name": "Don Slebodnick",
+      "individual_winner_school": "High Point",
+      "individual_score": 147,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1982,
+      "classification": "Combined",
+      "team_champion_school": "Seneca Valley",
+      "team_score": 699,
+      "individual_winner_name": "Sandy Persinger",
+      "individual_winner_school": "Dundalk",
+      "individual_score": 164,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1983,
+      "classification": "Combined",
+      "team_champion_school": "Thomas S.Wootton",
+      "team_score": 649,
+      "individual_winner_name": "Mike Watson",
+      "individual_winner_school": "Wootton",
+      "individual_score": 147,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1983,
+      "classification": "Combined",
+      "team_champion_school": "Thomas S.Wootton",
+      "team_score": 649,
+      "individual_winner_name": "Clare Dolan",
+      "individual_winner_school": "Seneca Valley",
+      "individual_score": 156,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1984,
+      "classification": "Combined",
+      "team_champion_school": "Seneca Valley",
+      "team_score": 627,
+      "individual_winner_name": "Doug Ridgeway",
+      "individual_winner_school": "Magruder",
+      "individual_score": 149,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1984,
+      "classification": "Combined",
+      "team_champion_school": "Seneca Valley",
+      "team_score": 627,
+      "individual_winner_name": "Clare Dolan",
+      "individual_winner_school": "Seneca Valley",
+      "individual_score": 149,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1985,
+      "classification": "Combined",
+      "team_champion_school": "Gaithersburg",
+      "team_score": 657,
+      "individual_winner_name": "Dave Patterson",
+      "individual_winner_school": "Dulaney",
+      "individual_score": 154,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1985,
+      "classification": "Combined",
+      "team_champion_school": "Gaithersburg",
+      "team_score": 657,
+      "individual_winner_name": "Tara Hipp",
+      "individual_winner_school": "Gaithersburg",
+      "individual_score": 168,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1986,
+      "classification": "Combined",
+      "team_champion_school": "Bowie",
+      "team_score": 668,
+      "individual_winner_name": "Dave Patterson",
+      "individual_winner_school": "Dulaney",
+      "individual_score": 149,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1986,
+      "classification": "Combined",
+      "team_champion_school": "Bowie",
+      "team_score": 668,
+      "individual_winner_name": "Kim Cayce",
+      "individual_winner_school": "Churchill",
+      "individual_score": 164,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1987,
+      "classification": "Combined",
+      "team_champion_school": "Churchill",
+      "team_score": 665,
+      "individual_winner_name": "Scooter Clark",
+      "individual_winner_school": "Paint Branch",
+      "individual_score": 157,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1987,
+      "classification": "Combined",
+      "team_champion_school": "Churchill",
+      "team_score": 665,
+      "individual_winner_name": "Kim Cayce",
+      "individual_winner_school": "Churchill",
+      "individual_score": 161,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1988,
+      "classification": "Combined",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 632,
+      "individual_winner_name": "Clint Buytenhuys",
+      "individual_winner_school": "Churchill",
+      "individual_score": 149,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1988,
+      "classification": "Combined",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 632,
+      "individual_winner_name": "Kim Cayce",
+      "individual_winner_school": "Churchill",
+      "individual_score": 161,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1989,
+      "classification": "Combined",
+      "team_champion_school": "Quince Orchard",
+      "team_score": 657,
+      "individual_winner_name": "Mike Rymer",
+      "individual_winner_school": "Eleanor Roosevelt",
+      "individual_score": 144,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1989,
+      "classification": "Combined",
+      "team_champion_school": "Quince Orchard",
+      "team_score": 657,
+      "individual_winner_name": "Alicia Denney",
+      "individual_winner_school": "Wootton",
+      "individual_score": 197,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1990,
+      "classification": "Combined",
+      "team_champion_school": "Walt Whitman",
+      "team_score": 649,
+      "individual_winner_name": "Jim Cangiano",
+      "individual_winner_school": "Poolesville",
+      "individual_score": 149,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1990,
+      "classification": "Combined",
+      "team_champion_school": "Walt Whitman",
+      "team_score": 649,
+      "individual_winner_name": "Angela Wacker",
+      "individual_winner_school": "Smithsburg",
+      "individual_score": 192,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1991,
+      "classification": "Combined",
+      "team_champion_school": "Arundel",
+      "team_score": 655,
+      "individual_winner_name": "Colyn Keller",
+      "individual_winner_school": "Walkersville",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1991,
+      "classification": "Combined",
+      "team_champion_school": "Arundel",
+      "team_score": 655,
+      "individual_winner_name": "Kristen Dollenberg",
+      "individual_winner_school": "Dulaney",
+      "individual_score": 167,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1992,
+      "classification": "Combined",
+      "team_champion_school": "Arundel",
+      "team_score": 629,
+      "individual_winner_name": "Gary Carpenter",
+      "individual_winner_school": "Arundel",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1992,
+      "classification": "Combined",
+      "team_champion_school": "Arundel",
+      "team_score": 629,
+      "individual_winner_name": "Kristen Dollenberg",
+      "individual_winner_school": "Dulaney",
+      "individual_score": 164,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1993,
+      "classification": "1A/2A",
+      "team_champion_school": "Damascus",
+      "team_score": 680,
+      "individual_winner_name": null,
+      "individual_winner_school": null,
+      "individual_score": null,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1993,
+      "classification": "1A/2A",
+      "team_champion_school": "Damascus",
+      "team_score": 680,
+      "individual_winner_name": null,
+      "individual_winner_school": null,
+      "individual_score": null,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1993,
+      "classification": "3A/4A",
+      "team_champion_school": "Quince Orchard",
+      "team_score": 620,
+      "individual_winner_name": "Bart Mease",
+      "individual_winner_school": "Quince Orchard",
+      "individual_score": 143,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1993,
+      "classification": "3A/4A",
+      "team_champion_school": "Quince Orchard",
+      "team_score": 620,
+      "individual_winner_name": "Wendy Spry",
+      "individual_winner_school": "Old Mill",
+      "individual_score": 174,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1994,
+      "classification": "1A/2A",
+      "team_champion_school": "Walkersville",
+      "team_score": 681,
+      "individual_winner_name": null,
+      "individual_winner_school": null,
+      "individual_score": null,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1994,
+      "classification": "1A/2A",
+      "team_champion_school": "Walkersville",
+      "team_score": 681,
+      "individual_winner_name": null,
+      "individual_winner_school": null,
+      "individual_score": null,
+      "individual_gender": "female"
+    },
+    {
+      "year": 1994,
+      "classification": "3A/4A",
+      "team_champion_school": "Sherwood",
+      "team_score": 626,
+      "individual_winner_name": "Keith Unikel",
+      "individual_winner_school": "Churchill",
+      "individual_score": 145,
+      "individual_gender": "male"
+    },
+    {
+      "year": 1994,
+      "classification": "3A/4A",
+      "team_champion_school": "Sherwood",
+      "team_score": 626,
+      "individual_winner_name": "Julie Russum",
+      "individual_winner_school": "Queen Anne's",
+      "individual_score": 171,
+      "individual_gender": "female"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "extractor": "stat_records",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      75
+    ],
+    "extracted_at": "2026-08-02T22:46:06Z"
+  },
+  "rows": [
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Kills/Game",
+      "value": "14",
+      "holder": "Jenaisya Moore",
+      "school": "Northwest",
+      "year": "2018",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Assists/Game",
+      "value": "17",
+      "holder": "Lauren Locklear",
+      "school": "Liberty",
+      "year": "2004",
+      "co_holder": true,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Assists/Game",
+      "value": "17",
+      "holder": "Megan Frye",
+      "school": "Francis Scott Key",
+      "year": "2009",
+      "co_holder": true,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Aces/Game",
+      "value": "11",
+      "holder": "Taylor Belella",
+      "school": "Smithsburg",
+      "year": "2009",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Blocks/Game",
+      "value": "4",
+      "holder": "Erin Mason",
+      "school": "Gaithersburg",
+      "year": "2005",
+      "co_holder": true,
+      "notes": "f"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Blocks/Game",
+      "value": "4",
+      "holder": "Cara Lewis",
+      "school": "Bowie",
+      "year": "2016",
+      "co_holder": true,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Blocks/Game",
+      "value": "4",
+      "holder": "Morgan Lowrey",
+      "school": "Northwest",
+      "year": "2018",
+      "co_holder": true,
+      "notes": "f"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Kills/Match",
+      "value": "42",
+      "holder": "Alex Holston",
+      "school": "Sherwood",
+      "year": "2012",
+      "co_holder": false,
+      "notes": "sf, 4 games"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Assists/Match",
+      "value": "50",
+      "holder": "Emily Bartlett",
+      "school": "Westminster",
+      "year": "2018",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Aces/Match",
+      "value": "14",
+      "holder": "Hailey Jones",
+      "school": "Perryville",
+      "year": "2017",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Blocks/Match",
+      "value": "8",
+      "holder": "Mary Smith",
+      "school": "Severna Park",
+      "year": "2014",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Service Points/Game",
+      "value": "13",
+      "holder": "Annie Sekerak",
+      "school": "Poolesville",
+      "year": "2005",
+      "co_holder": true,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Service Points/Game",
+      "value": "13",
+      "holder": "Danielle Hudson",
+      "school": "Smithsburg",
+      "year": "2010",
+      "co_holder": true,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Service Points/Match",
+      "value": "23",
+      "holder": "Taylor Belella",
+      "school": "Smithsburg",
+      "year": "2009",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Service Percentage/Match (25+ attempts)",
+      "value": "28/28",
+      "holder": "Staci Grabill",
+      "school": "Williamsport",
+      "year": "2003",
+      "co_holder": true,
+      "notes": "f"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Service Percentage/Match (25+ attempts)",
+      "value": "26/26",
+      "holder": "Julie Hollrah",
+      "school": "Glenelg",
+      "year": "2005",
+      "co_holder": true,
+      "notes": "f"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "individual",
+      "record": "Kill Efficiency/Match (15+ attacks)",
+      "value": ".684",
+      "holder": "Inge Rasmussen",
+      "school": "Poolesville",
+      "year": "2005",
+      "co_holder": false,
+      "notes": "sf, 14-1/19"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Kills/Game",
+      "value": "26",
+      "holder": "Oakdale",
+      "school": "Oakdale",
+      "year": "2014",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Assists/Game",
+      "value": "18",
+      "holder": "Francis Scott Key",
+      "school": "Francis Scott Key",
+      "year": "2009",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Aces/Game",
+      "value": "11",
+      "holder": "Smithsburg",
+      "school": "Smithsburg",
+      "year": "2009",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Blocks/Game",
+      "value": "12",
+      "holder": "Bowie",
+      "school": "Bowie",
+      "year": "2004",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Kills/Match",
+      "value": "67",
+      "holder": "River Hill",
+      "school": "River Hill",
+      "year": "2009",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Assists/Match",
+      "value": "57",
+      "holder": "Rising Sun",
+      "school": "Rising Sun",
+      "year": "2007",
+      "co_holder": true,
+      "notes": "f"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Assists/Match",
+      "value": "57",
+      "holder": "Centennial",
+      "school": "Centennial",
+      "year": "2010",
+      "co_holder": true,
+      "notes": "f"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Aces/Match",
+      "value": "33",
+      "holder": "Smithsburg",
+      "school": "Smithsburg",
+      "year": "2014",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Blocks/Match",
+      "value": "12",
+      "holder": "Severna Park",
+      "school": "Severna Park",
+      "year": "2014",
+      "co_holder": true,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Blocks/Match",
+      "value": "12",
+      "holder": "Arundel",
+      "school": "Arundel",
+      "year": "2019",
+      "co_holder": true,
+      "notes": "f"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Fewest Points Allowed/Game",
+      "value": "1",
+      "holder": "Smithsburg",
+      "school": "Smithsburg",
+      "year": "2009, 2010, 2016",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Fewest Service Points Allowed/Game",
+      "value": "0",
+      "holder": "Smithsburg",
+      "school": "Smithsburg",
+      "year": "2009",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Fewest Service Points Allowed/Match",
+      "value": "0",
+      "holder": "Smithsburg",
+      "school": "Smithsburg",
+      "year": "2016",
+      "co_holder": false,
+      "notes": "sf"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Service Percentage/Match",
+      "value": ".986",
+      "holder": "Towson",
+      "school": "Towson",
+      "year": "2008",
+      "co_holder": false,
+      "notes": "sf, 73/74"
+    },
+    {
+      "sport": "Volleyball",
+      "category": "team",
+      "record": "Kill Efficiency/Match",
+      "value": ".618",
+      "holder": "Smithsburg",
+      "school": "Smithsburg",
+      "year": "2014",
+      "co_holder": false,
+      "notes": "sf, 25-4/34"
+    }
+  ]
+}

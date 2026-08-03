@@ -1,0 +1,1264 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      81
+    ],
+    "extracted_at": "2026-08-02T19:58:47Z"
+  },
+  "rows": [
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2012,
+      "classification": "Combined",
+      "name": "Austin Shaffer",
+      "school": "Southern-Garrett",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2013,
+      "classification": "Combined",
+      "name": "Nick Miller",
+      "school": "Williamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2014,
+      "classification": "Combined",
+      "name": "Danny Bertoni",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2015,
+      "classification": "Combined",
+      "name": "Joey Thomas",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2016,
+      "classification": "Combined",
+      "name": "Chris Spano",
+      "school": "Marriotts Ridge",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2017,
+      "classification": "Combined",
+      "name": "Daiquan Anderson",
+      "school": "Oakland Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2018,
+      "classification": "Combined",
+      "name": "Alex DuFour",
+      "school": "Owings Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2019,
+      "classification": "Combined",
+      "name": "Jesse Fresh",
+      "school": "Mountain Ridge",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Michael Pizzuto",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Tyler Garvin",
+      "school": "Rising Sun",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Elijah Collick",
+      "school": "Stephen Decatur",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Grayson Barnhill",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 106",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Wyatt Rossi",
+      "school": "Sparrows Point",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2012,
+      "classification": "Combined",
+      "name": "Anthony Rivera",
+      "school": "Parkside",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2013,
+      "classification": "Combined",
+      "name": "Tim Norton",
+      "school": "Catoctin",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2014,
+      "classification": "Combined",
+      "name": "Austin Shaffer",
+      "school": "Southern-G",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2015,
+      "classification": "Combined",
+      "name": "Tim Null",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2016,
+      "classification": "Combined",
+      "name": "Joey Thomas",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2017,
+      "classification": "Combined",
+      "name": "Zach Bryant",
+      "school": "Catoctin",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2018,
+      "classification": "Combined",
+      "name": "Zach Bryant",
+      "school": "Catoctin",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2019,
+      "classification": "Combined",
+      "name": "Alex DuFour",
+      "school": "Owings Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Jacob Brenneman",
+      "school": "Northern-G",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Zach Starr",
+      "school": "Williamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Tyler Garvin",
+      "school": "Rising Sun",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Elijah Collick",
+      "school": "Stephen Decatur",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 113",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Ethan Valdisera",
+      "school": "Calvert",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2012,
+      "classification": "Combined",
+      "name": "Tejon Anthony",
+      "school": "Western STES",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2013,
+      "classification": "Combined",
+      "name": "Anthoney Savage",
+      "school": "Oakdale",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2014,
+      "classification": "Combined",
+      "name": "Chris Brown",
+      "school": "Perryville",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2015,
+      "classification": "Combined",
+      "name": "Devan Hamrick",
+      "school": "Southern-G",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2016,
+      "classification": "Combined",
+      "name": "Cameron Butler",
+      "school": "La Plata",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2017,
+      "classification": "Combined",
+      "name": "Travis Crawford",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2018,
+      "classification": "Combined",
+      "name": "Phil Smith",
+      "school": "Owings Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2019,
+      "classification": "Combined",
+      "name": "Alex Carbonell",
+      "school": "Poolesville",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Gage Owen",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Dom Ambrosino",
+      "school": "Sparrows Point",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "JoJo Gigliotti",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Tyler Garvin",
+      "school": "Rising Sun",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 120",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Eli Gabrielson",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1971,
+      "classification": "Combined",
+      "name": "Tim Rowan",
+      "school": "High Point",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "Gary Felton",
+      "school": "High Point",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1973,
+      "classification": "Combined",
+      "name": "Tom DiCarlo",
+      "school": "Overlea",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1974,
+      "classification": "Combined",
+      "name": "Mark Watson",
+      "school": "Kennedy",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1975,
+      "classification": "Combined",
+      "name": "Charlie Metz",
+      "school": "Bel Air",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1976,
+      "classification": "Combined",
+      "name": "Bruce Backer",
+      "school": "Wootton",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1977,
+      "classification": "Combined",
+      "name": "Mike Pitzer",
+      "school": "Laurel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1978,
+      "classification": "Combined",
+      "name": "Doug Lombard",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1979,
+      "classification": "Combined",
+      "name": "Nate Thorne",
+      "school": "Largo",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1980,
+      "classification": "Combined",
+      "name": "Marty Bowser",
+      "school": "Bowie",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1981,
+      "classification": "Combined",
+      "name": "George Claxton",
+      "school": "Severna Park",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1982,
+      "classification": "Combined",
+      "name": "Brian Boyle",
+      "school": "Oakland Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1983,
+      "classification": "Combined",
+      "name": "Chuck Sturm",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1984,
+      "classification": "Combined",
+      "name": "Ray Carpenter",
+      "school": "St. Michaels",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1985,
+      "classification": "Combined",
+      "name": "Billy Richins",
+      "school": "Wicomico",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1986,
+      "classification": "Combined",
+      "name": "Timmy Allender",
+      "school": "Perry Hall",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1987,
+      "classification": "Combined",
+      "name": "Randy Grant",
+      "school": "Largo",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1988,
+      "classification": "Combined",
+      "name": "Jack Eichelberger",
+      "school": "Williamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 1989,
+      "classification": "Combined",
+      "name": "Chris Birth",
+      "school": "Bel Air",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2012,
+      "classification": "Combined",
+      "name": "Adam Martz",
+      "school": "Mountain Ridge",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2013,
+      "classification": "Combined",
+      "name": "Jaiveion Turner",
+      "school": "Cambridge/SD",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2014,
+      "classification": "Combined",
+      "name": "Anthoney Savage",
+      "school": "Oakdale",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2015,
+      "classification": "Combined",
+      "name": "Danny Bertoni",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2016,
+      "classification": "Combined",
+      "name": "Justin Beckley",
+      "school": "Williamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2017,
+      "classification": "Combined",
+      "name": "Joey Thomas",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2018,
+      "classification": "Combined",
+      "name": "Johnny McLaughlin",
+      "school": "Damascus",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2019,
+      "classification": "Combined",
+      "name": "Maximus Bentley",
+      "school": "Easton",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "AJ Rodrigues",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Michael Pizzuto",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Owen Bell",
+      "school": "Hereford",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Tanner Halling",
+      "school": "Boonsboro",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 126",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Elijah Collick",
+      "school": "Stephen Decatur",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1971,
+      "classification": "Combined",
+      "name": "Harry Owings",
+      "school": "Francis Scott Key",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "Bob Long",
+      "school": "Patapsco",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1973,
+      "classification": "Combined",
+      "name": "Dave Hoeck",
+      "school": "North Harford",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1974,
+      "classification": "Combined",
+      "name": "Craig March",
+      "school": "Paint Branch",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1975,
+      "classification": "Combined",
+      "name": "Kevin Figge",
+      "school": "Crossland",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1976,
+      "classification": "Combined",
+      "name": "Bob Wilson",
+      "school": "Edgewood",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1977,
+      "classification": "Combined",
+      "name": "Dave Pottorff",
+      "school": "Bowie",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1978,
+      "classification": "Combined",
+      "name": "Joe White",
+      "school": "Seneca Valley",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1979,
+      "classification": "Combined",
+      "name": "Joe White",
+      "school": "Seneca Valley",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1980,
+      "classification": "Combined",
+      "name": "Dan Reese",
+      "school": "Peary",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1981,
+      "classification": "Combined",
+      "name": "Rich Baughman",
+      "school": "Perry Hall",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1982,
+      "classification": "Combined",
+      "name": "Jeff Malcolm",
+      "school": "Wicomico",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1983,
+      "classification": "Combined",
+      "name": "Clay Bennett",
+      "school": "Bel Air",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1984,
+      "classification": "Combined",
+      "name": "Steve Mosier",
+      "school": "Annapolis",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1985,
+      "classification": "Combined",
+      "name": "Jack Hedger",
+      "school": "Wicomico",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1986,
+      "classification": "Combined",
+      "name": "Gavin McGinty",
+      "school": "Wicomico",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1987,
+      "classification": "Combined",
+      "name": "Ron Howard",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 1988,
+      "classification": "Combined",
+      "name": "Jeff Rosenberg",
+      "school": "Oakland Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2012,
+      "classification": "Combined",
+      "name": "Zach Cullison",
+      "school": "Fallston",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2013,
+      "classification": "Combined",
+      "name": "Charles Perella",
+      "school": "Catoctin",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2014,
+      "classification": "Combined",
+      "name": "Stevan Smith",
+      "school": "Kent Island",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2015,
+      "classification": "Combined",
+      "name": "Owen Rill",
+      "school": "North Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2016,
+      "classification": "Combined",
+      "name": "Danny Bertoni",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2017,
+      "classification": "Combined",
+      "name": "Max Hammond",
+      "school": "Sparrows Point",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2018,
+      "classification": "Combined",
+      "name": "Jared Thomas",
+      "school": "Glenelg",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2019,
+      "classification": "Combined",
+      "name": "Ryan Bauer",
+      "school": "North Caroline",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Nico D'Amico",
+      "school": "Stephen Decatur",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Gage Owen",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Logan Intrieri",
+      "school": "Stephen Decatur",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "JoJo Gigliotti",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 132",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Tanner Halling",
+      "school": "Boonsboro",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1971,
+      "classification": "Combined",
+      "name": "Richard Meister",
+      "school": "Laurel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "Jerry Nieves",
+      "school": "Arundel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1973,
+      "classification": "Combined",
+      "name": "Kelly Ward",
+      "school": "Kennedy",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1974,
+      "classification": "Combined",
+      "name": "Steve Hoff",
+      "school": "Westminster",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1975,
+      "classification": "Combined",
+      "name": "Ray Finch",
+      "school": "Westminster",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1976,
+      "classification": "Combined",
+      "name": "Walt Puller",
+      "school": "Northeast-AA",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1977,
+      "classification": "Combined",
+      "name": "Paul Blankenship",
+      "school": "Patapsco",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1978,
+      "classification": "Combined",
+      "name": "Dave Framm",
+      "school": "Churchill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1979,
+      "classification": "Combined",
+      "name": "David Ryon",
+      "school": "Northwestern-PG",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1980,
+      "classification": "Combined",
+      "name": "Arnold Sing",
+      "school": "Oakland Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1981,
+      "classification": "Combined",
+      "name": "Tim Schoen",
+      "school": "Chesapeake-B",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1982,
+      "classification": "Combined",
+      "name": "Brian Comer",
+      "school": "DuVal",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1983,
+      "classification": "Combined",
+      "name": "Glenn Allen",
+      "school": "North Harford",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1984,
+      "classification": "Combined",
+      "name": "Mark Holbrook",
+      "school": "Churchill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1985,
+      "classification": "Combined",
+      "name": "Tony Porzillo",
+      "school": "Arundel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1986,
+      "classification": "Combined",
+      "name": "Derrick Asbell",
+      "school": "Randallstown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1987,
+      "classification": "Combined",
+      "name": "Ryan Davis",
+      "school": "Beall",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 1988,
+      "classification": "Combined",
+      "name": "Reggie Ames",
+      "school": "Wicomico",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2012,
+      "classification": "Combined",
+      "name": "Wes Cook",
+      "school": "Winters Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2013,
+      "classification": "Combined",
+      "name": "Trayvon Wright",
+      "school": "Pikesville",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2014,
+      "classification": "Combined",
+      "name": "Wayne Wivell",
+      "school": "Catoctin",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2015,
+      "classification": "Combined",
+      "name": "Jamar Williams",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2016,
+      "classification": "Combined",
+      "name": "Devan Hamrick",
+      "school": "Southern-G",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2017,
+      "classification": "Combined",
+      "name": "Danny Bertoni",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2018,
+      "classification": "Combined",
+      "name": "Alex Blake",
+      "school": "La Plata",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2019,
+      "classification": "Combined",
+      "name": "Phil Smith",
+      "school": "Owings Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Maximus Bentley",
+      "school": "Easton",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Sam Stempler",
+      "school": "Poolesville",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Jacob Brenneman",
+      "school": "Northern-G",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Brian Davis",
+      "school": "Calvert",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 138",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Evan Owen",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 144",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Calvin Kraisser",
+      "school": "Centennial",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 144",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "JoJo Gigliotti",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 145",
+      "year": 1970,
+      "classification": "Combined",
+      "name": "Tyrone Neal",
+      "school": "Southern-AA",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 145",
+      "year": 1971,
+      "classification": "Combined",
+      "name": "Tyrone Neal",
+      "school": "Southern-AA",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 145",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "Jim Seymour",
+      "school": "Bladensburg",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 145",
+      "year": 1973,
+      "classification": "Combined",
+      "name": "Joe Wojocowski",
+      "school": "Hereford",
+      "mark": null
+    }
+  ]
+}

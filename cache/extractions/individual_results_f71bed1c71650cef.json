@@ -1,0 +1,643 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      84
+    ],
+    "extracted_at": "2026-08-02T20:00:13Z"
+  },
+  "rows": [
+    {
+      "sport": "Wrestling",
+      "event": "Girls 100",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Jasmine Gong",
+      "school": "T.S. Wootton",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 100",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Alexandra Conley",
+      "school": "Queen Anne's",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 100",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Faith Day",
+      "school": "Manchester Valley",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 100",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Alexandra Conley",
+      "school": "Queen Anne's",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 100",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Violet Land",
+      "school": "Marriotts Ridge",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 105",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Jada Chaves",
+      "school": "Arundel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 105",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Ana Martins",
+      "school": "Col. Zadok Magruder",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 105",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Jada Chaves",
+      "school": "Arundel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 105",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Qluwadamilare Idowu",
+      "school": "Randallstown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 106",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Krista Kappes",
+      "school": "Bowie",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 110",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Alaina Kopalchick",
+      "school": "Perry Hall",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 110",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Sophia Gerstman",
+      "school": "North Point",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 110",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Madison Birth",
+      "school": "Havre de Grace",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 110",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Madison Birth",
+      "school": "Havre de Grace",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 112",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Nina Small",
+      "school": "Fairmont Heights",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 115",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Masiya Wills",
+      "school": "Gwynn Park",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 115",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Domenica Gladwell",
+      "school": "Southern-AA",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 115",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Domenica Gladwell",
+      "school": "Southern-AA",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 115",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Katherine Virgilio",
+      "school": "Brunswick",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 117",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Jen Hood",
+      "school": "Smithsburg",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 120",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Emma Hardeman",
+      "school": "Northern-Cal",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 120",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Jada Fowler",
+      "school": "Oakland Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 120",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "McKinley Jovanovic",
+      "school": "Montgomery Blair",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 120",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Rileigh Romberger",
+      "school": "Smithsburg",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 122",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Nadia Estrada",
+      "school": "R. Montgomery",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 125",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Brianna Holcomb",
+      "school": "Northern-Cal",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 125",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Lexy Pabon",
+      "school": "Crofton",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 125",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Lexy Pabon",
+      "school": "Crofton",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 125",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Lexy Pabon",
+      "school": "Crofton",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 127",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Stephanie Solloso",
+      "school": "W. Whitman",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 130",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Brienna Blackwood",
+      "school": "Meade",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 130",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Brianna Holcomb",
+      "school": "Northern-Cal",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 130",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Anastasia Dakoulas",
+      "school": "Rockville",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 130",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Anastasia Dakoulas",
+      "school": "Rockville",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 132",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Sarah Sunday",
+      "school": "Dulaney",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 135",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Nadia Estrada",
+      "school": "R. Montgomery",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 135",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Amelia Mikus",
+      "school": "Boonsboro",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 135",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Alexandra Ford",
+      "school": "Laurel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 135",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Sophia Hodges",
+      "school": "Northeast-AA",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 138",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Kalin Bower",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 140",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Sarah Sunday",
+      "school": "Dulaney",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 140",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Taylor Mead",
+      "school": "Westminster",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 140",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Aubry Spadoni",
+      "school": "Quince Orchard",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 140",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Alexandra Ford",
+      "school": "Laurel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 144",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Jackalyn Heath",
+      "school": "Mont. Blair",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 145",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Nebi Tsarni",
+      "school": "Watkins Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 145",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Nadia Estrada",
+      "school": "R. Montgomery",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 145",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Daisy Rojas",
+      "school": "La Plata",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 145",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Sonia Pegoue",
+      "school": "Walter Johnson",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 152",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Seda Tsarni",
+      "school": "Watkins Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 155",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Ugochi Anunobi",
+      "school": "Randallstown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 155",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Nebi Tsarni",
+      "school": "Watkins Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 155",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Nebi Tsarni",
+      "school": "Watkins Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 155",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Reagan Ramadan",
+      "school": "Rising Sun",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 164",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Jaylen Hyman",
+      "school": "Randallstown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 170",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Jabea Ewane",
+      "school": "Watkins Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 170",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Ugochi Anunobi",
+      "school": "Randallstown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 170",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Ugochi Anunobi",
+      "school": "Randallstown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 170",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Chaniah Bernier",
+      "school": "Stephen Decatur",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 180",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Mame Thiam",
+      "school": "Western STES",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 190",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Arrey Mbutambe",
+      "school": "E. Roosevelt",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 190",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Jabea Ewane",
+      "school": "Watkins Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 190",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Azariyah Johnson",
+      "school": "Stephen Decatur",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 190",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Kaylynn Bryant",
+      "school": "Queen Anne's",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 220",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Arrey Mbutambe",
+      "school": "E. Roosevelt",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 225",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Jocelyn Cacek",
+      "school": "Great Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 235",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Jocelyn Cacek",
+      "school": "Great Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 235",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Jocelyn Cacek",
+      "school": "Great Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 235",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Emily Boling",
+      "school": "Northern-Cal",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Girls 235",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Jabea Ewane",
+      "school": "Watkins Mill",
+      "mark": null
+    }
+  ]
+}

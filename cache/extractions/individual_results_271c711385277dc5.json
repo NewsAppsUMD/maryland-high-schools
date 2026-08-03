@@ -1,0 +1,2065 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      92
+    ],
+    "extracted_at": "2026-08-02T21:07:01Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Bob Phillips",
+      "school": "PEH",
+      "mark": "13-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1977,
+      "classification": "A",
+      "name": "Tim Downs",
+      "school": "RMT",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1977,
+      "classification": "B",
+      "name": "John Bornkoff",
+      "school": "QAN",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1977,
+      "classification": "C",
+      "name": "Dale Drum",
+      "school": "MID",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1978,
+      "classification": "AA",
+      "name": "James Hull",
+      "school": "CRO",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1978,
+      "classification": "A",
+      "name": "Louis Warren",
+      "school": "FAH",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1978,
+      "classification": "B",
+      "name": "Mike Tucker",
+      "school": "JMB",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1978,
+      "classification": "C",
+      "name": "Milihan",
+      "school": "BHM",
+      "mark": "12-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Emil Davis",
+      "school": "REP",
+      "mark": "12-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1979,
+      "classification": "A",
+      "name": "Hal Stenger",
+      "school": "SCL",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1979,
+      "classification": "B",
+      "name": "Vincent Price",
+      "school": "ATH",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1979,
+      "classification": "C",
+      "name": "Ray Ashbrook",
+      "school": "SMI",
+      "mark": "13-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1980,
+      "classification": "AA",
+      "name": "James Janifer",
+      "school": "SUI",
+      "mark": "13-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1980,
+      "classification": "A",
+      "name": "Kirby Brown",
+      "school": "FAH",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1980,
+      "classification": "B",
+      "name": "Steve Caton",
+      "school": "GTM",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1980,
+      "classification": "C",
+      "name": "Joe Seabright",
+      "school": "BOO",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Ed Eisenberg",
+      "school": "WWH",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1981,
+      "classification": "A",
+      "name": "Alfred Woodland",
+      "school": "FAH",
+      "mark": "14-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1981,
+      "classification": "B",
+      "name": "Ricky Fisher",
+      "school": "NCL",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1981,
+      "classification": "C",
+      "name": "Craig Gillman",
+      "school": "FSK",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Paul Gancarcz",
+      "school": "OLM",
+      "mark": "13-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1982,
+      "classification": "A",
+      "name": "Monte Schmidt",
+      "school": "NOC",
+      "mark": "12-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1982,
+      "classification": "B",
+      "name": "Chris Yakabe",
+      "school": "AEI",
+      "mark": "13-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1982,
+      "classification": "C",
+      "name": "Carleton Norris",
+      "school": "PEV",
+      "mark": "13-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Chris Small",
+      "school": "WES",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1983,
+      "classification": "A",
+      "name": "Perry Smith",
+      "school": "BCC",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1983,
+      "classification": "B",
+      "name": "Greg Edwards",
+      "school": "ATH",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1983,
+      "classification": "C",
+      "name": "Robby Barber",
+      "school": "MID",
+      "mark": "13-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Ernie Donaldson",
+      "school": "PEH",
+      "mark": "13-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1984,
+      "classification": "A",
+      "name": "David Swope",
+      "school": "SCL",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1984,
+      "classification": "B",
+      "name": "Andrew Bevan",
+      "school": "CZM",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1984,
+      "classification": "C",
+      "name": "James Mapp",
+      "school": "STD",
+      "mark": "11-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Jeff Wickemeyer",
+      "school": "DUL",
+      "mark": "14-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1985,
+      "classification": "A",
+      "name": "Mickey Leapley",
+      "school": "NOC",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1985,
+      "classification": "B",
+      "name": "Chuck Browning",
+      "school": "GLG",
+      "mark": "14-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1985,
+      "classification": "C",
+      "name": "Bert Deener",
+      "school": "WLK",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Jim Yurwitz",
+      "school": "OLM",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1986,
+      "classification": "A",
+      "name": "Mickey Leapley",
+      "school": "NOC",
+      "mark": "12-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1986,
+      "classification": "B",
+      "name": "Craig Lousignant",
+      "school": "GTM",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1986,
+      "classification": "C",
+      "name": "Bert Deener",
+      "school": "WLK",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1987,
+      "classification": "AA",
+      "name": "John Rosseau",
+      "school": "DUL",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1987,
+      "classification": "A",
+      "name": "Kevin Wright",
+      "school": "CHA",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1987,
+      "classification": "B",
+      "name": "Willey Talley",
+      "school": "LAC",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1987,
+      "classification": "C",
+      "name": "Bert Deener",
+      "school": "WLK",
+      "mark": "13-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Matt Garvin",
+      "school": "OLM",
+      "mark": "15-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1988,
+      "classification": "A",
+      "name": "Willy Tolley",
+      "school": "LAC",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1988,
+      "classification": "B",
+      "name": "Jim Christian",
+      "school": "JMB",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1988,
+      "classification": "C",
+      "name": "Mike Rosales",
+      "school": "SMI",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Matt Garvin",
+      "school": "OLM",
+      "mark": "14-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Mark Pannier",
+      "school": "NHG",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Rob Pearce",
+      "school": "WIC",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Charles Holland",
+      "school": "NDC",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Nick Karvounis",
+      "school": "DUL",
+      "mark": "13-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Todd Bryant",
+      "school": "LEO",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Daniel Carroll",
+      "school": "MTH",
+      "mark": "12-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Mike Rosales",
+      "school": "SMI",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Jeff Liberge",
+      "school": "WES",
+      "mark": "14-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Joel Humenik",
+      "school": "GTM",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Cole Barnhart",
+      "school": "SHG",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Howe Hildebrand",
+      "school": "BOO",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Ray Richardson",
+      "school": "SUI",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Paul Clark",
+      "school": "LEO",
+      "mark": "14-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Aaron Browning",
+      "school": "GLG",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Howe Hildebrand",
+      "school": "BOO",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Jared Wick",
+      "school": "GLB",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Paul Clark",
+      "school": "LEO",
+      "mark": "13-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1993,
+      "classification": "2A",
+      "name": "John Merritt",
+      "school": "PKS",
+      "mark": "12-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Josh Crone",
+      "school": "FSK",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Paul Day",
+      "school": "CHA",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Jim McClellan",
+      "school": "HOW",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Steve Cadiz",
+      "school": "SRI",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Joshua Crone",
+      "school": "FSK",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Phillip Jones",
+      "school": "CAL",
+      "mark": "13-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1995,
+      "classification": "3A",
+      "name": "David Gurzick",
+      "school": "GTJ",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Pat Tvarkunas",
+      "school": "GLG",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Tony Cahoon",
+      "school": "FSK",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Paul Gray",
+      "school": "GAI",
+      "mark": "14-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Mike Eshoo",
+      "school": "ATH",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Pat Tvarkonas",
+      "school": "GLG",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Tony Cahoon",
+      "school": "FSK",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Michael Bourque",
+      "school": "CAL",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Dave Johnson",
+      "school": "CTN",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Mike Eshoo",
+      "school": "ATH",
+      "mark": "13-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Rusty McIntire",
+      "school": "RIS",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Richard Stark",
+      "school": "SPB",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Jared Benoit",
+      "school": "GTJ",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Tony Pesce",
+      "school": "ATH",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Steve Ferrell",
+      "school": "BRN",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Chris Stark",
+      "school": "SPB",
+      "mark": "15-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Jared Benoit",
+      "school": "GTJ",
+      "mark": "13-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Tony Pesce",
+      "school": "ATH",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Steve Ferrell",
+      "school": "BRN",
+      "mark": "13-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Chris Stark",
+      "school": "SPB",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Jared Benoit",
+      "school": "GTJ",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2000,
+      "classification": "2A",
+      "name": "David Hinton",
+      "school": "QAN",
+      "mark": "14-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Steve Ferrell",
+      "school": "BRN",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Brent McCavley",
+      "school": "GAI",
+      "mark": "13-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2001,
+      "classification": "3A",
+      "name": "David Miller",
+      "school": "NHG",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Justin Ferguson",
+      "school": "HOW",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Dan Tesch",
+      "school": "NEC",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Nathan Anguita",
+      "school": "GAI",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Ryan Gore",
+      "school": "LEO",
+      "mark": "14-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Kristopher Greenwell",
+      "school": "LAC",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Kevin Walsh",
+      "school": "HDG",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Nathan Anguita",
+      "school": "GAI",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Brian Grubel",
+      "school": "SEP",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Dan McKenzie",
+      "school": "JMB",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Kevin Walsh",
+      "school": "HDG",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Matt Begley",
+      "school": "SHE",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Tom Wunderlich",
+      "school": "NCL",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Chris Okerblom",
+      "school": "PKS",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Keven Walsh",
+      "school": "HDG",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Chris Bryant",
+      "school": "OLM",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Tim Wunderlich",
+      "school": "NCL",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Nathan Wilson",
+      "school": "FTH",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Chad Cummings",
+      "school": "BRN",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Adam Sedlak",
+      "school": "CMW",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Erik Adami",
+      "school": "NCL",
+      "mark": "12-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Jordan Wike",
+      "school": "WMI",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Pete Frey",
+      "school": "BOO",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Cyrus Olsen",
+      "school": "SRI",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Erik Adami",
+      "school": "NCL",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Alex Edelmann",
+      "school": "MID",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Matt Baum",
+      "school": "BRN",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Shawn Myers",
+      "school": "PEH",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Dustin Fishman",
+      "school": "URB",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Alex Edelmann",
+      "school": "MID",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Scott Rice",
+      "school": "BOO",
+      "mark": "13-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Erick Atrusio",
+      "school": "GTJ",
+      "mark": "15-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Dustin Fishman",
+      "school": "URB",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Alex Edelmann",
+      "school": "MID",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Nathan Diaz",
+      "school": "BRN",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Erick Artusio",
+      "school": "GTJ",
+      "mark": "15-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Bradley Hollowell",
+      "school": "STD",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Dominic Sink",
+      "school": "NHG",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Nathan Diaz",
+      "school": "BRN",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Lewis Shirima",
+      "school": "GTJ",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Bradley Hollowell",
+      "school": "STD",
+      "mark": "15-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Nick Bowen",
+      "school": "WLK",
+      "mark": "13-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Nathan Diaz",
+      "school": "BRN",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Andre DiPaola",
+      "school": "CHA",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Robert Mercer",
+      "school": "CRO",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Jonathan Hatcher",
+      "school": "NCN",
+      "mark": "14-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Andre Pollard",
+      "school": "PIK",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Brennan Hardesty",
+      "school": "CHA",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Kevin Payne",
+      "school": "HER",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Nicholas Riley",
+      "school": "OAD",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Andre Pollard",
+      "school": "PIK",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Trey Clark",
+      "school": "HOW",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Calvin Pitney",
+      "school": "GLG",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Chandler Kennel",
+      "school": "CNT",
+      "mark": "15-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Bryan Sloper",
+      "school": "BRN",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Timothy Santosa",
+      "school": "CLK",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Calvin Pitney",
+      "school": "GLG",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Nick Neral",
+      "school": "CNT",
+      "mark": "15-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Jacob Pryor",
+      "school": "SMI",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Jaren Baluyot",
+      "school": "BDN",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2016,
+      "classification": "3A",
+      "name": "George Stultz",
+      "school": "OAD",
+      "mark": "15-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Kyle Bryant",
+      "school": "CNT",
+      "mark": "14-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Carter Nave",
+      "school": "ALL",
+      "mark": "13-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Jaren Baluyot",
+      "school": "BDN",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Brian Lane",
+      "school": "OAD",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Zach Stump",
+      "school": "LIB",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Carter Nave",
+      "school": "ALL",
+      "mark": "14-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Jaren Baluyot",
+      "school": "BDN",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Carter Holsinger",
+      "school": "LIN",
+      "mark": "13-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Kareem Press",
+      "school": "WLD",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Alec Horner",
+      "school": "SOG",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Corey Troxler",
+      "school": "SRI",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Carter Holsinger",
+      "school": "LIN",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Erik Starks",
+      "school": "OAD",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Jackson Tuomey",
+      "school": "BRN",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Grayson Miller",
+      "school": "BDN",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Peter Kamanu",
+      "school": "GTJ",
+      "mark": "14-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Samuel Starrs",
+      "school": "OAD",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Jackson Tuomey",
+      "school": "BRN",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Brandon Kiefer",
+      "school": "SEP",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Samuel Starrs",
+      "school": "OAD",
+      "mark": "14-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Zach Kralec",
+      "school": "HER",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Everett Young",
+      "school": "PPM",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Seamus McCann",
+      "school": "BCC",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Cameron Rucker",
+      "school": "WES",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Kareem Kamandego",
+      "school": "PKS",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Everett Young",
+      "school": "PPM",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Gilberto Ramos",
+      "school": "GTJ",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Jonas Sparks",
+      "school": "OAD",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Reese Howard",
+      "school": "PKS",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Ryan Vollmer",
+      "school": "LIB",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Jeryco Sheppard",
+      "school": "DUN",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Jonas Sparks",
+      "school": "OAD",
+      "mark": "14-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Reese Howard",
+      "school": "PKS",
+      "mark": "14-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Ryan Vollmer",
+      "school": "LIB",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1952,
+      "classification": "A",
+      "name": "Fred Markoe",
+      "school": "FRE",
+      "mark": "50-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1952,
+      "classification": "B",
+      "name": "Schidley",
+      "school": "ELK",
+      "mark": "42-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1952,
+      "classification": "C",
+      "name": "Wilhelm",
+      "school": "Hampstead",
+      "mark": null
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1953,
+      "classification": "A",
+      "name": "Therbie Markoe",
+      "school": "FRE",
+      "mark": "50-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1954,
+      "classification": "A",
+      "name": "Don Murty",
+      "school": "NWE",
+      "mark": "46-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1954,
+      "classification": "B",
+      "name": "Dennis Campbell",
+      "school": "ELK",
+      "mark": "46-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1954,
+      "classification": "C",
+      "name": "Fred Horner",
+      "school": "WLK",
+      "mark": "39-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1955,
+      "classification": "A",
+      "name": "Dick Murty",
+      "school": "NWE",
+      "mark": "48-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1955,
+      "classification": "B",
+      "name": "Scott",
+      "school": "ELK",
+      "mark": "46-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1955,
+      "classification": "C",
+      "name": "Norman Hazzard",
+      "school": "SOA",
+      "mark": "40-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1956,
+      "classification": "A",
+      "name": "Paul Mankowich",
+      "school": "BAR",
+      "mark": "49-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1956,
+      "classification": "B",
+      "name": "Curtis Bruffey",
+      "school": "ABE",
+      "mark": "43-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1956,
+      "classification": "C",
+      "name": "Gerald Horner",
+      "school": "WLK",
+      "mark": "43-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1957,
+      "classification": "A",
+      "name": "Bowman",
+      "school": "KEN",
+      "mark": "47-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1957,
+      "classification": "B",
+      "name": "Curtis Bruffey",
+      "school": "ABE",
+      "mark": "43-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1957,
+      "classification": "C",
+      "name": "Gerald Horner",
+      "school": "WLK",
+      "mark": "42-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1958,
+      "classification": "A",
+      "name": "Fred Joyce",
+      "school": "FTH",
+      "mark": "46-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1958,
+      "classification": "C",
+      "name": "Gerald Horner",
+      "school": "WLK",
+      "mark": "46-08 1/8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1959,
+      "classification": "A",
+      "name": "Fred Joyce",
+      "school": "FTH",
+      "mark": "48-10 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1959,
+      "classification": "B",
+      "name": "Barnhart",
+      "school": "NCL",
+      "mark": "44-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1959,
+      "classification": "C",
+      "name": "Hardesty",
+      "school": "LAC",
+      "mark": "40-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1960,
+      "classification": "A",
+      "name": "Tom Murdock",
+      "school": "WAJ",
+      "mark": "50-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1960,
+      "classification": "B",
+      "name": "Lampman",
+      "school": "EDG",
+      "mark": "42-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1960,
+      "classification": "C",
+      "name": "Levi Lambert",
+      "school": "Tubman",
+      "mark": "43-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1961,
+      "classification": "AA",
+      "name": "Tom Murdock",
+      "school": "WAJ",
+      "mark": "52-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1961,
+      "classification": "A",
+      "name": "Richard Peck",
+      "school": "FTH",
+      "mark": "45-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1961,
+      "classification": "B",
+      "name": "Renkwitz",
+      "school": "Cambridge",
+      "mark": "47-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1961,
+      "classification": "C",
+      "name": "E. Christy",
+      "school": "HDG",
+      "mark": "45-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1962,
+      "classification": "AA",
+      "name": "Ken Chatham",
+      "school": "NWD",
+      "mark": "51-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1962,
+      "classification": "A",
+      "name": "Dave Delmer",
+      "school": "SHE",
+      "mark": "45-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1962,
+      "classification": "B",
+      "name": "Richard Drescher",
+      "school": "Cambridge",
+      "mark": "46-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1962,
+      "classification": "C",
+      "name": "John Simmons",
+      "school": "South Dorchester",
+      "mark": "43-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1963,
+      "classification": "AA",
+      "name": "Ken Chatham",
+      "school": "NWD",
+      "mark": "53-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1963,
+      "classification": "A",
+      "name": "Dave Delmar",
+      "school": "SHE",
+      "mark": "53-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1963,
+      "classification": "B",
+      "name": "Richard Drescher",
+      "school": "Cambridge",
+      "mark": "51-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 1963,
+      "classification": "C",
+      "name": "Hill",
+      "school": "Havre de Grace Consolidated",
+      "mark": "47-01 1/2"
+    }
+  ]
+}

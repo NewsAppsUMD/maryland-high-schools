@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "extractor": "championship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      57
+    ],
+    "extracted_at": "2026-08-02T14:33:52Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Soccer",
+      "year": 2024,
+      "classification": "4A",
+      "champion_school": "Walt Whitman",
+      "champion_coach": "Greg Herbert",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "3-0",
+      "champion_undefeated": false,
+      "co_champion": false,
+      "notes": null
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2024,
+      "classification": "3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Rick Simpson",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "4-0",
+      "champion_undefeated": false,
+      "co_champion": false,
+      "notes": null
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2024,
+      "classification": "2A",
+      "champion_school": "Queen Anne's",
+      "champion_coach": "MIke Kern",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "2-0",
+      "champion_undefeated": false,
+      "co_champion": false,
+      "notes": null
+    },
+    {
+      "sport": "Girls Soccer",
+      "year": 2024,
+      "classification": "1A",
+      "champion_school": "Liberty",
+      "champion_coach": "Danielle Prietz",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "3-0",
+      "champion_undefeated": false,
+      "co_champion": false,
+      "notes": null
+    }
+  ]
+}

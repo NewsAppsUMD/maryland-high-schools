@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      86
+    ],
+    "extracted_at": "2026-08-02T20:59:32Z"
+  },
+  "rows": []
+}

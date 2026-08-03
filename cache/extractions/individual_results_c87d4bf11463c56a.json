@@ -1,0 +1,418 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      83
+    ],
+    "extracted_at": "2026-08-02T19:59:43Z"
+  },
+  "rows": [
+    {
+      "sport": "Wrestling",
+      "event": "Boys 182",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Rylan Moose",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 190",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Mason Testerman",
+      "school": "Rising Sun",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 190",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Landon Hamper",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 195",
+      "year": 2012,
+      "classification": "Combined",
+      "name": "Jason Wright",
+      "school": "Mountain Ridge",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 195",
+      "year": 2013,
+      "classification": "Combined",
+      "name": "Matt Olauson",
+      "school": "Queen Anne's",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 195",
+      "year": 2014,
+      "classification": "Combined",
+      "name": "Matt Olauson",
+      "school": "Queen Anne's",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 195",
+      "year": 2015,
+      "classification": "Combined",
+      "name": "Tucker Ziegler",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 195",
+      "year": 2016,
+      "classification": "Combined",
+      "name": "Klijah Mitchell",
+      "school": "Central-PG",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 195",
+      "year": 2017,
+      "classification": "Combined",
+      "name": "Alex Eaton",
+      "school": "North Caroline",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 195",
+      "year": 2018,
+      "classification": "Combined",
+      "name": "Cam Farrow",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 195",
+      "year": 2019,
+      "classification": "Combined",
+      "name": "Sam Alsheimer",
+      "school": "Glenelg",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 195",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Lexx Carr",
+      "school": "Sparrows Point",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 195",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Alex Koulikov",
+      "school": "Stephen Decatur",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 195",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Adin Hastings",
+      "school": "Williamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 215",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Alex Hoy",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 215",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Adin Hastings",
+      "school": "Williamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 220",
+      "year": 2012,
+      "classification": "Combined",
+      "name": "Raheem Ramsey",
+      "school": "Wicomico",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 220",
+      "year": 2013,
+      "classification": "Combined",
+      "name": "Ryan Simonica",
+      "school": "Oakdale",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 220",
+      "year": 2014,
+      "classification": "Combined",
+      "name": "Brock Turnbaugh",
+      "school": "Hereford",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 220",
+      "year": 2015,
+      "classification": "Combined",
+      "name": "Nick Savin",
+      "school": "Broadneck",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 220",
+      "year": 2016,
+      "classification": "Combined",
+      "name": "Sean Mullican",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 220",
+      "year": 2017,
+      "classification": "Combined",
+      "name": "Jorden Pryor",
+      "school": "Dunbar",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 220",
+      "year": 2018,
+      "classification": "Combined",
+      "name": "Tristen Cook",
+      "school": "Boonsboro",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 220",
+      "year": 2019,
+      "classification": "Combined",
+      "name": "Elijah Baisden",
+      "school": "Damascus",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 220",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Brandon Oyster",
+      "school": "Williamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 220",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Chad Hoy",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 220",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Kieran Hofgesang",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2007,
+      "classification": "Combined",
+      "name": "Alex Harper",
+      "school": "Woodlawn",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2008,
+      "classification": "Combined",
+      "name": "Joe Waters",
+      "school": "Wicomico",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2009,
+      "classification": "Combined",
+      "name": "Dake Williams",
+      "school": "Quince Orchard",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2010,
+      "classification": "Combined",
+      "name": "Taylor Gload",
+      "school": "Hereford",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2011,
+      "classification": "Combined",
+      "name": "Jamal Saunders",
+      "school": "Bladensburg",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2012,
+      "classification": "Combined",
+      "name": "Sean Twigg",
+      "school": "Glenelg",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2013,
+      "classification": "Combined",
+      "name": "Sean Twigg",
+      "school": "Glenelg",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2014,
+      "classification": "Combined",
+      "name": "Brion Blades",
+      "school": "North Caroline",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2015,
+      "classification": "Combined",
+      "name": "Kirk Robinette",
+      "school": "Allegany",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2016,
+      "classification": "Combined",
+      "name": "Amari Latimer",
+      "school": "Patterson",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2017,
+      "classification": "Combined",
+      "name": "Sean Mullican",
+      "school": "Middletown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2018,
+      "classification": "Combined",
+      "name": "Jorden Pryor",
+      "school": "Dunbar",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2019,
+      "classification": "Combined",
+      "name": "Jorden Pryor",
+      "school": "Dunbar",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2020,
+      "classification": "Combined",
+      "name": "Mike Collins",
+      "school": "Parkside",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2022,
+      "classification": "Combined",
+      "name": "Max Larkin",
+      "school": "Williamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2023,
+      "classification": "Combined",
+      "name": "Austin Alexander",
+      "school": "Col. Richardson",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2024,
+      "classification": "Combined",
+      "name": "Carter Hess",
+      "school": "Fort Hill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 285",
+      "year": 2025,
+      "classification": "Combined",
+      "name": "Amory Hills",
+      "school": "Milford Mill Academy",
+      "mark": null
+    }
+  ]
+}

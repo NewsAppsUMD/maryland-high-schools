@@ -1,0 +1,661 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      68
+    ],
+    "extracted_at": "2026-08-02T19:53:43Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2007,
+      "classification": "4A-3A",
+      "name": "Emily Lloyd",
+      "school": "Severna Park",
+      "mark": "1:01.69"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2007,
+      "classification": "3A-2A-1A",
+      "name": "Ally Long",
+      "school": "Frederick",
+      "mark": "1:01.36"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2008,
+      "classification": "4A-3A",
+      "name": "Lauren Armstrong",
+      "school": "Broadneck",
+      "mark": "1:02.11"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2008,
+      "classification": "3A-2A-1A",
+      "name": "Ally Long",
+      "school": "Frederick",
+      "mark": "1:00.53"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2009,
+      "classification": "4A-3A",
+      "name": "Melissa Cropper",
+      "school": "Severna Park",
+      "mark": "1:01.35"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2009,
+      "classification": "3A-2A-1A",
+      "name": "Ally Long",
+      "school": "Frederick",
+      "mark": "1:00.84"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2010,
+      "classification": "4A-3A",
+      "name": "Alexa Santis",
+      "school": "Urbana",
+      "mark": "1:01.68"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2010,
+      "classification": "3A-2A-1A",
+      "name": "Meredith Foster",
+      "school": "North Harford",
+      "mark": "1:01.23"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2011,
+      "classification": "4A-3A",
+      "name": "Alexa Santis",
+      "school": "Urbana",
+      "mark": "1:01.08"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2011,
+      "classification": "3A-2A-1A",
+      "name": "Chelsea Rossick",
+      "school": "Middletown",
+      "mark": "1:03.30"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2012,
+      "classification": "4A-3A",
+      "name": "Kristina Li",
+      "school": "Thomas Wootton",
+      "mark": "57.02"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2012,
+      "classification": "3A-2A-1A",
+      "name": "Chelsea Vanderweele",
+      "school": "Northwood",
+      "mark": "59.70"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2013,
+      "classification": "4A-3A",
+      "name": "Natsumi Horikawa",
+      "school": "Thomas Wootton",
+      "mark": "58.14"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2013,
+      "classification": "3A-2A-1A",
+      "name": "Madison Brown",
+      "school": "Fallston",
+      "mark": "1:01.99"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2014,
+      "classification": "4A-3A",
+      "name": "Hannah Lindsey",
+      "school": "Winston Churchill",
+      "mark": "56.42"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2014,
+      "classification": "3A-2A-1A",
+      "name": "Page Fox",
+      "school": "Frederick",
+      "mark": "1:02.03"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2015,
+      "classification": "4A-3A",
+      "name": "Hannah Lindsey",
+      "school": "Winston Churchill",
+      "mark": "56.19"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2015,
+      "classification": "3A-2A-1A",
+      "name": "Katarina Lechner",
+      "school": "Poolesville",
+      "mark": "1:01.27"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2016,
+      "classification": "4A-3A",
+      "name": "Hannah Lindsey",
+      "school": "Winston Churchill",
+      "mark": "55.08"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2016,
+      "classification": "3A-2A-1A",
+      "name": "Justine Wantz",
+      "school": "Walkersville",
+      "mark": "59.26"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2017,
+      "classification": "4A-3A",
+      "name": "Katie Smith",
+      "school": "Bethesda-Chevy Chase",
+      "mark": "55.77"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2017,
+      "classification": "3A-2A-1A",
+      "name": "Moshelle Borjigin",
+      "school": "Poolesville",
+      "mark": "59.24"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2018,
+      "classification": "4A-3A",
+      "name": "Hannah Kannan",
+      "school": "Montgomery Blair",
+      "mark": "55.21"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2018,
+      "classification": "3A-2A-1A",
+      "name": "Sydney Atkins",
+      "school": "Huntingtown",
+      "mark": "58.05"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2019,
+      "classification": "4A-3A",
+      "name": "Sophia Ryan",
+      "school": "Sherwood",
+      "mark": "56.66"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2019,
+      "classification": "3A-2A-1A",
+      "name": "Autumn Wang",
+      "school": "Poolesville",
+      "mark": "1:01.03"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2020,
+      "classification": "4A-3A",
+      "name": "Samantha Smith",
+      "school": "Bethesda-Chevy Chase",
+      "mark": "56.30"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2020,
+      "classification": "3A-2A-1A",
+      "name": "Elizabeth Pennington",
+      "school": "Elkton",
+      "mark": "57.11"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2022,
+      "classification": "4A-3A",
+      "name": "Victoria Svensson",
+      "school": "Walt Whitman",
+      "mark": "55.68"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2022,
+      "classification": "3A-2A-1A",
+      "name": "Addy Donnick",
+      "school": "La Plata",
+      "mark": "53.68"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2023,
+      "classification": "4A-3A",
+      "name": "Virginia Hinds",
+      "school": "Bethesda-Chevy Chase",
+      "mark": "54.02"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2023,
+      "classification": "3A-2A-1A",
+      "name": "Addy Donnick",
+      "school": "La Plata",
+      "mark": "55.15"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2024,
+      "classification": "4A-3A",
+      "name": "Virginia Hinds",
+      "school": "Bethesda-Chevy Chase",
+      "mark": "53.35"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2024,
+      "classification": "3A-2A-1A",
+      "name": "Addy Donnick",
+      "school": "La Plata",
+      "mark": "56.55"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2025,
+      "classification": "4A-3A",
+      "name": "Virginia Hinds",
+      "school": "Bethesda-Chevy Chase",
+      "mark": "53.32"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Backstroke",
+      "year": 2025,
+      "classification": "3A-2A-1A",
+      "name": "Carly Damon",
+      "school": "Northern-Cal",
+      "mark": "59.82"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2007,
+      "classification": "4A-3A",
+      "name": "Stephanie Goldbeck",
+      "school": "Eleanor Roosevelt",
+      "mark": "1:11.32"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2007,
+      "classification": "3A-2A-1A",
+      "name": "Amber Meer",
+      "school": "Easton",
+      "mark": "1:09.20"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2008,
+      "classification": "4A-3A",
+      "name": "Brittany Culpepper",
+      "school": "Leonardtown",
+      "mark": "1:10.02"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2008,
+      "classification": "3A-2A-1A",
+      "name": "Christine Dunleavy",
+      "school": "La Plata",
+      "mark": "1:10.07"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2009,
+      "classification": "4A-3A",
+      "name": "Brittany Culpepper",
+      "school": "Leonardtown",
+      "mark": "1:08.65"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2009,
+      "classification": "3A-2A-1A",
+      "name": "Amber Meer",
+      "school": "Easton",
+      "mark": "1:10.52"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2010,
+      "classification": "4A-3A",
+      "name": "Margot Manning",
+      "school": "Thomas Johnson",
+      "mark": "1:07.06"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2010,
+      "classification": "3A-2A-1A",
+      "name": "Kelsey Lessard",
+      "school": "Queen Anne's",
+      "mark": "1:12.86"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2011,
+      "classification": "4A-3A",
+      "name": "Katie Parker",
+      "school": "Severna Park",
+      "mark": "1:07.23"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2011,
+      "classification": "3A-2A-1A",
+      "name": "Danielle Jackson",
+      "school": "Fairmont Heights",
+      "mark": "1:11.56"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2012,
+      "classification": "4A-3A",
+      "name": "Audrey Gould",
+      "school": "Walt Whitman",
+      "mark": "1:06.48"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2012,
+      "classification": "3A-2A-1A",
+      "name": "Diana Hanson",
+      "school": "Poolesville",
+      "mark": "1:07.51"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2013,
+      "classification": "4A-3A",
+      "name": "Audrey Gould",
+      "school": "Walt Whitman",
+      "mark": "1:06.72"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2013,
+      "classification": "3A-2A-1A",
+      "name": "Lauren O'Mara",
+      "school": "C. Milton Wright",
+      "mark": "1:06.70"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2014,
+      "classification": "4A-3A",
+      "name": "Katie Parker",
+      "school": "Severna Park",
+      "mark": "1:05.67"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2014,
+      "classification": "3A-2A-1A",
+      "name": "Lauren O'Mara",
+      "school": "C. Milton Wright",
+      "mark": "1:07.49"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2015,
+      "classification": "4A-3A",
+      "name": "Jaycee Yegher",
+      "school": "Northwest",
+      "mark": "1:05.40"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2015,
+      "classification": "3A-2A-1A",
+      "name": "Lauren O'Mara",
+      "school": "C. Milton Wright",
+      "mark": "1:08.25"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2016,
+      "classification": "4A-3A",
+      "name": "Jaycee Yegher",
+      "school": "Northwest",
+      "mark": "1:02.74"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2016,
+      "classification": "3A-2A-1A",
+      "name": "Eliza Manning",
+      "school": "Gov. Thomas Johnson",
+      "mark": "1:04.45"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2017,
+      "classification": "4A-3A",
+      "name": "Jaycee Yegher",
+      "school": "Northwest",
+      "mark": "1:01.76"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2017,
+      "classification": "3A-2A-1A",
+      "name": "McKenzie Hemingway",
+      "school": "Queen Anne'",
+      "mark": "1:07.67"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2018,
+      "classification": "4A-3A",
+      "name": "Catherine Belyakov",
+      "school": "Quince Orchard",
+      "mark": "1:03.86"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2018,
+      "classification": "3A-2A-1A",
+      "name": "McKenzie Hemingway",
+      "school": "Queen Anne's",
+      "mark": "1:06.26"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2019,
+      "classification": "4A-3A",
+      "name": "Catherine Belyakov",
+      "school": "Quince Orchard",
+      "mark": "1:02.71"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2019,
+      "classification": "3A-2A-1A",
+      "name": "McKenzie Hemingway",
+      "school": "Queen Anne's",
+      "mark": "1:05.06"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2020,
+      "classification": "4A-3A",
+      "name": "Catherine Belyakov",
+      "school": "Quince Orchard",
+      "mark": "1:02.10"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2020,
+      "classification": "3A-2A-1A",
+      "name": "McKenzie Hemingway",
+      "school": "Queen Anne's",
+      "mark": "1:04.98"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2022,
+      "classification": "4A-3A",
+      "name": "Hanna Bingley",
+      "school": "Walter Johnson",
+      "mark": "1:03.41"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2022,
+      "classification": "3A-2A-1A",
+      "name": "Heidi Tomlin",
+      "school": "Middletown",
+      "mark": "1:07.22"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2023,
+      "classification": "4A-3A",
+      "name": "Sienna Karp",
+      "school": "",
+      "mark": "1:01.54"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2023,
+      "classification": "3A-2A-1A",
+      "name": "Anna Li",
+      "school": "Poolesville",
+      "mark": "1:04.50"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2024,
+      "classification": "4A-3A",
+      "name": "Isla Bartholomew",
+      "school": "Walter Johnson",
+      "mark": "1:04.08"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2024,
+      "classification": "3A-2A-1A",
+      "name": "Viona Sunjaya",
+      "school": "Damascus",
+      "mark": "1:04.09"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2025,
+      "classification": "4A-3A",
+      "name": "Catherine Bu",
+      "school": "Winston Churchill",
+      "mark": "1:03.16"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "event": "100 Yard Breaststroke",
+      "year": 2025,
+      "classification": "3A-2A-1A",
+      "name": "Viona Sunjaya",
+      "school": "Damascus",
+      "mark": "1:03.69"
+    }
+  ]
+}

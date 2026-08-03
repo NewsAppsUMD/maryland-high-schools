@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "extractor": "stat_records",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      20
+    ],
+    "extracted_at": "2026-08-02T22:49:52Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most Points - final game",
+      "value": "47",
+      "holder": "Sherron Mills",
+      "school": "Snow Hill",
+      "year": "1989",
+      "co_holder": false,
+      "notes": "vs. Milford Mill"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most Points - semifinal game",
+      "value": "45",
+      "holder": "Gary Browne",
+      "school": "Whitman",
+      "year": "1968",
+      "co_holder": false,
+      "notes": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most Points - two games",
+      "value": "77",
+      "holder": "Sherron Mills",
+      "school": "Snow Hill",
+      "year": "1989",
+      "co_holder": false,
+      "notes": "30 - Sf vs Boonsboro, 47 - F vs Milford Mill"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most Field Goals - one game",
+      "value": "19",
+      "holder": "Gary Browne",
+      "school": "Whitman",
+      "year": "1968",
+      "co_holder": true,
+      "notes": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most Field Goals - one game",
+      "value": "19",
+      "holder": "Steve Stielper",
+      "school": "Andover",
+      "year": "1976",
+      "co_holder": true,
+      "notes": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most Field Goals - one game",
+      "value": "19",
+      "holder": "Sherron Mills",
+      "school": "Snow Hill",
+      "year": "1989",
+      "co_holder": true,
+      "notes": "vs. Milford Mill, F"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most Rebounds - one game",
+      "value": "31",
+      "holder": "Earl Hawkins",
+      "school": "Gwynn Park",
+      "year": "1970",
+      "co_holder": false,
+      "notes": null
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most Free Throws Made - one game",
+      "value": "19/23",
+      "holder": "Spencer Schultz",
+      "school": "Clear Spring",
+      "year": "2016",
+      "co_holder": false,
+      "notes": "vs. Pocomoke, Sf"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most Assists - one game",
+      "value": "13",
+      "holder": "Reggie Parker",
+      "school": "North Dorchester",
+      "year": "1999",
+      "co_holder": false,
+      "notes": "vs. Pikesville, F"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Longest Shot Made in a game",
+      "value": "85 ft.",
+      "holder": "Bob Pence",
+      "school": "Bruce",
+      "year": "1975",
+      "co_holder": false,
+      "notes": "Sf"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Free Throw Percentage - two games (minimum of 14 attempts)",
+      "value": "1.000, 14/14",
+      "holder": "Nardi Bogues",
+      "school": "Baltimore City College",
+      "year": "2009",
+      "co_holder": false,
+      "notes": "6/6 - Sf vs. Century, 8/8 - F vs. Frederick Douglass-PG"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most 3-Point Goals - one game",
+      "value": "7",
+      "holder": "Mac Sloan",
+      "school": "Westmar",
+      "year": "1993",
+      "co_holder": true,
+      "notes": "vs. Cambridge-SD, Sf"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most 3-Point Goals - one game",
+      "value": "7",
+      "holder": "Cornelius McMurray",
+      "school": "Southwestern",
+      "year": "1997",
+      "co_holder": true,
+      "notes": "vs. Paint Branch, Sf"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most 3-Point Goals - one game",
+      "value": "7",
+      "holder": "Derrell Edwards",
+      "school": "Dunbar",
+      "year": "2010",
+      "co_holder": true,
+      "notes": "vs. Allegany, Sf"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "individual",
+      "record": "Most 3-Point Goals - two games",
+      "value": "10",
+      "holder": "Jamahl Brown",
+      "school": "Surrattsville",
+      "year": "2008",
+      "co_holder": false,
+      "notes": "5 - Sf vs Fort Hill, 5 - F vs Snow Hill"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "team",
+      "record": "Most Points - one game",
+      "value": "122",
+      "holder": "Dunbar",
+      "school": "Dunbar",
+      "year": "1993",
+      "co_holder": false,
+      "notes": "vs. Fallston, 58, Sf"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "team",
+      "record": "Most Points - two games",
+      "value": "207",
+      "holder": "Fairmont Heights",
+      "school": "Fairmont Heights",
+      "year": "1971",
+      "co_holder": false,
+      "notes": "87 - Sf vs. ?, 120 - F vs. Atholton"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "team",
+      "record": "Most Points - both teams",
+      "value": "208",
+      "holder": "Annapolis (106) vs. High Point (102)",
+      "school": "Annapolis",
+      "year": "1990",
+      "co_holder": false,
+      "notes": "F"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "team",
+      "record": "Most Points - losing team",
+      "value": "102",
+      "holder": "High Point",
+      "school": "High Point",
+      "year": "1990",
+      "co_holder": false,
+      "notes": "vs. Annapolis, 106, F"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "team",
+      "record": "Most Points - one quarter",
+      "value": "43",
+      "holder": "Fairmont Heights",
+      "school": "Fairmont Heights",
+      "year": "1971",
+      "co_holder": false,
+      "notes": "vs. Atholton, F"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "team",
+      "record": "Least Points - winning team",
+      "value": "28",
+      "holder": "Hagerstown",
+      "school": "Hagerstown",
+      "year": "1951",
+      "co_holder": false,
+      "notes": "vs. ?, 27, F"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "team",
+      "record": "Least Points - both teams",
+      "value": "54",
+      "holder": "Southern-AA vs. Fort Hill",
+      "school": "Southern-AA",
+      "year": "1973",
+      "co_holder": false,
+      "notes": "F"
+    },
+    {
+      "sport": "Boys Basketball",
+      "category": "team",
+      "record": "Most Overtime Periods",
+      "value": "5",
+      "holder": "Gaithersburg (96) vs. Oxon Hill (91)",
+      "school": "Gaithersburg",
+      "year": "1998",
+      "co_holder": false,
+      "notes": "F"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+sport,category,record,value,holder,school,year,co_holder,notes,source_pdf,source_pages,extracted_at,extraction_model
+Baseball,team,"Runs Scored, Season",331,Bowie,Bowie,2016,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Runs Scored, Game",45,Charles H. Flowers,Charles H. Flowers,2019,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Runs Scored, Game (two teams)",52,Manchester Valley,Manchester Valley,2011,False,vs. Winters Mill,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Runs Scored, Inning",24,Southern-Garrett,Southern-Garrett,2001,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Runs Scored, Inning",24,Southern (AA),Southern (AA),2015,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,Avg Runs/Game,15.7,Randallstown,Randallstown,2019,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Hits, Season",343,Arundel,Arundel,2001,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Hits, Game",33,Parkside,Parkside,2000,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Hits, Game (two teams)",38,North Hagerstown,North Hagerstown,1991,False,vs. South Hagerstown,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Hits, Inning",16,Parkside,Parkside,2000,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Hits, Inning",16,Southern-Garrett,Southern-Garrett,2001,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Doubles, Season",86,Arundel,Arundel,2001,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Doubles, Game",11,Bowie,Bowie,1988,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Doubles, Game",11,Bowie,Bowie,2015,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Triples, Season",32,Bowie,Bowie,2004,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Triples, Game",5,South Carroll,South Carroll,1985,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Home Runs, Season",49,Brunswick,Brunswick,2000,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Home Runs, Game",9,Parkdale,Parkdale,1988,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Home Runs, Game",9,Parkside,Parkside,2000,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Home Runs, Inning",6,Parkside,Parkside,2000,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"RBI's, Season",258,Bowie,Bowie,2014,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"RBI's, Game",40,Bowie,Bowie,2015,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Bases on Balls, Season",205,Eleanor Roosevelt,Eleanor Roosevelt,2019,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Bases on Balls, Game",22,Bowie,Bowie,2015,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Stolen Bases, Season",187,Cambridge/SD,Cambridge/SD,2004,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,"Stolen Bases, Game",20,Charles H. Flowers,Charles H. Flowers,2016,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,Consecutive Wins,54,Bowie,Bowie,1981-83,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,Wins (season),25,St. Michaels,St. Michaels,2001,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,Shut-outs (season),12,C.M. Wright,C.M. Wright,2010,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,Strikeouts by Staff,243,Atholton,Atholton,1990,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,Team Batting Avg,442,Bowie,Bowie,2002,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,Double Plays (season),22,Arundel,Arundel,1990,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,Double Plays (game),5,Annapolis,Annapolis,2008,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,team,Team Slugging %,671,Bowie,Bowie,2004,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Most Wins, Career",39,Ken Loudermilk,North East-Cec,1985-88,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Most Wins, Season",16,Ken Loudermilk,North East-Cec,1988,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Shutouts, Career",12,Larry Meekins,Franklin,1969-71,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Shutouts, Season",7,Larry Meekins,Franklin,1970,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Shutouts, Season",7,"Bryan ""Moose"" Haas",Franklin,1974,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Lowest ERA, Career",0.80,Mike Wesneski,Arundel,1978-79,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Lowest ERA, Season",0.00,"Bryan ""Moose"" Haas",Franklin,1974,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"No Hitters, Career",3,Al Beckett,J. M. Bennett,1971-72,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"No Hitters, Career",3,Andre Gardner,Towson,2000,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"No Hitters, Career",3,Joel Sanford,Southwestern,2005,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"No Hitters, Career",3,Kevin Brady,Gaithersburg,2007,True,one was a perfect game,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"No Hitters, Season",3,Andre Gardner,Towson,2000,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"No Hitters, Season",3,Joel Sanford,Southwestern,2005,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"No Hitters, Season",3,Kevin Brady,Gaithersburg,2007,True,one was a perfect game,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"No Hitters, Season",3,Joe Cavalluzzo,J.M. Bennett,2012,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"No Hitters, Season",3,Todd Murphy,Eleanor Roosevelt,2019,True,one was a perfect game,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Strikeouts, Career",385,Larry Meekins,Franklin,1969-71,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Strikeouts, Season",154,Geoffrey Redgrave,T.S. Wootton,1981,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Strikeouts, Season",154,Alex Pugliese,Atholton,1990,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Strikeouts, 7-Inning Game",20,Eric Losten,Bohemia Manor,2001,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Strikeouts, 7-Inning Game",20,Joe Sanford,Southwestern,2005,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Strikeouts, 7-Inning Game",20,CJ DeTurris,Laurel,2025,True,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Strikeouts, Extra Inning Game (8 innings)",19,Joey Lucas,Brunswick,1990,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Strikeouts, Extra Inning Game (10 innings)",24,Ricky Dawson,Brunswick,1969,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Strikeouts, Extra Inning Game (11 innings)",19,Mike Wesneski,Arundel,1979,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,Consecutive Scoreless Innings,53 2/3,Larry Meekins,Franklin,1970,False,,pdfs/Spring record book 2025.pdf,10,2026-08-02T22:48:05Z,glm-5.2:cloud
+Baseball,individual,"Runs Scored, Career",129,Tremayne Cobb Jr.,C.H. Flowers,2016-19,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Runs Scored, Season",51,Tony Aceves,Howard,1999,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Runs Scored, Game",6,Gene Perkins,Northeast-AA,1971,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Runs Scored, Game",6,Rick Wilson,Northeast-AA,1974,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Runs Scored, Game",6,Brian Shipe,Parkside,2000,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Runs Scored, Game",6,Matt Johnson,North Hagerstown,2001,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Runs Scored, Game",6,Willie Hines,Bowie,2015,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Runs Scored, Game",6,Brian McAbee,Bowie,2015,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Runs Scored, Game",6,Tremayne Cobb Jr.,C.H. Flowers,2019,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Runs Scored, Game",6,Keith Wallace,Charles H. Flowers,2019,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Hits, Career",131,Jason Maxey,Hammond,1998-2001,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Hits, Season",49,Nick Pleyo,Arundel,2001,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Hits, Game",6,Matt Johnson,North Hagerstown,2001,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Hits, Game",6,Anthony Barnes,Bowie,2015,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Hits, Consecutive Games",29,Brad Powell,Parkside,2003-2004,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Career",35,Jason Maxey,Hammond,1998-2001,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Season",13,Kevin Goode,Brunswick,1999,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Season",13,Brian Brewer,Hammond,2000,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Game",4,John Childers,Parkdale,1988,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Game",4,Brad Taylor,South Hagerstown,1996,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Randy Butts,North Hagerstown,1983,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Steve Thomshack,North County,1994,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Jason Sieklicki,Old Mill,1995,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Craig Gaskins,Bowie,1999,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Kevin Goode,Brunswick,1999,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Kevin Murray,Eastern Technical,2000,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Nick Andryszak,Eastern Technical,2002,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Brian Hobbs,Arundel,2004,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Ben Cross,Gaithersburg,2005,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Matt Schrader,James Hubert Blake,2005,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Shane Troyer,Chesapeake-AA,2010,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Trey Martinez,Gaithersburg,2015,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Home Runs, Inning",2,Aidan Greaney,South Carroll,2021,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,Home Runs in Consecutive Games,7,Ryan Robertson,James Hubert Blake,2001,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Consecutive Grand Slams, Game",3,Allen Webber,Brunswick,2000,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Triples, Career",27,Harold Brantley,Springbrook,2003-06,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Triples, Season",11,Harold Brantley,Springbrook,2006,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Triples, Game",3,Todd Smith,Glenelg,1988,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Triples, Game",3,Josh Knopp,Easton,1994,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Triples, Game",3,Darius Jones,Patuxent,2012,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Triples, Game",3,Sarunas Matalavage,Man. Valley,2015,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Triples, Game",3,Aidan Greaney,South Carroll,2021,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Triples, Inning",2,Andy Suder,North Hagerstown,1986,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Triples, Inning",2,Aidan Greaney,South Carroll,2021,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Doubles, Career",36,Alex Udwari,Blake,2000-03,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Doubles, Season",18,Nick Pleyo,Arundel,2001,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Doubles, Game",4,Anthony Barnes,Bowie,2015,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"RBI's, Career",156,Jason Maxey,Hammond,1998-2001,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"RBI's, Season",51,Andrew Yacyk,North Hagerstown,2012,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"RBI's, Game",12,Garrett Magaha,North Caroline,1998,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"RBI's, Inning",7,Kyle Butts,North Hagerstown,1983,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"RBI's, Inning",7,Kyle George,Bel Air,1999,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Batting Average, Career",601,Will Crampton,Boonsboro,1984-86,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Batting Average, Season",711,Travis Ezi,Southwestern,2001,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Walks, Career",77,Tremayne Cobb Jr.,C.H. Flowers,2016-19,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Walks, Career",77,Christopher Jones,El. Roosevelt,2016-19,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Walks, Season",39,Christopher Jones,El. Roosevelt,2019,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Walks, Game",5,Eric Seymour,Chesapeake-AA,1988,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Walks, Game",5,Chris Barnes,Bowie,2015,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Walks, Game",5,Graysen Porter,Bowie,2015,True,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Stolen Bases, Career",126,Tremayne Cobb Jr.,C.H. Flowers,2016-19,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Stolen Bases, Season",51,Raynel Gibson,Laurel,2007,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Baseball,individual,"Stolen Bases, Game",8,Omari Swinton,"Dr. Henry A. Wise, Jr.",2024,False,,pdfs/Spring record book 2025.pdf,11,2026-08-02T22:48:29Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,22,Dulaney,Dulaney,,False,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,21,Mount Hebron,Mount Hebron,,True,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,21,Loch Raven,Loch Raven,,True,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,21,Severna Park,Severna Park,,True,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,20,C. Milton Wright,C. Milton Wright,,False,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,18,Fallston,Fallston,,False,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,15,Century,Century,,True,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,15,Hereford,Hereford,,True,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,14,Catonsville,Catonsville,,True,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,14,Glenelg,Glenelg,,True,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,14,Queen Anne's,Queen Anne's,,True,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,14,Southern-AA,Southern-AA,,True,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,13,Towson,Towson,,False,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,12,Westminster,Westminster,,False,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,11,Walt Whitman,Walt Whitman,,False,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,10,Broadneck,Broadneck,,True,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Tournament Appearances,10,Liberty,Liberty,,True,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Number of Championships,16,Severna Park,Severna Park,,False,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Number of Championships,15,Mount Hebron,Mount Hebron,,False,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Number of Championships,9,Century,Century,,False,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Number of Consecutive Championships,11,Mount Hebron,Mount Hebron,1997-2007,False,,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Goals In Championship Game,21,Broadneck,Broadneck,2013,False,CLASS 4A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Goals In Championship Game,21,Mount Hebron,Mount Hebron,2004,False,CLASS 3A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Goals In Championship Game,25,Century,Century,2009,False,CLASS 2A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Goals In Championship Game,22,Manchester Valley,Manchester Valley,2016,False,CLASS 1A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Goals in Semifinal and Final Games Combined,37,Severna Park,Severna Park,2008,False,CLASS 4A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Goals in Semifinal and Final Games Combined,45,Mount Hebron,Mount Hebron,2004,False,CLASS 3A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Goals in Semifinal and Final Games Combined,43,Century,Century,2009,False,CLASS 2A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Goals in Semifinal and Final Games Combined,39,Glenelg,Glenelg,2008,True,CLASS 1A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,team,Most Goals in Semifinal and Final Games Combined,39,Manchester Valley,Manchester Valley,2016,True,CLASS 1A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Total Points in Championship Game (goals + assists),12,Kadie Stamper,C.M. Wright,2004,False,CLASS 4A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Total Points in Championship Game (goals + assists),8,Cathy Nelson,Mount Hebron,1994,True,CLASS 3A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Total Points in Championship Game (goals + assists),8,Danielle Vissers,Mount Hebron,1995,True,CLASS 3A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Total Points in Championship Game (goals + assists),11,Claire Brady,Century,2009,True,CLASS 2A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Total Points in Championship Game (goals + assists),11,Kaitlin Schwarzmann,Century,2009,True,CLASS 2A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Total Points in Championship Game (goals + assists),12,Lizzie Colson,Manchester Valley,2016,False,CLASS 1A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Goals in Championship Game,8,Kadie Stamper,C.M. Wright,2004,False,CLASS 4A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Goals in Championship Game,7,Cathy Nelson,Mount Hebron,1994,False,CLASS 3A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Goals in Championship Game,9,Kaitlin Schwarzmann,Century,2009,False,CLASS 2A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Goals in Championship Game,9,Emma Penczek,Manchester Valley,2023,False,CLASS 2A/1A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Goals in Championship Game,8,Lizzie Colson,Manchester Valley,2016,False,CLASS 1A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Assists in Championship Game,5,Bryce Payne,Broadneck,2022,False,CLASS 4A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Assists in Championship Game,5,Kristen Waagbo,Mount Hebron,2002,False,CLASS 3A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Assists in Championship Game,11,Claire Brady,Century,2009,False,CLASS 2A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Assists in Championship Game,5,Kristy Black,Glenelg,2008,True,CLASS 1A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Assists in Championship Game,5,Anna Geist,Manchester Valley,2016,True,CLASS 1A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Saves in Championship Game,13,Erica Webb,Broadneck,2005,False,CLASS 4A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Saves in Championship Game,16,Jen McHugh,C.M. Wright,1998,False,CLASS 3A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Saves in Championship Game,18,Amanda Church,Southern-AA,2004,False,CLASS 2A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Girls Lacrosse,individual,Most Saves in Championship Game,10,Katie Beaver,Glenelg,2008,False,CLASS 1A,pdfs/Spring record book 2025.pdf,16,2026-08-02T22:48:46Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,23,Hereford,Hereford,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,22,Dulaney,Dulaney,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,20,Glenelg,Glenelg,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,20,Severna Park,Severna Park,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,18,Fallston,Fallston,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,17,Towson,Towson,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,13,Mount Hebron,Mount Hebron,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,12,Winston Churchill,Winston Churchill,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,12,Kent Island,Kent Island,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,12,Southern-AA,Southern-AA,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,12,Urbana,Urbana,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,11,Centennial,Centennial,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,11,Liberty,Liberty,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,11,Westminster,Westminster,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,9,Broadneck,Broadneck,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,9,Catonsville,Catonsville,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,8,Northern-Cal,Northern-Cal,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,8,Parkside,Parkside,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,8,Pikesville,Pikesville,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Tournament Appearances,8,South River,South River,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Number of Championships,14,Severna Park,Severna Park,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Number of Championships,10,Hereford,Hereford,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Number of Championships,8,Dulaney,Dulaney,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Number of Championships,8,Fallston,Fallston,,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Number of Consecutive Championships,9,Severna Park,Severna Park,2016-2025,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Number of Consecutive Championships,6,Hereford,Hereford,2008-2013,False,,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Goals in Championship Game,17,Dulaney,Dulaney,1990,False,CLASS 4A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Goals in Championship Game,18,Mount Hebron,Mount Hebron,2002,False,CLASS 3A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Goals in Championship Game,20,Kent Island,Kent Island,2015,True,CLASS 2A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Goals in Championship Game,20,Southern-AA,Southern-AA,2017,True,CLASS 2A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Goals in Championship Game,19,Fallston,Fallston,2023,False,CLASS 1A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Goals in Semifinal and Final Games Combined,36,Westminster,Westminster,2013,False,CLASS 4A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Goals in Semifinal and Final Games Combined,36,Mount Hebron,Mount Hebron,2002,False,CLASS 3A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Goals in Semifinal and Final Games Combined,39,Fallston,Fallston,2013,False,CLASS 2A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,team,Most Goals in Semifinal and Final Games Combined,35,Patterson Mill,Patterson Mill,2018,False,CLASS 1A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Total Points in Championship Game,10,Sean Heffernan,Dulaney,1990,True,CLASS 4A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Total Points in Championship Game,10,Alex Chow,Churchill,2022,True,"CLASS 4A, 4G, 6A",pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Total Points in Championship Game,9,Ryan Rock,Hereford,2008,False,CLASS 3A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Total Points in Championship Game,10,Zach Wheeler,Fallston,2012,False,CLASS 2A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Total Points in Championship Game,8,Kevin Dyke,Patterson Mill,2019,False,"CLASS 1A, 8G",pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Goals in Championship Game,7,Charlie Evans,Severna Park,2021,False,CLASS 4A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Goals in Championship Game,7,Rustin Bryant,Hereford,2010,False,CLASS 3A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Goals in Championship Game,9,Sean Dougherty,Centennial,2002,False,CLASS 2A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Goals in Championship Game,8,Kevin Dyke,Patterson Mill,2019,False,CLASS 1A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Assists in Championship Game,9,Sean Heffernan,Dulaney,1990,False,CLASS 4A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Assists in Championship Game,6,Trey Hilberg,Hereford,2008,False,CLASS 3A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Assists in Championship Game,5,Bryan Warner,Mount Hebron,1999,True,CLASS 2A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Assists in Championship Game,5,Zach Wheeler,Fallston,2012,True,CLASS 2A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Assists in Championship Game,5,Chance Urban,Patterson Mill,2018,False,CLASS 1A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Saves in Championship Game,26,Phil Reed,Dulaney,2000,False,CLASS 4A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Saves in Championship Game,15,Alex Sheehan,Northern-Calvert,2018,False,CLASS 3A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Saves in Championship Game,22,Tom Kurtzman,Loch Raven,2006,False,CLASS 2A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Boys Lacrosse,individual,Most Saves in Championship Game,22,Jamie Auer,Fallston,1993,False,CLASS 1A,pdfs/Spring record book 2025.pdf,21,2026-08-02T22:49:06Z,glm-5.2:cloud
+Softball,individual,"Home Runs, State Tournament",3,Jessi Bryant,Catoctin,2016,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Triples, State Tournament",3,Sonya Wilmoth,C. Milton Wright,1984,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Triples, State Tournament",3,Joanne Ferguson,Damascus,1990-92,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Triples, State Tournament",3,Amanda Shifflett,Northeast-AA,"1996, 1997, 1999",True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Triples, State Tournament",3,Heather Frye,North County,"2000, 2002",True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Triples, State Tournament",3,Katie Healy,Linganore,2022,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Triples, State Tournament",3,Brooke Colliflower,Chopticon,2025,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Doubles, State Tournament",5,Adrienne Gebele,Broadneck,"2009, 2010",True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Doubles, State Tournament",5,Kaitlyn Schmeiser,Northern-Calvert,2008-11,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,Pitchers — State Championship Wins,4,Kaitlyn Schmeiser,Northern-Calvert,2008-11,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,Pitchers — Tournament Wins,8,Kaitlyn Schmeiser,Northern-Calvert,2008-11,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — No Hitters, State Tournament",3,Kelly Shipman,Northern-Calvert,"1994, 1995",True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — No Hitters, State Tournament",3,Clarissa Crowell,McDonough,"1996, 1997",True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Shutouts, State Tournament",6,Kaitlyn Schmeiser,Northern-Calvert,2008-11,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Perfect Games, State Tournament",1,Jenny Parsons,Glen Burnie,1989,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Perfect Games, State Tournament",1,Jenny Joyce,Mount Hebron,1995,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Perfect Games, State Tournament",1,Kelly Shipman,Northern-Calvert,1995,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Perfect Games, State Tournament",1,Candice Rice,Northern-Calvert,1996,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Perfect Games, State Tournament",1,Clarissa Crowell,McDonough,1997,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Perfect Games, State Tournament",1,Stephanie Speierman,Hammond,2007,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Perfect Games, State Tournament",1,Claire Radford,Leonardtown,2024,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Strikeouts in a Game, State Tournament",19,Megan Elliott,Calvert,2003,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Strikeouts in a Game, State Tournament",19,Stephanie Speierman,Hammond,2007,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Strikeouts in a Game, State Tournament",19,Melanie Mitchell,McDonough,2009,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Strikeouts in a Game, State Tournament",19,Madison Penta,Bohemia Manor,2019,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitchers — Strikeouts in a Game, State Tournament",19,Taylor Smith,Catoctin,2023,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,team,Longest State Tournament Game,23 inn,Surrattsville vs. North Carroll,,1989,False,2-1,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitching Wins, Career",88,Megan Elliott,Calvert,2003-06,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitching Wins, Season",23,Candice Rice,Northern-Calvert,1996,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitching Wins, Season",23,Amy Burdette,Walkersville,1999,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitching Wins, Season",23,Megan Elliott,Calvert,2005,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Pitching Wins, Season",23,Stephanie Speierman,Hammond,2007,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Perfect Games, Career",12,Megan Elliott,Calvert,2003-06,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Perfect Games, Season",6,Marci Whitehead,Damascus,1992,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"ERA, Career",0.10,Megan Elliott,Calvert,2003-06,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"ERA, Season",0.00,Michelle Collins,Surrattsville,1990,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"ERA, Season",0.00,Marci Whitehead,Damascus,1992,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"ERA, Season",0.00,Amy Burdette,Walkersville,1998,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"ERA, Season",0.00,Melanie Mitchell,McDonough,2009,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"ERA, Season",0.00,Jessica Cummings,Northern-Calvert,2013,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"ERA, Season",0.00,Madison Penta,Bohemia Manor,2017,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Shutouts, Career",76,Megan Elliott,Calvert,2003-06,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Shutouts, Season",21,Megan Elliott,Calvert,2003,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Shutouts, Season",21,Jessica Cummings,Northern-Calvert,2013,True,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"No-Hitters, Career",32,Megan Elliott,Calvert,2003-06,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"No-Hitters, Season",15,Marci Whitehead,Damascus,1991,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Strikeouts, Career","1,361",Stephanie Speierman,Hammond,2006-09,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Strikeouts, Season",426,Stephanie Speierman,Hammond,2007,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Runs Scored, Career",160,Lindsey Schmeiser,Northern-Calvert,2009-12,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Runs Scored, Season",60,Falyn Quick,Damascus,2024,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Hits, Career",185,Campbell Kline,Severna Park,2016-19,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Hits, Season",69,Campbell Kline,Severna Park,2018,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Home Runs, Career",39,Nicole Stockinger,Sherwood,2012-15,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Home Runs, Season",16,Jessi Bryant,Catoctin,2016,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Triples, Career",24,Ashley Prince,Northeast-AA,2012-15,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Triples, Season",10,Lauren Marcotte,Centennail,2017,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Doubles, Career",44,Haley Downin,Chesapeake-AA,2016-19,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Doubles, Season",18,Courtney Johnson,Reservoir,2023,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"RBI's, Career",165,Toni Staunton,Northwestern-PG,1984-87,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"RBI's, Season",59,Breanna Casper,Eastern Technical,2014,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Walks, Career",104,Stephanie Speierman,Hammond,2006-09,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Walks, Season",37,Stephanie Speierman,Hammond,2007,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Stolen Bases, Career",121,Sydney Goertzen,Mardela,2014-17,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Stolen Bases, Season",65,Caitlyn Cornwell,Northeast-AA,2023,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Sacrifices, Career",27,Candi Schmidt,Northeast-AA,1985-88,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,individual,"Sacrifices, Season",14,Candi Schmidt,Northeast-AA,1987,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,team,"Games Won, Consecutive",105,Sherwood,Sherwood,2012-17,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,team,"Games Won, Season",26,Easton,Easton,2010,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,team,"State Championships Won, Consecutive",8,Northern-Calvert,Northern-Calvert,2008-15,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud
+Softball,team,"State Championships Won, Total",12,Northern-Calvert,Northern-Calvert,1993-2015,False,,pdfs/Spring record book 2025.pdf,26,2026-08-02T22:49:34Z,glm-5.2:cloud

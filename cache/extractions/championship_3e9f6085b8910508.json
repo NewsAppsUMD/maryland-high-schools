@@ -1,0 +1,1023 @@
+{
+  "meta": {
+    "extractor": "championship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      18
+    ],
+    "extracted_at": "2026-08-02T20:20:49Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1990,
+      "classification": "4A-3A",
+      "champion_school": "Dulaney",
+      "champion_coach": "Gary Schreiber",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "17-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1990,
+      "classification": "2A-1A",
+      "champion_school": "North Harford",
+      "champion_coach": "John Grubb",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "5-1"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1991,
+      "classification": "4A-3A",
+      "champion_school": "Dulaney",
+      "champion_coach": "Gary Schreiber",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-4"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1991,
+      "classification": "2A-1A",
+      "champion_school": "Mount Hebron",
+      "champion_coach": "Warren Michael",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "8-7, OT"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1992,
+      "classification": "4A-3A",
+      "champion_school": "Broadneck",
+      "champion_coach": "Clay White",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "1-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1992,
+      "classification": "2A-1A",
+      "champion_school": "Towson",
+      "champion_coach": "Randy Dase",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "8-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1993,
+      "classification": "4A-3A",
+      "champion_school": "Broadneck",
+      "champion_coach": "Clay White",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1993,
+      "classification": "2A-1A",
+      "champion_school": "Towson",
+      "champion_coach": "Randy Dase",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1994,
+      "classification": "4A-3A",
+      "champion_school": "Annapolis",
+      "champion_coach": "Dan Hart",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "7-5"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1994,
+      "classification": "2A-1A",
+      "champion_school": "Towson",
+      "champion_coach": "Randy Dase",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-8, OT"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1995,
+      "classification": "4A-3A",
+      "champion_school": "Arundel",
+      "champion_coach": "Clint Gosnell",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "11-10, OT"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1995,
+      "classification": "2A-1A",
+      "champion_school": "North Harford",
+      "champion_coach": "John Grubb",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "12-5"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1996,
+      "classification": "4A-3A",
+      "champion_school": "Broadneck",
+      "champion_coach": "Clay White",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "10-9, 2OT"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1996,
+      "classification": "2A-1A",
+      "champion_school": "Hereford",
+      "champion_coach": "Whit Morrill",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "8-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1997,
+      "classification": "4A-3A",
+      "champion_school": "Broadneck",
+      "champion_coach": "Clay White",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-8, OT"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1997,
+      "classification": "2A-1A",
+      "champion_school": "Towson",
+      "champion_coach": "Randy Dase",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "6-4"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1998,
+      "classification": "4A-3A",
+      "champion_school": "Annapolis",
+      "champion_coach": "Dan Hart",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "12-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1998,
+      "classification": "2A-1A",
+      "champion_school": "Centennial",
+      "champion_coach": "Mike Siegert",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "10-5"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1999,
+      "classification": "4A-3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Mike Bellotte",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "12-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 1999,
+      "classification": "2A-1A",
+      "champion_school": "Mount Hebron",
+      "champion_coach": "Jeff Doolan",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "7-5"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2000,
+      "classification": "4A-3A",
+      "champion_school": "Dulaney",
+      "champion_coach": "Gary Schreiber",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "10-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2000,
+      "classification": "3A-2A-1A",
+      "champion_school": "Hereford",
+      "champion_coach": "Whit Morrill",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "11-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2001,
+      "classification": "4A-3A",
+      "champion_school": "Dulaney",
+      "champion_coach": "Gary Schreiber",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "11-10"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2001,
+      "classification": "3A-2A",
+      "champion_school": "Fallston",
+      "champion_coach": "Matt Parks",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "11-10, OT"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2001,
+      "classification": "2A-1A",
+      "champion_school": "Pikesville",
+      "champion_coach": "Tano Arrogancia",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "17-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2002,
+      "classification": "4A-3A",
+      "champion_school": "Dulaney",
+      "champion_coach": "Gary Schreiber",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "16-15, 2 OT"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2002,
+      "classification": "3A-2A",
+      "champion_school": "Mount Hebron",
+      "champion_coach": "Tom Minard",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "18-9"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2002,
+      "classification": "2A-1A",
+      "champion_school": "Centennial",
+      "champion_coach": "Mike Siegert",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "16-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2003,
+      "classification": "4A-3A",
+      "champion_school": "Dulaney",
+      "champion_coach": "Gary Schreiber",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-12"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2003,
+      "classification": "3A-2A",
+      "champion_school": "Annapolis",
+      "champion_coach": "Joe Keenan",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2003,
+      "classification": "2A-1A",
+      "champion_school": "Hereford",
+      "champion_coach": "Carl Runk",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "11-9"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2004,
+      "classification": "4A-3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Jim Beardmore",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-11"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2004,
+      "classification": "3A-2A",
+      "champion_school": "Centennial",
+      "champion_coach": "Mike Siegert",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2004,
+      "classification": "2A-1A",
+      "champion_school": "Pikesville",
+      "champion_coach": "Craig Campbell",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "11-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2005,
+      "classification": "4A-3A",
+      "champion_school": "Dulaney",
+      "champion_coach": "Gary Schreiber",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "14-13"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2005,
+      "classification": "3A-2A",
+      "champion_school": "Centennial",
+      "champion_coach": "Mike Siegert",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "10-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2005,
+      "classification": "2A-1A",
+      "champion_school": "Parkside",
+      "champion_coach": "Jeremy Michalski",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "16-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2006,
+      "classification": "4A-3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Jim Beardmore",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "7-4"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2006,
+      "classification": "3A-2A",
+      "champion_school": "Mount Hebron",
+      "champion_coach": "Tom Minard",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2006,
+      "classification": "2A-1A",
+      "champion_school": "Loch Raven",
+      "champion_coach": "Rob Persing",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "10-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2007,
+      "classification": "4A-3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Larry Kramer",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "15-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2007,
+      "classification": "3A-2A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Josh Hatmaker",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "6-3"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2007,
+      "classification": "2A-1A",
+      "champion_school": "Winters Mill",
+      "champion_coach": "Sal Picataggi",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "7-6, OT"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2008,
+      "classification": "4A-3A",
+      "champion_school": "Dulaney",
+      "champion_coach": "Jake Reed",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "8-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2008,
+      "classification": "3A-2A",
+      "champion_school": "Hereford",
+      "champion_coach": "Carl Runk",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "15-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2008,
+      "classification": "2A-1A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Josh Hatmaker",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "7-4"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2009,
+      "classification": "4A-3A",
+      "champion_school": "South River",
+      "champion_coach": "Paul Noone",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "11-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2009,
+      "classification": "3A-2A",
+      "champion_school": "Hereford",
+      "champion_coach": "Brian King",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2009,
+      "classification": "2A-1A",
+      "champion_school": "Pikesville",
+      "champion_coach": "Craig Campbell",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "6-5"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2010,
+      "classification": "4A-3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Larry Kramer",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2010,
+      "classification": "3A-2A",
+      "champion_school": "Hereford",
+      "champion_coach": "Brian King",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-9"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2010,
+      "classification": "2A-1A",
+      "champion_school": "Queen Anne's",
+      "champion_coach": "Mike Ransom",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "7-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2011,
+      "classification": "4A-3A",
+      "champion_school": "Linganore",
+      "champion_coach": "Stan Aldridge",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-12"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2011,
+      "classification": "3A-2A",
+      "champion_school": "Hereford",
+      "champion_coach": "Brian King",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "14-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2011,
+      "classification": "2A-1A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Josh Hatmaker",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "5-4"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2012,
+      "classification": "4A-3A",
+      "champion_school": "South River",
+      "champion_coach": "Paul Noone",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "10-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2012,
+      "classification": "3A-2A",
+      "champion_school": "Hereford",
+      "champion_coach": "Brian King",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2012,
+      "classification": "2A-1A",
+      "champion_school": "Fallston",
+      "champion_coach": "Matt Parks",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "14-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2013,
+      "classification": "4A-3A",
+      "champion_school": "Westminster",
+      "champion_coach": "Steve DeFeo",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-10"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2013,
+      "classification": "3A-2A",
+      "champion_school": "Hereford",
+      "champion_coach": "Brian King",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-3"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2013,
+      "classification": "2A-1A",
+      "champion_school": "Fallston",
+      "champion_coach": "Matt Parks",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "15-5"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2014,
+      "classification": "4A-3A",
+      "champion_school": "South River",
+      "champion_coach": "Paul Noone",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "10-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2014,
+      "classification": "3A-2A",
+      "champion_school": "Kent Island",
+      "champion_coach": "Davey Jones",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "8-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2014,
+      "classification": "2A-1A",
+      "champion_school": "Fallston",
+      "champion_coach": "Matt Parks",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "17-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2015,
+      "classification": "4A-3A",
+      "champion_school": "Howard",
+      "champion_coach": "Jimmy Creighton",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "14-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2015,
+      "classification": "3A-2A",
+      "champion_school": "Kent Island",
+      "champion_coach": "Davey Jones",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "20-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2015,
+      "classification": "2A-1A",
+      "champion_school": "Easton",
+      "champion_coach": "Dennis Keenan",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "8-4"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2016,
+      "classification": "4A-3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Dave Earl",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-3"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2016,
+      "classification": "3A-2A",
+      "champion_school": "Linganore",
+      "champion_coach": "Rich Thompson",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2016,
+      "classification": "2A-1A",
+      "champion_school": "Fallston",
+      "champion_coach": "Matt Parks",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "12-5"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2017,
+      "classification": "4A-3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Dave Earl",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "7-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2017,
+      "classification": "3A-2A",
+      "champion_school": "Northern-Calvert",
+      "champion_coach": "Joe Casalino",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "5-4"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2017,
+      "classification": "2A-1A",
+      "champion_school": "Southern-AA",
+      "champion_coach": "Brendan Brace",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "20-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2018,
+      "classification": "4A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Dave Earl",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "8-7, OT"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2018,
+      "classification": "3A",
+      "champion_school": "Westminster",
+      "champion_coach": "Steve DeFeo",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "12-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2018,
+      "classification": "2A",
+      "champion_school": "Marriotts Ridge",
+      "champion_coach": "Tony Incontrera",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "8-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2018,
+      "classification": "1A",
+      "champion_school": "Patterson Mill",
+      "champion_coach": "Jason Bellamy",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "18-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2019,
+      "classification": "4A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Dave Earl",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2019,
+      "classification": "3A",
+      "champion_school": "Westminster",
+      "champion_coach": "Steve DeFeo",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2019,
+      "classification": "2A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Josh Hatmaker",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "11-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2019,
+      "classification": "1A",
+      "champion_school": "Patterson Mill",
+      "champion_coach": "Jason Bellamy",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "14-3"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2021,
+      "classification": "4A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Travis Loving",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "11-3"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2021,
+      "classification": "3A",
+      "champion_school": "Urbana",
+      "champion_coach": "Gavin Donahue",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "7-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2021,
+      "classification": "2A",
+      "champion_school": "Hereford",
+      "champion_coach": "Kyle Lippert",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "5-4"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2021,
+      "classification": "1A",
+      "champion_school": "Fallston",
+      "champion_coach": "Patrick Mull",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2022,
+      "classification": "4A",
+      "champion_school": "Winston Churchill",
+      "champion_coach": "Jeff Fritz",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "15-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2022,
+      "classification": "3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Dave Earl",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2022,
+      "classification": "2A",
+      "champion_school": "Kent Island",
+      "champion_coach": "Robert Woolley",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "11-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2022,
+      "classification": "1A",
+      "champion_school": "Southern-AA",
+      "champion_coach": "Brendan Brace",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "14-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2023,
+      "classification": "4A",
+      "champion_school": "Broadneck",
+      "champion_coach": "Jeff McGuire",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "16-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2023,
+      "classification": "3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Dave Earl",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-8"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2023,
+      "classification": "2A",
+      "champion_school": "Kent Island",
+      "champion_coach": "Robert Woolley",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-3"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2023,
+      "classification": "1A",
+      "champion_school": "Fallston",
+      "champion_coach": "Patrick Mull",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "19-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2024,
+      "classification": "4A",
+      "champion_school": "Urbana",
+      "champion_coach": "Gavin Donahue",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "7-5"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2024,
+      "classification": "3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Robert Zichelli",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "8-6"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2024,
+      "classification": "2A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Josh Hatmaker",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "10-7"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2024,
+      "classification": "1A",
+      "champion_school": "Fallston",
+      "champion_coach": "Patrick Mull",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "15-2"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2025,
+      "classification": "4A",
+      "champion_school": "Urbana",
+      "champion_coach": "Gavin Donahue",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "5-2"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2025,
+      "classification": "3A",
+      "champion_school": "Severna Park",
+      "champion_coach": "Robert Zichelli",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "11-4"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2025,
+      "classification": "2A",
+      "champion_school": "Kent Island",
+      "champion_coach": "Robert Woolley",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "13-12"
+    },
+    {
+      "sport": "Boys Lacrosse",
+      "year": 2025,
+      "classification": "1A",
+      "champion_school": "Middletown",
+      "champion_coach": "Dominic Ceresini",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": "9-8"
+    }
+  ]
+}

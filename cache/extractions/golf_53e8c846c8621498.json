@@ -1,0 +1,453 @@
+{
+  "meta": {
+    "extractor": "golf",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      53
+    ],
+    "extracted_at": "2026-08-02T02:32:38Z"
+  },
+  "rows": [
+    {
+      "year": 2013,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 614,
+      "individual_winner_name": "Steven Segrist",
+      "individual_winner_school": "Glenelg",
+      "individual_score": 146,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2013,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 614,
+      "individual_winner_name": "Bryana Nguyen",
+      "individual_winner_school": "Atholton",
+      "individual_score": 134,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2013,
+      "classification": "3A/4A",
+      "team_champion_school": "Thomas S. Wootton",
+      "team_score": 633,
+      "individual_winner_name": "Steven Segrist",
+      "individual_winner_school": "Glenelg",
+      "individual_score": 146,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2013,
+      "classification": "3A/4A",
+      "team_champion_school": "Thomas S. Wootton",
+      "team_score": 633,
+      "individual_winner_name": "Bryana Nguyen",
+      "individual_winner_school": "Atholton",
+      "individual_score": 134,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2014,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 631,
+      "individual_winner_name": "Graham Hutchinson",
+      "individual_winner_school": "Walt Whitman",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2014,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 631,
+      "individual_winner_name": "Delaney Shah",
+      "individual_winner_school": "Thomas S. Wootton",
+      "individual_score": 148,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2014,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 603,
+      "individual_winner_name": "Graham Hutchinson",
+      "individual_winner_school": "Walt Whitman",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2014,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 603,
+      "individual_winner_name": "Delaney Shah",
+      "individual_winner_school": "Thomas S. Wootton",
+      "individual_score": 148,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2015,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 600,
+      "individual_winner_name": "Adam Gray",
+      "individual_winner_school": "Winston Churchill",
+      "individual_score": 139,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2015,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 600,
+      "individual_winner_name": "Delaney Shah",
+      "individual_winner_school": "Thomas S. Wootton",
+      "individual_score": 142,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2015,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 572,
+      "individual_winner_name": "Adam Gray",
+      "individual_winner_school": "Winston Churchill",
+      "individual_score": 139,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2015,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 572,
+      "individual_winner_name": "Delaney Shah",
+      "individual_winner_school": "Thomas S. Wootton",
+      "individual_score": 142,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2016,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 633,
+      "individual_winner_name": "Nick Roberson",
+      "individual_winner_school": "Bethesda-CC",
+      "individual_score": 144,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2016,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 633,
+      "individual_winner_name": "Lena Capoccia",
+      "individual_winner_school": "W. Churchill",
+      "individual_score": 151,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2016,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 632,
+      "individual_winner_name": "Nick Roberson",
+      "individual_winner_school": "Bethesda-CC",
+      "individual_score": 144,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2016,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 632,
+      "individual_winner_name": "Lena Capoccia",
+      "individual_winner_school": "W. Churchill",
+      "individual_score": 151,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2017,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 625,
+      "individual_winner_name": "David Stephens",
+      "individual_winner_school": "Marriotts Ridge",
+      "individual_score": 153,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2017,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 625,
+      "individual_winner_name": "Faith McIlvain",
+      "individual_winner_school": "Marriotts Ridge",
+      "individual_score": 147,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2017,
+      "classification": "3A/4A",
+      "team_champion_school": "Walt Whitman",
+      "team_score": 605,
+      "individual_winner_name": "Brad Riley",
+      "individual_winner_school": "Sherwood",
+      "individual_score": 145,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2017,
+      "classification": "3A/4A",
+      "team_champion_school": "Walt Whitman",
+      "team_score": 605,
+      "individual_winner_name": "Bailey Davis",
+      "individual_winner_school": "North Point",
+      "individual_score": 146,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2018,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 628,
+      "individual_winner_name": "Kevin Hickey",
+      "individual_winner_school": "River Hill",
+      "individual_score": 148,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2018,
+      "classification": "1A/2A",
+      "team_champion_school": "Marriotts Ridge",
+      "team_score": 628,
+      "individual_winner_name": "Faith McIlvain",
+      "individual_winner_school": "Marriotts Ridge",
+      "individual_score": 153,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2018,
+      "classification": "3A/4A",
+      "team_champion_school": "Urbana",
+      "team_score": 619,
+      "individual_winner_name": "Edward Coffren",
+      "individual_winner_school": "Northern-C",
+      "individual_score": 148,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2018,
+      "classification": "3A/4A",
+      "team_champion_school": "Urbana",
+      "team_score": 619,
+      "individual_winner_name": "Bailey Davis",
+      "individual_winner_school": "North Point",
+      "individual_score": 147,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2019,
+      "classification": "1A/2A",
+      "team_champion_school": "Oakdale",
+      "team_score": 659,
+      "individual_winner_name": "Gavin Ganter",
+      "individual_winner_school": "La Plata",
+      "individual_score": 149,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2019,
+      "classification": "1A/2A",
+      "team_champion_school": "Oakdale",
+      "team_score": 659,
+      "individual_winner_name": "Paula Moon",
+      "individual_winner_school": "Patterson Mill",
+      "individual_score": 159,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2019,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 603,
+      "individual_winner_name": "Jake Griffin",
+      "individual_winner_school": "Walter Johnson",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2019,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 603,
+      "individual_winner_name": "Bailey Davis",
+      "individual_winner_school": "North Point",
+      "individual_score": 145,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2021,
+      "classification": "1A/2A",
+      "team_champion_school": "Poolesville",
+      "team_score": 669,
+      "individual_winner_name": "Noah Wallace",
+      "individual_winner_school": "North East-Cecil",
+      "individual_score": 145,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2021,
+      "classification": "1A/2A",
+      "team_champion_school": "Poolesville",
+      "team_score": 669,
+      "individual_winner_name": "Olivia Cong",
+      "individual_winner_school": "Poolesville",
+      "individual_score": 144,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2021,
+      "classification": "3A/4A",
+      "team_champion_school": "Urbana",
+      "team_score": 620,
+      "individual_winner_name": "Benjamin Siriboury",
+      "individual_winner_school": "River Hill",
+      "individual_score": 138,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2021,
+      "classification": "3A/4A",
+      "team_champion_school": "Urbana",
+      "team_score": 620,
+      "individual_winner_name": "Helen Yeung",
+      "individual_winner_school": "River Hill",
+      "individual_score": 146,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2022,
+      "classification": "1A/2A",
+      "team_champion_school": "Poolesville",
+      "team_score": 635,
+      "individual_winner_name": "Noah Wallace",
+      "individual_winner_school": "North East-Cecil",
+      "individual_score": 140,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2022,
+      "classification": "1A/2A",
+      "team_champion_school": "Poolesville",
+      "team_score": 635,
+      "individual_winner_name": "Olivia Cong",
+      "individual_winner_school": "Poolesville",
+      "individual_score": 141,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2022,
+      "classification": "3A/4A",
+      "team_champion_school": "River Hill",
+      "team_score": 576,
+      "individual_winner_name": "Benjamin Siriboury",
+      "individual_winner_school": "River Hill",
+      "individual_score": 132,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2022,
+      "classification": "3A/4A",
+      "team_champion_school": "River Hill",
+      "team_score": 576,
+      "individual_winner_name": "Helen Yeung",
+      "individual_winner_school": "River Hill",
+      "individual_score": 136,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2023,
+      "classification": "1A/2A",
+      "team_champion_school": "South Carroll",
+      "team_score": 633,
+      "individual_winner_name": "Noah Wallace",
+      "individual_winner_school": "North East-Cecil",
+      "individual_score": 148,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2023,
+      "classification": "1A/2A",
+      "team_champion_school": "South Carroll",
+      "team_score": 633,
+      "individual_winner_name": "Olivia Cong",
+      "individual_winner_school": "Poolesville",
+      "individual_score": 137,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2023,
+      "classification": "3A/4A",
+      "team_champion_school": "River Hill",
+      "team_score": 572,
+      "individual_winner_name": "Owen Newberry",
+      "individual_winner_school": "Crofton",
+      "individual_score": 142,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2023,
+      "classification": "3A/4A",
+      "team_champion_school": "River Hill",
+      "team_score": 572,
+      "individual_winner_name": "Helen Yeung",
+      "individual_winner_school": "River Hill",
+      "individual_score": 132,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2024,
+      "classification": "1A/2A",
+      "team_champion_school": "South Carroll",
+      "team_score": 633,
+      "individual_winner_name": "Jack Geyer",
+      "individual_winner_school": "C. Milton Wright",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2024,
+      "classification": "1A/2A",
+      "team_champion_school": "South Carroll",
+      "team_score": 633,
+      "individual_winner_name": "Piper Meredith",
+      "individual_winner_school": "Boonsboro",
+      "individual_score": 150,
+      "individual_gender": "female"
+    },
+    {
+      "year": 2024,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 598,
+      "individual_winner_name": "George Williamson",
+      "individual_winner_school": "Marriotts Ridge",
+      "individual_score": 141,
+      "individual_gender": "male"
+    },
+    {
+      "year": 2024,
+      "classification": "3A/4A",
+      "team_champion_school": "Winston Churchill",
+      "team_score": 598,
+      "individual_winner_name": "Zoe Cusack",
+      "individual_winner_school": "Winston Churchill",
+      "individual_score": 137,
+      "individual_gender": "female"
+    }
+  ]
+}

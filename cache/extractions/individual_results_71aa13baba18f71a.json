@@ -1,0 +1,2101 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      74
+    ],
+    "extracted_at": "2026-08-02T20:47:25Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1952,
+      "classification": "A",
+      "name": "Harold Hall",
+      "school": "FTH",
+      "mark": "10.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1952,
+      "classification": "B",
+      "name": "Lisko",
+      "school": "EAS",
+      "mark": "11.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1952,
+      "classification": "C",
+      "name": "Frank Kelly",
+      "school": "Sudlersville",
+      "mark": "10.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1953,
+      "classification": "A",
+      "name": "Paul Byrd",
+      "school": "NWE",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1953,
+      "classification": "B",
+      "name": "Bob Walls",
+      "school": "Centreville",
+      "mark": null
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1953,
+      "classification": "C",
+      "name": "Frank Kelly",
+      "school": "Sudlersville",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1954,
+      "classification": "A",
+      "name": "John Schmidt",
+      "school": "FRE",
+      "mark": "10.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1954,
+      "classification": "B",
+      "name": "Ken Jones",
+      "school": "BRN",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1954,
+      "classification": "C",
+      "name": "Frank Kelly",
+      "school": "Sudlersville",
+      "mark": "10.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1955,
+      "classification": "A",
+      "name": "Bill Walston",
+      "school": "WIC",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1955,
+      "classification": "B",
+      "name": "Stan Pitts",
+      "school": "ABE",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1955,
+      "classification": "C",
+      "name": "Willard Smith",
+      "school": "WAS",
+      "mark": "10.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1956,
+      "classification": "A",
+      "name": "Don Fooks",
+      "school": "WIC",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1956,
+      "classification": "B",
+      "name": "Stan Pitts",
+      "school": "ABE",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1956,
+      "classification": "C",
+      "name": "Earl Bradley",
+      "school": "NDC",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1957,
+      "classification": "A",
+      "name": "Walt Shober",
+      "school": "BLA",
+      "mark": "10.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1957,
+      "classification": "B",
+      "name": "Piper",
+      "school": "OXH",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1957,
+      "classification": "C",
+      "name": "Abraham",
+      "school": "DAM",
+      "mark": "10.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1958,
+      "classification": "A",
+      "name": "Billy Grey",
+      "school": "WAJ",
+      "mark": "10.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1958,
+      "classification": "B",
+      "name": "Al Dennis",
+      "school": "HDG",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1959,
+      "classification": "A",
+      "name": "Eric Wowra",
+      "school": "BLA",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1959,
+      "classification": "B",
+      "name": "Abraham",
+      "school": "DAM",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1959,
+      "classification": "C",
+      "name": "Eevet",
+      "school": "Centrevlle",
+      "mark": "10.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1960,
+      "classification": "A",
+      "name": "Melvin Monroe",
+      "school": "SHG",
+      "mark": "10.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1960,
+      "classification": "B",
+      "name": "Naylor",
+      "school": "ELK",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1960,
+      "classification": "C",
+      "name": "Calvin Snowden",
+      "school": "Lincoln",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1961,
+      "classification": "AA",
+      "name": "Charles O'Reilly",
+      "school": "MTB",
+      "mark": "10.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1961,
+      "classification": "A",
+      "name": "John Walters",
+      "school": "BAR",
+      "mark": "10.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1961,
+      "classification": "B",
+      "name": "Mason",
+      "school": "Somerset",
+      "mark": "10.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1961,
+      "classification": "C",
+      "name": "Chase",
+      "school": "Carver (Lexington Park)",
+      "mark": "10.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1962,
+      "classification": "AA",
+      "name": "Dick Burdette",
+      "school": "FRE",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1962,
+      "classification": "A",
+      "name": "John Junta",
+      "school": "CEN",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1962,
+      "classification": "B",
+      "name": "Lowell Brown",
+      "school": "Salisbury",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1962,
+      "classification": "C",
+      "name": "Chase",
+      "school": "Carver (Lexington Park)",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1963,
+      "classification": "AA",
+      "name": "Bill Turetsky",
+      "school": "WHE",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1963,
+      "classification": "A",
+      "name": "David Fender",
+      "school": "BAR",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1963,
+      "classification": "B",
+      "name": "Don Ardinger",
+      "school": "WIL",
+      "mark": "10.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1963,
+      "classification": "C",
+      "name": "Sumpter",
+      "school": "Havre de Grace Cons.",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1964,
+      "classification": "AA",
+      "name": "Gorman Johnson",
+      "school": "ARU",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1964,
+      "classification": "A",
+      "name": "H. Northam",
+      "school": "Maces Lane",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1964,
+      "classification": "B",
+      "name": "Ernest Johnson",
+      "school": "FRD",
+      "mark": "10.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1964,
+      "classification": "C",
+      "name": "Joe Lewis",
+      "school": "Havre de Grace Cons.",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1965,
+      "classification": "AA",
+      "name": "David Fender",
+      "school": "BAR",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1965,
+      "classification": "A",
+      "name": "Calvin Fitz",
+      "school": "GAI",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1966,
+      "classification": "AA",
+      "name": "Mark Christian",
+      "school": "NWE",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1966,
+      "classification": "A",
+      "name": "Calvin Fitz",
+      "school": "GAI",
+      "mark": "9.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1966,
+      "classification": "B",
+      "name": "Richard Throne",
+      "school": "MID",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1966,
+      "classification": "C",
+      "name": "Taylor",
+      "school": "CVT",
+      "mark": "10.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1967,
+      "classification": "AA",
+      "name": "Clarence Thomas",
+      "school": "GAI",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1967,
+      "classification": "A",
+      "name": "Jeff Polk",
+      "school": "JMB",
+      "mark": "9.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1967,
+      "classification": "B",
+      "name": "Charles Cephas",
+      "school": "CAM",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1967,
+      "classification": "C",
+      "name": "Tyrone Harrison",
+      "school": "NDC",
+      "mark": "10.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1968,
+      "classification": "AA",
+      "name": "Clarence Thomas",
+      "school": "GAI",
+      "mark": "9.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1968,
+      "classification": "A",
+      "name": "Genwood Dove",
+      "school": "SHE",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1968,
+      "classification": "B",
+      "name": "Richard Powell",
+      "school": "HER",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1968,
+      "classification": "C",
+      "name": "Tyrone Harrison",
+      "school": "NDC",
+      "mark": "9.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1969,
+      "classification": "AA",
+      "name": "Bob Bosler",
+      "school": "CRO",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1969,
+      "classification": "A",
+      "name": "Clarence Thomas",
+      "school": "GAI",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1969,
+      "classification": "B",
+      "name": "Derrick Wooten",
+      "school": "FAH",
+      "mark": "10.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1969,
+      "classification": "C",
+      "name": "Wayne Owens",
+      "school": "POO",
+      "mark": "10.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1970,
+      "classification": "AA",
+      "name": "Bill Mason",
+      "school": "ANN",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1970,
+      "classification": "A",
+      "name": "Glenn Devane",
+      "school": "ATH",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1970,
+      "classification": "B",
+      "name": "Glenwood Daye",
+      "school": "SHE",
+      "mark": "10.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1970,
+      "classification": "C",
+      "name": "Proctor Cooper",
+      "school": "MAR",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1971,
+      "classification": "AA",
+      "name": "Arvid Lee",
+      "school": "DUV",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1971,
+      "classification": "A",
+      "name": "Fred Colvin",
+      "school": "FAH",
+      "mark": "9.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1971,
+      "classification": "B",
+      "name": "Spell",
+      "school": "HDG",
+      "mark": "9.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1971,
+      "classification": "C",
+      "name": "Larry Johnson",
+      "school": "MSD",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1972,
+      "classification": "AA",
+      "name": "Tom Carven",
+      "school": "BAR",
+      "mark": "9.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1972,
+      "classification": "A",
+      "name": "Bernard Robinson",
+      "school": "PIK",
+      "mark": "10.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1972,
+      "classification": "B",
+      "name": "Fred Colvin",
+      "school": "FAH",
+      "mark": "9.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1972,
+      "classification": "C",
+      "name": "Russell Savoy",
+      "school": "GWP",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Tom Carven",
+      "school": "BAR",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1973,
+      "classification": "A",
+      "name": "Bernard Robinson",
+      "school": "PIK",
+      "mark": "9.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1973,
+      "classification": "B",
+      "name": "Marlyn Rochee",
+      "school": "WLD",
+      "mark": "9.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1973,
+      "classification": "C",
+      "name": "Richard Owens",
+      "school": "POO",
+      "mark": "10.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Tom Carven",
+      "school": "BAR",
+      "mark": "10.0y"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1974,
+      "classification": "A",
+      "name": "Aaron Marshall",
+      "school": "WIC",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1974,
+      "classification": "B",
+      "name": "Francis Winters",
+      "school": "LAP",
+      "mark": "9.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1974,
+      "classification": "C",
+      "name": "T. Jones",
+      "school": "RIS",
+      "mark": "10.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Kendric Higgins",
+      "school": "NWE",
+      "mark": "9.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1975,
+      "classification": "A",
+      "name": "Zack Jackson",
+      "school": "GTJ",
+      "mark": "9.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1975,
+      "classification": "B",
+      "name": "Robert Fludd",
+      "school": "EAS",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1975,
+      "classification": "C",
+      "name": "Rodney Colbert",
+      "school": "OAK",
+      "mark": "9.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Mike Williams",
+      "school": "GLB",
+      "mark": "9.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1976,
+      "classification": "A",
+      "name": "Jerome Deal",
+      "school": "ABE",
+      "mark": "9.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1976,
+      "classification": "B",
+      "name": "Harold Green",
+      "school": "GWP",
+      "mark": "9.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1976,
+      "classification": "C",
+      "name": "Tex Haley",
+      "school": "LIN",
+      "mark": "9.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Curtis Pierce",
+      "school": "HPT",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1977,
+      "classification": "A",
+      "name": "Jerome Deal",
+      "school": "ABE",
+      "mark": "9.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1977,
+      "classification": "B",
+      "name": "Harold Green",
+      "school": "GWP",
+      "mark": "9.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1977,
+      "classification": "C",
+      "name": "Tex Haley",
+      "school": "LIN",
+      "mark": "10.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Antoine Parker & Ward Wilson",
+      "school": "POT/WCH",
+      "mark": "9.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1978,
+      "classification": "A",
+      "name": "Michael McEaddy",
+      "school": "FAH",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1978,
+      "classification": "B",
+      "name": "Wayne Wallace",
+      "school": "NOC",
+      "mark": "10.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1978,
+      "classification": "C",
+      "name": "McKinley Mackall",
+      "school": "CAL",
+      "mark": "10.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Darryl Hamilton",
+      "school": "BLA",
+      "mark": "10.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1979,
+      "classification": "A",
+      "name": "Michael McEaddy",
+      "school": "FAH",
+      "mark": "9.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1979,
+      "classification": "B",
+      "name": "Dudley Redding",
+      "school": "OAK",
+      "mark": "9.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Yards",
+      "year": 1979,
+      "classification": "C",
+      "name": "Scott Cooper",
+      "school": "LEO",
+      "mark": "9.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Darren Walker",
+      "school": "MEA",
+      "mark": "10.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1980,
+      "classification": "A",
+      "name": "Mike Scott",
+      "school": "AEI",
+      "mark": "10.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1980,
+      "classification": "B",
+      "name": "McKinley Mackall",
+      "school": "CAL",
+      "mark": "11.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1980,
+      "classification": "C",
+      "name": "Paul Brandenburg",
+      "school": "RIS",
+      "mark": "10.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Luis Morales",
+      "school": "OXH",
+      "mark": "10.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1981,
+      "classification": "A",
+      "name": "Kelvin Jones",
+      "school": "FAH",
+      "mark": "10.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1981,
+      "classification": "B",
+      "name": "Joe Short",
+      "school": "CHO",
+      "mark": "10.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1981,
+      "classification": "C",
+      "name": "Anthony Robertson",
+      "school": "HDG",
+      "mark": "11.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Luis Morales",
+      "school": "OXH",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1982,
+      "classification": "A",
+      "name": "Carlos Aker",
+      "school": "NWD",
+      "mark": "10.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1982,
+      "classification": "B",
+      "name": "John Parker",
+      "school": "CAL",
+      "mark": "10.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1982,
+      "classification": "C",
+      "name": "James Lancaster",
+      "school": "FSK",
+      "mark": "11.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1983,
+      "classification": "AA",
+      "name": "David Jackson",
+      "school": "PEH",
+      "mark": "10.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1983,
+      "classification": "A",
+      "name": "Ra'oof Aziauddir",
+      "school": "NEA",
+      "mark": "10.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1983,
+      "classification": "B",
+      "name": "Chris Bianchi",
+      "school": "OAK",
+      "mark": "10.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1983,
+      "classification": "C",
+      "name": "Jason Tillman",
+      "school": "FSK",
+      "mark": "10.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Paul Day",
+      "school": "CHA",
+      "mark": "10.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1984,
+      "classification": "A",
+      "name": "Steve Terry",
+      "school": "LAN",
+      "mark": "10.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1984,
+      "classification": "B",
+      "name": "Phil Ellis",
+      "school": "FOR",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1984,
+      "classification": "C",
+      "name": "Elmer Davis",
+      "school": "JMB",
+      "mark": "11.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Rod Scott",
+      "school": "FRI",
+      "mark": "10.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1985,
+      "classification": "A",
+      "name": "Delancy Richardson",
+      "school": "CEN",
+      "mark": "10.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1985,
+      "classification": "B",
+      "name": "Dale Cooper",
+      "school": "EAS",
+      "mark": "10.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1985,
+      "classification": "C",
+      "name": "Irvin Smith",
+      "school": "POO",
+      "mark": "10.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Marty Walker",
+      "school": "JFK",
+      "mark": "10.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1986,
+      "classification": "A",
+      "name": "Kevin Gear",
+      "school": "RMT",
+      "mark": "10.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1986,
+      "classification": "B",
+      "name": "Randy Mitchell",
+      "school": "WIC",
+      "mark": "11.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1986,
+      "classification": "C",
+      "name": "Dale Cooper",
+      "school": "KTC",
+      "mark": "11.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Marc Henry",
+      "school": "BOW",
+      "mark": "11.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1987,
+      "classification": "A",
+      "name": "Todd Steele",
+      "school": "GTJ",
+      "mark": "10.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1987,
+      "classification": "B",
+      "name": "Butch Chichester",
+      "school": "MLM",
+      "mark": "10.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1987,
+      "classification": "C",
+      "name": "Steve Schleupner",
+      "school": "WLK",
+      "mark": "10.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Ronnie Lloyd",
+      "school": "SUI",
+      "mark": "10.55"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1988,
+      "classification": "A",
+      "name": "Todd Steele",
+      "school": "GTJ",
+      "mark": "10.5-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1988,
+      "classification": "B",
+      "name": "Randy Mitchell",
+      "school": "WIC",
+      "mark": "10.8-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1988,
+      "classification": "C",
+      "name": "Ricky Wallace",
+      "school": "JOP",
+      "mark": "10.9-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Tom Dixon",
+      "school": "LAR",
+      "mark": "10.58"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Dondre Owens",
+      "school": "DUV",
+      "mark": "10.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Jermaine McDougl",
+      "school": "EDG",
+      "mark": "11.11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Mike West",
+      "school": "SMI",
+      "mark": "11.31"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Elgin Gordon",
+      "school": "ELR",
+      "mark": "10.64"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Mark Mason",
+      "school": "MDU",
+      "mark": "11.05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Benjamin Thomas",
+      "school": "FOR",
+      "mark": "11.35"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Steve Forman",
+      "school": "FSK",
+      "mark": "11.16"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Jermaine Lewis",
+      "school": "ELR",
+      "mark": "10.58"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Ronnie McGarvey",
+      "school": "LIN",
+      "mark": "11.21"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Ben Thomas",
+      "school": "FOR",
+      "mark": "11.11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Kevin Cannon",
+      "school": "SNH",
+      "mark": "11.41"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Jermaine Lewis",
+      "school": "ELR",
+      "mark": "10.3-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Cory Ward",
+      "school": "CAL",
+      "mark": "10.8-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Charles Hankerson",
+      "school": "SUR",
+      "mark": "10.9-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Craig Butler",
+      "school": "WLD",
+      "mark": "10.9-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1993,
+      "classification": "4A",
+      "name": "David Bobb",
+      "school": "HPT",
+      "mark": "10.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Robert Dennis",
+      "school": "DUV",
+      "mark": "10.65"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Desean Moore",
+      "school": "FOR",
+      "mark": "10.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Lonnie Humphrey",
+      "school": "OWM",
+      "mark": "11.14"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Duan Jones",
+      "school": "ELR",
+      "mark": "11.02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Carleton Bentick",
+      "school": "BLA",
+      "mark": "11.01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Damon Ferguson",
+      "school": "OAK",
+      "mark": "11.1-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Desean Moore",
+      "school": "FOR",
+      "mark": "10.93"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Royston Lyttle",
+      "school": "MVT",
+      "mark": "10.85"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Jason Smith",
+      "school": "BDN",
+      "mark": "10.99"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Michael Carter",
+      "school": "POT",
+      "mark": "11.21"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Shelton Simonson",
+      "school": "VCU",
+      "mark": "11.07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Toney Fowlkes",
+      "school": "NCT",
+      "mark": "10.99"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Bernard Williams",
+      "school": "CVT",
+      "mark": "11.03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Kyle Walker",
+      "school": "OAK",
+      "mark": "11.37"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Marcus Lynch",
+      "school": "WTE",
+      "mark": "11.48"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Ato Modibo",
+      "school": "HPT",
+      "mark": "10.67"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Bernard Williams",
+      "school": "CVT",
+      "mark": "10.72"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Cian Oatts",
+      "school": "ATH",
+      "mark": "10.79"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Gary Pinder",
+      "school": "EAS",
+      "mark": "10.97"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Cameron Horton",
+      "school": "LAU",
+      "mark": "10.68"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Dwayne Vaughn",
+      "school": "DUV",
+      "mark": "10.97"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Jason Caesar",
+      "school": "MDU",
+      "mark": "10.90"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Kyle Farmer",
+      "school": "OAK",
+      "mark": "11.03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Derrick Johnson",
+      "school": "ELR",
+      "mark": "10.87"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Dwayne Vaughn",
+      "school": "DUV",
+      "mark": "10.63"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Chris Schraf",
+      "school": "MDU",
+      "mark": "11.01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Kyle Farmer",
+      "school": "OAK",
+      "mark": "10.83"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2000,
+      "classification": "4A",
+      "name": "David Driggers",
+      "school": "OXH",
+      "mark": "11.06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Michael Garner",
+      "school": "GTJ",
+      "mark": "11.00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Clifton Turner",
+      "school": "BPI",
+      "mark": "11.27"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Davon Telp",
+      "school": "CHB",
+      "mark": "11.60"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Joshua Allen",
+      "school": "ELR",
+      "mark": "11.35"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Mario Merrills",
+      "school": "WLD",
+      "mark": "11.27"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Courtney Pointer",
+      "school": "OVE",
+      "mark": "11.16"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Adam Grossman",
+      "school": "PIK",
+      "mark": "11.41"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Damon Hill",
+      "school": "GAI",
+      "mark": "11.14"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Phil DeRosier",
+      "school": "LGR",
+      "mark": "11.02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Adam Grossman",
+      "school": "PIK",
+      "mark": "11.03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Anthony Cole",
+      "school": "OAK",
+      "mark": "11.23"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Jamell Lane",
+      "school": "SUI",
+      "mark": "11.04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Jared Fagan",
+      "school": "WLA",
+      "mark": "11.02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Courtney Knight",
+      "school": "LAC",
+      "mark": "11.18"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Tony Cole",
+      "school": "OAK",
+      "mark": "10.85"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Larrone Moore",
+      "school": "NWE",
+      "mark": "10.92"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Jared Fagan",
+      "school": "WLA",
+      "mark": "10.64"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2004,
+      "classification": "2A",
+      "name": "William Church",
+      "school": "WIC",
+      "mark": "10.91"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Tony Cole",
+      "school": "OAK",
+      "mark": "10.83"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Larrone Moore",
+      "school": "NWE",
+      "mark": "10.99-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Orlando Brown",
+      "school": "MVT",
+      "mark": "11.17-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Buchi Okezie",
+      "school": "OVE",
+      "mark": "11.19-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Chad Brown",
+      "school": "SMI",
+      "mark": "11.30-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Justin Murdoch",
+      "school": "GLB",
+      "mark": "10.82"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Zach Brown",
+      "school": "WLD",
+      "mark": "10.67"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Brandon Weeks",
+      "school": "WIC",
+      "mark": "10.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Chad Brown",
+      "school": "SMI",
+      "mark": "11.28"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Justin Murdock",
+      "school": "GLB",
+      "mark": "10.73"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Lamaar Thomas",
+      "school": "FRI",
+      "mark": "10.63"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Jarell Hasan",
+      "school": "NHG",
+      "mark": "10.79"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Chad Brown",
+      "school": "SMI",
+      "mark": "10.82-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Issa Connell",
+      "school": "NCL",
+      "mark": "10.88-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Devon Smith",
+      "school": "WLA",
+      "mark": "10.64"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Avery Graham",
+      "school": "CLK",
+      "mark": "11.10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Anthony Drumgoole",
+      "school": "DGH",
+      "mark": "10.98"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Denison Long",
+      "school": "ELR",
+      "mark": "11.08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Bisi Ezekoye",
+      "school": "JFK",
+      "mark": "10.93"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Avery Graham",
+      "school": "CLK",
+      "mark": "11.08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Anthony Drumgoole",
+      "school": "DGH",
+      "mark": "10.93"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Reginald Steele",
+      "school": "PBR",
+      "mark": "10.96"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Ronald Darby",
+      "school": "POT",
+      "mark": "10.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Jose Depadua",
+      "school": "WLK",
+      "mark": "11.02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Jawan Parker",
+      "school": "CVT",
+      "mark": "10.95"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Jaquan Perry",
+      "school": "DUV",
+      "mark": "10.95"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Ronald Darby",
+      "school": "POT",
+      "mark": "10.88"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Anthony Winter",
+      "school": "NHG",
+      "mark": "10.89"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Coby Gussio",
+      "school": "BOO",
+      "mark": "10.93"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2012,
+      "classification": "4A",
+      "name": "David Winter",
+      "school": "SUI",
+      "mark": "10.71"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Ronald Darby",
+      "school": "POT",
+      "mark": "10.56"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Jasper Savoy",
+      "school": "GWP",
+      "mark": "10.65"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Karl Palmer",
+      "school": "PEV",
+      "mark": "11.19"
+    }
+  ]
+}

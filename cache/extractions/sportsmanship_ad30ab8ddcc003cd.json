@@ -1,0 +1,271 @@
+{
+  "meta": {
+    "extractor": "sportsmanship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      21
+    ],
+    "extracted_at": "2026-08-02T19:27:46Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Basketball",
+      "year": 1981,
+      "classification": null,
+      "school": "Potomac"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1982,
+      "classification": null,
+      "school": "Walkersville"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1983,
+      "classification": null,
+      "school": "Flintstone"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1984,
+      "classification": null,
+      "school": "Walkersville"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1985,
+      "classification": null,
+      "school": "North Carroll"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1986,
+      "classification": null,
+      "school": "Walkersville"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1987,
+      "classification": null,
+      "school": "North Caroline"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1988,
+      "classification": null,
+      "school": "Crossland"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1989,
+      "classification": null,
+      "school": "High Point"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1990,
+      "classification": null,
+      "school": "Hammond"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1991,
+      "classification": null,
+      "school": "Parkdale"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1992,
+      "classification": null,
+      "school": "Walkersville"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1993,
+      "classification": null,
+      "school": "Allegany"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1994,
+      "classification": null,
+      "school": "Springbrook"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1995,
+      "classification": null,
+      "school": "South Hagerstown"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1996,
+      "classification": null,
+      "school": "Williamsport"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1997,
+      "classification": null,
+      "school": "Parkdale"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1998,
+      "classification": null,
+      "school": "Brunswick"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 1999,
+      "classification": null,
+      "school": "Central"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2000,
+      "classification": null,
+      "school": "Oxon Hill"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2001,
+      "classification": null,
+      "school": "Snow Hill"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2002,
+      "classification": null,
+      "school": "Central"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2003,
+      "classification": null,
+      "school": "Col. Zadok Magruder"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2004,
+      "classification": null,
+      "school": "Elkton"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2005,
+      "classification": null,
+      "school": "Blake"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2006,
+      "classification": null,
+      "school": "Eleanor Roosevelt"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2007,
+      "classification": null,
+      "school": "Fort Hill"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2008,
+      "classification": null,
+      "school": "Gwynn Park"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2009,
+      "classification": null,
+      "school": "FrederickDouglass-PG"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2010,
+      "classification": null,
+      "school": "North Carroll"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2011,
+      "classification": null,
+      "school": "Easton"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2012,
+      "classification": null,
+      "school": "Largo"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2013,
+      "classification": null,
+      "school": "Edmondson/Westside"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2014,
+      "classification": null,
+      "school": "Dr. Henry A. Wise, Jr."
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2015,
+      "classification": null,
+      "school": "Meade"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2016,
+      "classification": null,
+      "school": "Clear Spring"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2017,
+      "classification": null,
+      "school": "Harford Technical"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2018,
+      "classification": null,
+      "school": "Clear Spring"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2019,
+      "classification": null,
+      "school": "Thomas Stone"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2022,
+      "classification": null,
+      "school": "Westlake"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2023,
+      "classification": null,
+      "school": "Lake Clifton"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2024,
+      "classification": null,
+      "school": "Walt Whitman"
+    },
+    {
+      "sport": "Boys Basketball",
+      "year": 2025,
+      "classification": null,
+      "school": "New Town"
+    }
+  ]
+}

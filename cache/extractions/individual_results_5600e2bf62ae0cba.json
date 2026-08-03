@@ -1,0 +1,1381 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      86
+    ],
+    "extracted_at": "2026-08-02T20:02:27Z"
+  },
+  "rows": [
+    {
+      "sport": "Wrestling",
+      "event": "Boys 125",
+      "year": 2004,
+      "classification": "Combined",
+      "name": "Matt Myers",
+      "school": "McDonough",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 125",
+      "year": 2005,
+      "classification": "Combined",
+      "name": "Justin Bowser",
+      "school": "Arundel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 125",
+      "year": 2006,
+      "classification": "Combined",
+      "name": "Justin Bowser",
+      "school": "Arundel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 125",
+      "year": 2007,
+      "classification": "Combined",
+      "name": "Greg Saumenig",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 125",
+      "year": 2008,
+      "classification": "Combined",
+      "name": "Deonte Carter",
+      "school": "Woodlawn",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 125",
+      "year": 2009,
+      "classification": "Combined",
+      "name": "Mason Goretsas",
+      "school": "North Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 125",
+      "year": 2010,
+      "classification": "Combined",
+      "name": "Adam Krop",
+      "school": "Urbana",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 125",
+      "year": 2011,
+      "classification": "Combined",
+      "name": "Nathan Kraisser",
+      "school": "Centennial",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 1970,
+      "classification": "Combined",
+      "name": "Mike Bray",
+      "school": "Bowie",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 1990,
+      "classification": "Combined",
+      "name": "Nathan Ludke",
+      "school": "Gwynn Park",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 1991,
+      "classification": "Combined",
+      "name": "Grant Johnson",
+      "school": "Owings Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 1992,
+      "classification": "Combined",
+      "name": "Kyante Hawkins",
+      "school": "Douglass-PG",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 1993,
+      "classification": "Combined",
+      "name": "Craig Middledorf",
+      "school": "Paint Branch",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 1994,
+      "classification": "Combined",
+      "name": "Steve Kessler",
+      "school": "Owings Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 1995,
+      "classification": "Combined",
+      "name": "Paul Hultgren",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 1996,
+      "classification": "Combined",
+      "name": "Chaiyana Black",
+      "school": "Douglass-PG",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 1997,
+      "classification": "Combined",
+      "name": "Dustin Bane",
+      "school": "Frederick",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 1998,
+      "classification": "Combined",
+      "name": "Frank Edwards",
+      "school": "Sherwood",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 1999,
+      "classification": "Combined",
+      "name": "Aron Dorsey",
+      "school": "Quince Orchard",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2000,
+      "classification": "Combined",
+      "name": "Adam DeCosmo",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2001,
+      "classification": "Combined",
+      "name": "Jon Peters",
+      "school": "Westlake",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2002,
+      "classification": "Combined",
+      "name": "Matt Schuster",
+      "school": "Franklin",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2003,
+      "classification": "Combined",
+      "name": "Ed Asbill",
+      "school": "Walkersville",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2004,
+      "classification": "Combined",
+      "name": "Eren Civan",
+      "school": "Whitman",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2005,
+      "classification": "Combined",
+      "name": "Matt Myers",
+      "school": "McDonough",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2006,
+      "classification": "Combined",
+      "name": "Collin Leadbeter",
+      "school": "Northern-Cal",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2007,
+      "classification": "Combined",
+      "name": "Andy Lowy",
+      "school": "Sherwood",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2008,
+      "classification": "Combined",
+      "name": "Peter Tatanish",
+      "school": "Urbana",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2009,
+      "classification": "Combined",
+      "name": "Adeleke Ibironke",
+      "school": "Milford Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2010,
+      "classification": "Combined",
+      "name": "Frank Goodwin",
+      "school": "Arundel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 130",
+      "year": 2011,
+      "classification": "Combined",
+      "name": "Tyler Goodwin",
+      "school": "Arundel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 1989,
+      "classification": "Combined",
+      "name": "Mike Jones",
+      "school": "Westminster",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 1990,
+      "classification": "Combined",
+      "name": "Blair Bittinger",
+      "school": "Northern Garrett",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 1991,
+      "classification": "Combined",
+      "name": "Brent Layman",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 1992,
+      "classification": "Combined",
+      "name": "Tom Dell",
+      "school": "North Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 1993,
+      "classification": "Combined",
+      "name": "Justin Grodnitzky",
+      "school": "Randallstown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 1994,
+      "classification": "Combined",
+      "name": "Sidney Billups",
+      "school": "Laurel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 1995,
+      "classification": "Combined",
+      "name": "Tommy Kiler",
+      "school": "North Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 1996,
+      "classification": "Combined",
+      "name": "Scott Munsey",
+      "school": "Wheaton",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 1997,
+      "classification": "Combined",
+      "name": "Jim O'Connor",
+      "school": "Glenelg",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 1998,
+      "classification": "Combined",
+      "name": "Dave Heath",
+      "school": "Parkville",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 1999,
+      "classification": "Combined",
+      "name": "Kyle Burger",
+      "school": "Westminster",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2000,
+      "classification": "Combined",
+      "name": "Mikey Blake",
+      "school": "Kent County",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2001,
+      "classification": "Combined",
+      "name": "Adam DeCosmo",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2002,
+      "classification": "Combined",
+      "name": "Clayton Arnold",
+      "school": "Owings Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2003,
+      "classification": "Combined",
+      "name": "Sonny Nucci",
+      "school": "Bethesda-CC",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2004,
+      "classification": "Combined",
+      "name": "Mike McGill",
+      "school": "Williamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2005,
+      "classification": "Combined",
+      "name": "Josh Asper",
+      "school": "Hereford",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2006,
+      "classification": "Combined",
+      "name": "Lucas Black",
+      "school": "Chopticon",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2007,
+      "classification": "Combined",
+      "name": "Collin Leadbeter",
+      "school": "Northern-Cal",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2008,
+      "classification": "Combined",
+      "name": "Skyler Snead",
+      "school": "Stephen Decatur",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2009,
+      "classification": "Combined",
+      "name": "Ron Vaughters",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2010,
+      "classification": "Combined",
+      "name": "Tanner Wrublik",
+      "school": "Tuscarora",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 135",
+      "year": 2011,
+      "classification": "Combined",
+      "name": "Alex Rice",
+      "school": "Chesapeake-AA",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 137",
+      "year": 1970,
+      "classification": "Combined",
+      "name": "Steve Wolf",
+      "school": "Parkdale",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 1989,
+      "classification": "Combined",
+      "name": "Tyrell Gordon",
+      "school": "Overlea",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 1990,
+      "classification": "Combined",
+      "name": "Larry Bozzella",
+      "school": "Southern-A",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 1991,
+      "classification": "Combined",
+      "name": "James Burrell",
+      "school": "Hammond",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 1992,
+      "classification": "Combined",
+      "name": "Rick Staab",
+      "school": "Dundalk",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 1993,
+      "classification": "Combined",
+      "name": "Doug Batey",
+      "school": "Smithsburg",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 1994,
+      "classification": "Combined",
+      "name": "Chris Beale",
+      "school": "Francis Scott Key",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 1995,
+      "classification": "Combined",
+      "name": "Sidney Billups",
+      "school": "Laurel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 1996,
+      "classification": "Combined",
+      "name": "Tommy Kiler",
+      "school": "North Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 1997,
+      "classification": "Combined",
+      "name": "Darren Black",
+      "school": "Douglass-PG",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 1998,
+      "classification": "Combined",
+      "name": "Tony Howard",
+      "school": "Magruder",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 1999,
+      "classification": "Combined",
+      "name": "Anthony Gigliotti",
+      "school": "Sherwood",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2000,
+      "classification": "Combined",
+      "name": "Bryan Hamper",
+      "school": "South Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2001,
+      "classification": "Combined",
+      "name": "Mikey Blake",
+      "school": "Kent County",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2002,
+      "classification": "Combined",
+      "name": "Ryan Green",
+      "school": "River Hill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2003,
+      "classification": "Combined",
+      "name": "Sean Clark",
+      "school": "Northwest",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2004,
+      "classification": "Combined",
+      "name": "Alex Binder",
+      "school": "Owings Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2005,
+      "classification": "Combined",
+      "name": "Eren Civan",
+      "school": "Whitman",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2006,
+      "classification": "Combined",
+      "name": "Todd Macleod",
+      "school": "North Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2007,
+      "classification": "Combined",
+      "name": "Maurice Fleming",
+      "school": "Northeast-AA",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2008,
+      "classification": "Combined",
+      "name": "Maurice Fleming",
+      "school": "Northeast",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2009,
+      "classification": "Combined",
+      "name": "Lance McCoy",
+      "school": "Mergenthaler",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2010,
+      "classification": "Combined",
+      "name": "Ron Vaughters",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 140",
+      "year": 2011,
+      "classification": "Combined",
+      "name": "Salaman Riddell",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1970,
+      "classification": "Combined",
+      "name": "Steve Herbert",
+      "school": "Hereford",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1971,
+      "classification": "Combined",
+      "name": "Steve Herbert",
+      "school": "Hereford",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "Steve Werts",
+      "school": "Peary",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1973,
+      "classification": "Combined",
+      "name": "Randy Scott",
+      "school": "Parkdale",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1974,
+      "classification": "Combined",
+      "name": "Gene Bates",
+      "school": "Bowie",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1975,
+      "classification": "Combined",
+      "name": "Perry Lichtinger",
+      "school": "Laurel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1976,
+      "classification": "Combined",
+      "name": "Steve Hoff",
+      "school": "Westminster",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1977,
+      "classification": "Combined",
+      "name": "Ray Finch",
+      "school": "Westminster",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1978,
+      "classification": "Combined",
+      "name": "Joe Culmone",
+      "school": "Laurel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1979,
+      "classification": "Combined",
+      "name": "Randy Box",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1980,
+      "classification": "Combined",
+      "name": "Howard Blank",
+      "school": "Fort Hill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1981,
+      "classification": "Combined",
+      "name": "Chris Aragona",
+      "school": "Friendly",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1982,
+      "classification": "Combined",
+      "name": "Scott Raley",
+      "school": "Beall",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1983,
+      "classification": "Combined",
+      "name": "Darrell Beall",
+      "school": "Paint Branch",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1984,
+      "classification": "Combined",
+      "name": "Norman Brown",
+      "school": "Bowie",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1985,
+      "classification": "Combined",
+      "name": "Brian Davis",
+      "school": "Beall",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1986,
+      "classification": "Combined",
+      "name": "Clay Adams",
+      "school": "Arundel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1987,
+      "classification": "Combined",
+      "name": "Mike Barber",
+      "school": "Wicomico",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 155",
+      "year": 1988,
+      "classification": "Combined",
+      "name": "Billy Boyce",
+      "school": "Old Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 165",
+      "year": 1970,
+      "classification": "Combined",
+      "name": "Bill Simpson",
+      "school": "Gaithersburg",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1971,
+      "classification": "Combined",
+      "name": "Richard Blake",
+      "school": "Wicomico",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "John Melka",
+      "school": "Perry Hall",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1973,
+      "classification": "Combined",
+      "name": "Bob Moore",
+      "school": "Bel Air",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1974,
+      "classification": "Combined",
+      "name": "Randolf Scott",
+      "school": "Parkdale",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1975,
+      "classification": "Combined",
+      "name": "Tom Buric",
+      "school": "Laurel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1976,
+      "classification": "Combined",
+      "name": "Howard Hammen",
+      "school": "Kenwood",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1977,
+      "classification": "Combined",
+      "name": "Dion Fennell",
+      "school": "Overlea",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1978,
+      "classification": "Combined",
+      "name": "Tim Tarbert",
+      "school": "North Harford",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1979,
+      "classification": "Combined",
+      "name": "Mike Sutton",
+      "school": "Largo",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1980,
+      "classification": "Combined",
+      "name": "James Giles",
+      "school": "High Point",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1981,
+      "classification": "Combined",
+      "name": "Gerald Robinson",
+      "school": "Easton",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1982,
+      "classification": "Combined",
+      "name": "Curt Scovel",
+      "school": "Laurel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1983,
+      "classification": "Combined",
+      "name": "Don Anderson",
+      "school": "Hereford",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1984,
+      "classification": "Combined",
+      "name": "Daniel Clark",
+      "school": "Parkside",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1985,
+      "classification": "Combined",
+      "name": "Norman Brown",
+      "school": "Bowie",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1986,
+      "classification": "Combined",
+      "name": "Bob Hundertmark",
+      "school": "Liberty",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1987,
+      "classification": "Combined",
+      "name": "David Gentilcore",
+      "school": "Lackey",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 167",
+      "year": 1988,
+      "classification": "Combined",
+      "name": "Louis Hamel",
+      "school": "Liberty",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 1989,
+      "classification": "Combined",
+      "name": "Russ Martell",
+      "school": "Williamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 1990,
+      "classification": "Combined",
+      "name": "Brian Lynch",
+      "school": "Annapolis",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 1991,
+      "classification": "Combined",
+      "name": "Mike Jensen",
+      "school": "Randallstown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 1992,
+      "classification": "Combined",
+      "name": "Mike Jensen",
+      "school": "Randallstown",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 1993,
+      "classification": "Combined",
+      "name": "Greg Booth",
+      "school": "Arundel",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 1994,
+      "classification": "Combined",
+      "name": "Chris Brown",
+      "school": "McDonough",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 1995,
+      "classification": "Combined",
+      "name": "Adam Butts",
+      "school": "Meade",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 1996,
+      "classification": "Combined",
+      "name": "Willie Broadnax",
+      "school": "Owings Mills",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 1997,
+      "classification": "Combined",
+      "name": "Loren Morgan",
+      "school": "Seneca Valley",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 1998,
+      "classification": "Combined",
+      "name": "Adam Boog",
+      "school": "North Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 1999,
+      "classification": "Combined",
+      "name": "Jared Myers",
+      "school": "Wiliamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2000,
+      "classification": "Combined",
+      "name": "John Andrews",
+      "school": "Urbana",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2001,
+      "classification": "Combined",
+      "name": "Nick Carrington",
+      "school": "McDonough",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2002,
+      "classification": "Combined",
+      "name": "Matt Butler",
+      "school": "Einstein",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2003,
+      "classification": "Combined",
+      "name": "Greg Cohen",
+      "school": "Damascus",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2004,
+      "classification": "Combined",
+      "name": "Randy Oates",
+      "school": "Northern-C",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2005,
+      "classification": "Combined",
+      "name": "Eddie Baughan",
+      "school": "Quince Orchard",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2006,
+      "classification": "Combined",
+      "name": "Brent Stewart",
+      "school": "Paint Branch",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2007,
+      "classification": "Combined",
+      "name": "Clyde Jones",
+      "school": "Lackey",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2008,
+      "classification": "Combined",
+      "name": "Josh Asper",
+      "school": "Hereford",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2009,
+      "classification": "Combined",
+      "name": "Nadjitade Badje",
+      "school": "Springbrook",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2010,
+      "classification": "Combined",
+      "name": "Patrick Downey",
+      "school": "North County",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 171",
+      "year": 2011,
+      "classification": "Combined",
+      "name": "Mark Colabucci",
+      "school": "Reservoir",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 175",
+      "year": 1970,
+      "classification": "Combined",
+      "name": "Scott Libbey",
+      "school": "Springbrook",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1970,
+      "classification": "Combined",
+      "name": "Phil Waters",
+      "school": "Springbrook",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1971,
+      "classification": "Combined",
+      "name": "Pete Bayrodt",
+      "school": "Milford Mill",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1972,
+      "classification": "Combined",
+      "name": "Luther Owens",
+      "school": "Sparrows Point",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1973,
+      "classification": "Combined",
+      "name": "Don Glorius",
+      "school": "Potomac",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1974,
+      "classification": "Combined",
+      "name": "Don Glorius",
+      "school": "Potomac",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1975,
+      "classification": "Combined",
+      "name": "Lloyd McCleave",
+      "school": "Kenwood",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1976,
+      "classification": "Combined",
+      "name": "Bill Vucci",
+      "school": "Northwestern-PG",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1977,
+      "classification": "Combined",
+      "name": "Mike Burke",
+      "school": "High Point",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1978,
+      "classification": "Combined",
+      "name": "Tom Reese",
+      "school": "North Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1979,
+      "classification": "Combined",
+      "name": "Bob Preston",
+      "school": "Aberdeen",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1980,
+      "classification": "Combined",
+      "name": "Bill Colvin",
+      "school": "Williamsport",
+      "mark": null
+    },
+    {
+      "sport": "Wrestling",
+      "event": "Boys 185",
+      "year": 1981,
+      "classification": "Combined",
+      "name": "Hank Burke",
+      "school": "South Carroll",
+      "mark": null
+    }
+  ]
+}

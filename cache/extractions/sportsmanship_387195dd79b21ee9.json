@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "extractor": "sportsmanship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      27
+    ],
+    "extracted_at": "2026-08-02T05:29:17Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Cross Country",
+      "year": 2016,
+      "classification": "4A",
+      "school": "Digital Harbor"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2016,
+      "classification": "3A",
+      "school": "Reservoir"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2016,
+      "classification": "2A",
+      "school": "Catoctin"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2016,
+      "classification": "1A",
+      "school": "Snow Hill"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2017,
+      "classification": "4A",
+      "school": "Gaithersburg"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2017,
+      "classification": "3A",
+      "school": "Reservoir"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2017,
+      "classification": "2A",
+      "school": "Hereford"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2017,
+      "classification": "1A",
+      "school": "Boonsboro"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2018,
+      "classification": "4A",
+      "school": "Urbana"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2018,
+      "classification": "3A",
+      "school": "North Hagerstown"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2018,
+      "classification": "2A",
+      "school": "Poolesville"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2018,
+      "classification": "1A",
+      "school": "Cambridge-South Dorchester"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2019,
+      "classification": "4A",
+      "school": "Gaithersburg"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2019,
+      "classification": "3A",
+      "school": "North Hagerstown"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2019,
+      "classification": "2A",
+      "school": "Kent Island"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2019,
+      "classification": "1A",
+      "school": "Brunswick"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2021,
+      "classification": "4A",
+      "school": "Gaithersburg"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2021,
+      "classification": "3A",
+      "school": "Towson"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2021,
+      "classification": "2A",
+      "school": "Poolesville"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2021,
+      "classification": "1A",
+      "school": "Cambridge-South Dorchester"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2022,
+      "classification": "4A",
+      "school": "Dulaney"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2022,
+      "classification": "3A",
+      "school": "Towson"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2022,
+      "classification": "2A",
+      "school": "Liberty"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2022,
+      "classification": "1A",
+      "school": "Brunswick"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2023,
+      "classification": "4A",
+      "school": "Frederick"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2023,
+      "classification": "3A",
+      "school": "James H. Blake"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2023,
+      "classification": "2A",
+      "school": "Poolesville"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2023,
+      "classification": "1A",
+      "school": "Carver Center for A&T"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2024,
+      "classification": "4A",
+      "school": "Urbana"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2024,
+      "classification": "3A",
+      "school": "Sherwood"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2024,
+      "classification": "2A",
+      "school": "Randallstown"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2024,
+      "classification": "1A",
+      "school": "Brunswick"
+    }
+  ]
+}

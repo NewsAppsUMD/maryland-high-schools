@@ -1,0 +1,2047 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      60
+    ],
+    "extracted_at": "2026-08-02T20:42:46Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Antonella Taylor",
+      "school": "BOW",
+      "mark": "42-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Tamara Ovejera",
+      "school": "GTJ",
+      "mark": "42-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Megan Mounts",
+      "school": "WLK",
+      "mark": "40-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Shatiya Johnson",
+      "school": "FOR",
+      "mark": "33-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Claudia Ababio",
+      "school": "CLK",
+      "mark": "43-11 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Briana Taborn",
+      "school": "ATH",
+      "mark": "38-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Favour Ihekwene",
+      "school": "LAR",
+      "mark": "40-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Katie Krebs",
+      "school": "MVM",
+      "mark": "34-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Taylor Scaife",
+      "school": "HOW",
+      "mark": "42-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Amanda Murphy",
+      "school": "FRA",
+      "mark": "36-07 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Danika Ani",
+      "school": "FSK",
+      "mark": "43-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Katie Krebs",
+      "school": "MVM",
+      "mark": "35-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Justine Ababio",
+      "school": "CLK",
+      "mark": "38-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Delia Sipe",
+      "school": "URB",
+      "mark": "39-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Seasons Usual",
+      "school": "FRD",
+      "mark": "41-05 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Jarah Cevis",
+      "school": "PEV",
+      "mark": "37-11 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Lorinda Bangura",
+      "school": "BOW",
+      "mark": "37-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Delia Sipe",
+      "school": "URB",
+      "mark": "43-00 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Seasons Usual",
+      "school": "FRD",
+      "mark": "43-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Emani Bell",
+      "school": "PEV",
+      "mark": "36-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Cabaret Goings",
+      "school": "MEA",
+      "mark": "38-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Sarah George",
+      "school": "OXH",
+      "mark": "43-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Mikayla Cline",
+      "school": "WIL",
+      "mark": "36-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Courtney Hawkins",
+      "school": "LAC",
+      "mark": "41-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Janise Bestman",
+      "school": "PBR",
+      "mark": "38-09 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Sarah George",
+      "school": "OXH",
+      "mark": "41-10 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Mallory Anderson",
+      "school": "DAM",
+      "mark": "36-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Emani Bell",
+      "school": "PEV",
+      "mark": "38-06 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Lacey Fowler",
+      "school": "SRI",
+      "mark": "41-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Sarah Meredith",
+      "school": "FRE",
+      "mark": "36-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Sytieia Brown",
+      "school": "ELK",
+      "mark": "37-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Ryann Bennett",
+      "school": "FTH",
+      "mark": "36-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Marie Abongwa",
+      "school": "CHF",
+      "mark": "37-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Liv Ragonese",
+      "school": "CTN",
+      "mark": "37-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Emma Vanden Berg",
+      "school": "LAP",
+      "mark": "37-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Brandi Gochenauer",
+      "school": "ALL",
+      "mark": "37-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Samantha Heyison",
+      "school": "URB",
+      "mark": "35-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Annie Campbell",
+      "school": "NOC",
+      "mark": "39-03 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Jada Williams-Greer",
+      "school": "CAL",
+      "mark": "35-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Brandi Gochenauer",
+      "school": "ALL",
+      "mark": "38-08 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Journy Phillips",
+      "school": "ELR",
+      "mark": "40-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Gabby Cope",
+      "school": "NOC",
+      "mark": "40-07 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Belinda Darko",
+      "school": "GWP",
+      "mark": "42-02 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Brandi Gochenauer",
+      "school": "ALL",
+      "mark": "36-02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Shakira R. Moumban",
+      "school": "",
+      "mark": "40-10 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Jecolia Traore",
+      "school": "JMB",
+      "mark": "38-07 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Belinda Darko",
+      "school": "GWP",
+      "mark": "40-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Fiyinfoluwa Popoola",
+      "school": "WTE",
+      "mark": "36-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1972,
+      "classification": "Comb",
+      "name": "Pat Taylor",
+      "school": "FRA",
+      "mark": "112-00 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1973,
+      "classification": "Comb",
+      "name": "Pat Taylor",
+      "school": "FRA",
+      "mark": "127-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1974,
+      "classification": "Comb",
+      "name": "Pat Taylor",
+      "school": "FRA",
+      "mark": "121-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1975,
+      "classification": "Comb",
+      "name": "Julie Edelen",
+      "school": "FRD",
+      "mark": "117-00 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Leslie Draper",
+      "school": "CRO",
+      "mark": "119-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Donna Lake",
+      "school": "AEI",
+      "mark": "105-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Debbie Jeffreys",
+      "school": "CRO",
+      "mark": "119-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1977,
+      "classification": "A",
+      "name": "Donna Lake",
+      "school": "AEI",
+      "mark": "131-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1977,
+      "classification": "B",
+      "name": "Sandy Stosz",
+      "school": "MTH",
+      "mark": "102-11 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1977,
+      "classification": "C",
+      "name": "Linda Smith",
+      "school": "NEC",
+      "mark": "94-08 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Beth Grupenhoff",
+      "school": "WCH",
+      "mark": "118-03 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1978,
+      "classification": "A",
+      "name": "Carol Byrd",
+      "school": "FRI",
+      "mark": "128-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1978,
+      "classification": "B",
+      "name": "Regina Pilson",
+      "school": "FRE",
+      "mark": "108-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1978,
+      "classification": "C",
+      "name": "Dawn Bridge",
+      "school": "MID",
+      "mark": "103-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Phyllis Freeman",
+      "school": "NWE",
+      "mark": "106-01 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1979,
+      "classification": "A",
+      "name": "Cheryl Gordon",
+      "school": "GTJ",
+      "mark": "115-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1979,
+      "classification": "B",
+      "name": "Debbie Simon",
+      "school": "DAM",
+      "mark": "109-08 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1979,
+      "classification": "C",
+      "name": "Dawn Bridge",
+      "school": "MID",
+      "mark": "117-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Terry McTigue",
+      "school": "FRI",
+      "mark": "108-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1980,
+      "classification": "A",
+      "name": "Gaynelle Brown",
+      "school": "FAH",
+      "mark": "103-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1980,
+      "classification": "B",
+      "name": "Debbie Simon",
+      "school": "DAM",
+      "mark": "113-05 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1980,
+      "classification": "C",
+      "name": "Dawn Bridge",
+      "school": "MID",
+      "mark": "111-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Amy Dilweg",
+      "school": "WWH",
+      "mark": "113-11 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1981,
+      "classification": "A",
+      "name": "Beth Tomanek",
+      "school": "SEV",
+      "mark": "119-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1981,
+      "classification": "B",
+      "name": "Gwen Bankins",
+      "school": "CHO",
+      "mark": "114-03 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1981,
+      "classification": "C",
+      "name": "Dawn Bridge",
+      "school": "MID",
+      "mark": "110-05 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Beth Tomaneck",
+      "school": "SEV",
+      "mark": "118-00 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1982,
+      "classification": "A",
+      "name": "Amy Amabile",
+      "school": "BCC",
+      "mark": "108-01 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1982,
+      "classification": "B",
+      "name": "Gwen Bankins",
+      "school": "CHO",
+      "mark": "111-10 3/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1982,
+      "classification": "C",
+      "name": "Byrna Jones",
+      "school": "WLD",
+      "mark": "124-05 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Joan Connor",
+      "school": "OLM",
+      "mark": "110-07 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1983,
+      "classification": "A",
+      "name": "Jennifer Anders",
+      "school": "GTJ",
+      "mark": "117-08 1/4"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1983,
+      "classification": "B",
+      "name": "Tracy Lake",
+      "school": "AEI",
+      "mark": "111-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1983,
+      "classification": "C",
+      "name": "Byrna Jones",
+      "school": "WLD",
+      "mark": "138-01 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Shirl Dorsey",
+      "school": "WES",
+      "mark": "116-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1984,
+      "classification": "A",
+      "name": "Dana White",
+      "school": "FRE",
+      "mark": "115-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1984,
+      "classification": "B",
+      "name": "Phyllis Bowman",
+      "school": "LAC",
+      "mark": "116-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1984,
+      "classification": "C",
+      "name": "Missy Seilhammer",
+      "school": "SMI",
+      "mark": "112-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Shirl Dorsey",
+      "school": "WES",
+      "mark": "114-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1985,
+      "classification": "A",
+      "name": "Edna Ford",
+      "school": "NOC",
+      "mark": "129-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1985,
+      "classification": "B",
+      "name": "Tracy Lake",
+      "school": "AEI",
+      "mark": "122-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1985,
+      "classification": "C",
+      "name": "Julie Saunders",
+      "school": "SMI",
+      "mark": "117-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Shirl Dorsey",
+      "school": "WES",
+      "mark": "147-09 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1986,
+      "classification": "A",
+      "name": "Kelly Joyce",
+      "school": "MDU",
+      "mark": "135- 02 1/2"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1986,
+      "classification": "B",
+      "name": "Elizabeth Carruthers",
+      "school": "HER",
+      "mark": "101-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1986,
+      "classification": "C",
+      "name": "Missy Seilhammer",
+      "school": "SMI",
+      "mark": "115-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Rachel Beerman",
+      "school": "WCH",
+      "mark": "122-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1987,
+      "classification": "A",
+      "name": "Tammy Riggins",
+      "school": "NCL",
+      "mark": "122-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1987,
+      "classification": "B",
+      "name": "Jill Patterson",
+      "school": "BAR",
+      "mark": "112-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1987,
+      "classification": "C",
+      "name": "Dawn Smith",
+      "school": "MTS",
+      "mark": "104-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Kathy Caldwell",
+      "school": "OLM",
+      "mark": "116-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1988,
+      "classification": "A",
+      "name": "Tara Newton",
+      "school": "MDU",
+      "mark": "117-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1988,
+      "classification": "B",
+      "name": "Erica Weems",
+      "school": "CAL",
+      "mark": "120-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1988,
+      "classification": "C",
+      "name": "Donna Burcker",
+      "school": "BOO",
+      "mark": "104-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Kathy Caldwell",
+      "school": "OLM",
+      "mark": "122-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Birgit Alms",
+      "school": "FTH",
+      "mark": "119-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Julie Ricketts",
+      "school": "MID",
+      "mark": "105-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Donna Burcker",
+      "school": "BOO",
+      "mark": "104-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Kathy Caldwell",
+      "school": "OLM",
+      "mark": "131-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Melissa McGrath",
+      "school": "SCL",
+      "mark": "115-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Julie Ricketts",
+      "school": "MID",
+      "mark": "106-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Donna Burcker",
+      "school": "BOO",
+      "mark": "105-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Mattie Cymek",
+      "school": "CHA",
+      "mark": "133-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Loylita Ennis",
+      "school": "CAL",
+      "mark": "116-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Sheri Huckleberry",
+      "school": "MID",
+      "mark": "110-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Catina Cephas",
+      "school": "NDC",
+      "mark": "106-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Mattie Cymek",
+      "school": "CHA",
+      "mark": "151-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Loylita Ennis",
+      "school": "CAL",
+      "mark": "114-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Sheri Huckleberry",
+      "school": "MID",
+      "mark": "113-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Kandi Lewis",
+      "school": "WIL",
+      "mark": "103-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Joy Pegram",
+      "school": "ELR",
+      "mark": "128-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Felicia Rice",
+      "school": "THS",
+      "mark": "113-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Sheri Huckleberry",
+      "school": "MID",
+      "mark": "114-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Carrie Mauk",
+      "school": "PEV",
+      "mark": "102-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Shadena Pearmon",
+      "school": "CHA",
+      "mark": "117-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Erin Williams",
+      "school": "LIN",
+      "mark": "94-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Lauren McHargue",
+      "school": "OAK",
+      "mark": "95-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Thera Larson",
+      "school": "WLA",
+      "mark": "98-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Lakeisha Browne",
+      "school": "HPT",
+      "mark": "110-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Erin Williams",
+      "school": "LIN",
+      "mark": "98-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Jen O'Neill",
+      "school": "WLK",
+      "mark": "109-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Thera Larson",
+      "school": "WLA",
+      "mark": "108-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Cathy Porter",
+      "school": "OLM",
+      "mark": "121-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Thera Larson",
+      "school": "WLA",
+      "mark": "108-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Evelyn Carr",
+      "school": "ROC",
+      "mark": "110-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Sara Morris",
+      "school": "SMI",
+      "mark": "100-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Jamie Smith",
+      "school": "OLM",
+      "mark": "115-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Brandy Cavey",
+      "school": "WLA",
+      "mark": "115-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Jolie Snyder",
+      "school": "FTH",
+      "mark": "111-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Heather Abuceviez",
+      "school": "MTS",
+      "mark": "100-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Ruth Kura",
+      "school": "QOR",
+      "mark": "125-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Helen Young",
+      "school": "LEO",
+      "mark": "116-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Meagan Verdeyen",
+      "school": "NHG",
+      "mark": "131-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Heather Abucevicz",
+      "school": "SMI",
+      "mark": "101-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Jessica Hester",
+      "school": "WES",
+      "mark": "115-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Helen Young",
+      "school": "LEO",
+      "mark": "116-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Meagan Verdeyen",
+      "school": "NHG",
+      "mark": "134-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Becky Kistler",
+      "school": "WIL",
+      "mark": "108-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Katie Selby",
+      "school": "WES",
+      "mark": "123-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Jacy Bayer",
+      "school": "NHG",
+      "mark": "121-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Shiree Turner",
+      "school": "JOP",
+      "mark": "123-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Tissa Porter",
+      "school": "SMI",
+      "mark": "116-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Erin Burns",
+      "school": "BDN",
+      "mark": "122-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Candace Swann",
+      "school": "WLA",
+      "mark": "129-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Lindsay Grigoriev",
+      "school": "ATH",
+      "mark": "120-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Lisa Lee",
+      "school": "BHM",
+      "mark": "114-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Tierra Lucas",
+      "school": "GTJ",
+      "mark": "133-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Amy Bilmanis",
+      "school": "THS",
+      "mark": "132-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Lindsay Grigoriev",
+      "school": "ATH",
+      "mark": "146-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Terra Knable",
+      "school": "SMI",
+      "mark": "114-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Ginger Williams",
+      "school": "CHA",
+      "mark": "125-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Amy Bilmanis",
+      "school": "THS",
+      "mark": "152-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Lindsay Grigoriev",
+      "school": "ATH",
+      "mark": "155-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Tara Knable",
+      "school": "SMI",
+      "mark": "114-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Amy Bilmanis",
+      "school": "THS",
+      "mark": "153-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Ashley Faunteleroy",
+      "school": "PBR",
+      "mark": "115-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Ashley Riggs",
+      "school": "SOA",
+      "mark": "117-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Tara Knable",
+      "school": "SMI",
+      "mark": "122-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Amy Bilmanis",
+      "school": "THS",
+      "mark": "149-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Alyce Harrell",
+      "school": "LGR",
+      "mark": "117-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Christine Vidmar",
+      "school": "RES",
+      "mark": "125-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Katelyn Poss",
+      "school": "POO",
+      "mark": "107-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Jacquelyn Adock",
+      "school": "DAM",
+      "mark": "117-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Allison Randall",
+      "school": "FRA",
+      "mark": "117-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Cristine Vidmar",
+      "school": "RES",
+      "mark": "131-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Katelyn Poss",
+      "school": "POO",
+      "mark": "113-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Arleigh Rose",
+      "school": "SHE",
+      "mark": "119-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Shannel Shivers",
+      "school": "ABE",
+      "mark": "123-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Alison Clark",
+      "school": "NEC",
+      "mark": "119-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Maketa Ruffin",
+      "school": "NWT",
+      "mark": "114-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Emily Vannoy",
+      "school": "GTJ",
+      "mark": "133-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Amanda Deller",
+      "school": "ABE",
+      "mark": "119-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Alison Clark",
+      "school": "NEC",
+      "mark": "115-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Paige Shirk",
+      "school": "CLS",
+      "mark": "100-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Emily Vannoy",
+      "school": "GTJ",
+      "mark": "138-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Abigail Monaghan",
+      "school": "LAP",
+      "mark": "122-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Lauren Gross",
+      "school": "NPT",
+      "mark": "114-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Paige Shirk",
+      "school": "CLS",
+      "mark": "107-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Lauren Allam",
+      "school": "CHA",
+      "mark": "150-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Lakesa McClain",
+      "school": "SHG",
+      "mark": "116-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Melissa Shirley",
+      "school": "MID",
+      "mark": "112-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Paige Shirk",
+      "school": "CLS",
+      "mark": "126-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Tamara Ovejera",
+      "school": "GTJ",
+      "mark": "129-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Virginia Owusu-Mainoo",
+      "school": "SEV",
+      "mark": "122-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Ashlyn Anderson",
+      "school": "LIB",
+      "mark": "97-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Erica Coley",
+      "school": "HVT",
+      "mark": "109-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Alexus Scott",
+      "school": "ELR",
+      "mark": "127-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Tamara Ovejera",
+      "school": "GTJ",
+      "mark": "143-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Emani Williams",
+      "school": "LAR",
+      "mark": "115-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Amber Smith",
+      "school": "BOO",
+      "mark": "104-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Claudia Ababio",
+      "school": "CLK",
+      "mark": "125-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Tamara Ovejera",
+      "school": "GTJ",
+      "mark": "142-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Brittney Chavis",
+      "school": "HVT",
+      "mark": "121-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Sarah Bach",
+      "school": "MVM",
+      "mark": "102-01"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Ozioma Edokobi",
+      "school": "RMT",
+      "mark": "139-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Briana Taborn",
+      "school": "ATH",
+      "mark": "117-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Deshia Mango",
+      "school": "FRD",
+      "mark": "132-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Katie Krebs",
+      "school": "MVM",
+      "mark": "99-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Daiysa Burrell",
+      "school": "CHF",
+      "mark": "141-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Amanda Murphy",
+      "school": "FRA",
+      "mark": "131-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Leah Wolf",
+      "school": "LIB",
+      "mark": "126-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Kaneena Felicia",
+      "school": "NOG",
+      "mark": "108-09"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Daiysa Burrell",
+      "school": "CHF",
+      "mark": "131-04"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Delia Sipe",
+      "school": "URB",
+      "mark": "131-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Seasons Usual",
+      "school": "FRD",
+      "mark": "146-10"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Brianna Rowe",
+      "school": "SMI",
+      "mark": "105-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Xanthi Limber",
+      "school": "CLK",
+      "mark": "114-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Delia Sipe",
+      "school": "URB",
+      "mark": "138-11"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Seasons Usual",
+      "school": "FRD",
+      "mark": "149-05"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Brianna Rowe",
+      "school": "SMI",
+      "mark": "109-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Eve Dantignac",
+      "school": "BOW",
+      "mark": "121-03"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Sierra Butler",
+      "school": "HUN",
+      "mark": "125-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Mikayla Cline",
+      "school": "WIL",
+      "mark": "122-00"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Alexie Arnold",
+      "school": "MTR",
+      "mark": "137-08"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Mekhya Jones",
+      "school": "NPT",
+      "mark": "112-06"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Paige Tolbard",
+      "school": "FRE",
+      "mark": "118-02"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Emma Vanden Berg",
+      "school": "LAP",
+      "mark": "108-07"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "event": "Discus",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Ryann Bennett",
+      "school": "FTH",
+      "mark": "128-04"
+    }
+  ]
+}

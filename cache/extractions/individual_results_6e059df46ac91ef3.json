@@ -1,0 +1,2056 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      91
+    ],
+    "extracted_at": "2026-08-02T21:06:06Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Kevin Jordan",
+      "school": "HPT",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Sean McKamey",
+      "school": "LEO",
+      "mark": "6-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Steven Lewis",
+      "school": "EDG",
+      "mark": "6-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Chris Loar",
+      "school": "BEA",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Greg Sutton",
+      "school": "PEH",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Jeff Kluttz",
+      "school": "GTJ",
+      "mark": "6-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Deain Roberson",
+      "school": "FTH",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Jason Redman",
+      "school": "BOO",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Greg Sutton",
+      "school": "PEH",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Bryant Barnes",
+      "school": "LEO",
+      "mark": "6-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Cornelius Careu",
+      "school": "EDG",
+      "mark": "6-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Joe Henderson",
+      "school": "MLM",
+      "mark": "6-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Todd Singleton",
+      "school": "OLM",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Ryan Carter",
+      "school": "GTJ",
+      "mark": "6-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Steve Stafford",
+      "school": "FTH",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Randy Clark",
+      "school": "POO",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Tavis Ndure",
+      "school": "GAI",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Lamont Reed",
+      "school": "SEV",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Steve Stafford",
+      "school": "FTH",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Steve Wright",
+      "school": "FSK",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Tavis Ndure",
+      "school": "GAI",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Karl Gilliam",
+      "school": "BDN",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Anthony Howard",
+      "school": "OAK",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Elmer Sewell",
+      "school": "SMI",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Darnerien McCants",
+      "school": "ARU",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Adrian Ellis",
+      "school": "FRE",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Bryan Miller",
+      "school": "GTM",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Elmer Sewell",
+      "school": "SMI",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Michael Hughes",
+      "school": "BOW",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Tuan Wreh",
+      "school": "RMT",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Derek Dye",
+      "school": "MID",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Jared Beckman",
+      "school": "SOG",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Ickey Chuku",
+      "school": "LAR",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Tuan Wreh",
+      "school": "RMT",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Greg McCormick",
+      "school": "MID",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Tom Laws",
+      "school": "WIL",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Jerome Goodman",
+      "school": "NCT",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Malcolm Reynolds",
+      "school": "GTM",
+      "mark": "6-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Greg McCormick",
+      "school": "MID",
+      "mark": "6-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Mike McGreevy",
+      "school": "ALL",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Jerome Goodman",
+      "school": "NCT",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Terrence Brown",
+      "school": "PTX",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Greg McCormick",
+      "school": "MID",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Justin Stephens",
+      "school": "SOG",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Matt Waranius",
+      "school": "CHA",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Gary Bates",
+      "school": "RAN",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Greg McCormick",
+      "school": "MID",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Matt Stephens",
+      "school": "SOG",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Jerome Miller",
+      "school": "SPB",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Vaclav Malek",
+      "school": "WAJ",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Kyle Harmon",
+      "school": "PKS",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Corey Brown",
+      "school": "SMI",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Kevin Barnes",
+      "school": "OLM",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Andre Young",
+      "school": "LEO",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Boris Roslov",
+      "school": "MID",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Corey Brown",
+      "school": "SMI",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Kevin Barnes",
+      "school": "OLM",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Kelvin Bright",
+      "school": "AEI",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Nevelle Pierre",
+      "school": "NHG",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Joe Talley",
+      "school": "NCN",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Kelvin Bright",
+      "school": "JHB",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Marcus Branett",
+      "school": "FRD",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Nick Hruch",
+      "school": "LIB",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Jamie Baker",
+      "school": "MAR",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Aaron Johnson",
+      "school": "OXH",
+      "mark": "6-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Jason Allen",
+      "school": "MTH",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Jordan Dyson",
+      "school": "FRE",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Victor Gilreath",
+      "school": "WTE",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Jamal Currica",
+      "school": "DAM",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Erik Adami",
+      "school": "NCL",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Jimmy Harris",
+      "school": "MID",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Tristan Benton",
+      "school": "NPT",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Marcus Davis",
+      "school": "ARU",
+      "mark": "6-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Anya Uzoh",
+      "school": "MEA",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Jon Hill",
+      "school": "WLK",
+      "mark": "7-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Jeff Babich",
+      "school": "ALL",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Jerimah Handy",
+      "school": "BOW",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Jonathan Harper",
+      "school": "WLA",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Tristan Benton",
+      "school": "NPT",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Billy Lawrence",
+      "school": "SMI",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Momodou Drammeh",
+      "school": "GTJ",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Donte Gardner",
+      "school": "WLD",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Irving Jeffress",
+      "school": "FSK",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Tavon Barnes",
+      "school": "CVT",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Jeremiah Hendy",
+      "school": "BOW",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Jordan Carr",
+      "school": "HOW",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Calvin Murray",
+      "school": "EAS",
+      "mark": "6-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Andrew Allen",
+      "school": "FPK",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Justin Maize",
+      "school": "WES",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "3A",
+      "name": "DJ Workcuff",
+      "school": "NOC",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "2A",
+      "name": "TJ Gamble",
+      "school": "WLK",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Luke Campbell",
+      "school": "BRN",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Kaos Williams",
+      "school": "CLK",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "3A",
+      "name": "DJ Workcuff",
+      "school": "NOC",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Jake Stefanik",
+      "school": "CNT",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Brian Matthews",
+      "school": "PEV",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Austin Castleberry",
+      "school": "NWM",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "3A",
+      "name": "DJ Workcuff",
+      "school": "NOC",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Tre'von Hopkins",
+      "school": "OAK",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Nathan Gill",
+      "school": "MVM",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Dylan Bikim",
+      "school": "QOR",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Tevin Bailey",
+      "school": "WES",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Cory Schlee",
+      "school": "OAK",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Nathan Gill",
+      "school": "MVM",
+      "mark": "6-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Dylan Bikim",
+      "school": "QOR",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Elijah White",
+      "school": "CTN",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Silas Kelly",
+      "school": "SCL",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Jeremy Dunkin",
+      "school": "SMI",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Divinus Muteba",
+      "school": "NWM",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Nathaniel Moore",
+      "school": "SHG",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Kaden McElhenny",
+      "school": "MTR",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Joshua Sproul",
+      "school": "WAS",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Divinus Muteba",
+      "school": "NWM",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Nathaniel Moore",
+      "school": "SHG",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Alex Strong",
+      "school": "LAP",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Joshua Sproul",
+      "school": "WAS",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Josiah Nilsen",
+      "school": "DUL",
+      "mark": "6-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "3A",
+      "name": "London Drummond",
+      "school": "STD",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Jalen Stanton",
+      "school": "CNT",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Khalif Charlton",
+      "school": "HDG",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Gavin Shaffer",
+      "school": "DUL",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Morey Campbell",
+      "school": "NPT",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Jayden Gerringer",
+      "school": "WIL",
+      "mark": "6-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Jackson Tuomey",
+      "school": "BRN",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Gavin Shaffer",
+      "school": "DUL",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Zach Gaegler",
+      "school": "WES",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Aki Harvey",
+      "school": "OAK",
+      "mark": "6-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Cameron Dawson",
+      "school": "PPM",
+      "mark": "6-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Jack Link",
+      "school": "SHE",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Malcolm Williams Jr.",
+      "school": "DAM",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Jadon Gaines",
+      "school": "HER",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Gamaliel Adejo",
+      "school": "WTE",
+      "mark": "6-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Luke Freimanis",
+      "school": "GTJ",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "3A",
+      "name": "AJ York",
+      "school": "OAK",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Jadon Gaines",
+      "school": "HER",
+      "mark": "6-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Vernon Price",
+      "school": "NDC",
+      "mark": "6-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "4A",
+      "name": "De'Tavious Graves",
+      "school": "BCC",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Mobolaji Popoola",
+      "school": "GTM",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Masiah Martin",
+      "school": "WLK",
+      "mark": "6-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "High Jump",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Landen Sweitzer",
+      "school": "FTH",
+      "mark": "6-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1952,
+      "classification": "A",
+      "name": "Harry Parks",
+      "school": "Hagerstown",
+      "mark": "9-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1952,
+      "classification": "B",
+      "name": "Walter Powell",
+      "school": "WAS",
+      "mark": "7-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1952,
+      "classification": "C",
+      "name": "Lacey",
+      "school": "Clarksville",
+      "mark": null
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1953,
+      "classification": "A",
+      "name": "Harry Parks",
+      "school": "Hagerstown",
+      "mark": "10-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1953,
+      "classification": "C",
+      "name": "Richard Boston",
+      "school": "WAS",
+      "mark": "9-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1954,
+      "classification": "A",
+      "name": "Ralph Bussard & Jim Pickett",
+      "school": "FRE & MTB",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1954,
+      "classification": "B",
+      "name": "Norm Dever",
+      "school": "Elkton",
+      "mark": "9-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1954,
+      "classification": "C",
+      "name": "Harold Smith & Jim Nelson",
+      "school": "WAS & WAS",
+      "mark": "9-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1955,
+      "classification": "A",
+      "name": "Jim Pickett",
+      "school": "MTB",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1955,
+      "classification": "B",
+      "name": "Jim Moore",
+      "school": "ELK",
+      "mark": "9-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1955,
+      "classification": "C",
+      "name": "Hunt",
+      "school": "Sudlersville",
+      "mark": "10-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1956,
+      "classification": "A",
+      "name": "Paul Henry",
+      "school": "Hagerstown",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1956,
+      "classification": "B",
+      "name": "Jim Moore",
+      "school": "ELK",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1956,
+      "classification": "C",
+      "name": "David Basler",
+      "school": "Hampstead",
+      "mark": "10-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1957,
+      "classification": "A",
+      "name": "Paul Henry",
+      "school": "SHG",
+      "mark": "11-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1957,
+      "classification": "B",
+      "name": "Moyer",
+      "school": "Chestertown",
+      "mark": "10-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1957,
+      "classification": "C",
+      "name": "Hilterbrick",
+      "school": "Taneytown",
+      "mark": "9-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1958,
+      "classification": "A",
+      "name": "George O'Neal",
+      "school": "NWE",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1958,
+      "classification": "C",
+      "name": "Richard Wheatley",
+      "school": "WAS",
+      "mark": "11-0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1959,
+      "classification": "A",
+      "name": "John Kelly",
+      "school": "RMT",
+      "mark": "11-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1959,
+      "classification": "B",
+      "name": "Scull & Moore",
+      "school": "EVT & ELK",
+      "mark": "10-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1959,
+      "classification": "C",
+      "name": "Kay",
+      "school": "South Dorchester",
+      "mark": "11-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1960,
+      "classification": "B",
+      "name": "Wilson & Cornett",
+      "school": "NCN & LAC",
+      "mark": "10-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1960,
+      "classification": "C",
+      "name": "Clyde Marriner",
+      "school": "WAS",
+      "mark": "11-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1961,
+      "classification": "AA",
+      "name": "T. Williams & Stewart Markley",
+      "school": "BCC & NWE",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1961,
+      "classification": "A",
+      "name": "Jack Wallace",
+      "school": "FTH",
+      "mark": "10-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1961,
+      "classification": "B",
+      "name": "Rosetta",
+      "school": "Cambridge",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1961,
+      "classification": "C",
+      "name": "Noble",
+      "school": "WAS",
+      "mark": "10-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1962,
+      "classification": "AA",
+      "name": "Wes Schmidt",
+      "school": "WHE",
+      "mark": "12-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1962,
+      "classification": "A",
+      "name": "Trent",
+      "school": "Howard County",
+      "mark": "10-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1962,
+      "classification": "B",
+      "name": "Bob Glaeser",
+      "school": "GTM",
+      "mark": "11-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1962,
+      "classification": "C",
+      "name": "Dick Powell",
+      "school": "WAS",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1963,
+      "classification": "AA",
+      "name": "Lanny Hunt",
+      "school": "BCC",
+      "mark": "12-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1963,
+      "classification": "A",
+      "name": "Bruce Shirer",
+      "school": "Beall",
+      "mark": "11-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1963,
+      "classification": "B",
+      "name": "Bob Glaeser",
+      "school": "GTM",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1963,
+      "classification": "C",
+      "name": "Wheatley",
+      "school": "WAS",
+      "mark": "11-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1964,
+      "classification": "AA",
+      "name": "Ed Lohfield",
+      "school": "DUV",
+      "mark": "12-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1964,
+      "classification": "A",
+      "name": "Mike Hampe",
+      "school": "SEP",
+      "mark": "12-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1964,
+      "classification": "B",
+      "name": "Kelly",
+      "school": "CLR",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1964,
+      "classification": "C",
+      "name": "Richard Tyler",
+      "school": "WAS",
+      "mark": "11-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1965,
+      "classification": "AA",
+      "name": "Bud Williamson",
+      "school": "NWE",
+      "mark": "13-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1965,
+      "classification": "A",
+      "name": "Jimmy Blizzard",
+      "school": "FTH",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1965,
+      "classification": "C",
+      "name": "Richard Tyler",
+      "school": "WAS",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1966,
+      "classification": "AA",
+      "name": "Nils Olson",
+      "school": "FRE",
+      "mark": "13-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1966,
+      "classification": "A",
+      "name": "Bob Smith",
+      "school": "BOW",
+      "mark": "12-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1966,
+      "classification": "B",
+      "name": "Tom Moran",
+      "school": "Bruce",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1966,
+      "classification": "C",
+      "name": "H. Murphey",
+      "school": "MAR",
+      "mark": "11-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1967,
+      "classification": "AA",
+      "name": "Robert Smith & Pat Thornburg",
+      "school": "BOW & GAI",
+      "mark": "13-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1967,
+      "classification": "A",
+      "name": "Dick Garner",
+      "school": "SHE",
+      "mark": "11-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1967,
+      "classification": "B",
+      "name": "Thomas Gray",
+      "school": "LAC",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1967,
+      "classification": "C",
+      "name": "Larry Gootee",
+      "school": "SDC",
+      "mark": "11-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1968,
+      "classification": "AA",
+      "name": "Buster Brinkley",
+      "school": "BLA",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1968,
+      "classification": "A",
+      "name": "Rod Gray",
+      "school": "FRE",
+      "mark": "12-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1968,
+      "classification": "B",
+      "name": "Graves",
+      "school": "CHT",
+      "mark": "11-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1968,
+      "classification": "C",
+      "name": "Jerry Wheatley",
+      "school": "WAS",
+      "mark": "11-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1969,
+      "classification": "AA",
+      "name": "Mike Graham",
+      "school": "ANN",
+      "mark": "13-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1969,
+      "classification": "A",
+      "name": "Tony Gunther",
+      "school": "WIC",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1969,
+      "classification": "B",
+      "name": "Eddie Simon",
+      "school": "MID",
+      "mark": "12-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1969,
+      "classification": "C",
+      "name": "Jim Taylor",
+      "school": "WAS",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1970,
+      "classification": "AA",
+      "name": "Ross Hopeman",
+      "school": "MTB",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1970,
+      "classification": "A",
+      "name": "Tony Gunther",
+      "school": "WIC",
+      "mark": "13-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1970,
+      "classification": "B",
+      "name": "Stubbs",
+      "school": "CAM",
+      "mark": "11-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1970,
+      "classification": "C",
+      "name": "Dennis Stottlemyer",
+      "school": "MID",
+      "mark": "12-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1971,
+      "classification": "AA",
+      "name": "Scott O'Connell",
+      "school": "WCH",
+      "mark": "13-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1971,
+      "classification": "A",
+      "name": "Tony Gunther",
+      "school": "WIC",
+      "mark": "12-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1971,
+      "classification": "B",
+      "name": "Tom Monthly",
+      "school": "FSK",
+      "mark": "10-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1971,
+      "classification": "C",
+      "name": "Matt Adams",
+      "school": "BRN",
+      "mark": "11-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1972,
+      "classification": "AA",
+      "name": "Rich Barron",
+      "school": "SEP",
+      "mark": "12-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1972,
+      "classification": "A",
+      "name": "Pat Hall",
+      "school": "RMT",
+      "mark": "12-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1972,
+      "classification": "B",
+      "name": "Joe Burdyck",
+      "school": "HER",
+      "mark": "12-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1972,
+      "classification": "C",
+      "name": "Gary Gates",
+      "school": "LIN",
+      "mark": "11-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Rich Barrar",
+      "school": "SEP",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1973,
+      "classification": "A",
+      "name": "Pat Hall",
+      "school": "RMT",
+      "mark": "12-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1973,
+      "classification": "B",
+      "name": "Shane Stroup",
+      "school": "SHE",
+      "mark": "13-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1973,
+      "classification": "C",
+      "name": "Karl Koops",
+      "school": "MID",
+      "mark": "12-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Tom Dover",
+      "school": "WCH",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1974,
+      "classification": "A",
+      "name": "Bart Jones",
+      "school": "SUR",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1974,
+      "classification": "B",
+      "name": "Shane Stroup",
+      "school": "SHE",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1974,
+      "classification": "C",
+      "name": "Steve Martin",
+      "school": "MID",
+      "mark": "11-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Kirk Iller",
+      "school": "CRO",
+      "mark": "13-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1975,
+      "classification": "A",
+      "name": "Marty Maier",
+      "school": "FAH",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1975,
+      "classification": "B",
+      "name": "Chuck Boone",
+      "school": "HER",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1975,
+      "classification": "C",
+      "name": "Sean Tolland",
+      "school": "MID",
+      "mark": "12-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Bob Phillips",
+      "school": "PEH",
+      "mark": "13-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1976,
+      "classification": "A",
+      "name": "Tim Downs",
+      "school": "RMT",
+      "mark": "14-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1976,
+      "classification": "B",
+      "name": "Athey",
+      "school": "DAM",
+      "mark": "12-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Pole Vault",
+      "year": 1976,
+      "classification": "C",
+      "name": "Mark Thompson",
+      "school": "MID",
+      "mark": "11-09"
+    }
+  ]
+}

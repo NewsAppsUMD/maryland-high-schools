@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      95
+    ],
+    "extracted_at": "2026-08-02T21:09:34Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Nadim Elhage",
+      "school": "WCH",
+      "mark": "150-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Charlie Myers",
+      "school": "TUS",
+      "mark": "147-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Jay Dennis",
+      "school": "WLK",
+      "mark": "144-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Jonathan Rogers",
+      "school": "CVT",
+      "mark": "149-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Samuel Adedeji",
+      "school": "CLK",
+      "mark": "148-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Patrick Schlosser",
+      "school": "WTM",
+      "mark": "149-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Quincey Sutton",
+      "school": "FRD",
+      "mark": "167-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2012,
+      "classification": "1A",
+      "name": "John Lowery",
+      "school": "BOO",
+      "mark": "143-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Brandon Young",
+      "school": "NWM",
+      "mark": "138-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Patrick Schlosser",
+      "school": "WTM",
+      "mark": "141-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Jimmy Lee",
+      "school": "PXT",
+      "mark": "137-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Gerick Allen",
+      "school": "BOO",
+      "mark": "144-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2014,
+      "classification": "4A",
+      "name": "James Watts III",
+      "school": "HWI",
+      "mark": "154-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Collin McKenny",
+      "school": "HUN",
+      "mark": "168-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Duncan Ferrin",
+      "school": "CNT",
+      "mark": "141-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Jhamail Johnson",
+      "school": "JOP",
+      "mark": "129-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Cameron Yon",
+      "school": "GTM",
+      "mark": "164-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Billy Emerson",
+      "school": "WTM",
+      "mark": "161-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Tony Digiuseppe",
+      "school": "BOO",
+      "mark": "153-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Chase Dewitt",
+      "school": "ALL",
+      "mark": "152-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Nanakofi Appiah",
+      "school": "CHF",
+      "mark": "170-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Robert Meador",
+      "school": "HUN",
+      "mark": "144-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Alexander Devine",
+      "school": "LAP",
+      "mark": "161-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Chase Dewitt",
+      "school": "ALL",
+      "mark": "156-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Joshua Smith",
+      "school": "NPT",
+      "mark": "160-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Joe Elias",
+      "school": "URB",
+      "mark": "150-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Mike Nash",
+      "school": "HER",
+      "mark": "160-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Tristen Cook",
+      "school": "BOO",
+      "mark": "129-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Elian Ahmar",
+      "school": "BDN",
+      "mark": "174-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Ryan Brown",
+      "school": "NOC",
+      "mark": "148-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Jamion Franklin",
+      "school": "NCN",
+      "mark": "154-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Shakur Trimble",
+      "school": "FTH",
+      "mark": "158-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Aaron Lomax",
+      "school": "AEI",
+      "mark": "157-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Christopher Trovinger",
+      "school": "NHG",
+      "mark": "152-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Waman Kendron",
+      "school": "NCN",
+      "mark": "157-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Rodney Gross",
+      "school": "OVE",
+      "mark": "153-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Henry Sheppard",
+      "school": "WAJ",
+      "mark": "149-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Liam Lovering",
+      "school": "CTN",
+      "mark": "164-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Mason Breeze",
+      "school": "LIB",
+      "mark": "155-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Zach Mills",
+      "school": "MAR",
+      "mark": "147-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Chimdy Onoh",
+      "school": "DUN",
+      "mark": "158-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Aiden Walker",
+      "school": "HUN",
+      "mark": "153-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Jalon Edwards",
+      "school": "PTX",
+      "mark": "140-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Carter Hess",
+      "school": "FTH",
+      "mark": "141-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Chimdy Onoh",
+      "school": "DUN",
+      "mark": "174-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Grant Lohr",
+      "school": "OAD",
+      "mark": "158-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Ruichen He",
+      "school": "GLG",
+      "mark": "172-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Carter Hess",
+      "school": "FTH",
+      "mark": "168-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Stephen Neal",
+      "school": "NPT",
+      "mark": "166-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Ruichen He",
+      "school": "GLG",
+      "mark": "181-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Willie Washington",
+      "school": "LAP",
+      "mark": "153-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Carter Hess",
+      "school": "FTH",
+      "mark": "189-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Hunter Mann",
+      "school": "LEO",
+      "mark": "161-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Ruichen He",
+      "school": "GLG",
+      "mark": "165-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Reed Shilling",
+      "school": "HER",
+      "mark": "150-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Ryan Wu",
+      "school": "ALL",
+      "mark": "150-10"
+    }
+  ]
+}

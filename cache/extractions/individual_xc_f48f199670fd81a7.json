@@ -1,0 +1,625 @@
+{
+  "meta": {
+    "extractor": "individual_xc",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      12
+    ],
+    "extracted_at": "2026-08-02T02:18:11Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Cross Country",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Teshika Rivers",
+      "school": "E. Roosevelt",
+      "time": "19:17",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Kristen Malloy",
+      "school": "Hereford",
+      "time": "19:36",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Katie Harman",
+      "school": "River Hill",
+      "time": "19:54",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Lauryn MacFawn",
+      "school": "Allegany",
+      "time": "19:38",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Anna Bosse",
+      "school": "Walter Johnson",
+      "time": "19:38",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Addie Tousley",
+      "school": "Bethesda-Chevy Chase",
+      "time": "19:59",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Maura Linde",
+      "school": "Century",
+      "time": "19:48",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Sara Fisher",
+      "school": "Brunswick",
+      "time": "20:11",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Jessie Rubin",
+      "school": "Wootton",
+      "time": "19:48",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Becky Yep",
+      "school": "Mount Hebron",
+      "time": "20:25",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Maura Linde",
+      "school": "Century",
+      "time": "20:07",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Jennifer Cleary",
+      "school": "Bohemia Manor",
+      "time": "20:46",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Anna Ryba",
+      "school": "Walt Whitman",
+      "time": "19:16",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Erin Causey",
+      "school": "Hereford",
+      "time": "19:59",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Maura Linde",
+      "school": "Century",
+      "time": "19:10",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Emily Ruppel",
+      "school": "Loch Raven",
+      "time": "20:30",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Carolyn Guiot",
+      "school": "Walt Whitman",
+      "time": "19:28",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Emily Mulhern",
+      "school": "Urbana",
+      "time": "19:53",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Hannah Oneda",
+      "school": "Winters Mill",
+      "time": "18:28",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Jordan Dodson",
+      "school": "Perryville",
+      "time": "19:56",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Caroline Beakes",
+      "school": "Bethesda-Chevy Chase",
+      "time": "19:17.4",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Emily Mulhern",
+      "school": "Urbana",
+      "time": "19:20.1",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Brit Lang",
+      "school": "Oakland Mills",
+      "time": "19:21.8",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Sarah Zielinski",
+      "school": "Boonsboro",
+      "time": "19:48.6",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Isabel Griffith",
+      "school": "Dulaney",
+      "time": "18:26.2",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Shreya Nalubola",
+      "school": "Centennial",
+      "time": "18:41.1",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Meggan Grams",
+      "school": "Boonsboro",
+      "time": "18:54.6",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Katie Leisher",
+      "school": "Manchester Valley",
+      "time": "19:30.9",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Nora McUmber",
+      "school": "Bethesda-CC",
+      "time": "18:39.9",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Emily Mulhern",
+      "school": "Urbana",
+      "time": "19:02.1",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Hayley Jackson",
+      "school": "Patuxent",
+      "time": "18:48.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Katie Leisher",
+      "school": "Manchester Valley",
+      "time": "19:41.6",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Maria Coffin",
+      "school": "Annapolis",
+      "time": "18:25.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Annie Imhof",
+      "school": "Great Mills",
+      "time": "19:25.2",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Hayley Jackson",
+      "school": "Patuxent",
+      "time": "18:23.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Haley Wright",
+      "school": "Boonsboro",
+      "time": "19:33.7",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Maria Coffin",
+      "school": "Annapolis",
+      "time": "17:49.4",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Haley Cummins",
+      "school": "C. Milton Wright",
+      "time": "18:41.6",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Hayley Jackson",
+      "school": "Patuxent",
+      "time": "18:19.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Ana Rhoten",
+      "school": "Northern-G",
+      "time": "20.10.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Abigail Green",
+      "school": "Walter Johnson",
+      "time": "18:17.16",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Haley Cummins",
+      "school": "C. Milton Wright",
+      "time": "19:00.30",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Emily Konkus",
+      "school": "Hereford",
+      "time": "19:40.44",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Ashley Betz",
+      "school": "Patterson Mill",
+      "time": "20.18.12",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Bronwyn Patterson",
+      "school": "South River",
+      "time": "19:06.19",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Oakley Olson",
+      "school": "Huntingtown",
+      "time": "18:59.60",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Emily Konkus",
+      "school": "Hereford",
+      "time": "19:38.03",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Sarah Condon",
+      "school": "Cambridge/SD",
+      "time": "20.52.82",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Jenna Goldberg",
+      "school": "Walter Johnson",
+      "time": "17:50.47",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Oakley Olson",
+      "school": "Northern-Calvert",
+      "time": "18:49.23",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Erin McQuitty",
+      "school": "Middletown",
+      "time": "19:06.75",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Daylie Younker",
+      "school": "Smithsburg",
+      "time": "20:26.13",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Varri Higgins",
+      "school": "Bethesda-Chevy Chase",
+      "time": "18:37.4",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Caroline Gregory",
+      "school": "Frederick",
+      "time": "18:35.7",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Daisy B. Dastrup",
+      "school": "Poolesville",
+      "time": "19:40.1",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Lydia Nelson",
+      "school": "Northern-Garrett",
+      "time": "20:27.8",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Elena Blodnikar",
+      "school": "Leonardtown",
+      "time": "18:58.8",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Hannah Toth",
+      "school": "Westminster",
+      "time": "19:08",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Estelle Snider",
+      "school": "Hereford",
+      "time": "19:29.8",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Mary Delaney",
+      "school": "Mountain Ridge",
+      "time": "19:57.9",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Caroline Gregory",
+      "school": "Frederick",
+      "time": "18:30.71",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Carter Brotherton",
+      "school": "Great Mills",
+      "time": "18:33.65",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Taylor Colson",
+      "school": "Century",
+      "time": "18:51.54",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Cora Gentzel",
+      "school": "Smithsburg",
+      "time": "19:43.05",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Emma Colavito",
+      "school": "Richard Montgomery",
+      "time": "18:53.80",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Lauren Stine",
+      "school": "North Hagerstown",
+      "time": "18:23.46",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Riley Herdson",
+      "school": "Centennial",
+      "time": "19:12.54",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Isabel Devos",
+      "school": "Harford Technical",
+      "time": "19:32.29",
+      "distance": "3.0 Miles"
+    }
+  ]
+}

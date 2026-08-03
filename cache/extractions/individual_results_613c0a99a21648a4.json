@@ -1,0 +1,1984 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      80
+    ],
+    "extracted_at": "2026-08-02T20:54:01Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Chase Weaverling",
+      "school": "POO",
+      "mark": "4:24.50"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Ty Franks",
+      "school": "BHM",
+      "mark": "4:30.04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Diego Zarate",
+      "school": "NWM",
+      "mark": "4:15.95"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Christopher Heydrick",
+      "school": "RVH",
+      "mark": "4:18.11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Terrell Green",
+      "school": "FRD",
+      "mark": "4:18.89"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Ty Franks",
+      "school": "BHM",
+      "mark": "4:26.27"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Evan Woods",
+      "school": "WWH",
+      "mark": "4:18.01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Jordan Leon",
+      "school": "MLM",
+      "mark": "4:16.05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Matthew Kane",
+      "school": "CNT",
+      "mark": "4:22.69"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Ty Franks",
+      "school": "BHM",
+      "mark": "4:26.14"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Rohann Asfaw",
+      "school": "RMT",
+      "mark": "4:20.95"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Matt Bennett",
+      "school": "NOC",
+      "mark": "4:22.87"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Taylor Baranoski",
+      "school": "EVT",
+      "mark": "4:23.99"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Will Merritt",
+      "school": "SMI",
+      "mark": "4:19.91"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Kieran McDermott",
+      "school": "BAR",
+      "mark": "4:11.94"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Ryan Lockett",
+      "school": "POO",
+      "mark": "4:23.70"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Riley McDermott",
+      "school": "MID",
+      "mark": "4:23.93"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Will Merritt",
+      "school": "SMI",
+      "mark": "4:23.49"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Josh Fry",
+      "school": "BCC",
+      "mark": "4:19.43"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Kieran McDermott",
+      "school": "BAR",
+      "mark": "4:17.10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Ryan Lockett",
+      "school": "POO",
+      "mark": "4:20.13"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Alex Longeway",
+      "school": "BHM",
+      "mark": "4:29.53"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Drew Dailey",
+      "school": "DUL",
+      "mark": "4:14.60"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Joseph Queen",
+      "school": "FRA",
+      "mark": "4:19.65"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Kyle Lund",
+      "school": "OAD",
+      "mark": "4:18.72"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Henry Schmidt",
+      "school": "BOO",
+      "mark": "4:26.34"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Tinoda Matsatsa",
+      "school": "NWM",
+      "mark": "4:15.57"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Aiden Neal",
+      "school": "MVM",
+      "mark": "4:09.51"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Finn Walsh",
+      "school": "KTI",
+      "mark": "4:26.58"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Kaleb Berhanu",
+      "school": "PIK",
+      "mark": "4:32.00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Tyler Canaday",
+      "school": "SEP",
+      "mark": "4:15.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Aiden Neal",
+      "school": "MVM",
+      "mark": "4:12.33"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Timothy Cherry",
+      "school": "GLG",
+      "mark": "4:20.79"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2022,
+      "classification": "1A",
+      "name": "John Condon",
+      "school": "CSD",
+      "mark": "4:24.39"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Tyler Dailey",
+      "school": "DUL",
+      "mark": "4:18.01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Antonio Camacho-Bucks",
+      "school": "CTN",
+      "mark": "4:14.71"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Ryan Hartranft",
+      "school": "CNT",
+      "mark": "4:22.06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Seth Barron",
+      "school": "SNH",
+      "mark": "4:26.18"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2024,
+      "classification": "4A",
+      "name": "James Partlow",
+      "school": "GTJ",
+      "mark": "4:08.36"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Joseph Ensor",
+      "school": "HOW",
+      "mark": "4:13.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Ryan Hartranft",
+      "school": "CNT",
+      "mark": "4:13.00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Justin Naylor",
+      "school": "JOP",
+      "mark": "4:24.38"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Korey Kauflin",
+      "school": "URB",
+      "mark": "4:15.46"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Tsedeke Jakovics",
+      "school": "OLM",
+      "mark": "4:16.59"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Eric Penkala",
+      "school": "SOA",
+      "mark": "4:11.95"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Gregory Schellberg",
+      "school": "LIB",
+      "mark": "4:21.56"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Wheelchair 1600 Meters",
+      "year": 2012,
+      "classification": "Comb",
+      "name": "Ben Mayforth",
+      "school": "BAR",
+      "mark": "4:33.03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1964,
+      "classification": "AA",
+      "name": "Charley Messenge",
+      "school": "KEN",
+      "mark": "9:43.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1964,
+      "classification": "A",
+      "name": "Mullins",
+      "school": "Brooklyn Park",
+      "mark": "10:03.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1965,
+      "classification": "AA",
+      "name": "Joe Leisch",
+      "school": "NHG",
+      "mark": "9:32.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1965,
+      "classification": "A",
+      "name": "Van Helms",
+      "school": "Brooklyn Park",
+      "mark": "9:54.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1966,
+      "classification": "AA",
+      "name": "Kenny Baker",
+      "school": "SHG",
+      "mark": "9:31.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1966,
+      "classification": "A",
+      "name": "Steve Rice",
+      "school": "GTM",
+      "mark": "10:09.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1966,
+      "classification": "B",
+      "name": "Robert Gray",
+      "school": "LAC",
+      "mark": "10:19.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1967,
+      "classification": "AA",
+      "name": "Bob Gray",
+      "school": "CRO",
+      "mark": "9:26.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1967,
+      "classification": "A",
+      "name": "Bruce Chilcote",
+      "school": "BKP",
+      "mark": "10:03.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1967,
+      "classification": "B",
+      "name": "Bobby Brooks",
+      "school": "BRN",
+      "mark": "10:30.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1968,
+      "classification": "AA",
+      "name": "Richard Son",
+      "school": "SEP",
+      "mark": "9:37.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1968,
+      "classification": "A",
+      "name": "Joe Lucas",
+      "school": "WCH",
+      "mark": "9:46.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1968,
+      "classification": "B",
+      "name": "Meredith Fouche",
+      "school": "BOO",
+      "mark": "10:15.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1969,
+      "classification": "AA",
+      "name": "Dwight Pelz",
+      "school": "AEI",
+      "mark": "9:27.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1969,
+      "classification": "A",
+      "name": "Marlin Gardner",
+      "school": "SCL",
+      "mark": "10:02.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1969,
+      "classification": "B",
+      "name": "Meredith Fouche",
+      "school": "BOO",
+      "mark": "10:00.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1970,
+      "classification": "AA",
+      "name": "Mike Fertig",
+      "school": "WWH",
+      "mark": "9:24.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1970,
+      "classification": "A",
+      "name": "Steve Kirk",
+      "school": "ALL",
+      "mark": "9:58.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1970,
+      "classification": "B",
+      "name": "Scott Cornwell",
+      "school": "HER",
+      "mark": "9:57.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1970,
+      "classification": "C",
+      "name": "Clair Lee Leatherman",
+      "school": "MID",
+      "mark": "10:35.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1971,
+      "classification": "AA",
+      "name": "Otto Mazzoni",
+      "school": "DUV",
+      "mark": "9:29.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1971,
+      "classification": "A",
+      "name": "Steve Kirk",
+      "school": "ALL",
+      "mark": "9:38.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1971,
+      "classification": "B",
+      "name": "Scott Cornwell",
+      "school": "HER",
+      "mark": "9:54.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1971,
+      "classification": "C",
+      "name": "Terry Baker",
+      "school": "WIL",
+      "mark": "10:05.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1972,
+      "classification": "AA",
+      "name": "Otto Mazzoni",
+      "school": "DUV",
+      "mark": "9:11.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1972,
+      "classification": "A",
+      "name": "Jack Coffey",
+      "school": "AEI",
+      "mark": "9:44.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1972,
+      "classification": "B",
+      "name": "Terry Baker",
+      "school": "WIL",
+      "mark": "9:48.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1972,
+      "classification": "C",
+      "name": "James Draper",
+      "school": "SMI",
+      "mark": "10:07.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1973,
+      "classification": "AA",
+      "name": "George Malley",
+      "school": "DUV",
+      "mark": "9:10.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1973,
+      "classification": "A",
+      "name": "Dave Rinehart",
+      "school": "FTH",
+      "mark": "9:27.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1973,
+      "classification": "B",
+      "name": "Greg Cornwall",
+      "school": "HER",
+      "mark": "9:39.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1973,
+      "classification": "C",
+      "name": "Tom Stevens",
+      "school": "MID",
+      "mark": "10:09.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1974,
+      "classification": "AA",
+      "name": "John Graham",
+      "school": "NWE",
+      "mark": "9:27.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1974,
+      "classification": "A",
+      "name": "Peter Slevin",
+      "school": "BCC",
+      "mark": "9:36.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1974,
+      "classification": "B",
+      "name": "Greg Holder",
+      "school": "WIL",
+      "mark": "9:59.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1974,
+      "classification": "C",
+      "name": "Tom Stevens",
+      "school": "MID",
+      "mark": "10:02.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Kevin Amish",
+      "school": "GLB",
+      "mark": "9:18.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1975,
+      "classification": "A",
+      "name": "Ed Boggess",
+      "school": "JFK",
+      "mark": "9:24.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1975,
+      "classification": "B",
+      "name": "Dave Cornwell",
+      "school": "HER",
+      "mark": "9:31.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1975,
+      "classification": "C",
+      "name": "Paul Kahl",
+      "school": "BEA",
+      "mark": "10:13.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Rick Gildard",
+      "school": "SEP",
+      "mark": "9:22.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1976,
+      "classification": "A",
+      "name": "Robert Griffin",
+      "school": "ROC",
+      "mark": "9:40.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1976,
+      "classification": "B",
+      "name": "John Beck",
+      "school": "NCN",
+      "mark": "10:07.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1976,
+      "classification": "C",
+      "name": "Paul Kahl",
+      "school": "BEA",
+      "mark": "10:20.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Mike Sheeley",
+      "school": "KEN",
+      "mark": "9:34.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1977,
+      "classification": "A",
+      "name": "Mike Porter",
+      "school": "FRA",
+      "mark": "9:38.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1977,
+      "classification": "B",
+      "name": "John Beck",
+      "school": "NCN",
+      "mark": "10:02.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1977,
+      "classification": "C",
+      "name": "John Blankfield",
+      "school": "BEA",
+      "mark": "10:19.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Wayne Morris",
+      "school": "LAU",
+      "mark": "9:23.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1978,
+      "classification": "A",
+      "name": "Tom Cuff",
+      "school": "SEV",
+      "mark": "9:36.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1978,
+      "classification": "B",
+      "name": "John Cornwell",
+      "school": "HER",
+      "mark": "9:43.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1978,
+      "classification": "C",
+      "name": "Anderson",
+      "school": "HDG",
+      "mark": "10:13.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Wayne Morris",
+      "school": "LAU",
+      "mark": "9:26.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1979,
+      "classification": "A",
+      "name": "Tom Cuff",
+      "school": "SEV",
+      "mark": "9:16.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1979,
+      "classification": "B",
+      "name": "Charles Covington",
+      "school": "HER",
+      "mark": "9:45.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "2-Mile",
+      "year": 1979,
+      "classification": "C",
+      "name": "Mike Sterling",
+      "school": "CLR",
+      "mark": "9:44."
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Robby Raisbeck",
+      "school": "HPT",
+      "mark": "9:17.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1980,
+      "classification": "A",
+      "name": "Jeff Scuffins",
+      "school": "NHG",
+      "mark": "9:28.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1980,
+      "classification": "B",
+      "name": "Tom Nowicki",
+      "school": "HER",
+      "mark": "9:47.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1980,
+      "classification": "C",
+      "name": "Mike Sterling",
+      "school": "CRI",
+      "mark": "9:43.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1981,
+      "classification": "AA",
+      "name": "John O'Neill",
+      "school": "BOW",
+      "mark": "9:12.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1981,
+      "classification": "A",
+      "name": "Dan Mangun",
+      "school": "NHG",
+      "mark": "9:39.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1981,
+      "classification": "B",
+      "name": "Danny Intile",
+      "school": "SHE",
+      "mark": "9:35.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1981,
+      "classification": "C",
+      "name": "Brian Shell",
+      "school": "HVT",
+      "mark": "9:52.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Brian Russo",
+      "school": "DUL",
+      "mark": "9:19.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1982,
+      "classification": "A",
+      "name": "Rob Hovermale",
+      "school": "NHG",
+      "mark": "9:34.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1982,
+      "classification": "B",
+      "name": "Camp",
+      "school": "CWW",
+      "mark": "9:29.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1982,
+      "classification": "C",
+      "name": "Tony Lewis",
+      "school": "MID",
+      "mark": "9:33.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Steve Kartalia",
+      "school": "WES",
+      "mark": "9:28.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1983,
+      "classification": "A",
+      "name": "Ken Sonner",
+      "school": "RMT",
+      "mark": "9:24.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1983,
+      "classification": "B",
+      "name": "Charles Cole",
+      "school": "CHO",
+      "mark": "9:44.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1983,
+      "classification": "C",
+      "name": "Rodney Young",
+      "school": "HAM",
+      "mark": "9:57.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Kris Herdt",
+      "school": "WWH",
+      "mark": "9:25.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1984,
+      "classification": "A",
+      "name": "Kirk Young",
+      "school": "CEN",
+      "mark": "9:43.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1984,
+      "classification": "B",
+      "name": "Charles Cole",
+      "school": "CHO",
+      "mark": "9:22.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1984,
+      "classification": "C",
+      "name": "Troy Skidmore",
+      "school": "BEA",
+      "mark": "10:07.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Keith Swint",
+      "school": "LAR",
+      "mark": "9:37.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1985,
+      "classification": "A",
+      "name": "Kirk Young",
+      "school": "CEN",
+      "mark": "9:32.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1985,
+      "classification": "B",
+      "name": "Richard Williams",
+      "school": "WIC",
+      "mark": "9:50.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1985,
+      "classification": "C",
+      "name": "Kevin Farrell",
+      "school": "MID",
+      "mark": "10:14.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Duncan Manville",
+      "school": "BCC",
+      "mark": "9:18.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1986,
+      "classification": "A",
+      "name": "Lindsay DuVall",
+      "school": "TOW",
+      "mark": "9:31.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1986,
+      "classification": "B",
+      "name": "Richard Williams",
+      "school": "WIC",
+      "mark": "9:50.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1986,
+      "classification": "C",
+      "name": "Sean Aaron",
+      "school": "NDC",
+      "mark": "9:59.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Gary Sherman",
+      "school": "WWH",
+      "mark": "9:35.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1987,
+      "classification": "A",
+      "name": "Vernon Chavis",
+      "school": "PKV",
+      "mark": "9:44.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1987,
+      "classification": "B",
+      "name": "Greg Goodman",
+      "school": "LIB",
+      "mark": "9:46.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1987,
+      "classification": "C",
+      "name": "Tony Wolfe",
+      "school": "FSK",
+      "mark": "9:56.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Greg Early",
+      "school": "ELR",
+      "mark": "9:26.31"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1988,
+      "classification": "A",
+      "name": "Scott Frampton",
+      "school": "FRA",
+      "mark": "9:27.6-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1988,
+      "classification": "B",
+      "name": "Steve White",
+      "school": "CEN",
+      "mark": "9:49.0-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1988,
+      "classification": "C",
+      "name": "Scott Mower",
+      "school": "SMI",
+      "mark": "10:08.7-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Jeff Campbell",
+      "school": "RAN",
+      "mark": "9:23.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Reggie Johnson",
+      "school": "BLA",
+      "mark": "9:55.29"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Pat Rodriguez",
+      "school": "CTN",
+      "mark": "9:46.9-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Scott Mower",
+      "school": "SMI",
+      "mark": "9:40.13"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Dave Hickey",
+      "school": "SPB",
+      "mark": "9:42.1-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Pat Rodriguez",
+      "school": "CTN",
+      "mark": "9:32.3-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Matt Holthaus",
+      "school": "WLD",
+      "mark": "9:51.3-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Russell Adams",
+      "school": "BRN",
+      "mark": "9:57.4-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Troy Harry",
+      "school": "QOR",
+      "mark": "9:50.9-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Pat Rodriguez",
+      "school": "CTN",
+      "mark": "9:16.0-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Mark Amann",
+      "school": "ALL",
+      "mark": "9:42.7-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Mike Mamo",
+      "school": "MLM",
+      "mark": "9:43.07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Troy Harry",
+      "school": "QOR",
+      "mark": "9:39.7-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Pascal Dobert",
+      "school": "WWH",
+      "mark": "9:34.8-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Gerard Hogan",
+      "school": "GLG",
+      "mark": "9:42.6-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Mike Mamo",
+      "school": "MLM",
+      "mark": "9:39.4-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Troy Harry",
+      "school": "QOR",
+      "mark": "9:41.96"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Tim Billo",
+      "school": "WWH",
+      "mark": "9:38.87"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Edward Hogan",
+      "school": "GLG",
+      "mark": "9:43.60"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Bobby Souders",
+      "school": "HAN",
+      "mark": "10:13.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Geoff Warren",
+      "school": "ARU",
+      "mark": "9:47.4-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Josh Orenstein",
+      "school": "WAJ",
+      "mark": "9:32.6-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Jamie Davies",
+      "school": "CAT",
+      "mark": "9:45.4-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Faisal Hasan",
+      "school": "WLD",
+      "mark": "9:50.8-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Nick Gramsky",
+      "school": "NOC",
+      "mark": "9:40.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Mike French",
+      "school": "CTN",
+      "mark": "9:49.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Gregg Curtis",
+      "school": "OAK",
+      "mark": "9:41.20"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Faisal Hasan",
+      "school": "WLD",
+      "mark": "9:45.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Nick Gramsky",
+      "school": "NOC",
+      "mark": "9:29.18"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Eric Benjamin",
+      "school": "CMW",
+      "mark": "9:31.15"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Faisal Hasan",
+      "school": "WLD",
+      "mark": "9:43.57"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Paul Spurrier",
+      "school": "BRN",
+      "mark": "9:46.73"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Ed Tufaro",
+      "school": "WWH",
+      "mark": "9:45.88"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Jeff Olenick",
+      "school": "CTN",
+      "mark": "9:36.14"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Justin Taylor",
+      "school": "ALL",
+      "mark": "9:39.85"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Tim Mason",
+      "school": "CLS",
+      "mark": "9:49.50"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Victor Thillet",
+      "school": "OLD",
+      "mark": "9:36.9-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1998,
+      "classification": "3A",
+      "name": "David Glynn",
+      "school": "WAJ",
+      "mark": "9:44.9-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Jarrett Van Tine",
+      "school": "BCC",
+      "mark": "9:34.91"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Tim Mason",
+      "school": "CLS",
+      "mark": "9:44.6-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Jason Santucci",
+      "school": "WES",
+      "mark": "9:25.06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Shawn Day",
+      "school": "GTJ",
+      "mark": "9:31.99"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Gregory Saylor",
+      "school": "WLK",
+      "mark": "9:37.46"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Francis Ciganek",
+      "school": "KTC",
+      "mark": "10:12.36"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Steve Hayes",
+      "school": "WCH",
+      "mark": "9:35.19"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Mike Styczynski",
+      "school": "RVH",
+      "mark": "9:31.60"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Greg Saylor",
+      "school": "WLK",
+      "mark": "9:46.82"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Zach Bittinger",
+      "school": "WMR",
+      "mark": "10:05.73"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Stephen Hayes",
+      "school": "WCH",
+      "mark": "9:22.2-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Will Christian",
+      "school": "GTM",
+      "mark": "9:14.9-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Brian Murphy",
+      "school": "URB",
+      "mark": "9:38.67"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Jon Goldsmith",
+      "school": "GLG",
+      "mark": "9:32.48"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Awit Yohannes",
+      "school": "CZM",
+      "mark": "9:45.37"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Matt Sanders",
+      "school": "MTH",
+      "mark": "9:40.09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Ryan Cartwright",
+      "school": "EVT",
+      "mark": "9:47.88"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Izudin Mehmedivic",
+      "school": "OAK",
+      "mark": "9:46.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Eric Pauley",
+      "school": "GAI",
+      "mark": "9:24.04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Kurt Kuehne",
+      "school": "URB",
+      "mark": "8:31.78"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Justin Myers",
+      "school": "MID",
+      "mark": "9:42.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Jordan Davis",
+      "school": "ALL",
+      "mark": "9:34.04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Zach Martinez",
+      "school": "GAI",
+      "mark": "9:34.97"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Will Eden",
+      "school": "ANN",
+      "mark": "9:35.01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Hemagiri Arumugam",
+      "school": "NHG",
+      "mark": "10:04.0-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Dan DeWitt",
+      "school": "BEA",
+      "mark": "9:59.4-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Andrew Jesien",
+      "school": "WAJ",
+      "mark": "9:19.84"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Dan Bailey",
+      "school": "CMW",
+      "mark": "9:35.97"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Hemagiri Arumugam",
+      "school": "NHG",
+      "mark": "9:50.45"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Daniel Dewitt",
+      "school": "BEA",
+      "mark": "9:58.25"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Matt Centrowitz",
+      "school": "BDN",
+      "mark": "9:13.68"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Elias Tousley",
+      "school": "BCC",
+      "mark": "9:37.72"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Joey Thompson",
+      "school": "HOW",
+      "mark": "9:23.10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Mohamed Khelalfa",
+      "school": "FTH",
+      "mark": "9:46.90"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Neal Darmody",
+      "school": "QOR",
+      "mark": "9:25.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Elias Tousley",
+      "school": "BCC",
+      "mark": "9:26.89"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Joey Thompson",
+      "school": "HOW",
+      "mark": "9:19.90"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Dustin Adams",
+      "school": "CLS",
+      "mark": "9:52.35"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Solomon Haile",
+      "school": "SHE",
+      "mark": "9:06.13"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Graham Bazell",
+      "school": "ATH",
+      "mark": "9:18.69"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Luke Arbuckle",
+      "school": "ELK",
+      "mark": "9:40.30"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Chris Mills",
+      "school": "WTE",
+      "mark": "9:43.69"
+    }
+  ]
+}

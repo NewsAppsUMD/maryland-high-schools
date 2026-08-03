@@ -1,0 +1,805 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      31
+    ],
+    "extracted_at": "2026-08-02T03:53:51Z"
+  },
+  "rows": [
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1975,
+      "classification": "All Classes",
+      "name": "John Olson",
+      "school": "Bowie",
+      "mark": "6-7, 7-6, 7-6"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1975,
+      "classification": "All Classes",
+      "name": "Ken Lerch & Paul Belanger",
+      "school": "Bowie",
+      "mark": "7-6, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1976,
+      "classification": "All Classes",
+      "name": "Steve Epstein",
+      "school": "Whitman",
+      "mark": "6-2, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1976,
+      "classification": "All Classes",
+      "name": "Kevin Lerch & Paul Belanger",
+      "school": "Bowie",
+      "mark": "7-6, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1977,
+      "classification": "All Classes",
+      "name": "John Graybeal",
+      "school": "Bel Air",
+      "mark": "6-3, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1977,
+      "classification": "All Classes",
+      "name": "Greg Stephanides & Paul Smith",
+      "school": "JM Bennett",
+      "mark": "6-3, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1978,
+      "classification": "All Classes",
+      "name": "John Albert",
+      "school": "Churchill",
+      "mark": "6-3, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1978,
+      "classification": "All Classes",
+      "name": "Jack Dowle & Andy New",
+      "school": "Churchill",
+      "mark": "6-1, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1979,
+      "classification": "All Classes",
+      "name": "George Myers",
+      "school": "Bethesda-CC",
+      "mark": "6-4, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1979,
+      "classification": "All Classes",
+      "name": "Jack Dowle & Dave Perimutter",
+      "school": "Churchill",
+      "mark": "7-6, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1980,
+      "classification": "All Classes",
+      "name": "Andy New",
+      "school": "Churchill",
+      "mark": "6-2, 6-7, 5-5 (retired)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1980,
+      "classification": "All Classes",
+      "name": "Jay Metzler & Paul Grief",
+      "school": "Churchill",
+      "mark": "6-4, 7-6"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1981,
+      "classification": "All Classes",
+      "name": "Kevin Lubbers",
+      "school": "Bethesda-CC",
+      "mark": "6-2, 3-6, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1981,
+      "classification": "All Classes",
+      "name": "Todd Hall & Frank Bender",
+      "school": "Annapolis",
+      "mark": "6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1982,
+      "classification": "All Classes",
+      "name": "Scott McTeer",
+      "school": "Severna Park",
+      "mark": "6-2, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1982,
+      "classification": "All Classes",
+      "name": "John Corn & Brian Schwartz",
+      "school": "Churchill",
+      "mark": "4-6, 7-6, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1983,
+      "classification": "All Classes",
+      "name": "Tom Bender",
+      "school": "Dulaney",
+      "mark": "7-6, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1983,
+      "classification": "All Classes",
+      "name": "Bryan Kay & Geoff Cogan",
+      "school": "Whitman",
+      "mark": "6-7, 6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1984,
+      "classification": "All Classes",
+      "name": "Billy Schief",
+      "school": "Whitman",
+      "mark": "6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1984,
+      "classification": "All Classes",
+      "name": "Hugh Lynch & Andy Sohn",
+      "school": "Churchill",
+      "mark": "6-2, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1985,
+      "classification": "All Classes",
+      "name": "Steve Miguel",
+      "school": "North Hagerstown",
+      "mark": "6-4, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1985,
+      "classification": "All Classes",
+      "name": "Vince Lascosas & Jeremy Loomis",
+      "school": "Wilde Lake",
+      "mark": "6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1986,
+      "classification": "All Classes",
+      "name": "Danny Cantwell",
+      "school": "Parkside",
+      "mark": "1-6, 7-5, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1986,
+      "classification": "All Classes",
+      "name": "Larry Johnson & David Scott",
+      "school": "Einstein",
+      "mark": "6-2, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1987,
+      "classification": "All Classes",
+      "name": "Danny Cantwell",
+      "school": "Parkside",
+      "mark": "6-4, 5-7, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1987,
+      "classification": "All Classes",
+      "name": "Sam Shelburne & Andy Mathis",
+      "school": "Whitman",
+      "mark": "6-1, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1988,
+      "classification": "All Classes",
+      "name": "Scott Corey",
+      "school": "Annapolis",
+      "mark": "4-6, 6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1988,
+      "classification": "All Classes",
+      "name": "Sam Shelburne & Brian Nunn",
+      "school": "Whitman",
+      "mark": "6-2, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1989,
+      "classification": "All Classes",
+      "name": "Andy Mathis",
+      "school": "Whitman",
+      "mark": "5-7, 6-1, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1989,
+      "classification": "All Classes",
+      "name": "Sam Shelburne & Todd Wincup",
+      "school": "Whitman",
+      "mark": "3-6, 6-0, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1990,
+      "classification": "All Classes",
+      "name": "Andy Mathis",
+      "school": "Whitman",
+      "mark": "7-5, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1990,
+      "classification": "All Classes",
+      "name": "Felix Nacson & Josh Barr",
+      "school": "Springbrook",
+      "mark": "6-2, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1991,
+      "classification": "All Classes",
+      "name": "Neil Maurer",
+      "school": "Parkside",
+      "mark": "7-5, 1-6, 7-6 (7-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1991,
+      "classification": "All Classes",
+      "name": "Brent Layman & Phil White",
+      "school": "Old Mill",
+      "mark": "0-6, 6-1, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1992,
+      "classification": "All Classes",
+      "name": "Hyan Yoo",
+      "school": "Wheaton",
+      "mark": "6-3, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1992,
+      "classification": "All Classes",
+      "name": "Phil White & Matt Pharr",
+      "school": "Old Mill",
+      "mark": "5-7, 6-3, 7-6 (7-6)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1993,
+      "classification": "All Classes",
+      "name": "Hyan Yoo",
+      "school": "Wheaton",
+      "mark": "6-2, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1993,
+      "classification": "All Classes",
+      "name": "James Legat & Lucas Lipinski",
+      "school": "Whitman",
+      "mark": "4-6, 6-4, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1994,
+      "classification": "All Classes",
+      "name": "Dale Cathell",
+      "school": "Stephen Decatur",
+      "mark": "6-1, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1994,
+      "classification": "All Classes",
+      "name": "Matt Brown & Larry Cho",
+      "school": "Churchill",
+      "mark": "6-2, 7-6 (9-7)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1995,
+      "classification": "All Classes",
+      "name": "Marc Dorfman",
+      "school": "Wootton",
+      "mark": "6-3, 2-6, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1995,
+      "classification": "All Classes",
+      "name": "Andrew Carlson & Florian Jung",
+      "school": "Arundel",
+      "mark": "6-3, 4-6, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1996,
+      "classification": "All Classes",
+      "name": "Derrick Nguyen",
+      "school": "Quince Orchard",
+      "mark": "6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1996,
+      "classification": "All Classes",
+      "name": "Chris Zielinski & Greg Zielinski",
+      "school": "Stephen Decatur",
+      "mark": "6-4, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1997,
+      "classification": "All Classes",
+      "name": "Greg Zielinski",
+      "school": "Stephen Decatur",
+      "mark": "6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1997,
+      "classification": "All Classes",
+      "name": "Howie Edelstein & Matt Hanna",
+      "school": "South River",
+      "mark": "6-2, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1998,
+      "classification": "All Classes",
+      "name": "Chris Zielinski",
+      "school": "Stephen Decatur",
+      "mark": "6-1, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1998,
+      "classification": "All Classes",
+      "name": "Don Nguyen & Brian Wu",
+      "school": "Wootton",
+      "mark": "6-7, 7-5, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 1999,
+      "classification": "All Classes",
+      "name": "Chris Brown",
+      "school": "Churchill",
+      "mark": "6-2, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 1999,
+      "classification": "All Classes",
+      "name": "Daniel Min & Russell Bryan",
+      "school": "Springbrook",
+      "mark": "6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2000,
+      "classification": "All Classes",
+      "name": "Troy Demers",
+      "school": "Annapolis",
+      "mark": "6-4, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2000,
+      "classification": "All Classes",
+      "name": "Tim Dorman & Mark Groch",
+      "school": "Cambridge-SD",
+      "mark": "7-5, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2001,
+      "classification": "All Classes",
+      "name": "Jason Pinsky",
+      "school": "Churchill",
+      "mark": "6-3, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2001,
+      "classification": "All Classes",
+      "name": "Shaul Yecheksel & Tim Visser",
+      "school": "Bethesda-CC",
+      "mark": "6-3, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2002,
+      "classification": "All Classes",
+      "name": "Jake Benzel",
+      "school": "Franklin",
+      "mark": "6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2002,
+      "classification": "All Classes",
+      "name": "Krishna Potarazu & Victor Ng",
+      "school": "Wootton",
+      "mark": "6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2003,
+      "classification": "All Classes",
+      "name": "Mike Goodwin",
+      "school": "Richard Montgomery",
+      "mark": "6-4, 7-6 (7-4)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2003,
+      "classification": "All Classes",
+      "name": "Brendan Kincaid & Yusuf Shariff",
+      "school": "Cambridge/SD",
+      "mark": "6-2, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2004,
+      "classification": "All Classes",
+      "name": "Jared Pinsky",
+      "school": "Churchill",
+      "mark": "6-4, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2004,
+      "classification": "All Classes",
+      "name": "Jeffrey Luse & Nima Ossareh",
+      "school": "Whitman",
+      "mark": "0-6, 6-2, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2005,
+      "classification": "All Classes",
+      "name": "Jared Pinsky",
+      "school": "Churchill",
+      "mark": "6-3, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2005,
+      "classification": "All Classes",
+      "name": "Jeffrey Luse & Dan Stahl",
+      "school": "Whitman",
+      "mark": "7-5, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2006,
+      "classification": "All Classes",
+      "name": "David Nguyen",
+      "school": "Wilde Lake",
+      "mark": "6-3, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2006,
+      "classification": "All Classes",
+      "name": "Andrew Marcus & Felix Sun",
+      "school": "Churchill",
+      "mark": "6-2, 4-6, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2007,
+      "classification": "All Classes",
+      "name": "Jared Pinsky",
+      "school": "Churchill",
+      "mark": "6-1, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2007,
+      "classification": "All Classes",
+      "name": "Andrew Marcus & Felix Sun",
+      "school": "Churchill",
+      "mark": "6-1, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2008,
+      "classification": "All Classes",
+      "name": "Chris Goodwin",
+      "school": "Rockville",
+      "mark": "6-1, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2008,
+      "classification": "All Classes",
+      "name": "Kirby Mayo & Ian Epperson",
+      "school": "Walt Whitman",
+      "mark": "6-4, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2009,
+      "classification": "All Classes",
+      "name": "Timothy Klanke",
+      "school": "Walt Whitman",
+      "mark": "1-6, 7-5, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2009,
+      "classification": "All Classes",
+      "name": "Kevin Chu & Abdoulaye Camara",
+      "school": "Winston Churchill",
+      "mark": "6-2, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2010,
+      "classification": "All Classes",
+      "name": "Michael Razumovsky",
+      "school": "Pikesville",
+      "mark": "6-3, 7-6 (7-5)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2010,
+      "classification": "All Classes",
+      "name": "Mateo Cevallos & Alex Hahn",
+      "school": "Thomas Wootton",
+      "mark": "7-6 (7-4), 3-6, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2011,
+      "classification": "All Classes",
+      "name": "Kevin Chu",
+      "school": "Winston Churchill",
+      "mark": "6-2, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2011,
+      "classification": "All Classes",
+      "name": "Sean Ngo & Aries Wong",
+      "school": "Walt Whitman",
+      "mark": "6-4, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2012,
+      "classification": "All Classes",
+      "name": "Mateo Cevalles",
+      "school": "Thomas Wootton",
+      "mark": "7-5, 6-7 (2-7), 3-3 (retire)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2012,
+      "classification": "All Classes",
+      "name": "Sean Ngo & Aries Wong",
+      "school": "Walt Whitman",
+      "mark": "6-4, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2013,
+      "classification": "All Classes",
+      "name": "Biyik Akinshemoyin",
+      "school": "Reservoir",
+      "mark": "6-2, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2013,
+      "classification": "All Classes",
+      "name": "Gabriel Fan & Titas Bera",
+      "school": "Thomas Wootton",
+      "mark": "6-1, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2014,
+      "classification": "All Classes",
+      "name": "Aries Wong",
+      "school": "Walt Whitman",
+      "mark": "6-1, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2014,
+      "classification": "All Classes",
+      "name": "Nicholas Zhu & Prateek Swamykumar",
+      "school": "River Hill",
+      "mark": "7-6 (7-4), 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2015,
+      "classification": "All Classes",
+      "name": "Alex Caunec",
+      "school": "Severna Park",
+      "mark": "2-6, 6-1, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2015,
+      "classification": "All Classes",
+      "name": "Luke Blackman & Eric Dubrow",
+      "school": "Bethesda-CC",
+      "mark": "7-6 [7-2}, 5-7, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2016,
+      "classification": "All Classes",
+      "name": "Joseph Brailovsky",
+      "school": "Thomas Wootton",
+      "mark": "6-2, 3-6, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2016,
+      "classification": "All Classes",
+      "name": "Jack Welch & Andrew Leung",
+      "school": "Walt Whitman",
+      "mark": "6-2, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2017,
+      "classification": "All Classes",
+      "name": "Joseph Brailovsky",
+      "school": "Thomas Wootton",
+      "mark": "6-4, 7-6 (4)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2017,
+      "classification": "All Classes",
+      "name": "William Karpinski & Michael Chen",
+      "school": "Winston Churchill",
+      "mark": "6-3, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2018,
+      "classification": "All Classes",
+      "name": "Joseph Brailovsky",
+      "school": "Thomas Wootton",
+      "mark": "6-0, 7-6 (9-8)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2018,
+      "classification": "All Classes",
+      "name": "Justin Song & Arno Babcock",
+      "school": "Richard Montgomery",
+      "mark": "4-6, 6-3, 6-4"
+    }
+  ]
+}

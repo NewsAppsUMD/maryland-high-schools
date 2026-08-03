@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "extractor": "stat_records",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Winter record book.pdf",
+    "source_pages": [
+      7
+    ],
+    "extracted_at": "2026-08-02T22:48:13Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Basketball",
+      "category": "individual",
+      "record": "Most Points - semifinal game",
+      "value": "49",
+      "holder": "Tammy Joy",
+      "school": "Catoctin",
+      "year": "1986",
+      "co_holder": false,
+      "notes": null
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "individual",
+      "record": "Most Points - final game",
+      "value": "48",
+      "holder": "Janet Flora",
+      "school": "Loch Raven",
+      "year": "1976",
+      "co_holder": false,
+      "notes": null
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "individual",
+      "record": "Most Points - two games",
+      "value": "76",
+      "holder": "Makayla Daniels",
+      "school": "Frederick",
+      "year": "2017",
+      "co_holder": false,
+      "notes": "29 - Sf vs. Oxon Hill, 47 - F vs. Atholton"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "individual",
+      "record": "Most Field Goals - one game",
+      "value": "22",
+      "holder": "Janet Flora",
+      "school": "Loch Raven",
+      "year": "1976",
+      "co_holder": false,
+      "notes": null
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "individual",
+      "record": "Most Free Throws Made - one game",
+      "value": "20/26",
+      "holder": "Ny'Ceara Pryor",
+      "school": "Western",
+      "year": "2022",
+      "co_holder": false,
+      "notes": "vs. Clarksburg, F"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "individual",
+      "record": "Free Throw Percentage - one game (min. 15 attempts)",
+      "value": "1.000, 18/18",
+      "holder": "Alexandra McGuire",
+      "school": "Arundel",
+      "year": "2004",
+      "co_holder": false,
+      "notes": "vs. Woodlawn, F"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "individual",
+      "record": "Most 3-Point Field Goals - one game",
+      "value": "7",
+      "holder": "Tia Jackson",
+      "school": "Mardela",
+      "year": "1990",
+      "co_holder": false,
+      "notes": "vs. Westmar, Sf"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "individual",
+      "record": "Most 3-Point Field Goals - two games",
+      "value": "9",
+      "holder": "Mandakova Clark",
+      "school": "Milford Mill",
+      "year": "2000",
+      "co_holder": false,
+      "notes": "6 - Sf vs. Thomas Stone, 3 - F vs. DuVal"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "team",
+      "record": "Most Points - one game",
+      "value": "87",
+      "holder": "Mt. Hebron",
+      "school": "Mt. Hebron",
+      "year": "1988",
+      "co_holder": true,
+      "notes": "vs. Gwynn Park (44), F"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "team",
+      "record": "Most Points - one game",
+      "value": "87",
+      "holder": "Arundel",
+      "school": "Arundel",
+      "year": "2004",
+      "co_holder": true,
+      "notes": "vs. Woodlawn (64), F"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "team",
+      "record": "Most Points - two games",
+      "value": "152",
+      "holder": "Forestville",
+      "school": "Forestville",
+      "year": "2016",
+      "co_holder": false,
+      "notes": "81 - Sf vs. Forest Park, 71 - F vs. Southern-G"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "team",
+      "record": "Most Points - both teams",
+      "value": "151",
+      "holder": "Arundel vs. Woodlawn",
+      "school": "Arundel",
+      "year": "2004",
+      "co_holder": false,
+      "notes": "Arundel (87) vs. Woodlawn (64), F"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "team",
+      "record": "Most Points - losing team",
+      "value": "71",
+      "holder": "Aberdeen",
+      "school": "Aberdeen",
+      "year": "2011",
+      "co_holder": false,
+      "notes": "vs. Frederick (76), F"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "team",
+      "record": "Most Points - one quarter",
+      "value": "32",
+      "holder": "Brooklyn Park",
+      "school": "Brooklyn Park",
+      "year": "1990",
+      "co_holder": false,
+      "notes": "vs. Havre de Grace, Sf"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "team",
+      "record": "Least Points - winning team",
+      "value": "32",
+      "holder": "Sherwood",
+      "school": "Sherwood",
+      "year": "1976",
+      "co_holder": false,
+      "notes": "vs. Kent, Sf"
+    },
+    {
+      "sport": "Girls Basketball",
+      "category": "team",
+      "record": "Least Points - both teams",
+      "value": "55",
+      "holder": "Williamsport vs. Fallston",
+      "school": null,
+      "year": "1992",
+      "co_holder": false,
+      "notes": "Williamsport (34) vs. Fallston (21), F"
+    }
+  ]
+}

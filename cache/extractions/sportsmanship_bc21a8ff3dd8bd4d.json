@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "extractor": "sportsmanship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      77
+    ],
+    "extracted_at": "2026-08-02T05:29:51Z"
+  },
+  "rows": [
+    {
+      "sport": "Volleyball",
+      "year": 1998,
+      "classification": null,
+      "school": "Centennial"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 1999,
+      "classification": null,
+      "school": "Northern-Cal"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2000,
+      "classification": null,
+      "school": "Fallston"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2001,
+      "classification": null,
+      "school": "Gaithersburg"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2002,
+      "classification": null,
+      "school": "James M. Bennett"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2003,
+      "classification": null,
+      "school": "Towson"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2004,
+      "classification": null,
+      "school": "Rising Sun"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2005,
+      "classification": null,
+      "school": "Rising Sun"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2006,
+      "classification": null,
+      "school": "Catonsville"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2007,
+      "classification": null,
+      "school": "Thomas S. Wootton"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2008,
+      "classification": null,
+      "school": "River Hill"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2009,
+      "classification": null,
+      "school": "Catoctin"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2010,
+      "classification": null,
+      "school": "Colonel Richardson"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2011,
+      "classification": null,
+      "school": "La Plata"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2012,
+      "classification": null,
+      "school": "Eleanor Roosevelt"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2013,
+      "classification": null,
+      "school": "High Point"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2014,
+      "classification": null,
+      "school": "Severna Park"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2015,
+      "classification": null,
+      "school": "Towson"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2016,
+      "classification": null,
+      "school": "Bowie"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2017,
+      "classification": null,
+      "school": "Smithsburg"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2018,
+      "classification": null,
+      "school": "Western STES"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2019,
+      "classification": null,
+      "school": "Arundel"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2021,
+      "classification": null,
+      "school": "Mountain Ridge"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2022,
+      "classification": null,
+      "school": "Liberty"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2023,
+      "classification": null,
+      "school": "North Hagerstown"
+    },
+    {
+      "sport": "Volleyball",
+      "year": 2024,
+      "classification": null,
+      "school": "Richard Montgomery"
+    }
+  ]
+}

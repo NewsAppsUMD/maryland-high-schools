@@ -1,0 +1,2012 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      83
+    ],
+    "extracted_at": "2026-08-02T20:56:34Z",
+    "manual_correction": "Rows recovered from prior cache extraction (orphan); fresh LLM call had dropped these events on this page: ['440 Yard Relay']"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Justin Davis",
+      "school": "SPB",
+      "mark": "37.50"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Douglas O'Neill",
+      "school": "SEV",
+      "mark": "41.25"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1994,
+      "classification": "2A",
+      "name": "James Evans",
+      "school": "CHO",
+      "mark": "39.85"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Jeff Spaeth",
+      "school": "SMI",
+      "mark": "40.89"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Jason Pannell",
+      "school": "MVT",
+      "mark": "38.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1995,
+      "classification": "3A",
+      "name": "James Simms",
+      "school": "SEV",
+      "mark": "39.85"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Jonathan Smelson",
+      "school": "DAM",
+      "mark": "39.64"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Derrick Anderson",
+      "school": "MLM",
+      "mark": "40.95"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Toney Fowlkes",
+      "school": "NCT",
+      "mark": "37.72"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Zack Adams",
+      "school": "CZM",
+      "mark": "38.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Kyle Walker",
+      "school": "OAK",
+      "mark": "39.91"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Joe Cronise",
+      "school": "BOO",
+      "mark": "40.26"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Paul Gallup",
+      "school": "WWH",
+      "mark": "39.18"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Zack Adams",
+      "school": "CZM",
+      "mark": "38.13"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Brett Embrey",
+      "school": "MID",
+      "mark": "39.82"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Paul Ledebur",
+      "school": "HVT",
+      "mark": "40.64"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1998,
+      "classification": "4A",
+      "name": "James Graham",
+      "school": "NWE",
+      "mark": "38.02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Joel Brown",
+      "school": "WOO",
+      "mark": "37.33"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Jon Shields",
+      "school": "RAN",
+      "mark": "38.10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Richard Bright",
+      "school": "HAM",
+      "mark": "41.29"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1999,
+      "classification": "4A",
+      "name": "James Graham",
+      "school": "NWE",
+      "mark": "36.51"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Joel Brown",
+      "school": "WOO",
+      "mark": "39.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Jerod Void",
+      "school": "SUR",
+      "mark": "39.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Evan Cohn",
+      "school": "BHM",
+      "mark": "39.72"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Jared Craig",
+      "school": "WES",
+      "mark": "38.84"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Tommy Fitzgerald",
+      "school": "GTJ",
+      "mark": "39.61"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Jerod Void",
+      "school": "SUR",
+      "mark": "38.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Brandon Hammond",
+      "school": "CHH",
+      "mark": "40.57"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Bernard Quinton",
+      "school": "SUI",
+      "mark": "38.73"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Pat Martin",
+      "school": "PTX",
+      "mark": "39.56"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Jerod Void",
+      "school": "SUR",
+      "mark": "38.44"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Brett Morrell",
+      "school": "BOO",
+      "mark": "40.45"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Deyon Williams",
+      "school": "SUI",
+      "mark": "38.43"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Larry Hawkins",
+      "school": "GWP",
+      "mark": "39.77"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2002,
+      "classification": "2A",
+      "name": "David Rollins",
+      "school": "ABE",
+      "mark": "39.66"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Brett Morrell",
+      "school": "BOO",
+      "mark": "39.17"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Ronnie Beard",
+      "school": "FRE",
+      "mark": "37.94"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Adam Durham",
+      "school": "PBR",
+      "mark": "38.70"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Andrew Peresta",
+      "school": "SOA",
+      "mark": "37.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Brett Morrell",
+      "school": "BOO",
+      "mark": "39.02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Bryan Jones",
+      "school": "ARU",
+      "mark": "38.45"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Quenton Beard",
+      "school": "FRE",
+      "mark": "39.27"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Jack Hutchison",
+      "school": "KTI",
+      "mark": "39.89"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Lamar Claxton",
+      "school": "HDG",
+      "mark": "40.54"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Anthony Simmons",
+      "school": "OXH",
+      "mark": "38.23"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Andrew Simpson",
+      "school": "MLM",
+      "mark": "38.52"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Jack Hutchison",
+      "school": "KTI",
+      "mark": "39.42"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Nick Maxim",
+      "school": "NOG",
+      "mark": "39.66-wind"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Antwan Farmer",
+      "school": "OXH",
+      "mark": "37.90"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Chris McIntosh",
+      "school": "FRA",
+      "mark": "38.92"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Jack Hutchison",
+      "school": "KTI",
+      "mark": "40.42"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Derek Martin",
+      "school": "SMI",
+      "mark": "39.00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Ernest Cooper",
+      "school": "HWI",
+      "mark": "38.87"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Zach Ray",
+      "school": "HUN",
+      "mark": "38.84"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Quentin James",
+      "school": "RES",
+      "mark": "38.81"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Justin Thomas",
+      "school": "DGH",
+      "mark": "39.75"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Leslie Murray",
+      "school": "HPT",
+      "mark": "37.45"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Zach Ray",
+      "school": "HUN",
+      "mark": "38.97"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Jon Flesher",
+      "school": "LCR",
+      "mark": "39.33"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Jermol Dix",
+      "school": "WTE",
+      "mark": "40.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Marquis Woodyard",
+      "school": "GTJ",
+      "mark": "38.69"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Robert Moore",
+      "school": "LAR",
+      "mark": "39.50"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Mark Davis",
+      "school": "CEN",
+      "mark": "39.57"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Anthony Kizer",
+      "school": "WTE",
+      "mark": "39.32"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Marquis Woodyard",
+      "school": "GTJ",
+      "mark": "38.62"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Javar Cruz",
+      "school": "FRE",
+      "mark": "38.16"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2010,
+      "classification": "2A",
+      "name": "George Flaujamo",
+      "school": "DGH",
+      "mark": "38.66"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Aaron Dove",
+      "school": "CVT",
+      "mark": "39.90"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Richard Newman",
+      "school": "GTJ",
+      "mark": "38.79"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Dondre Echols",
+      "school": "POT",
+      "mark": "37.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Julian Woods",
+      "school": "CNT",
+      "mark": "38.94"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Cody Richardson",
+      "school": "PEV",
+      "mark": "39.01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Malcolm Sykes",
+      "school": "CHF",
+      "mark": "38.42"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Dondre Echols",
+      "school": "POT",
+      "mark": "36.26"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Julian Woods",
+      "school": "CNT",
+      "mark": "38.44"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Luke Campbell",
+      "school": "BRN",
+      "mark": "39.22"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Ahmad Abram",
+      "school": "MEA",
+      "mark": "38.92"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Marcus Foster",
+      "school": "TUS",
+      "mark": "40.55"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Julian Woods",
+      "school": "CNT",
+      "mark": "39.08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Nick Seabright",
+      "school": "BOO",
+      "mark": "41.23"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Alan Banks",
+      "school": "TSW",
+      "mark": "38.57"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Robert Carter",
+      "school": "LGR",
+      "mark": "37.74"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Jamal Cody",
+      "school": "HER",
+      "mark": "39.34"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Daniel Lewis",
+      "school": "PIK",
+      "mark": "40.89"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Edward Anderson",
+      "school": "CHF",
+      "mark": "38.66"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Robert Miller",
+      "school": "CTY",
+      "mark": "38.15"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Jamal Cody",
+      "school": "HER",
+      "mark": "37.93"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Brady Bittinger",
+      "school": "NOG",
+      "mark": "39.65"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Shyheim Wright",
+      "school": "NWM",
+      "mark": "37.28"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Robert Miller",
+      "school": "CTY",
+      "mark": "38.28"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Kollin Smith",
+      "school": "FRD",
+      "mark": "38.82"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Michale Reyes",
+      "school": "FAH",
+      "mark": "40.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Stephon Torrence",
+      "school": "DGH",
+      "mark": "38.19"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Daniel George",
+      "school": "OXH",
+      "mark": "37.98"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Kollin Smith",
+      "school": "FRD",
+      "mark": "39.04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Adam Burlimann",
+      "school": "BOO",
+      "mark": "40.28"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Adetomiwa Adebayo",
+      "school": "DUV",
+      "mark": "38.58"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Daniel George",
+      "school": "OXH",
+      "mark": "38.81"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Haran Nadarajah",
+      "school": "OAD",
+      "mark": "39.77"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Aaron Hackett",
+      "school": "LAR",
+      "mark": "39.16"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Zachary Jones",
+      "school": "GAI",
+      "mark": "38.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Zackary Sampson",
+      "school": "OXH",
+      "mark": "38.92"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Blake Walton",
+      "school": "EAS",
+      "mark": "38.91"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Kyle Noll",
+      "school": "CRI",
+      "mark": "39.49"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Vaughn DeVaughn III",
+      "school": "MVT",
+      "mark": "39.14"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Isiah Rucker",
+      "school": "OAK",
+      "mark": "39.74"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Edwin Hall",
+      "school": "LAC",
+      "mark": "39.73"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Aiden Schwab",
+      "school": "SOG",
+      "mark": "40.47"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Vaughn DeVaughn III",
+      "school": "MVT",
+      "mark": "38.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Ragiariki Lewis",
+      "school": "NOC",
+      "mark": "39.17"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Kanye Holland",
+      "school": "OAK",
+      "mark": "38.07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Jaden Shelton",
+      "school": "MAR",
+      "mark": "39.31"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Roberto Terrell Jr.",
+      "school": "QOR",
+      "mark": "38.54"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Domenion Jacobs",
+      "school": "HUN",
+      "mark": "37.87"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Abdur Hassan",
+      "school": "OAK",
+      "mark": "38.97"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Tori Willis",
+      "school": "CSD",
+      "mark": "39.33"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Justin DeVaughn",
+      "school": "MVT",
+      "mark": "38.75"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Gabriel Murray",
+      "school": "OAK",
+      "mark": "37.91"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Justin Febles",
+      "school": "HVT",
+      "mark": "39.08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Tori Willis, Jr.",
+      "school": "CSD",
+      "mark": "38.68"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Jayden Apenteng",
+      "school": "NWD",
+      "mark": "37.17"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Gabriel Murray",
+      "school": "OAK",
+      "mark": "37.10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Khory Reevey",
+      "school": "HVT",
+      "mark": "36.75"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Tori Willis, Jr.",
+      "school": "CSD",
+      "mark": "36.99"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1952,
+      "classification": "A",
+      "name": null,
+      "school": "Towson",
+      "mark": "46.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1952,
+      "classification": "B",
+      "name": null,
+      "school": "Easton",
+      "mark": "46.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1952,
+      "classification": "C",
+      "name": null,
+      "school": "Hampstead",
+      "mark": "51.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1953,
+      "classification": "A",
+      "name": null,
+      "school": "Towson",
+      "mark": "44.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1954,
+      "classification": "A",
+      "name": null,
+      "school": "Northwestern-PG",
+      "mark": "45.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1954,
+      "classification": "B",
+      "name": null,
+      "school": "Centreville",
+      "mark": "48.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1954,
+      "classification": "C",
+      "name": null,
+      "school": "Washington",
+      "mark": "48.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1955,
+      "classification": "A",
+      "name": null,
+      "school": "Bethesda-CC",
+      "mark": "45.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1955,
+      "classification": "B",
+      "name": null,
+      "school": "Oxon Hill",
+      "mark": "46.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1955,
+      "classification": "C",
+      "name": null,
+      "school": "Brunswick",
+      "mark": "46.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1956,
+      "classification": "A",
+      "name": null,
+      "school": "Montgomery Blair",
+      "mark": "45.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1956,
+      "classification": "B",
+      "name": null,
+      "school": "Oxon Hill",
+      "mark": "45.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1956,
+      "classification": "C",
+      "name": null,
+      "school": "Washington",
+      "mark": "48.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1957,
+      "classification": "A",
+      "name": null,
+      "school": "Northwestern-PG",
+      "mark": "46.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1957,
+      "classification": "B",
+      "name": null,
+      "school": "Oxon Hill",
+      "mark": "46.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1957,
+      "classification": "C",
+      "name": null,
+      "school": "Centreville",
+      "mark": "47.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1958,
+      "classification": "A",
+      "name": null,
+      "school": "Douglass-PG",
+      "mark": "44.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1958,
+      "classification": "C",
+      "name": null,
+      "school": "Washington",
+      "mark": "48.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1959,
+      "classification": "A",
+      "name": null,
+      "school": "Bethesda-CC",
+      "mark": "44.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1959,
+      "classification": "B",
+      "name": null,
+      "school": "North Carroll",
+      "mark": null
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1959,
+      "classification": "C",
+      "name": null,
+      "school": "Centreville",
+      "mark": "46.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1960,
+      "classification": "A",
+      "name": "(Tie) North Hagerstown/Suitland",
+      "school": "North Hagerstown/Suitland",
+      "mark": "47.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1960,
+      "classification": "B",
+      "name": null,
+      "school": "Somerset",
+      "mark": "44.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1960,
+      "classification": "C",
+      "name": null,
+      "school": "Havre de Grace",
+      "mark": "45.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1961,
+      "classification": "A",
+      "name": null,
+      "school": "Bel Air",
+      "mark": "45.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1961,
+      "classification": "AA",
+      "name": null,
+      "school": "Walter Johnson",
+      "mark": "44.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1961,
+      "classification": "B",
+      "name": null,
+      "school": "Sollers Point",
+      "mark": "45.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1961,
+      "classification": "C",
+      "name": null,
+      "school": "Havre de Grace",
+      "mark": "46.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1962,
+      "classification": "A",
+      "name": null,
+      "school": "Gaithersburg",
+      "mark": "45.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1962,
+      "classification": "AA",
+      "name": null,
+      "school": "Northwood",
+      "mark": "44.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1962,
+      "classification": "B",
+      "name": null,
+      "school": "Salisbury",
+      "mark": "45.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1962,
+      "classification": "C",
+      "name": null,
+      "school": "Poolesville",
+      "mark": "45.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1963,
+      "classification": "A",
+      "name": null,
+      "school": "Fort Hill",
+      "mark": "43.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1963,
+      "classification": "AA",
+      "name": null,
+      "school": "Bethesda C-C",
+      "mark": "44.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1963,
+      "classification": "B",
+      "name": null,
+      "school": "Douglass-PG",
+      "mark": "45.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1963,
+      "classification": "C",
+      "name": null,
+      "school": "Poolesville",
+      "mark": "45.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1964,
+      "classification": "A",
+      "name": null,
+      "school": "Gaithersburg",
+      "mark": "44.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1964,
+      "classification": "AA",
+      "name": null,
+      "school": "Du Val",
+      "mark": "44.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1964,
+      "classification": "B",
+      "name": null,
+      "school": "Somerset",
+      "mark": "45.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1964,
+      "classification": "C",
+      "name": null,
+      "school": "Central Consolidated",
+      "mark": "44.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1965,
+      "classification": "A",
+      "name": null,
+      "school": "Gaithersburg",
+      "mark": "44.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1965,
+      "classification": "AA",
+      "name": null,
+      "school": "Dundalk",
+      "mark": "43.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1966,
+      "classification": "A",
+      "name": null,
+      "school": "Gaithersburg",
+      "mark": "43.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1966,
+      "classification": "AA",
+      "name": null,
+      "school": "Bel Air",
+      "mark": "42.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1966,
+      "classification": "B",
+      "name": null,
+      "school": "North Dorchester",
+      "mark": "45.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1966,
+      "classification": "C",
+      "name": null,
+      "school": "Sollers Point",
+      "mark": "44.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1967,
+      "classification": "A",
+      "name": null,
+      "school": "Hereford",
+      "mark": "44.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1967,
+      "classification": "AA",
+      "name": null,
+      "school": "Richard Montgomery",
+      "mark": "43.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1967,
+      "classification": "B",
+      "name": null,
+      "school": "Maces Lane",
+      "mark": "44.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1967,
+      "classification": "C",
+      "name": null,
+      "school": "Garnett",
+      "mark": "44.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1968,
+      "classification": "A",
+      "name": null,
+      "school": "Frederick",
+      "mark": "44.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1968,
+      "classification": "AA",
+      "name": null,
+      "school": "Gaithersburg",
+      "mark": "43.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1968,
+      "classification": "B",
+      "name": null,
+      "school": "Hereford",
+      "mark": "44.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1968,
+      "classification": "C",
+      "name": null,
+      "school": "Poolesville",
+      "mark": "44.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1969,
+      "classification": "A",
+      "name": null,
+      "school": "Gaithersburg",
+      "mark": "42.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1969,
+      "classification": "AA",
+      "name": null,
+      "school": "High Point",
+      "mark": "43.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1969,
+      "classification": "B",
+      "name": null,
+      "school": "Glenelg",
+      "mark": "45.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1969,
+      "classification": "C",
+      "name": null,
+      "school": "Poolesville",
+      "mark": "43.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1970,
+      "classification": "A",
+      "name": null,
+      "school": "Fairmont Heights",
+      "mark": "44.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1970,
+      "classification": "AA",
+      "name": null,
+      "school": "Arundel",
+      "mark": "42.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1970,
+      "classification": "B",
+      "name": null,
+      "school": "Sherwood",
+      "mark": "44.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1970,
+      "classification": "C",
+      "name": null,
+      "school": "Gwynn Park",
+      "mark": "45.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1971,
+      "classification": "A",
+      "name": null,
+      "school": "Fairmont Heights",
+      "mark": "44.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1971,
+      "classification": "AA",
+      "name": null,
+      "school": "Arundel",
+      "mark": "43.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1971,
+      "classification": "B",
+      "name": null,
+      "school": "Sherwood",
+      "mark": "44.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1971,
+      "classification": "C",
+      "name": null,
+      "school": "Douglass-PG",
+      "mark": "44.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1972,
+      "classification": "A",
+      "name": null,
+      "school": "Calvert",
+      "mark": "42.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1972,
+      "classification": "AA",
+      "name": null,
+      "school": "Arundel",
+      "mark": "43.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1972,
+      "classification": "B",
+      "name": null,
+      "school": "Fairmont Heights",
+      "mark": "44.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1972,
+      "classification": "C",
+      "name": null,
+      "school": "Magruder",
+      "mark": "44.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1973,
+      "classification": "A",
+      "name": null,
+      "school": "Magruder",
+      "mark": "43.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1973,
+      "classification": "AA",
+      "name": null,
+      "school": "Arundel",
+      "mark": "43.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1973,
+      "classification": "B",
+      "name": null,
+      "school": "La Plata",
+      "mark": "43.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1973,
+      "classification": "C",
+      "name": null,
+      "school": "Linganore",
+      "mark": "45.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1974,
+      "classification": "A",
+      "name": null,
+      "school": "Thomas Johnson",
+      "mark": "43.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1974,
+      "classification": "AA",
+      "name": null,
+      "school": "Bowie",
+      "mark": "43.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1974,
+      "classification": "B",
+      "name": null,
+      "school": "Chopticon",
+      "mark": "44.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1974,
+      "classification": "C",
+      "name": null,
+      "school": "Gwynn Park",
+      "mark": "45.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1975,
+      "classification": "A",
+      "name": null,
+      "school": "Thomas Johnson",
+      "mark": "44.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1975,
+      "classification": "AA",
+      "name": null,
+      "school": "DuVal",
+      "mark": "43.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1975,
+      "classification": "B",
+      "name": null,
+      "school": "Atholton",
+      "mark": "43.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1975,
+      "classification": "C",
+      "name": null,
+      "school": "Oakland Mills",
+      "mark": "44.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1976,
+      "classification": "A",
+      "name": null,
+      "school": "Surrattsville",
+      "mark": "42.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1976,
+      "classification": "AA",
+      "name": null,
+      "school": "Bladensburg",
+      "mark": "42.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1976,
+      "classification": "B",
+      "name": null,
+      "school": "Paint Branch",
+      "mark": "43.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1976,
+      "classification": "C",
+      "name": null,
+      "school": "Smithsburg",
+      "mark": "45.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1977,
+      "classification": "A",
+      "name": null,
+      "school": "Surrattsville",
+      "mark": "42.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1977,
+      "classification": "AA",
+      "name": null,
+      "school": "Potomac",
+      "mark": "43.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1977,
+      "classification": "B",
+      "name": null,
+      "school": "Gwynn Park",
+      "mark": "43.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1977,
+      "classification": "C",
+      "name": null,
+      "school": "Smithsburg",
+      "mark": "44.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1978,
+      "classification": "A",
+      "name": null,
+      "school": "Eleanor Roosevelt",
+      "mark": "42.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1978,
+      "classification": "AA",
+      "name": null,
+      "school": "Old Mill",
+      "mark": "43.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1978,
+      "classification": "B",
+      "name": null,
+      "school": "J. M. Bennett",
+      "mark": "43.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1978,
+      "classification": "C",
+      "name": null,
+      "school": "South River",
+      "mark": "44.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1979,
+      "classification": "A",
+      "name": null,
+      "school": "Fairmont Heights",
+      "mark": "42.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1979,
+      "classification": "AA",
+      "name": null,
+      "school": "Bladensburg",
+      "mark": "43.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1979,
+      "classification": "B",
+      "name": null,
+      "school": "Oakland Mills",
+      "mark": "43.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "440 Yard Relay",
+      "year": 1979,
+      "classification": "C",
+      "name": null,
+      "school": "Calvert",
+      "mark": "45.0"
+    }
+  ]
+}

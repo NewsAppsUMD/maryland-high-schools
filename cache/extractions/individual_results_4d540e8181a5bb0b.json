@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      72
+    ],
+    "extracted_at": "2026-08-02T20:46:26Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Brody Buffington",
+      "school": "Catoctin",
+      "mark": ":10.35"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Jasper Savoy",
+      "school": "Gwynn Park",
+      "mark": ":10.65"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Judson Lincoln IV",
+      "school": "Oakland Mills",
+      "mark": ":10.46-wind"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Devon Smith",
+      "school": "Westlake",
+      "mark": ":10.42 sf"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters",
+      "year": 2025,
+      "classification": "4A",
+      "name": "James Harrison",
+      "school": "Charles H. Flowers",
+      "mark": ":10.41 sf"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "100 Meters/Wheelchair",
+      "year": 2014,
+      "classification": "All Classes Combined",
+      "name": "Robbie Reightler",
+      "school": "North Carroll",
+      "mark": ":25.78"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "200 Meters",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Brody Buffington",
+      "school": "Catoctin",
+      "mark": ":21.06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "200 Meters",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Judson Lincoln IV",
+      "school": "Oakland Mills",
+      "mark": ":20.90"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "200 Meters",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Talil Atkins",
+      "school": "Baltimore Polytechnic",
+      "mark": ":21.09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "200 Meters",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Martin Ojulu",
+      "school": "Dundalk",
+      "mark": ":21.01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "200 Meters/Wheelchair",
+      "year": 2014,
+      "classification": "All Classes Combined",
+      "name": "Robbie Reightler",
+      "school": "North Carroll",
+      "mark": ":50.55"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Kyle Farmer",
+      "school": "Oakland Mills",
+      "mark": ":47.81"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Brandon Chase",
+      "school": "Edgewood",
+      "mark": ":47.25"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2024,
+      "classification": "3A",
+      "name": "LaMont Johnson",
+      "school": "Digital Harbor",
+      "mark": ":46.93"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Ato Modibo",
+      "school": "High Point",
+      "mark": ":46.24"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters/Wheelchair",
+      "year": 2012,
+      "classification": "All Classes Combined",
+      "name": "Ben Mayforth",
+      "school": "Bel Air",
+      "mark": "1:08.87"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "800 Meters",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Grant Stephens",
+      "school": "Friendly",
+      "mark": "1:53.44"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "800 Meters",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Riley McDermott",
+      "school": "Middletown",
+      "mark": "1:53.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "800 Meters",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Kieran McDermott",
+      "school": "Bel Air",
+      "mark": "1:50.90"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "800 Meters",
+      "year": 1982,
+      "classification": "4A",
+      "name": "Donald Battle",
+      "school": "Suitland",
+      "mark": "1:51.20 ht"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Jordan Davis",
+      "school": "Allegany",
+      "mark": "4:18.87"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Eric Penkala",
+      "school": "Southern-AA",
+      "mark": "4:13.00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Shane Stroup",
+      "school": "River Hill",
+      "mark": "4:11.95"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Matthew Centrowitz",
+      "school": "Broadneck",
+      "mark": "4:04.09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "1600 Meters/Wheelchair",
+      "year": 2012,
+      "classification": "All Classes Combined",
+      "name": "Ben Mayforth",
+      "school": "Bel Air",
+      "mark": "4:33.03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2010,
+      "classification": "1A",
+      "name": "David Wilson",
+      "school": "Smithsburg",
+      "mark": "9:25.14"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Robby Creese",
+      "school": "Glenelg",
+      "mark": "9:17.28"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Baidy Ba",
+      "school": "Oakland Mills",
+      "mark": "9:11.32"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "3200 Meters",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Solomon Haile",
+      "school": "Sherwood",
+      "mark": "9:06.13"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Jaden Shelton",
+      "school": "Mardela",
+      "mark": ":14.05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Jalen Stanton",
+      "school": "Century",
+      "mark": ":14.14"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Dondre Echols",
+      "school": "Potomac",
+      "mark": ":13.59"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "110 Meter High Hurdles",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Justin DeVaughn",
+      "school": "Mergenthaler Vo-Tech",
+      "mark": ":13.78"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Tori Willis, Jr.",
+      "school": "Cambridge-S. Dorchester",
+      "mark": ":36.99"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Khory Reevey",
+      "school": "Harford Technical",
+      "mark": ":36.75"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Dondre Echols",
+      "school": "Potomac",
+      "mark": ":36.26"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "300 Meter Intermediate Hurdles",
+      "year": 1999,
+      "classification": "4A",
+      "name": "James Graham",
+      "school": "Northwestern-PG",
+      "mark": ":36.51"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x100 Meter Relay",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Stefan Pastor & Jean Brunache & Chris Barksdale & Kyle Farmer",
+      "school": "Oakland Mills",
+      "mark": ":42.56"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x100 Meter Relay",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Ebube Emechebe & David Nnabuko & Kendall Tyson & Christian Wilbon",
+      "school": "Westlake",
+      "mark": ":41.37"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x100 Meter Relay",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Tavon Young & Dondre Echols & Joshua Thome & Ronald Darby",
+      "school": "Potomac",
+      "mark": ":41.08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x100 Meter Relay",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Eddie Hightower & Mancel Johnson & Duan Jones & Jermaine Lewis",
+      "school": "Eleanor Roosevelt",
+      "mark": ":41.64"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x100 Meter Relay",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Tavon Jacobs & David Winter & Tyrell Dias & Tyrell Scarsborough",
+      "school": "Suitland",
+      "mark": ":41.64"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x200 Meter Relay",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Stefan Pastor & Jean Brunache & Chris Barksdale & Kyle Farmer",
+      "school": "Oakland Mills",
+      "mark": "1:27.19"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x200 Meter Relay",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Kelechi Anyanwu & Ebube Emechebe & David Nnabuko & Christian Wilbon",
+      "school": "Westlake",
+      "mark": "1:25.27"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x200 Meter Relay",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Jevonte Williams & DeAndre Thomas & LaMont Johnson & Jawon Blue",
+      "school": "Digital Harbor",
+      "mark": "1:26.34"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x200 Meter Relay",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Nicholas C. Spikes & Roman Spikes & Jacob Martin & Aaron Henderson",
+      "school": "Paint Branch",
+      "mark": "1:24.96"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x400 Meter Relay",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Donte Long & Fahad Kamarah & Grant Stephens & Matthew Patterson",
+      "school": "Friendly",
+      "mark": "3:18.94"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x400 Meter Relay",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Da'waun Proctor & James Francis & Caleb Phillips & Chase Francis",
+      "school": "Westlake",
+      "mark": "3:18.57"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x400 Meter Relay",
+      "year": 1979,
+      "classification": "3A",
+      "name": "Ronnie Franklin & John Wallace & Darryl Gill & Tyrone Cross",
+      "school": "Fairmont Heights",
+      "mark": "3:15.50c"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x400 Meter Relay",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Robert Wingate-Robinson & Dwayne Thomas & Ali Najjar & James Graham",
+      "school": "Northwestern-PG",
+      "mark": "3:12.05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x800 Meter Relay",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Ackerly Mulcaster & Brendan Kline & Wil Haberlein & Casey Culler",
+      "school": "Mountain Ridge",
+      "mark": "8:04.72"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x800 Meter Relay",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Carter Thompson & Eric Penkala & Gavin Tompkins & Holden Fontaine",
+      "school": "Southern-AA",
+      "mark": "7:55.64"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x800 Meter Relay",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Anthony Wimbush & Aaron Robinson & Randy Serville & Gary Ross",
+      "school": "Oxon Hill",
+      "mark": "7:49.15"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "4x800 Meter Relay",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Wayne Bartholomew & Ryan Priovolos & David Laratta & Josh Joson",
+      "school": "Quince Orchard",
+      "mark": "7:44.67"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1966,
+      "classification": "1A",
+      "name": "David Alexander",
+      "school": "Sollers Point",
+      "mark": "23-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Furious Trammel",
+      "school": "Catoctin",
+      "mark": "23-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Dontay Taylor",
+      "school": "Carver Vo-Tech",
+      "mark": "23-07-wind"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Chris Smith",
+      "school": "Long Reach",
+      "mark": "24-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2016,
+      "classification": "3A",
+      "name": "William Henderson",
+      "school": "Balto. Poly",
+      "mark": "24-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Allen Simms",
+      "school": "El. Roosevelt",
+      "mark": "24-00 1/2"
+    }
+  ]
+}

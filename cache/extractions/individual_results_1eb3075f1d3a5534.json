@@ -1,0 +1,2092 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      94
+    ],
+    "extracted_at": "2026-08-02T21:09:15Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Paul X. Rivers",
+      "school": "NWM",
+      "mark": "50-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Grant Lohr",
+      "school": "OAD",
+      "mark": "55-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Devin McNair",
+      "school": "LAC",
+      "mark": "49-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Elijah Smith",
+      "school": "WTE",
+      "mark": "50-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Hunter Mann",
+      "school": "LEO",
+      "mark": "60-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "3A",
+      "name": "William Mandis",
+      "school": "CHO",
+      "mark": "55-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Sima Saavedra",
+      "school": "LAP",
+      "mark": "52-08 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Shot Put",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Deacon McIlvaine",
+      "school": "CTT",
+      "mark": "49-06 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1952,
+      "classification": "A",
+      "name": "Don Stine",
+      "school": "FTH",
+      "mark": "122-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1952,
+      "classification": "B",
+      "name": "Nebel",
+      "school": "RMT",
+      "mark": "117-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1953,
+      "classification": "A",
+      "name": "Bob Baynes",
+      "school": "TOW",
+      "mark": "128-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1953,
+      "classification": "A",
+      "name": "Bailey",
+      "school": "NWE",
+      "mark": "128-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1953,
+      "classification": "B",
+      "name": "Stewart",
+      "school": "ELK",
+      "mark": "135-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1954,
+      "classification": "A",
+      "name": "Gene Weber",
+      "school": "FTH",
+      "mark": "131-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1954,
+      "classification": "B",
+      "name": "Frank Stewart",
+      "school": "ELK",
+      "mark": "117-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1954,
+      "classification": "C",
+      "name": "Charles Muir",
+      "school": "WAS",
+      "mark": "120-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1955,
+      "classification": "A",
+      "name": "Don Heber",
+      "school": "MTB",
+      "mark": "140-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1955,
+      "classification": "B",
+      "name": "Boetcher",
+      "school": "ELK",
+      "mark": "126-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1955,
+      "classification": "C",
+      "name": "Wood",
+      "school": "Caroline",
+      "mark": "116-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1956,
+      "classification": "A",
+      "name": "Paul Mankowich",
+      "school": "BAR",
+      "mark": "144-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1956,
+      "classification": "B",
+      "name": "Nick Volonakis",
+      "school": "OXH",
+      "mark": "133-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1956,
+      "classification": "C",
+      "name": "Flater",
+      "school": "Hampstead",
+      "mark": "115-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1957,
+      "classification": "A",
+      "name": "Dave Kaiser",
+      "school": "NWE",
+      "mark": "141-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1957,
+      "classification": "B",
+      "name": "Kurt Bruffey",
+      "school": "ABE",
+      "mark": "130-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1957,
+      "classification": "C",
+      "name": "Dorrell",
+      "school": "Centreville",
+      "mark": "110-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1958,
+      "classification": "A",
+      "name": "Mike Lyons",
+      "school": "BCC",
+      "mark": "150-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1959,
+      "classification": "A",
+      "name": "Kenny Ladd",
+      "school": "NWD",
+      "mark": "161-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1959,
+      "classification": "B",
+      "name": "Barnhart",
+      "school": "NCL",
+      "mark": "127-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1959,
+      "classification": "C",
+      "name": "Clarence Johnson",
+      "school": "WAS",
+      "mark": "117-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1960,
+      "classification": "A",
+      "name": "Fred Joyce",
+      "school": "FTH",
+      "mark": "144-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1960,
+      "classification": "B",
+      "name": "Olderma",
+      "school": "ABE",
+      "mark": null
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1961,
+      "classification": "AA",
+      "name": "Bob Windsor",
+      "school": "MTB",
+      "mark": "140-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1961,
+      "classification": "A",
+      "name": "Bill Colbert",
+      "school": "FTH",
+      "mark": "128-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1961,
+      "classification": "B",
+      "name": "Donnie Wright",
+      "school": "Cambridge",
+      "mark": "127-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1961,
+      "classification": "C",
+      "name": "Brown",
+      "school": "Central Consolidated",
+      "mark": "113-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1962,
+      "classification": "AA",
+      "name": "Bob Pine",
+      "school": "RTM",
+      "mark": "143-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1962,
+      "classification": "A",
+      "name": "Alan Michael",
+      "school": "FRA",
+      "mark": "128-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1962,
+      "classification": "B",
+      "name": "Donnie Wright",
+      "school": "Cambridge",
+      "mark": "150-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1962,
+      "classification": "C",
+      "name": "Pierce",
+      "school": "Kennard",
+      "mark": "121-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1963,
+      "classification": "AA",
+      "name": "Ken Chatham",
+      "school": "NWD",
+      "mark": "156-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1963,
+      "classification": "A",
+      "name": "Alan Michael",
+      "school": "FRA",
+      "mark": "153-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1963,
+      "classification": "B",
+      "name": "Richard Drescher",
+      "school": "Cambridge",
+      "mark": "141-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1963,
+      "classification": "C",
+      "name": "Sconion",
+      "school": "Havre de Grace Cons.",
+      "mark": "121-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1964,
+      "classification": "AA",
+      "name": "Jerry Bookin-Weiner",
+      "school": "BCC",
+      "mark": "156-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1964,
+      "classification": "A",
+      "name": "Richard Drescher",
+      "school": "Cambridge",
+      "mark": "147-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1964,
+      "classification": "B",
+      "name": "Gordon Smith",
+      "school": "WLK",
+      "mark": "150-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1964,
+      "classification": "C",
+      "name": "Meekins",
+      "school": "Lockerman",
+      "mark": "123-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1965,
+      "classification": "AA",
+      "name": "Craig Brisbane",
+      "school": "NWD",
+      "mark": "152-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1965,
+      "classification": "A",
+      "name": "Mace",
+      "school": "Cambridge",
+      "mark": "146-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1965,
+      "classification": "B",
+      "name": "Gordon Smith",
+      "school": "WLK",
+      "mark": "154-10 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1965,
+      "classification": "C",
+      "name": "Ned Era",
+      "school": "NDC",
+      "mark": "129-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1966,
+      "classification": "AA",
+      "name": "John Caldwell",
+      "school": "BCC",
+      "mark": "150-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1966,
+      "classification": "A",
+      "name": "John Allen",
+      "school": "FAH",
+      "mark": "146-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1966,
+      "classification": "B",
+      "name": "Ernest Johnson",
+      "school": "FRD",
+      "mark": "129-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1966,
+      "classification": "C",
+      "name": "Theadore Watkins",
+      "school": "Kennard",
+      "mark": "137-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1967,
+      "classification": "AA",
+      "name": "Tom Brosius",
+      "school": "SPB",
+      "mark": "157-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1967,
+      "classification": "A",
+      "name": "Craig Savage",
+      "school": "SUR",
+      "mark": "150-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1967,
+      "classification": "B",
+      "name": "Fetro",
+      "school": "DAM",
+      "mark": "128-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1967,
+      "classification": "C",
+      "name": "Fletcher Honermond",
+      "school": "POO",
+      "mark": "128-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1968,
+      "classification": "AA",
+      "name": "Tom Brosius",
+      "school": "SPB",
+      "mark": "184-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1968,
+      "classification": "A",
+      "name": "John Allen",
+      "school": "FAH",
+      "mark": "163-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1968,
+      "classification": "B",
+      "name": "Clark",
+      "school": "CHT",
+      "mark": "138-09 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1968,
+      "classification": "C",
+      "name": "Bob Cline",
+      "school": "WLK",
+      "mark": "122-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1969,
+      "classification": "AA",
+      "name": "Price Gielin",
+      "school": "HPT",
+      "mark": "159-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1969,
+      "classification": "A",
+      "name": "George Chramer",
+      "school": "POT",
+      "mark": "139-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1969,
+      "classification": "B",
+      "name": "Fred Tabron",
+      "school": "FAH",
+      "mark": "160-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1969,
+      "classification": "C",
+      "name": "Edgar Brimmer",
+      "school": "WAS",
+      "mark": "136-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1970,
+      "classification": "AA",
+      "name": "Roger DeGeorges",
+      "school": "WWH",
+      "mark": "145-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1970,
+      "classification": "A",
+      "name": "Fred Tabron",
+      "school": "FAH",
+      "mark": "150-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1970,
+      "classification": "B",
+      "name": "George Neal",
+      "school": "CHO",
+      "mark": "156-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1970,
+      "classification": "C",
+      "name": "Jones",
+      "school": "SDC",
+      "mark": "130-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1971,
+      "classification": "AA",
+      "name": "Roger DeGeorges",
+      "school": "WWH",
+      "mark": "166-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1971,
+      "classification": "A",
+      "name": "Norbert Glahn",
+      "school": "EDG",
+      "mark": "148-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1971,
+      "classification": "B",
+      "name": "George Neal",
+      "school": "CHO",
+      "mark": "161-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1971,
+      "classification": "C",
+      "name": "Doug Pearl",
+      "school": "BRN",
+      "mark": "139-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1972,
+      "classification": "AA",
+      "name": "Fritz Pollard",
+      "school": "MTB",
+      "mark": "163-11 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1972,
+      "classification": "A",
+      "name": "Norbert Glahn",
+      "school": "EDG",
+      "mark": "166-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1972,
+      "classification": "B",
+      "name": "Steve Davis",
+      "school": "CAM",
+      "mark": "142-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1972,
+      "classification": "C",
+      "name": "Brian Heinrich",
+      "school": "SMI",
+      "mark": "138-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Carey Crago",
+      "school": "HPT",
+      "mark": "158-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1973,
+      "classification": "A",
+      "name": "Larry Casey",
+      "school": "FRI",
+      "mark": "143-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1973,
+      "classification": "B",
+      "name": "John Koester",
+      "school": "CWW",
+      "mark": "140-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1973,
+      "classification": "C",
+      "name": "Darryll Wolfe",
+      "school": "MID",
+      "mark": "138-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Kelvin Bell",
+      "school": "WCH",
+      "mark": "149-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1974,
+      "classification": "A",
+      "name": "Tom Deem",
+      "school": "FRI",
+      "mark": "150-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1974,
+      "classification": "B",
+      "name": "Palmer Grotte",
+      "school": "FAH",
+      "mark": "136-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1974,
+      "classification": "C",
+      "name": "Ken Moser",
+      "school": "MID",
+      "mark": "129-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Phil Davis",
+      "school": "SPB",
+      "mark": "149-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1975,
+      "classification": "A",
+      "name": "Irvin Pankey",
+      "school": "ABE",
+      "mark": "152-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1975,
+      "classification": "B",
+      "name": "Chris Gooch",
+      "school": "EAS",
+      "mark": "155-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1975,
+      "classification": "C",
+      "name": "Bob Devore",
+      "school": "BEA",
+      "mark": "136-06 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Brian Holloway",
+      "school": "WCH",
+      "mark": "169-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1976,
+      "classification": "A",
+      "name": "Larry Rosen",
+      "school": "AEI",
+      "mark": "164-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1976,
+      "classification": "B",
+      "name": "Raymond Hicks",
+      "school": "CAL",
+      "mark": "140-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1976,
+      "classification": "C",
+      "name": "Bob Devore",
+      "school": "BEA",
+      "mark": "148-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Brian Holloway",
+      "school": "WCH",
+      "mark": "176-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1977,
+      "classification": "A",
+      "name": "Larry Rosen",
+      "school": "AEI",
+      "mark": "169-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1977,
+      "classification": "B",
+      "name": "Ray Hicks",
+      "school": "CAL",
+      "mark": "153-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1977,
+      "classification": "C",
+      "name": "Jim Rodgers",
+      "school": "SMI",
+      "mark": "133-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Alonzo Tyler",
+      "school": "LAR",
+      "mark": "157-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1978,
+      "classification": "A",
+      "name": "Jim Joyce",
+      "school": "GAI",
+      "mark": "158-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1978,
+      "classification": "B",
+      "name": "Jim Hyson",
+      "school": "FSK",
+      "mark": "152-11 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1978,
+      "classification": "C",
+      "name": "Jim Rodgers",
+      "school": "SMI",
+      "mark": "151-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1979,
+      "classification": "AA",
+      "name": "George Saah",
+      "school": "MTB",
+      "mark": "162-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1979,
+      "classification": "A",
+      "name": "Jim Joyce",
+      "school": "GAI",
+      "mark": "165-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1979,
+      "classification": "B",
+      "name": "J.D. (John) Wells",
+      "school": "WIC",
+      "mark": "146-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1979,
+      "classification": "C",
+      "name": "Jim Rodgers",
+      "school": "SMI",
+      "mark": "165-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1980,
+      "classification": "AA",
+      "name": "J.D. Gross",
+      "school": "NWE",
+      "mark": "163-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1980,
+      "classification": "A",
+      "name": "Don Smith",
+      "school": "ARU",
+      "mark": "164-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1980,
+      "classification": "B",
+      "name": "Donald Washington",
+      "school": "CSD",
+      "mark": "137-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1980,
+      "classification": "C",
+      "name": "Joe Lawler",
+      "school": "MID",
+      "mark": "142-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Jerry Baughn",
+      "school": "FRI",
+      "mark": "139-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1981,
+      "classification": "A",
+      "name": "Stephon Scriber",
+      "school": "LEO",
+      "mark": "147-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1981,
+      "classification": "B",
+      "name": "Pat Greene",
+      "school": "NOC",
+      "mark": "139-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1981,
+      "classification": "C",
+      "name": "Joe Fowler",
+      "school": "FSK",
+      "mark": "145-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Mac Brown",
+      "school": "BOW",
+      "mark": "156-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1982,
+      "classification": "A",
+      "name": "Steven Scribner",
+      "school": "LEO",
+      "mark": "151-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1982,
+      "classification": "B",
+      "name": "Ted Edelmann",
+      "school": "SCL",
+      "mark": "152-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1982,
+      "classification": "C",
+      "name": "Mike Smith",
+      "school": "MID",
+      "mark": "147-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Derek Roberts",
+      "school": "DUL",
+      "mark": "151-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1983,
+      "classification": "A",
+      "name": "Gary Gross",
+      "school": "NOC",
+      "mark": "149-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1983,
+      "classification": "B",
+      "name": "Mike Athey",
+      "school": "DAM",
+      "mark": "148-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1983,
+      "classification": "C",
+      "name": "Greg McGuirk",
+      "school": "SMI",
+      "mark": "142-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Nathaniel Lowen",
+      "school": "SPB",
+      "mark": "149-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1984,
+      "classification": "A",
+      "name": "Mike Smith",
+      "school": "SHE",
+      "mark": "139-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1984,
+      "classification": "B",
+      "name": "Buddy Irby",
+      "school": "DAM",
+      "mark": "150-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1984,
+      "classification": "C",
+      "name": "Greg McGuirk",
+      "school": "SMI",
+      "mark": "152-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Bill Carroll",
+      "school": "WES",
+      "mark": "162-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1985,
+      "classification": "A",
+      "name": "Mike Smith",
+      "school": "SHE",
+      "mark": "165-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1985,
+      "classification": "B",
+      "name": "Colin Winchester",
+      "school": "ATH",
+      "mark": "141-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1985,
+      "classification": "C",
+      "name": "Greg McGuirk",
+      "school": "SMI",
+      "mark": "158-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Chris Bratton",
+      "school": "MTB",
+      "mark": "149-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1986,
+      "classification": "A",
+      "name": "Joe Hawkins",
+      "school": "MDU",
+      "mark": "147-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1986,
+      "classification": "B",
+      "name": "Dave Soter",
+      "school": "EDG",
+      "mark": "142-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1986,
+      "classification": "C",
+      "name": "Michael Showell",
+      "school": "SDC",
+      "mark": "142-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1987,
+      "classification": "AA",
+      "name": "James Ware",
+      "school": "MEA",
+      "mark": "155-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1987,
+      "classification": "A",
+      "name": "Gerald Poe",
+      "school": "FRD",
+      "mark": "155-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1987,
+      "classification": "B",
+      "name": "Mike Reid",
+      "school": "ALL",
+      "mark": "137-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1987,
+      "classification": "C",
+      "name": "David Bell",
+      "school": "FSK",
+      "mark": "130-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Jeff Thew",
+      "school": "MEA",
+      "mark": "163-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1988,
+      "classification": "A",
+      "name": "Blaine Sommerville",
+      "school": "LEO",
+      "mark": "139-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1988,
+      "classification": "B",
+      "name": "Brian Snyder",
+      "school": "ALL",
+      "mark": "145-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1988,
+      "classification": "C",
+      "name": "Jim Nichols",
+      "school": "BOO",
+      "mark": "141-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Demark Thompson",
+      "school": "FRI",
+      "mark": "154-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Sherwin Hawkins",
+      "school": "MDU",
+      "mark": "146-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Randy Wolford",
+      "school": "ALL",
+      "mark": "149-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Jesse Ketterman",
+      "school": "CTT",
+      "mark": "130-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Matt Dyson",
+      "school": "LAR",
+      "mark": "176-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Sherwin Hawkins",
+      "school": "MDU",
+      "mark": "141-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Ed Condon",
+      "school": "MID",
+      "mark": "148-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Ray Rase",
+      "school": "BEA",
+      "mark": "133-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Brian Evans",
+      "school": "OLM",
+      "mark": "151-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Walter Bowman",
+      "school": "LEO",
+      "mark": "151-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Marshall Hamilton",
+      "school": "STD",
+      "mark": "145-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1991,
+      "classification": "1A",
+      "name": "James Johnson",
+      "school": "FSK",
+      "mark": "140-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Yusef Byrd",
+      "school": "PBR",
+      "mark": "144-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Michael Goldring",
+      "school": "LEO",
+      "mark": "147-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Bill Atwell",
+      "school": "NEA",
+      "mark": "157-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Scott Baker",
+      "school": "CTT",
+      "mark": "150-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Jamal Dixon-Hawkins",
+      "school": "OLM",
+      "mark": "164-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Jim Nelson",
+      "school": "MDU",
+      "mark": "155-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Mike Webb",
+      "school": "SHG",
+      "mark": "136-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Scott Baker",
+      "school": "CTT",
+      "mark": "145-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Ian Vair",
+      "school": "DUL",
+      "mark": "158-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Mike Long",
+      "school": "GTJ",
+      "mark": "146-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Ryan Jenkins",
+      "school": "MID",
+      "mark": "133-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Adam Patterson",
+      "school": "BEA",
+      "mark": "145-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Dave Neubeiser",
+      "school": "GAI",
+      "mark": "169-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Kevin Carpenter",
+      "school": "LIN",
+      "mark": "141-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Shawn McMillan",
+      "school": "ALL",
+      "mark": "142-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Lonnie Bagwell",
+      "school": "SMI",
+      "mark": "151-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Mathias Nkwenti",
+      "school": "TSW",
+      "mark": "158-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Tim Bilmanis",
+      "school": "THS",
+      "mark": "133-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Kevin Carpenter",
+      "school": "LIN",
+      "mark": "148-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Dave Stephens",
+      "school": "NOG",
+      "mark": "142-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Balvin Brown",
+      "school": "OLM",
+      "mark": "155-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Kris Medley",
+      "school": "GWP",
+      "mark": "156-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Andrew Long",
+      "school": "OAK",
+      "mark": "149-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1997,
+      "classification": "1A",
+      "name": "John Buschman",
+      "school": "POO",
+      "mark": "136-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Beau Ridgway",
+      "school": "WES",
+      "mark": "151-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Tim Bilmanis",
+      "school": "THS",
+      "mark": "165-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Charles Poole",
+      "school": "FSK",
+      "mark": "147-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Andrew Long",
+      "school": "OAK",
+      "mark": "154-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Vickas Gowda",
+      "school": "FRE",
+      "mark": "160-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Tim Bilmanis",
+      "school": "THS",
+      "mark": "185-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Brian Nelson",
+      "school": "MID",
+      "mark": "148-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Josh Martin",
+      "school": "WIL",
+      "mark": "140-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Vikas Gowda",
+      "school": "FRE",
+      "mark": "180-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Chris Parsons",
+      "school": "NOC",
+      "mark": "168-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2000,
+      "classification": "2A",
+      "name": "James Murray",
+      "school": "JOP",
+      "mark": "151-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Josh Martin",
+      "school": "WIL",
+      "mark": "151-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Vikas Gowda",
+      "school": "FRE",
+      "mark": "200-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Mike Zyvoloski",
+      "school": "LGR",
+      "mark": "163-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Nick Williams",
+      "school": "URB",
+      "mark": "166-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Ryan Martin",
+      "school": "WIL",
+      "mark": "150-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Aaron Dixon-Proctor",
+      "school": "OLM",
+      "mark": "163-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Nick Williams",
+      "school": "URB",
+      "mark": "161-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Garett Snyder",
+      "school": "FTH",
+      "mark": "164-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Ryan Martin",
+      "school": "WIL",
+      "mark": "160-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Leif Crago",
+      "school": "BOW",
+      "mark": "173-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Nick Williams",
+      "school": "URB",
+      "mark": "172-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Frederick Ballenger",
+      "school": "POT",
+      "mark": "165-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Ryan Martin",
+      "school": "WIL",
+      "mark": "166-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2004,
+      "classification": "4A",
+      "name": "T.J. Tozer",
+      "school": "GAI",
+      "mark": "141-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Sean Thompson",
+      "school": "MDU",
+      "mark": "149-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Matthew Baile",
+      "school": "FSK",
+      "mark": "155-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2004,
+      "classification": "1A",
+      "name": "David Howard",
+      "school": "OAK",
+      "mark": "158-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Marcus Green",
+      "school": "LAR",
+      "mark": "150-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Tim Wunderlich",
+      "school": "NCL",
+      "mark": "145-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Elias Al-Najjar",
+      "school": "PIK",
+      "mark": "142-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Adam Lee",
+      "school": "BHM",
+      "mark": "154-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Marcus Green",
+      "school": "LAR",
+      "mark": "158-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Jay Washington",
+      "school": "LGR",
+      "mark": "149-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Stacey Adams",
+      "school": "POT",
+      "mark": "135-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Ben Horner",
+      "school": "BRN",
+      "mark": "155-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Terry Marshall",
+      "school": "MEA",
+      "mark": "154-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Zach Roth",
+      "school": "FRA",
+      "mark": "142-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Stacey Adams",
+      "school": "POT",
+      "mark": "152-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Ben Horner",
+      "school": "BRN",
+      "mark": "163-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Nick Forbes",
+      "school": "GTJ",
+      "mark": "157-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Matthew Cirillo",
+      "school": "HUN",
+      "mark": "144-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Marcus Kinney",
+      "school": "CLK",
+      "mark": "137-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2008,
+      "classification": "1A",
+      "name": "James Allen",
+      "school": "PIK",
+      "mark": "144-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Marcus Brown",
+      "school": "QOR",
+      "mark": "171-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Shannon Glover",
+      "school": "MEA",
+      "mark": "152-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Marcus Kinney",
+      "school": "CLK",
+      "mark": "140-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Grant Smith",
+      "school": "BRN",
+      "mark": "155-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Nick Forbes",
+      "school": "GTJ",
+      "mark": "166-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Ronnie Troutman",
+      "school": "NHF",
+      "mark": "152-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Curtis Buckland",
+      "school": "NEC",
+      "mark": "142-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Discus",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Grant Smith",
+      "school": "BRN",
+      "mark": "155-00"
+    }
+  ]
+}

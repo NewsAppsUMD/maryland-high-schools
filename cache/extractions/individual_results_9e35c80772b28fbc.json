@@ -1,0 +1,1966 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      88
+    ],
+    "extracted_at": "2026-08-02T21:01:46Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1952,
+      "classification": "A",
+      "name": "Dick Beard",
+      "school": "FTH",
+      "mark": "20-0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1952,
+      "classification": "B",
+      "name": "Hicks",
+      "school": "EAS",
+      "mark": "18-10 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1952,
+      "classification": "C",
+      "name": "Hobbs",
+      "school": "Clarksville",
+      "mark": "18-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1953,
+      "classification": "A",
+      "name": "Dick Beard",
+      "school": "FTH",
+      "mark": "20-0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1953,
+      "classification": "B",
+      "name": "Tom Dixon",
+      "school": "BRN",
+      "mark": "19-0 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1953,
+      "classification": "C",
+      "name": "Frank Kelly",
+      "school": "Sudlersville",
+      "mark": null
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1954,
+      "classification": "A",
+      "name": "Bill Kearns",
+      "school": "FTH",
+      "mark": "21-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1954,
+      "classification": "B",
+      "name": "Bill Slade",
+      "school": "SHE",
+      "mark": "20-09 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1954,
+      "classification": "C",
+      "name": "Frank Kelly",
+      "school": "Sudlersville",
+      "mark": "30-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1955,
+      "classification": "A",
+      "name": "Bill Walston",
+      "school": "WIC",
+      "mark": "22-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1955,
+      "classification": "B",
+      "name": "Stan Pitts",
+      "school": "ABE",
+      "mark": "22-0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1955,
+      "classification": "C",
+      "name": "Gary Cooper",
+      "school": "BRN",
+      "mark": "20-0 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1956,
+      "classification": "A",
+      "name": "Gary Gerber",
+      "school": "MTB",
+      "mark": "21-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1956,
+      "classification": "B",
+      "name": "Stan Pitts",
+      "school": "ABE",
+      "mark": "20-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1956,
+      "classification": "C",
+      "name": "Dick Wilhide",
+      "school": "Elmer Wolfe",
+      "mark": "20-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1957,
+      "classification": "A",
+      "name": "David Bauer",
+      "school": "NWE",
+      "mark": "20-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1957,
+      "classification": "B",
+      "name": "Tanchuk",
+      "school": "ABE",
+      "mark": "20-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1957,
+      "classification": "C",
+      "name": "Short",
+      "school": "Caroline",
+      "mark": "19-03 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1958,
+      "classification": "A",
+      "name": "Herbert Kuehne",
+      "school": "NWE",
+      "mark": "21-06 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1958,
+      "classification": "C",
+      "name": "Luther Horine",
+      "school": "WLK",
+      "mark": "19-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1959,
+      "classification": "A",
+      "name": "Graham",
+      "school": "NWD",
+      "mark": "22-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1959,
+      "classification": "B",
+      "name": "Floyd",
+      "school": "NCL",
+      "mark": "20-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1959,
+      "classification": "C",
+      "name": "Ronald Dorsey",
+      "school": "WLK",
+      "mark": "19-05 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1960,
+      "classification": "A",
+      "name": "William Hayden",
+      "school": "WAJ",
+      "mark": "20-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1960,
+      "classification": "B",
+      "name": "Hill",
+      "school": "EAS",
+      "mark": "20-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1960,
+      "classification": "C",
+      "name": "Kenny Thompson",
+      "school": "Lincoln-Fr",
+      "mark": "19-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1961,
+      "classification": "AA",
+      "name": "Charles O'Reilly",
+      "school": "MTB",
+      "mark": "21-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1961,
+      "classification": "A",
+      "name": "Crofton",
+      "school": "Howard Co",
+      "mark": "19-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1961,
+      "classification": "B",
+      "name": "David Mack",
+      "school": "Sollers Point",
+      "mark": "22-00 7/8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1961,
+      "classification": "C",
+      "name": "Warfield",
+      "school": "HDG",
+      "mark": "20-01 7/8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1962,
+      "classification": "AA",
+      "name": "Hayden",
+      "school": "WAJ",
+      "mark": "21-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1962,
+      "classification": "A",
+      "name": "Bill Dickerson",
+      "school": "FAH",
+      "mark": "21-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1962,
+      "classification": "B",
+      "name": "Roscoe Johnson",
+      "school": "Salisbury",
+      "mark": null
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1962,
+      "classification": "C",
+      "name": "Steve Smoot",
+      "school": "MAR",
+      "mark": "20-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1963,
+      "classification": "AA",
+      "name": "Mike Carroll",
+      "school": "NWD",
+      "mark": "21-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1963,
+      "classification": "A",
+      "name": "Jack Williams",
+      "school": "FTH",
+      "mark": "21-01 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1963,
+      "classification": "B",
+      "name": "J. Warren",
+      "school": "Pomonkey",
+      "mark": "21-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1963,
+      "classification": "C",
+      "name": "R. Johnson",
+      "school": "POO",
+      "mark": "21-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1964,
+      "classification": "AA",
+      "name": "Crooks",
+      "school": "CAT",
+      "mark": "21-07 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1964,
+      "classification": "A",
+      "name": "Domneys",
+      "school": "FRA",
+      "mark": "20-11-1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1964,
+      "classification": "B",
+      "name": "Chris Warren",
+      "school": "Pomonkey",
+      "mark": "22-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Broad Jump",
+      "year": 1964,
+      "classification": "C",
+      "name": "I. Johnson",
+      "school": "POO",
+      "mark": "21-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1965,
+      "classification": "AA",
+      "name": "Greg Anderson",
+      "school": "WHE",
+      "mark": "22-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1965,
+      "classification": "A",
+      "name": "Hemling",
+      "school": "EDG",
+      "mark": "21-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1965,
+      "classification": "B",
+      "name": "Mike Stroup",
+      "school": "MID",
+      "mark": "21-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1966,
+      "classification": "AA",
+      "name": "Greg Anderson",
+      "school": "WHE",
+      "mark": "23-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1966,
+      "classification": "A",
+      "name": "Calvin Ruffin",
+      "school": "CEN",
+      "mark": "22-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1966,
+      "classification": "B",
+      "name": "Larry Farrare",
+      "school": "MAL",
+      "mark": "21-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1966,
+      "classification": "C",
+      "name": "David Alexander",
+      "school": "Sollers Point",
+      "mark": "23-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1967,
+      "classification": "AA",
+      "name": "Dave Good",
+      "school": "DUN",
+      "mark": "22-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1967,
+      "classification": "A",
+      "name": "Ken Boyd",
+      "school": "FRE",
+      "mark": "22-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1967,
+      "classification": "B",
+      "name": "Larry Farrare",
+      "school": "Maces Lane",
+      "mark": "20-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1967,
+      "classification": "C",
+      "name": "Don Phillips",
+      "school": "Garnett",
+      "mark": "20-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1968,
+      "classification": "AA",
+      "name": "John Beck",
+      "school": "NHG",
+      "mark": "22-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1968,
+      "classification": "A",
+      "name": "Ken Boyd",
+      "school": "FRE",
+      "mark": "23-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1968,
+      "classification": "B",
+      "name": "McKnight",
+      "school": "NCN",
+      "mark": "20-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1968,
+      "classification": "C",
+      "name": "John Smith",
+      "school": "POO",
+      "mark": "21-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1969,
+      "classification": "AA",
+      "name": "Mike Jennings",
+      "school": "SEP",
+      "mark": "22-09 1/8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1969,
+      "classification": "A",
+      "name": "Ken Boyd",
+      "school": "FRE",
+      "mark": "22-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1969,
+      "classification": "B",
+      "name": "Charles Taylor",
+      "school": "BKP",
+      "mark": "20-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1969,
+      "classification": "C",
+      "name": "Ronnie Handy",
+      "school": "SOMER",
+      "mark": "22-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1970,
+      "classification": "AA",
+      "name": "George Randall",
+      "school": "PKD",
+      "mark": "23-05 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1970,
+      "classification": "A",
+      "name": "Robert Neal",
+      "school": "POT",
+      "mark": "22-061/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1970,
+      "classification": "B",
+      "name": "Black",
+      "school": "CHT",
+      "mark": "20-09 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1970,
+      "classification": "C",
+      "name": "Saunders",
+      "school": "GWP",
+      "mark": "21-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1971,
+      "classification": "AA",
+      "name": "Wendell Belt",
+      "school": "ARU",
+      "mark": "22-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1971,
+      "classification": "A",
+      "name": "Nat Baylor",
+      "school": "SPP",
+      "mark": "22-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1971,
+      "classification": "B",
+      "name": "Sampson",
+      "school": "CAM",
+      "mark": "23-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1971,
+      "classification": "C",
+      "name": "Rick Henderson",
+      "school": "BRN",
+      "mark": "20-05 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1972,
+      "classification": "AA",
+      "name": "Terrence Brown",
+      "school": "NWE",
+      "mark": "22-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1972,
+      "classification": "A",
+      "name": "Nat Baylor",
+      "school": "SPP",
+      "mark": "20-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1972,
+      "classification": "B",
+      "name": "Jerome Herbert",
+      "school": "CHO",
+      "mark": "21-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1972,
+      "classification": "C",
+      "name": "Drexel Henderson",
+      "school": "BRN",
+      "mark": "20-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Rodney Tyler",
+      "school": "ARU",
+      "mark": "21-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1973,
+      "classification": "A",
+      "name": "Mark Williams",
+      "school": "FRI",
+      "mark": "21-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1973,
+      "classification": "B",
+      "name": "Donnie Dotter",
+      "school": "WIL",
+      "mark": "22-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1973,
+      "classification": "C",
+      "name": "Vince Taylor",
+      "school": "HDG",
+      "mark": "20-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Dennis Ivory",
+      "school": "CRO",
+      "mark": "22-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1974,
+      "classification": "A",
+      "name": "Mark Williams",
+      "school": "FRI",
+      "mark": "21-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1974,
+      "classification": "B",
+      "name": "Andre Gibson",
+      "school": "EAS",
+      "mark": "22-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1974,
+      "classification": "C",
+      "name": "Taylor",
+      "school": "HDG",
+      "mark": "20-06 3/8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Scott McConnell",
+      "school": "BOW",
+      "mark": "22-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1975,
+      "classification": "A",
+      "name": "Mike Lehner",
+      "school": "CAT",
+      "mark": "21-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1975,
+      "classification": "B",
+      "name": "Lamont Wright",
+      "school": "QAN",
+      "mark": "20-06 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1975,
+      "classification": "C",
+      "name": "Rodney Colbert",
+      "school": "OAK",
+      "mark": "20-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Don Curtis",
+      "school": "PKD",
+      "mark": "23-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1976,
+      "classification": "A",
+      "name": "Mike Brown",
+      "school": "ABE",
+      "mark": "22-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1976,
+      "classification": "B",
+      "name": "Julius Baker",
+      "school": "LAP",
+      "mark": "21-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1976,
+      "classification": "C",
+      "name": "Fields",
+      "school": "HDG",
+      "mark": "22-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Warren Smith",
+      "school": "BAR",
+      "mark": "22-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1977,
+      "classification": "A",
+      "name": "Mark Ridgeway",
+      "school": "CZM",
+      "mark": "21-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1977,
+      "classification": "B",
+      "name": "Harold Green",
+      "school": "GWP",
+      "mark": "23-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1977,
+      "classification": "C",
+      "name": "Dave McMullen",
+      "school": "CLS",
+      "mark": "20-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Ralph Spry",
+      "school": "OLM",
+      "mark": "22-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1978,
+      "classification": "A",
+      "name": "Derrick Strickland",
+      "school": "GWP",
+      "mark": "22-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1978,
+      "classification": "B",
+      "name": "Russell Brittingham",
+      "school": "QAN",
+      "mark": "22-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1978,
+      "classification": "C",
+      "name": "Carl Hillsman",
+      "school": "SMI",
+      "mark": "21-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Charles Cunningham",
+      "school": "PKD",
+      "mark": "21-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1979,
+      "classification": "A",
+      "name": "Derrick Strickland",
+      "school": "GWP",
+      "mark": "23-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1979,
+      "classification": "B",
+      "name": "Russell Brittingham",
+      "school": "QAN",
+      "mark": "22-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1979,
+      "classification": "C",
+      "name": "Dorsey Harrod",
+      "school": "CAL",
+      "mark": "20-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Payton Poynter",
+      "school": "GLB",
+      "mark": "22-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1980,
+      "classification": "A",
+      "name": "Scott Clay",
+      "school": "NWD",
+      "mark": "22-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1980,
+      "classification": "B",
+      "name": "Jim Bracey",
+      "school": "NOC",
+      "mark": "24-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1980,
+      "classification": "C",
+      "name": "Rich Hill",
+      "school": "FSK",
+      "mark": "21-03 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Thomas Johnson",
+      "school": "SUI",
+      "mark": "21-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1981,
+      "classification": "A",
+      "name": "Scott Clay",
+      "school": "NWD",
+      "mark": "21-06 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1981,
+      "classification": "B",
+      "name": "John Parker",
+      "school": "CAL",
+      "mark": "24-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1981,
+      "classification": "C",
+      "name": "Anthony Robertson",
+      "school": "HDG",
+      "mark": "21-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Bob Beavers",
+      "school": "WCH",
+      "mark": "22-07 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1982,
+      "classification": "A",
+      "name": "Ray Toppins",
+      "school": "CAT",
+      "mark": "20-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1982,
+      "classification": "B",
+      "name": "John Parker",
+      "school": "CAL",
+      "mark": "23-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1982,
+      "classification": "C",
+      "name": "Lloyd Hampton",
+      "school": "PEV",
+      "mark": "21-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Joe Barber",
+      "school": "ELR",
+      "mark": "22-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1983,
+      "classification": "A",
+      "name": "Ira Cutler",
+      "school": "CAT",
+      "mark": "22-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1983,
+      "classification": "B",
+      "name": "Carl Morton",
+      "school": "JMB",
+      "mark": "21-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1983,
+      "classification": "C",
+      "name": "Irvin Smith",
+      "school": "POO",
+      "mark": "21-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Charlie Gassaway",
+      "school": "GAI",
+      "mark": "23-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1984,
+      "classification": "A",
+      "name": "Charles Turner",
+      "school": "QAN",
+      "mark": "21-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1984,
+      "classification": "B",
+      "name": "Chris Stewart",
+      "school": "ALL",
+      "mark": "22-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1984,
+      "classification": "C",
+      "name": "Dwayne Norris",
+      "school": "PEV",
+      "mark": "22-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Roderick Tolbert",
+      "school": "ELR",
+      "mark": "22-07"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1985,
+      "classification": "A",
+      "name": "John White",
+      "school": "PBR",
+      "mark": "22-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1985,
+      "classification": "B",
+      "name": "Lawrence Stanton",
+      "school": "GLG",
+      "mark": "22-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1985,
+      "classification": "C",
+      "name": "Carlton Peltway",
+      "school": "WLD",
+      "mark": "21-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Brian Parker",
+      "school": "MEA",
+      "mark": "22-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1986,
+      "classification": "A",
+      "name": "Sebastian Clanci",
+      "school": "AEI",
+      "mark": "21-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1986,
+      "classification": "B",
+      "name": "Leslie Shepard",
+      "school": "FOR",
+      "mark": "22-02 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1986,
+      "classification": "C",
+      "name": "William Moore",
+      "school": "MAR",
+      "mark": "20-08 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Alfred Jordan",
+      "school": "HPT",
+      "mark": "23-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1987,
+      "classification": "A",
+      "name": "David Anderson",
+      "school": "SHE",
+      "mark": "21-11 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1987,
+      "classification": "B",
+      "name": "Kelly Davis",
+      "school": "CTN",
+      "mark": "22-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1987,
+      "classification": "C",
+      "name": "William Moore",
+      "school": "MAR",
+      "mark": "21-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Tavio Henson",
+      "school": "MEA",
+      "mark": "22-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1988,
+      "classification": "A",
+      "name": "Johnny Butler",
+      "school": "ELK",
+      "mark": "21-09 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1988,
+      "classification": "B",
+      "name": "Dwayne Freeman",
+      "school": "SHG",
+      "mark": "23-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1988,
+      "classification": "C",
+      "name": "Mike Stotler",
+      "school": "BOO",
+      "mark": "21-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Chris Jones",
+      "school": "BOW",
+      "mark": "21-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Rondell Jones",
+      "school": "NOC",
+      "mark": "21-03 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Chip Hardwick",
+      "school": "DAM",
+      "mark": "21-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Joe Simms",
+      "school": "MILM",
+      "mark": "21-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1990,
+      "classification": "4A",
+      "name": "James Thornton",
+      "school": "NWE",
+      "mark": "22-03 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Allan Johnson",
+      "school": "SHE",
+      "mark": "20-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Chip Hardick",
+      "school": "DAM",
+      "mark": "20-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Damaris Goslee",
+      "school": "MAR",
+      "mark": "210-0 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Maurice Robertson",
+      "school": "LAR",
+      "mark": "21-10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1991,
+      "classification": "3A",
+      "name": "John Finney",
+      "school": "HOW",
+      "mark": "21-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1991,
+      "classification": "2A",
+      "name": "James O'Neal",
+      "school": "PKS",
+      "mark": "21-09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Jason Redman",
+      "school": "BOO",
+      "mark": "22-00 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Kelvin Jeter",
+      "school": "PBR",
+      "mark": "22-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Tyrone Jackson",
+      "school": "POT",
+      "mark": "22-03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Adam Alderton",
+      "school": "ALL",
+      "mark": "22-09 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Andre Eure",
+      "school": "MLM",
+      "mark": "21-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Onaje Robinson",
+      "school": "QOR",
+      "mark": "22-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Stanley Ross",
+      "school": "SWE",
+      "mark": "22-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Cornell Sampson",
+      "school": "PKS",
+      "mark": "22-07 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Ricky Henderson",
+      "school": "BRN",
+      "mark": "22-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Duan Jones",
+      "school": "ELR",
+      "mark": "23-06 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Chucky Carter",
+      "school": "SEV",
+      "mark": "22-01 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Cornell Sampson",
+      "school": "PKS",
+      "mark": "21-09 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Ricky Henderson",
+      "school": "BRN",
+      "mark": "21-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Damion Moss",
+      "school": "MEA",
+      "mark": "22-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Duriel Mason",
+      "school": "LAP",
+      "mark": "21-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Ed Chang",
+      "school": "ATH",
+      "mark": "21-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Matt Huebner",
+      "school": "NEC",
+      "mark": "21-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Damion Moss",
+      "school": "MEA",
+      "mark": "23-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Duriel Mason",
+      "school": "LAP",
+      "mark": "23-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Tommie Mims",
+      "school": "ABE",
+      "mark": "21-08 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Elmer Sewell",
+      "school": "SMI",
+      "mark": "21-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Sheldon Hutchinson",
+      "school": "GAI",
+      "mark": "23-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Andy Bilmanis",
+      "school": "THS",
+      "mark": "23-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Damion Johnson",
+      "school": "WIC",
+      "mark": "22-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Chris Smith",
+      "school": "LGR",
+      "mark": "22-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Sheldon Hutchinson",
+      "school": "GAI",
+      "mark": "23-10 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Tuan Wreh",
+      "school": "RMT",
+      "mark": "23-01 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Chris Smith",
+      "school": "LGR",
+      "mark": "24-04"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Mike Fambro",
+      "school": "OAK",
+      "mark": "21-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Allen Simms",
+      "school": "ELR",
+      "mark": "24-00 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Alton West",
+      "school": "PTX",
+      "mark": "21-07 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Chris Suber",
+      "school": "EDG",
+      "mark": "22-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Kyle Farmer",
+      "school": "OAK",
+      "mark": "21-08 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Allen Simms",
+      "school": "ELR",
+      "mark": "23-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Alton West",
+      "school": "PTX",
+      "mark": "22-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Isa George",
+      "school": "OVE",
+      "mark": "21-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Jared Washington",
+      "school": "FPK",
+      "mark": "21-08 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Greg Carter",
+      "school": "FRE",
+      "mark": "22-09 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Titus Green",
+      "school": "LAP",
+      "mark": "23-00 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Greg McCormick",
+      "school": "MID",
+      "mark": "22-06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Brett Morrell",
+      "school": "BOO",
+      "mark": "22-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Frankie Wright",
+      "school": "MVT",
+      "mark": "22-11 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Phil DeRosier",
+      "school": "LGR",
+      "mark": "22-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Broderick Maybank",
+      "school": "EVT",
+      "mark": "22-10 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Brett Morrell",
+      "school": "BOO",
+      "mark": "22-04 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Frankie Wright",
+      "school": "MVT",
+      "mark": "22-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Demario Harris",
+      "school": "ANN",
+      "mark": "21-11 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Boris Roslov",
+      "school": "MID",
+      "mark": "21-08 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Brett Morrell",
+      "school": "BOO",
+      "mark": "23-00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Ronald Bias",
+      "school": "WOO",
+      "mark": "23-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Mike Wade",
+      "school": "RVH",
+      "mark": "22-02 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Audrey Lee",
+      "school": "SOA",
+      "mark": "23-05 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Dan Warner",
+      "school": "PEV",
+      "mark": "20-10 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Brandon Miles",
+      "school": "OXH",
+      "mark": "22-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Corryl Boyd",
+      "school": "WLA",
+      "mark": "23-02 1/2-w"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Brian Pendelton",
+      "school": "HVT",
+      "mark": "20-08"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Tony Howe",
+      "school": "CLR",
+      "mark": "20-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Antwan Farmer",
+      "school": "OXH",
+      "mark": "22-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Jason Allen",
+      "school": "MTH",
+      "mark": "23-04 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2006,
+      "classification": "2A",
+      "name": "John Mullinex",
+      "school": "EVT",
+      "mark": "21-04 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Tyler King",
+      "school": "SMI",
+      "mark": "21-06 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2007,
+      "classification": "4A",
+      "name": "William Bailey",
+      "school": "BOW",
+      "mark": "22-10 3/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Corryl Boyd",
+      "school": "WLA",
+      "mark": "22-11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2007,
+      "classification": "2A",
+      "name": "William Thomas",
+      "school": "EAS",
+      "mark": "22-05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Jamal Campbell",
+      "school": "SMI",
+      "mark": "21-01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Leslie Murray",
+      "school": "HPT",
+      "mark": "23-02 1/2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Xyan Rose",
+      "school": "LAP",
+      "mark": "22-02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Tristan Benton",
+      "school": "NPT",
+      "mark": "22-08 1/4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Long Jump",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Dontay Taylor",
+      "school": "CVT",
+      "mark": "23-07"
+    }
+  ]
+}

@@ -1,0 +1,1102 @@
+{
+  "meta": {
+    "extractor": "individual_xc",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      24
+    ],
+    "extracted_at": "2026-08-02T02:24:46Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Cross Country",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Kris Herdt",
+      "school": "Whitman",
+      "time": "15:26.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1983,
+      "classification": "A",
+      "name": "Scott Mace",
+      "school": "N. Hagerstown",
+      "time": "15:26.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1983,
+      "classification": "B",
+      "name": "John Scherer",
+      "school": "Glenelg",
+      "time": "15:01.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1983,
+      "classification": "C",
+      "name": "Tom Dudley",
+      "school": "Beall",
+      "time": "16:26.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Eric Meleney",
+      "school": "Whitman",
+      "time": "15:57.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1984,
+      "classification": "A",
+      "name": "Kirk Young",
+      "school": "Central-PG",
+      "time": "15:40.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1984,
+      "classification": "B",
+      "name": "Richard Kestner",
+      "school": "North Harford",
+      "time": "15:50.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1984,
+      "classification": "C",
+      "name": "Tom Nave",
+      "school": "Middletown",
+      "time": "16:32.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Duncan Manville",
+      "school": "Bethesda-CC",
+      "time": "15:26.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1985,
+      "classification": "A",
+      "name": "Lindsay Duvall",
+      "school": "Towson",
+      "time": "16:00.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1985,
+      "classification": "B",
+      "name": "Richard Williams",
+      "school": "Wicomico",
+      "time": "16:06.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1985,
+      "classification": "C",
+      "name": "Chris Stone",
+      "school": "Sparrows Point",
+      "time": "16:33.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Jeff Campbell",
+      "school": "Randallstown",
+      "time": "15:40.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1986,
+      "classification": "A",
+      "name": "Tim Sonner",
+      "school": "R. Montgomery",
+      "time": "16:19.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1986,
+      "classification": "B-C",
+      "name": "Kevin Farrell",
+      "school": "Middletown",
+      "time": "16:15.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Jeff Campbell",
+      "school": "Randallstown",
+      "time": "15:35.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1987,
+      "classification": "A",
+      "name": "Chris Neglia",
+      "school": "Thomas Johnson",
+      "time": "16:07.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1987,
+      "classification": "B-C",
+      "name": "Patrick Hayden",
+      "school": "Oakland Mills",
+      "time": "16:14.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1988,
+      "classification": "4A",
+      "name": "Jeff Campbell",
+      "school": "Randallstown",
+      "time": "15:17.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1988,
+      "classification": "3A",
+      "name": "Brian Horn",
+      "school": "Loch Raven",
+      "time": "16:15.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1988,
+      "classification": "2A-1A",
+      "name": "Pat Rodrigues",
+      "school": "Centennial",
+      "time": "15:53.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Thomas Ross",
+      "school": "La Plata",
+      "time": "16:30.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Pat Rodrigues",
+      "school": "Centennial",
+      "time": "16:18.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Matt Holthaus",
+      "school": "Wilde Lake",
+      "time": "16:09.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Russ Adams",
+      "school": "Brunswick",
+      "time": "16:27.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Pascal Dobert",
+      "school": "Whitman",
+      "time": "17:30.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Pat Rodrigues",
+      "school": "Centennial",
+      "time": "16:53.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Brian Horn",
+      "school": "Loch Raven",
+      "time": "17:11.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1990,
+      "classification": "1A",
+      "name": "MIke Mamo",
+      "school": "Milford Mill",
+      "time": "17:17.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Troy Harry",
+      "school": "Quince Orchard",
+      "time": "16:02.8",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Pascal Dobert",
+      "school": "Whitman",
+      "time": "15:22.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Gerard Hogan",
+      "school": "Glenelg",
+      "time": "15:53.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Jim Clarius",
+      "school": "Francis Scott Key",
+      "time": "16:30.8",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Troy Harry",
+      "school": "Quince Orchard",
+      "time": "16:03.4",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Bryan Townsend",
+      "school": "Atholton",
+      "time": "16:07.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Edward Hogan",
+      "school": "Glenelg",
+      "time": "16:01.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Bobby Simmons",
+      "school": "Joppatowne",
+      "time": "16:28.7",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Jason Reckner",
+      "school": "Old Mill",
+      "time": "16:07.8",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Josh Orenstein",
+      "school": "Walter Johnson",
+      "time": "16:00.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Jamie Davies",
+      "school": "Catonsville",
+      "time": "15:52.4",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Bobby Simmons",
+      "school": "Joppatowne",
+      "time": "16:23.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Mike Recek",
+      "school": "Westminster",
+      "time": "18:16",
+      "distance": "3.1 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Jonathan Hayes",
+      "school": "Linganore",
+      "time": "18:05",
+      "distance": "3.1 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Gregory Curtis",
+      "school": "Oakland Mills",
+      "time": "17:41",
+      "distance": "3.1 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Brian Schnebly",
+      "school": "Clear Spring",
+      "time": "17:44",
+      "distance": "3.1 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Nick Gramsky",
+      "school": "Northern\u2014C",
+      "time": "17:00",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Joe Smith",
+      "school": "Parkville",
+      "time": "16:49",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Justin Taylor",
+      "school": "Allegany",
+      "time": "17:01",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Mark Schnebly",
+      "school": "Clear Spring",
+      "time": "17:05",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Ed Tufaro",
+      "school": "Whitman",
+      "time": "16:45",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Jeff Olenick",
+      "school": "Centennial",
+      "time": "16:52",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Justin Taylor",
+      "school": "Allegany",
+      "time": "16:48",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Tim Mason",
+      "school": "Clear Spring",
+      "time": "17:05",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Jason Santucci",
+      "school": "Westminster",
+      "time": "16:46",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1997,
+      "classification": "3A",
+      "name": "David Glynn",
+      "school": "Walter Johnson",
+      "time": "17:07",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Jarrett Van Tine",
+      "school": "Bethesda-CC",
+      "time": "16:58",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Tim Mason",
+      "school": "Clear Spring",
+      "time": "17:50",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Jason Santucci",
+      "school": "Westminster",
+      "time": "16:39",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1998,
+      "classification": "3A",
+      "name": "David Glynn",
+      "school": "Walter Johnson",
+      "time": "16:36",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Jarrett Van Tine",
+      "school": "Bethesda-CC",
+      "time": "16:27",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Zach Bittinger",
+      "school": "Westmar",
+      "time": "16:58",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Marcus Hershberger",
+      "school": "Gaithersburg",
+      "time": "16:29",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Michael Styczynski",
+      "school": "River Hill",
+      "time": "16:22",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Scott Herrick",
+      "school": "Linganore",
+      "time": "16:41",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Ryan Foster",
+      "school": "Beall",
+      "time": "16:35",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Marcus Hershberger",
+      "school": "Gaithersburg",
+      "time": "16:27",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2000,
+      "classification": "3A",
+      "name": "William Christian",
+      "school": "Great Mills",
+      "time": "16:10",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Brian Murphy",
+      "school": "Urbana",
+      "time": "16:24",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Izudin Mehmedovic",
+      "school": "Oakland Mills",
+      "time": "16:25",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Pat Bailey",
+      "school": "C. M. Wright",
+      "time": "16:39",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Shane Stroup",
+      "school": "River Hill",
+      "time": "16:03",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Justin Faith",
+      "school": "Fort Hill",
+      "time": "17:01",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Izudin Mehmedovic",
+      "school": "Oakland Mills",
+      "time": "16:34",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Pat Bailey",
+      "school": "C. M. Wright",
+      "time": "16:12",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Kurt Kuehne",
+      "school": "Urbana",
+      "time": "16:34",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Zach Vasow",
+      "school": "Bethesda-CC",
+      "time": "16:59",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Jordan Davis",
+      "school": "Allegany",
+      "time": "17:07",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Ricky Flynn",
+      "school": "Damascus",
+      "time": "16:35",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Kurt Kuehne",
+      "school": "Urbana",
+      "time": "16:47",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Phil Diven",
+      "school": "South Carroll",
+      "time": "17:22",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Dan Dewitt",
+      "school": "Beall",
+      "time": "17:24",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Matt Centrowitz",
+      "school": "Broadneck",
+      "time": "16:38",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2004,
+      "classification": "3A",
+      "name": "William Eden",
+      "school": "Annapolis",
+      "time": "16:41",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Andrew Revelle",
+      "school": "Atholton",
+      "time": "17:26",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Dan DeWitt",
+      "school": "Beall",
+      "time": "17:16",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Matt Centrowitz",
+      "school": "Broadneck",
+      "time": "16:01",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Kyle Ryan",
+      "school": "Linganore",
+      "time": "16:36",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Andrew Revelle",
+      "school": "Atholton",
+      "time": "16:45",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Mohamed Khelalfa",
+      "school": "Fort Hill",
+      "time": "17:23",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Matt Centrowitz",
+      "school": "Broadneck",
+      "time": "16:03",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Christopher Bowie",
+      "school": "BCC",
+      "time": "16:47",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Andre Revelle",
+      "school": "Atholton",
+      "time": "16:17",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Ryan Bowser",
+      "school": "Northern-G",
+      "time": "16:55",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Andrew Palmer",
+      "school": "Whitman",
+      "time": "16:36",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Joey Thompson",
+      "school": "Howard",
+      "time": "16:16",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Kyle Andrews",
+      "school": "Oakland Mills",
+      "time": "16:33",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Ryan Bowser",
+      "school": "Northern-G",
+      "time": "16:39",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Solomon Haile",
+      "school": "Sherwood",
+      "time": "15:43",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Graham Bazell",
+      "school": "Atholton",
+      "time": "16:29",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Craig Morgan",
+      "school": "River Hill",
+      "time": "16:46",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Jake Zamostny",
+      "school": "South Carroll",
+      "time": "16:58",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2009,
+      "classification": "4A",
+      "name": "Andrew Palmer",
+      "school": "Whitman",
+      "time": "16:48",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Tyler Ostrowski",
+      "school": "Chopticon",
+      "time": "17:12",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Robby Creese",
+      "school": "Glenelg",
+      "time": "17:30",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2009,
+      "classification": "1A",
+      "name": "David Wilson",
+      "school": "Smithsburg",
+      "time": "16:38",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Chris Miller",
+      "school": "Northwest",
+      "time": "16:09",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Mason Rivera",
+      "school": "Hereford",
+      "time": "16:27",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Robby Creese",
+      "school": "Glenelg",
+      "time": "16:46",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Ian MacFawn",
+      "school": "Allegany",
+      "time": "16:47",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Scott Sheehan",
+      "school": "Walter Johnson",
+      "time": "16:29",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Braden Bruning",
+      "school": "Linganore",
+      "time": "16:21",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Austin McGinley",
+      "school": "Rising Sun",
+      "time": "16:21",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Ryan Pfarr",
+      "school": "Bohemia Manor",
+      "time": "17:15",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Will Bertrand",
+      "school": "Clarksburg",
+      "time": "16:02.7",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Harry Bullen",
+      "school": "Annapolis",
+      "time": "16:19.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2012,
+      "classification": "2A",
+      "name": "David Dorsey",
+      "school": "Catoctin",
+      "time": "16:25.2",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Ty Franks",
+      "school": "Bohemia Manor",
+      "time": "16:58.8",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Ryan Forsyth",
+      "school": "Severna Park",
+      "time": "15:41.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Ben Freed",
+      "school": "Thomas Johnson",
+      "time": "16:06.9",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Chase Weaverling",
+      "school": "Poolesville",
+      "time": "15:42.8",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Ty Franks",
+      "school": "Bohemia Manor",
+      "time": "16:20.8",
+      "distance": "3.0 Miles"
+    }
+  ]
+}

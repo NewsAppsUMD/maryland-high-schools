@@ -1,0 +1,1075 @@
+{
+  "meta": {
+    "extractor": "individual_xc",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      11
+    ],
+    "extracted_at": "2026-08-02T02:17:38Z"
+  },
+  "rows": [
+    {
+      "sport": "Girls Cross Country",
+      "year": 1975,
+      "classification": "",
+      "name": "Mary Walsh",
+      "school": "Northwood",
+      "time": "15:07.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Debbie Pavick",
+      "school": "Dulaney",
+      "time": "12:36.2",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1976,
+      "classification": "ABC",
+      "name": "Mary Walsh",
+      "school": "Northwood",
+      "time": "12:01.3",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Jill Haworth",
+      "school": "Bowie",
+      "time": "11:20.0",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1977,
+      "classification": "ABC",
+      "name": "Jeannette Simms",
+      "school": "Smithsburg",
+      "time": "11:52.0",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Jill Haworth",
+      "school": "Bowie",
+      "time": "11:26.3",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1978,
+      "classification": "A",
+      "name": "Jill Cotton",
+      "school": "E. Roosevelt",
+      "time": "11:43.7",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1978,
+      "classification": "B",
+      "name": "Colleen Desmond",
+      "school": "Damascus",
+      "time": "11:59.7",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1978,
+      "classification": "C",
+      "name": "Jeannette Simms",
+      "school": "Smithsburg",
+      "time": "11:54.5",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Karin Wagner",
+      "school": "Lansdowne",
+      "time": "12:20.0",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1979,
+      "classification": "A",
+      "name": "Mary Cassidy",
+      "school": "Gaithersburg",
+      "time": "12:21.7",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1979,
+      "classification": "B",
+      "name": "Debbie Paladino",
+      "school": "Centennial",
+      "time": "12:39.4",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1979,
+      "classification": "C",
+      "name": "Shelly Smith",
+      "school": "Williamsport",
+      "time": "13:06.8",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Kris Kavetski",
+      "school": "Bowie",
+      "time": "12:13.6",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1980,
+      "classification": "A",
+      "name": "Sue Kinnecome",
+      "school": "Northwood",
+      "time": "12:23.8",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1980,
+      "classification": "B",
+      "name": "Alyssa Terry",
+      "school": "Wilde Lake",
+      "time": "12:14.6",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1980,
+      "classification": "C",
+      "name": "Shelly Smith",
+      "school": "Williamsport",
+      "time": "12:59.3",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Kris Kavetski",
+      "school": "Bowie",
+      "time": "12:15.3",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1981,
+      "classification": "A",
+      "name": "Meagen Jensen",
+      "school": "Towson",
+      "time": "12:54.8",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1981,
+      "classification": "B",
+      "name": "Tammy Walder",
+      "school": "Hereford",
+      "time": "12:13.4",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1981,
+      "classification": "C",
+      "name": "Yvette Lemkuhl",
+      "school": "Boonsboro",
+      "time": "13:14.0",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Betsy Schmid",
+      "school": "Springbrook",
+      "time": "15:20.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1982,
+      "classification": "A",
+      "name": "Beth Jacobson",
+      "school": "Kennedy",
+      "time": "15:19.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1982,
+      "classification": "B",
+      "name": "Cindy Kearns",
+      "school": "Woodward",
+      "time": "14:59.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1982,
+      "classification": "C",
+      "name": "Yvette Lemkuhl",
+      "school": "Boonsboro",
+      "time": "15:52.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1983,
+      "classification": "AA",
+      "name": "Tammy Devore",
+      "school": "Churchill",
+      "time": "14:46.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1983,
+      "classification": "A",
+      "name": "Beth Jacobson",
+      "school": "Kennedy",
+      "time": "15:04.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1983,
+      "classification": "B",
+      "name": "Zenny Koehler",
+      "school": "Aberdeen",
+      "time": "15:24.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1983,
+      "classification": "C",
+      "name": "Jennifer Amyx",
+      "school": "Walkersville",
+      "time": "15:39.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Ann Hoefler",
+      "school": "Springbrook",
+      "time": "14:29.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1984,
+      "classification": "A",
+      "name": "Beth Jacobson",
+      "school": "Kennedy",
+      "time": "14:43.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1984,
+      "classification": "B",
+      "name": "Kathy Beresh",
+      "school": "North Harford",
+      "time": "15:24.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1984,
+      "classification": "C",
+      "name": "Sharon Webb",
+      "school": "Smithsburg",
+      "time": "15:43.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Robin Quinlan",
+      "school": "Bowie",
+      "time": "15:42.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1985,
+      "classification": "A",
+      "name": "Kim Brackeen",
+      "school": "Douglass",
+      "time": "15:44.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1985,
+      "classification": "B",
+      "name": "Kathy Beresh",
+      "school": "North Harford",
+      "time": "15:52.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1985,
+      "classification": "C",
+      "name": "Sharon Webb",
+      "school": "Smithsburg",
+      "time": "16:35.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Virginia Mattingly",
+      "school": "Whitman",
+      "time": "16:.05.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1986,
+      "classification": "A",
+      "name": "Latashia Key",
+      "school": "N. Hagerstown",
+      "time": "16:37.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1986,
+      "classification": "B-C",
+      "name": "Mary Leffel",
+      "school": "Hereford",
+      "time": "15:45.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Robin Quinlan",
+      "school": "Bowie",
+      "time": "18:32.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1987,
+      "classification": "A",
+      "name": "Jenny Athey",
+      "school": "Laurel",
+      "time": "19:18.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1987,
+      "classification": "B-C",
+      "name": "Steffi Rausch",
+      "school": "Howard",
+      "time": "19:06.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1988,
+      "classification": "4A",
+      "name": "Kim Many",
+      "school": "Kennedy",
+      "time": "18:25.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1988,
+      "classification": "3A",
+      "name": "Vikki Bernhardt",
+      "school": "Loch Raven",
+      "time": "19:25.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1988,
+      "classification": "2A-1A",
+      "name": "Jenny Howard",
+      "school": "Fallston",
+      "time": "19:17.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Laura Herath",
+      "school": "Severna Park",
+      "time": "19:31.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Amanda Cox",
+      "school": "Centennial",
+      "time": "20:15.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Jenny Howard",
+      "school": "Fallston",
+      "time": "18:55.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Lora Price",
+      "school": "Brunswick",
+      "time": "20:11.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Amanda White",
+      "school": "Dulaney",
+      "time": "18:43.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Amanda Cox",
+      "school": "Centennial",
+      "time": "21:46.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Jenny Howard",
+      "school": "Fallston",
+      "time": "19:40.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Jackie Semler",
+      "school": "Boonsboro",
+      "time": "21:08.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Amanda White",
+      "school": "Dulaney",
+      "time": "17:25.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Tonya Watson",
+      "school": "Kennedy",
+      "time": "19:20.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Michelle Barrett",
+      "school": "Allegany",
+      "time": "18:39.1",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Adrian Unger",
+      "school": "Brunswick",
+      "time": "19:06.9",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Amanda White",
+      "school": "Dulaney",
+      "time": "17:18.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Sally Glynn",
+      "school": "Walter Johnson",
+      "time": "18:37.7",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Alicia Adams",
+      "school": "Glenelg",
+      "time": "19:36.7",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Adrian Unger",
+      "school": "Brunswick",
+      "time": "19:10.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1993,
+      "classification": "4A",
+      "name": "Kristen Nicolini",
+      "school": "Annapolis",
+      "time": "18:26.2",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Sally Glynn",
+      "school": "Walter Johnson",
+      "time": "17:24.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Bridget Olp",
+      "school": "Catonsville",
+      "time": "18:54.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Adrian Unger",
+      "school": "Brunswick",
+      "time": "19:26.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Krissy Jost",
+      "school": "Perry Hall",
+      "time": "20:18",
+      "distance": "3.1 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Sally Glynn",
+      "school": "Walter Johnson",
+      "time": "19:00",
+      "distance": "3.1 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Dana Strickland",
+      "school": "Atholton",
+      "time": "21:49",
+      "distance": "3.1 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Adrian Unger",
+      "school": "Brunswick",
+      "time": "21:35",
+      "distance": "3.1 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1995,
+      "classification": "4A",
+      "name": "Sarah Wassner",
+      "school": "Watkins Mill",
+      "time": "20:02",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Sally Glynn",
+      "school": "Walter Johnson",
+      "time": "19:29",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Kristen Ritter",
+      "school": "Linganore",
+      "time": "19:50",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Elizabeth Lowrie",
+      "school": "Urbana",
+      "time": "20:09",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Katy Orifici",
+      "school": "Springbrook",
+      "time": "20:36",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Jennifer Ford",
+      "school": "Thos. Johnson",
+      "time": "19:54",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Martha Nelson",
+      "school": "B-CC",
+      "time": "20:12",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Elizabeth Lowrie",
+      "school": "Urbana",
+      "time": "20:24",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Claudin Hull",
+      "school": "Quince Orchard",
+      "time": "20:22",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Kelly Coogan",
+      "school": "C. M. Wright",
+      "time": "19:18",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Randy Buzzell",
+      "school": "Middletown",
+      "time": "19:36",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Kjetil Lowe",
+      "school": "Poolesville",
+      "time": "20:33",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Claudin Hull",
+      "school": "Quince Orchard",
+      "time": "19:45",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Colleen Lawson",
+      "school": "North Carroll",
+      "time": "19:58",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Kari McCarty",
+      "school": "N. Hagerstown",
+      "time": "19:49",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Erin Davis",
+      "school": "Allegany",
+      "time": "20:59",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1999,
+      "classification": "4A",
+      "name": "Tenke Zoltani",
+      "school": "Dulaney",
+      "time": "19:05",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Colleen Lawson",
+      "school": "North Carroll",
+      "time": "19:38",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Emily Buzzell",
+      "school": "Middletown",
+      "time": "18:58",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Nori Sams",
+      "school": "Allegany",
+      "time": "20:49",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Karen Pulliam",
+      "school": "Quince Orchard",
+      "time": "18:52",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Lee McDuff",
+      "school": "River Hill",
+      "time": "20:00",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Cori Koch",
+      "school": "Towson",
+      "time": "19:28",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Carrie Selmer",
+      "school": "Glenelg",
+      "time": "20:49",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Karen Pulliam",
+      "school": "Quince Orchard",
+      "time": "19:27",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Ashley St. Denis",
+      "school": "Walter Johnson",
+      "time": "19:27",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Cori Koch",
+      "school": "Towson",
+      "time": "19:45",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Jennifer Patton",
+      "school": "Westmar",
+      "time": "20:21",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Lauren Centrowitz",
+      "school": "Broadneck",
+      "time": "19:10",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Ashley St. Denis",
+      "school": "Walter Johnson",
+      "time": "20:04",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Beth Catherwood",
+      "school": "Bethesda-CC",
+      "time": "19:59",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Rachel Armstrong",
+      "school": "Beall",
+      "time": "20:04",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Lauren Centrowitz",
+      "school": "Broadneck",
+      "time": "19:02",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Alison Barnes",
+      "school": "C. M. Wright",
+      "time": "19:47",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Jesica Hanlin",
+      "school": "North Hagerstown",
+      "time": "20:22",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Ashley Lockard",
+      "school": "Clear Spring",
+      "time": "20:03",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Halsey Sinclair",
+      "school": "Montgomery Blair",
+      "time": "19:52",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Amy Watson",
+      "school": "North Carroll",
+      "time": "20:15",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Allison Smith",
+      "school": "Atholton",
+      "time": "19:38",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Ashley Lockard",
+      "school": "Clear Spring",
+      "time": "20:36",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Marika Walker",
+      "school": "E. Roosevelt",
+      "time": "19:19",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Katie Hursey",
+      "school": "North Carroll",
+      "time": "19:13",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Allison Smith",
+      "school": "Atholton",
+      "time": "19:25",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Lauryn MacFawn",
+      "school": "Allegany",
+      "time": "20:16",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Marika Walker",
+      "school": "E Roosevelt",
+      "time": "19:15",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Liz McCarter",
+      "school": "Mt. Hebron",
+      "time": "19:50",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Allison Smith",
+      "school": "Atholton",
+      "time": "19:30",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Girls Cross Country",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Lauryn MacFawn",
+      "school": "Allegany",
+      "time": "21:01",
+      "distance": "3.0 Miles"
+    }
+  ]
+}

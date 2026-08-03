@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      33
+    ],
+    "extracted_at": "2026-08-02T20:23:05Z"
+  },
+  "rows": [
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1975,
+      "classification": "All Classes Combined",
+      "name": "Sari Betsh & Glen Burke",
+      "school": "Kennedy",
+      "mark": "6-3, 6-7, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1976,
+      "classification": "All Classes Combined",
+      "name": "Wendy Thomas & Harold Burgin",
+      "school": "Pikesville",
+      "mark": "6-1, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1977,
+      "classification": "All Classes Combined",
+      "name": "Bob Petrasek & Moira Bowden",
+      "school": "Whitman",
+      "mark": "6-4, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1978,
+      "classification": "All Classes Combined",
+      "name": "Nancy Koran & Howard Goodstat",
+      "school": "Kennedy",
+      "mark": "6-1, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1979,
+      "classification": "All Classes Combined",
+      "name": "Tom Ransahoff & Jan Shelburne",
+      "school": "Whitman",
+      "mark": "6-1, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1980,
+      "classification": "All Classes Combined",
+      "name": "Daryl Kimche & Richard Hoe",
+      "school": "Whitman",
+      "mark": "6-2, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1981,
+      "classification": "All Classes Combined",
+      "name": "Cindy Lubman & Louis Chernak",
+      "school": "Pikesville",
+      "mark": "6-4, 5-7, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1982,
+      "classification": "All Classes Combined",
+      "name": "Bryan Kay & Katie Drewyer",
+      "school": "Whitman",
+      "mark": "6-0, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1983,
+      "classification": "All Classes Combined",
+      "name": "Carter Gooch & Edward Thompson",
+      "school": "Easton",
+      "mark": "6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1984,
+      "classification": "All Classes Combined",
+      "name": "Jennifer Clark & Cliff Rees",
+      "school": "Mount Hebron",
+      "mark": "6-1, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1985,
+      "classification": "All Classes Combined",
+      "name": "Liz Chabner & Scott Seidel",
+      "school": "Churchill",
+      "mark": "6-2, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1986,
+      "classification": "All Classes Combined",
+      "name": "Jeremy Loomis & Jennifer Loundes",
+      "school": "Wilde Lake",
+      "mark": "6-4, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1987,
+      "classification": "All Classes Combined",
+      "name": "Tonya Thompson & Matt Herman",
+      "school": "JM Bennett",
+      "mark": "6-7 (7-5), 7-6 (8-6), 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1988,
+      "classification": "All Classes Combined",
+      "name": "Rob Greenwald & Leslie McCrea",
+      "school": "Centennial",
+      "mark": "3-6, 6-1, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1989,
+      "classification": "All Classes Combined",
+      "name": "Catherine Spaulding & Bret Ellwood",
+      "school": "Severna Park",
+      "mark": "6-4, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1990,
+      "classification": "All Classes Combined",
+      "name": "Eython Sontag & Genevra Kyle",
+      "school": "Wootton",
+      "mark": "6-3, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1991,
+      "classification": "All Classes Combined",
+      "name": "Herman Swart & Liz Henkin",
+      "school": "Whitman",
+      "mark": "6-3, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1992,
+      "classification": "All Classes Combined",
+      "name": "Erica Fulton & Ben Rawitt",
+      "school": "Severna Park",
+      "mark": "6-1, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1993,
+      "classification": "All Classes Combined",
+      "name": "Kelly Moler & Zach Tran",
+      "school": "North Hagerstown",
+      "mark": "1-6, 6-3, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1994,
+      "classification": "All Classes Combined",
+      "name": "Alex Chi & Negeen Pegahi",
+      "school": "Quince Orchard",
+      "mark": "6-3, 7-5"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1995,
+      "classification": "All Classes Combined",
+      "name": "Karen Prangley & Josh Prangley",
+      "school": "Atholton",
+      "mark": "6-0, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1996,
+      "classification": "All Classes Combined",
+      "name": "Katie Gibbons & Will Cathell",
+      "school": "Stephen Decatur",
+      "mark": "2-6, 6-4, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1997,
+      "classification": "All Classes Combined",
+      "name": "Katie Gibbons & Chris Zielinski",
+      "school": "Stephen Decatur",
+      "mark": "1-6, 7-6 (7-5), 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1998,
+      "classification": "All Classes Combined",
+      "name": "Katie Gibbons & Greg Zielinski",
+      "school": "Stephen Decatur",
+      "mark": "6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 1999,
+      "classification": "All Classes Combined",
+      "name": "Brooke Fleetwood & Shan Shariff",
+      "school": "Cambridge/SD",
+      "mark": "6-2, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2000,
+      "classification": "All Classes Combined",
+      "name": "Danielle Hess & Timothy Rohrbaugh",
+      "school": "Bel Air",
+      "mark": "6-1, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2001,
+      "classification": "All Classes Combined",
+      "name": "Lauren Bendoff & David Lax",
+      "school": "Wilde Lake",
+      "mark": "6-1, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2002,
+      "classification": "All Classes Combined",
+      "name": "Lesley Price & Chris Jacob",
+      "school": "Eleanor Roosevelt",
+      "mark": "6-3, 6-4"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2003,
+      "classification": "All Classes Combined",
+      "name": "Ellen Wallenjack & Oliver Gaines",
+      "school": "Walter Johnson",
+      "mark": "6-0, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2004,
+      "classification": "All Classes Combined",
+      "name": "Jacquie Foelster & Larry Tran",
+      "school": "Walter Johnson",
+      "mark": "6-1, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2005,
+      "classification": "All Classes Combined",
+      "name": "Tiffany Hodges & Larry Tran",
+      "school": "Walter Johnson",
+      "mark": "6-3, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2006,
+      "classification": "All Classes Combined",
+      "name": "Jessica Kahlenberg & Kirby Mayo",
+      "school": "Whitman",
+      "mark": "6-4, 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2007,
+      "classification": "All Classes Combined",
+      "name": "Julia Southerland & John Healey",
+      "school": "Atholton",
+      "mark": "6-2, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2008,
+      "classification": "All Classes Combined",
+      "name": "Sarah Macy & Pablo Gottret",
+      "school": "Whitman",
+      "mark": "6-2, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2009,
+      "classification": "All Classes Combined",
+      "name": "Sarah Macy & Aaron Hoffman",
+      "school": "Whitman",
+      "mark": "6-1, 6-7 (7-5), 6-3"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2010,
+      "classification": "All Classes Combined",
+      "name": "Audrey Cheng & Nathan Huber",
+      "school": "River Hill",
+      "mark": "3-6, 6-3, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2011,
+      "classification": "All Classes Combined",
+      "name": "Megan Hahn & Gabriel Fan",
+      "school": "Wootton",
+      "mark": "6-4, 6-0"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2012,
+      "classification": "All Classes Combined",
+      "name": "Aishu Iyer & Julian Mu",
+      "school": "Wootton",
+      "mark": "6-3, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2013,
+      "classification": "All Classes Combined",
+      "name": "Katie Gauch & Michael Gauch",
+      "school": "Churchill",
+      "mark": "6-3, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2014,
+      "classification": "All Classes Combined",
+      "name": "Katie Gauch & Elliott Thacker",
+      "school": "Churchill",
+      "mark": "6-3, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2015,
+      "classification": "All Classes Combined",
+      "name": "Kelly Chen & Jake Gordon",
+      "school": "Wootton",
+      "mark": "6-2, 6-2"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2016,
+      "classification": "All Classes Combined",
+      "name": "Jessica Fatemi & Ethan Kowalski",
+      "school": "Walter Johnson",
+      "mark": "6-1, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2017,
+      "classification": "All Classes Combined",
+      "name": "Anna Radeviciute & Ethan Kowalski",
+      "school": "Walter Johnson",
+      "mark": "6-1, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2018,
+      "classification": "All Classes Combined",
+      "name": "Lea Kosanovic & Ethan Kowalski",
+      "school": "Walter Johnson",
+      "mark": "6-2, 6-1"
+    }
+  ]
+}

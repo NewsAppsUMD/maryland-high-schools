@@ -1,0 +1,1093 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      35
+    ],
+    "extracted_at": "2026-08-02T20:23:47Z"
+  },
+  "rows": [
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Evin McDonald",
+      "school": "Walt Whitman",
+      "mark": "(6-3, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Taiyo Tougas",
+      "school": "Huntingtown",
+      "mark": "(6-3, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Origen Grear",
+      "school": "Hammond",
+      "mark": "(3-6, 7-5, 1-0[5])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Daniel Smith",
+      "school": "Frederick Douglass-PG",
+      "mark": "(6-1, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Nathan La",
+      "school": "Winston Churchill",
+      "mark": "(6-3, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Vivekraj Harinarayan",
+      "school": "Bel Air",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Noah Fisher",
+      "school": "Stephen Decatur",
+      "mark": "(6-2, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Alexander Simanovskiy",
+      "school": "Pikesville",
+      "mark": "(6-0, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Jakob Esterowitz",
+      "school": "Thomas S. Wootton",
+      "mark": "(6-4, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Alex Artazov",
+      "school": "River Hill",
+      "mark": "(6-1, 2-6, 1-0[7])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Rohan Bhat",
+      "school": "Poolesville",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Hunter Liao",
+      "school": "Boonsboro",
+      "mark": "(6-0, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Noah Lewis",
+      "school": "Quince Orchard",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Alex Artazov",
+      "school": "River Hill",
+      "mark": "(7-6[7], 0-6, 1-0[8])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Andy Wu",
+      "school": "Poolesville",
+      "mark": "(6-2, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Hunter Liao",
+      "school": "Boonsboro",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Bert Mackey",
+      "school": "Winston Churchill",
+      "mark": "(6-1, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Mukundh Boopathi",
+      "school": "Marriots Ridge",
+      "mark": "(6-3, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Andy Wu",
+      "school": "Poolesville",
+      "mark": "(6-2, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Hunter Liao",
+      "school": "Boonsboro",
+      "mark": "(6-0, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Exodus Waite",
+      "school": "Seneca Valley",
+      "mark": "(6-1, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2025,
+      "classification": "3A",
+      "name": "NIcholas Novitski",
+      "school": "Oakdale",
+      "mark": "(6-2, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Andy Wu",
+      "school": "Poolesville",
+      "mark": "(6-1, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Singles",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Hunter Liao",
+      "school": "Boonsboro",
+      "mark": "(6-0, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Ayana Akli",
+      "school": "Wheaton",
+      "mark": "(6-1, 6-4)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Sania Suchinsky",
+      "school": "Rockville",
+      "mark": "(6-0, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Rani Jones",
+      "school": "Oakdale",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Meadow Santoriello",
+      "school": "Patterson Mill",
+      "mark": "(6-0, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Helen Sarikulaya",
+      "school": "Thomas S. Wooton",
+      "mark": "(6-0, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Trinetra Vijayakumar",
+      "school": "Mount Hebron",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Ana Castro",
+      "school": "Kent Island",
+      "mark": "(Default)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Elizabeth Nabutovsky",
+      "school": "Pikesville",
+      "mark": "(6-1, 3-6, 1-0[6])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Helen Sarikulaya",
+      "school": "Thomas S. Wooton",
+      "mark": "(6-2, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Madison Warren",
+      "school": "Thomas Johnson",
+      "mark": "(6-2, 6-4)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Ruhika Bhat",
+      "school": "Poolesville",
+      "mark": "(6-2, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Marli McDorman",
+      "school": "Pocomoke",
+      "mark": "(5-7, 6-4, 1-0[8])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Olivia Mellynchuk",
+      "school": "Broadneck",
+      "mark": "(6-3, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Lia Melvin",
+      "school": "Aberdeen",
+      "mark": "(2-6, 6-1, 1-0[7])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Gauri Muliyil",
+      "school": "Eastern Technical",
+      "mark": "(7-6[7], 5-2[Ret.Inj.])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Julia Jeffrey",
+      "school": "Pikesville",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Olivia Mellynchuk",
+      "school": "Broadneck",
+      "mark": "(6-4, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Kiersten Tambe",
+      "school": "Reservoir",
+      "mark": "(6-1, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Shivaani Selvan",
+      "school": "Hammond",
+      "mark": "(6-2, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Lauren Toms",
+      "school": "Williamsport",
+      "mark": "(3-0, WO/Inj.)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Olivia Mellynchuk",
+      "school": "Broadneck",
+      "mark": "(6-2, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Brynn Bilnoski",
+      "school": "Severna Park",
+      "mark": "(6-3, 6-4)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Ruhika Bhat",
+      "school": "Poolesville",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Singles",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Atlee Hilliard",
+      "school": "Smithsburg",
+      "mark": "(7-6[3], 7-6[2])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Zach Rosen & Hugh Markham",
+      "school": "Walt Whitman",
+      "mark": "(6-3, 7-5)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Dennis Piliptchak & Keeyan Mirzai",
+      "school": "Rockville",
+      "mark": "(6-2, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Lucas Joshi & Aiden Steinly",
+      "school": "Easton",
+      "mark": "(6-3, 7-5)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Evan Row & Ian Barbour",
+      "school": "Boonsboro",
+      "mark": "(6-2, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Jax Khademi & Nathaniel Winik",
+      "school": "Bethesda Chevy-Chase",
+      "mark": "(6-2, 6-4)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Joshua Cai & Yari Armand",
+      "school": "Reservoir",
+      "mark": "(4-6, 6-2, 1-0[9])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Robert Xu & Jeeva Padmanabhan",
+      "school": "Poolesville",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Joey Oyer & Jacob Ritchie",
+      "school": "Mountain Ridge",
+      "mark": "(6-3, 2-6, 1-0[8])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Hugh Markham & Conrad Decressin",
+      "school": "Walt Whitman",
+      "mark": "(6-1, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Shreyas Rath & Pedro Arantes Gabriel",
+      "school": "Marriotts Ridge",
+      "mark": "(7-6[5], 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Jacob Kegley & Colin Blanton",
+      "school": "C. Milton Wright",
+      "mark": "(6-2, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Nikhil Andhavarapu & Arjun Mistry",
+      "school": "Liberty",
+      "mark": "(6-3, 7-5)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Andrew Wu & Ethan Han",
+      "school": "Winston Churchill",
+      "mark": "(6-3, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Connor Chun & Roger He",
+      "school": "River Hill",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Carson Smith & Jeeva Padmanabhan",
+      "school": "Poolesville",
+      "mark": "(7-5, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Ethan Luu & Brandon Nguyen",
+      "school": "Harford Technical",
+      "mark": "(6-2, 5-7, 1-0[8])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Aakash Deodhar & Roshan Deodhar",
+      "school": "Winston Churchill",
+      "mark": "(6-2, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Carson Campbell & Roger He",
+      "school": "River Hill",
+      "mark": "(6-4, 6-4)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2024,
+      "classification": "2A",
+      "name": "William Chen & Jeeva Padmanabhan",
+      "school": "Poolesville",
+      "mark": "(6-1, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Arjun Mistry & Hayden Speace",
+      "school": "Liberty",
+      "mark": "(6-0, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Aakash Deodhar & Roshan Deodhar",
+      "school": "Winston Churchill",
+      "mark": "(6-0, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Justin Hunag & Kyle Li",
+      "school": "Thomas S. Wootton",
+      "mark": "(6-2, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2025,
+      "classification": "2A",
+      "name": "William Chen & Akshaj Mareddy",
+      "school": "Poolesville",
+      "mark": "(6-2, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Boys Doubles",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Keagan Luu & Brandon Nguyen",
+      "school": "Harford Technical",
+      "mark": "(6-3, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Abby Moghtader & Miriam Moghtader",
+      "school": "Severna Park",
+      "mark": "(6-2, 7-6[5])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Emma O'Kane & Alexandra Pinkham",
+      "school": "Northern-Calvert",
+      "mark": "(6-2, 4-6, 1-0[7])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Noelle Htwar & Emily Brecker",
+      "school": "Liberty",
+      "mark": "(7-6[3], 6-4)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Madison Jenkins & Paige Seibert",
+      "school": "Clear Spring",
+      "mark": "(6-2, 6-4)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Vanessa Mellynchuk & Alison Bach",
+      "school": "South River",
+      "mark": "(6-0, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Rose Huang & Michelle Fradlin",
+      "school": "Centennial",
+      "mark": "(6-1, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Emma Hsieh & Carly Ross",
+      "school": "Hereford",
+      "mark": "(6-3, 7-5)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Gwen Alberding & Aaliyah Rodriguez",
+      "school": "Perryville",
+      "mark": "7-5, 6-1"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Anusha Lyer & Naomi Esterowitz",
+      "school": "Thomas S. Wootton",
+      "mark": "(6-0, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Adelaide Houston & Priyanka Ramulu",
+      "school": "River Hill",
+      "mark": "(6-2, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Angelina Zhao & Suzanne Xu",
+      "school": "Poolesville",
+      "mark": "(6-2, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Madison Haggerty & Grace Maerten",
+      "school": "Liberty",
+      "mark": "(6-4, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Anusha Lyer & Naomi Esterowitz",
+      "school": "Thomas S. Wootton",
+      "mark": "(6-0, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Michelle Fradlin & Joanna Blackman",
+      "school": "Centennial",
+      "mark": "(7-5, 2-6, 1-0[8])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Suzanne Xu & Kyra McGlinchey",
+      "school": "Poolesville",
+      "mark": "(6-0, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Camryn Row & Larissa Blair",
+      "school": "Boonsboro",
+      "mark": "(6-3, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Ellen Bu & Jiajing Zheng",
+      "school": "Richard Montgomery",
+      "mark": "(6-3, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Adelaide Houston & Adele Lair",
+      "school": "River Hill",
+      "mark": "(6-4, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2024,
+      "classification": "2A",
+      "name": "MIchelle Fradlin & Joanna Blackman",
+      "school": "Centennial",
+      "mark": "(6-2, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Caroline Aliftiras & Audrey Lillycrop",
+      "school": "South Carroll",
+      "mark": "(6-3, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Ellen Bu & Jiajing Zheng",
+      "school": "Richard Montgomery",
+      "mark": "(6-4, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Kacie Cheng & Julian Kim",
+      "school": "River Hill",
+      "mark": "(6-4, 5-7, 1-0[7])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Lucy Taylor & Meg Taylor",
+      "school": "Queen Anne's",
+      "mark": "(3-6, 6-3, 1-0[9])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Girls Doubles",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Iryna Kovalenko & Audrey Lillycrop",
+      "school": "South Carroll",
+      "mark": "(7-5, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Ellie Esterowitz & Jakob Esterowitz",
+      "school": "Thomas S. Wootton",
+      "mark": "(6-1, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Ally Frushour & Mike Moler",
+      "school": "South Hagerstown",
+      "mark": "(6-3, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Veronica Cuellar & Stephen Alam",
+      "school": "Marriotts Ridge",
+      "mark": "(7-6[3], 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Megan Murphy & Seth Jones",
+      "school": "Mountain Ridge",
+      "mark": "(6-0, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Nishrin Shah & Ethan Han",
+      "school": "Winston Churchill",
+      "mark": "(6-0, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Claire Kim & Kevin Li",
+      "school": "Urbana",
+      "mark": "(7-6[4], 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Danielle DeLawter & Evan DeLawter",
+      "school": "Century",
+      "mark": "(6-3, 6-4)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Lily Holtschneider & Connor Kragh",
+      "school": "Patterson Mill",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Nishrin Shah & Ethan Han",
+      "school": "Winston Churchill",
+      "mark": "(6-0, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Corinne Chau & Alex Brousseau",
+      "school": "Howard",
+      "mark": "(6-1, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Danielle DeLawter & Evan DeLawter",
+      "school": "Century",
+      "mark": "(6-3, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Kayda Shives & Andrew Keller",
+      "school": "Clear Spring",
+      "mark": "(7-5, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Sky Carter & Brady MacBride",
+      "school": "Walter Johnson",
+      "mark": "(6-2, 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Adele Lair & Jai Khanna",
+      "school": "River Hill",
+      "mark": "(7-6[7], 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Rebecca White & Josh Huster",
+      "school": "North Caroline",
+      "mark": "(6-3, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Keira McDonald & Ben Kennedy",
+      "school": "Brunswick",
+      "mark": "(6-2, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Anissa Jean-Claude & Charlie Ernst",
+      "school": "Broadneck",
+      "mark": "(7-6[5], 6-2)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2024,
+      "classification": "3A",
+      "name": "Naomi Esterowitz & Anthony Hall",
+      "school": "Thomas S. Wootton",
+      "mark": "(6-4, 6-3)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Ariela Dumesh & Vijay Jagarapu",
+      "school": "Centennial",
+      "mark": "(6-0, 6-1)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Sydney Mossman & Michael Mooney",
+      "school": "South Carroll",
+      "mark": "(7-6[4], 7-5)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2025,
+      "classification": "4A",
+      "name": "Ivy Li & Michael Song",
+      "school": "Winston Churchill",
+      "mark": "(6-4, 7-6[5])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2025,
+      "classification": "3A",
+      "name": "Adele Lair & Landan Daniel",
+      "school": "River Hill",
+      "mark": "(6-2, 3-6, 1-0[8])"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Ariela Dumesh & Adrian Jayaputra",
+      "school": "Centennial",
+      "mark": "(6-0, 6-0)"
+    },
+    {
+      "sport": "Tennis",
+      "event": "Mixed Doubles",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Alexandria Rockwell & Tom Weller",
+      "school": "Saint Michael's",
+      "mark": "(6-1, 6-2)"
+    }
+  ]
+}

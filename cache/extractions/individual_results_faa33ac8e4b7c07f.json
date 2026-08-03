@@ -1,0 +1,2002 @@
+{
+  "meta": {
+    "extractor": "individual_results",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      77
+    ],
+    "extracted_at": "2026-08-02T20:50:23Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1983,
+      "classification": "B",
+      "name": "Charles Johnson",
+      "school": "JOP",
+      "mark": "48.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1983,
+      "classification": "C",
+      "name": "Kelwyn Love",
+      "school": "HAM",
+      "mark": "49.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1984,
+      "classification": "AA",
+      "name": "Antoine Harris",
+      "school": "RAN",
+      "mark": "48.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1984,
+      "classification": "A",
+      "name": "Lee",
+      "school": "FRA",
+      "mark": "49.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1984,
+      "classification": "B",
+      "name": "Jeff Coates",
+      "school": "BAR",
+      "mark": "49.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1984,
+      "classification": "C",
+      "name": "Carl Morton",
+      "school": "JMB",
+      "mark": "48.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1985,
+      "classification": "AA",
+      "name": "Robert Bailey",
+      "school": "LAR",
+      "mark": "48.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1985,
+      "classification": "A",
+      "name": "Delancy Richardson",
+      "school": "CEN",
+      "mark": "48.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1985,
+      "classification": "B",
+      "name": "Edgar Hall",
+      "school": "FOR",
+      "mark": "50.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1985,
+      "classification": "C",
+      "name": "George James",
+      "school": "STD",
+      "mark": "49.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1986,
+      "classification": "AA",
+      "name": "Marty Walker",
+      "school": "JFK",
+      "mark": "47.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1986,
+      "classification": "A",
+      "name": "George Fearwell",
+      "school": "SUR",
+      "mark": "49.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1986,
+      "classification": "B",
+      "name": "John Robertson",
+      "school": "CEN",
+      "mark": "47.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1986,
+      "classification": "C",
+      "name": "Lamar Hall",
+      "school": "BEA",
+      "mark": "50.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1987,
+      "classification": "AA",
+      "name": "Ed Lartey",
+      "school": "FRI",
+      "mark": "48.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1987,
+      "classification": "A",
+      "name": "Steve Reddick",
+      "school": "POT",
+      "mark": "49.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1987,
+      "classification": "B",
+      "name": "Kevin Gittings",
+      "school": "ABE",
+      "mark": "49.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1987,
+      "classification": "C",
+      "name": "Shawn Simon",
+      "school": "JMB",
+      "mark": "49.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1988,
+      "classification": "AA",
+      "name": "Jerry Roney",
+      "school": "WOO",
+      "mark": "47.69"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1988,
+      "classification": "A",
+      "name": "Danny Johnson",
+      "school": "LAU",
+      "mark": "48.7-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1988,
+      "classification": "B",
+      "name": "Dwayne Freeman",
+      "school": "SHG",
+      "mark": "48.1-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1988,
+      "classification": "C",
+      "name": "Harold Williams",
+      "school": "MLM",
+      "mark": "50.9-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1989,
+      "classification": "4A",
+      "name": "Derrick Love",
+      "school": "MEA",
+      "mark": "48.24"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1989,
+      "classification": "3A",
+      "name": "Dan Johnson",
+      "school": "LAU",
+      "mark": "49.41"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1989,
+      "classification": "2A",
+      "name": "Terry Venable",
+      "school": "ABE",
+      "mark": "49.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1989,
+      "classification": "1A",
+      "name": "Curtis Piper",
+      "school": "FSK",
+      "mark": "51.52"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1990,
+      "classification": "4A",
+      "name": "Anthony Battle",
+      "school": "ELR",
+      "mark": "49.00"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1990,
+      "classification": "3A",
+      "name": "Kirk Hewling",
+      "school": "JFK",
+      "mark": "49.27"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1990,
+      "classification": "2A",
+      "name": "Al Eddings",
+      "school": "PKS",
+      "mark": "49.74"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1990,
+      "classification": "1A",
+      "name": "Robert Lee",
+      "school": "MLM",
+      "mark": "51.21"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1991,
+      "classification": "4A",
+      "name": "Clive Brooks",
+      "school": "BCC",
+      "mark": "47.82"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1991,
+      "classification": "3A",
+      "name": "Kareem Lamb",
+      "school": "CAT",
+      "mark": "49.16"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1991,
+      "classification": "2A",
+      "name": "Barry Duvall",
+      "school": "WTM",
+      "mark": "50.77"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1991,
+      "classification": "1A",
+      "name": "Keith Reid",
+      "school": "MAR",
+      "mark": "50.78"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1992,
+      "classification": "4A",
+      "name": "Sam Lomax",
+      "school": "NCT",
+      "mark": "48.6-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1992,
+      "classification": "3A",
+      "name": "Mike Hillman",
+      "school": "POT",
+      "mark": "49.6-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1992,
+      "classification": "2A",
+      "name": "Leon Moore",
+      "school": "SUR",
+      "mark": "49.7-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1992,
+      "classification": "1A",
+      "name": "Josh Novak",
+      "school": "CTT",
+      "mark": "51.9-h"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1993,
+      "classification": "4A",
+      "name": "John McFarland",
+      "school": "GAI",
+      "mark": "49.57"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1993,
+      "classification": "3A",
+      "name": "Robert Fountain",
+      "school": "THS",
+      "mark": "49.10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1993,
+      "classification": "2A",
+      "name": "Damon Ferguson",
+      "school": "OAK",
+      "mark": "49.39"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1993,
+      "classification": "1A",
+      "name": "Scott Kriet",
+      "school": "FSK",
+      "mark": "50.62"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1994,
+      "classification": "4A",
+      "name": "Anthony Stuckey",
+      "school": "MVT",
+      "mark": "48.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1994,
+      "classification": "3A",
+      "name": "Peter Kimball",
+      "school": "WWH",
+      "mark": "48.81"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1994,
+      "classification": "2A",
+      "name": "Damon Ferguson",
+      "school": "OAK",
+      "mark": "49.78"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1994,
+      "classification": "1A",
+      "name": "Desean Moore",
+      "school": "FOR",
+      "mark": "49.09"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1995,
+      "classification": "4A",
+      "name": "James Carter",
+      "school": "MVT",
+      "mark": "47.96"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1995,
+      "classification": "3A",
+      "name": "Keith Ford",
+      "school": "DUV",
+      "mark": "48.21"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1995,
+      "classification": "2A",
+      "name": "Dondre Gilliam",
+      "school": "ABE",
+      "mark": "49.90"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1995,
+      "classification": "1A",
+      "name": "Cliff Wong",
+      "school": "FOR",
+      "mark": "48.94"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1996,
+      "classification": "4A",
+      "name": "Dameon Johnson",
+      "school": "WLB",
+      "mark": "47.70"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1996,
+      "classification": "3A",
+      "name": "Jared Howard",
+      "school": "ATH",
+      "mark": "49.27"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1996,
+      "classification": "2A",
+      "name": "Dondre Gilliam",
+      "school": "ABE",
+      "mark": "48.84"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1996,
+      "classification": "1A",
+      "name": "Aaron Howard",
+      "school": "FSK",
+      "mark": "51.58"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1997,
+      "classification": "4A",
+      "name": "Ato Modibo",
+      "school": "HPT",
+      "mark": "46.24"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1997,
+      "classification": "3A",
+      "name": "Ajamu Kitwana",
+      "school": "RMT",
+      "mark": "49.41"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1997,
+      "classification": "2A",
+      "name": "Dain Lewis",
+      "school": "WLD",
+      "mark": "49.06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1997,
+      "classification": "1A",
+      "name": "Aaron Howard",
+      "school": "FSK",
+      "mark": "50.72"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1998,
+      "classification": "4A",
+      "name": "Ato Modibo",
+      "school": "HPT",
+      "mark": "46.33"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1998,
+      "classification": "3A",
+      "name": "Derrick Stanfield",
+      "school": "MLM",
+      "mark": "47.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1998,
+      "classification": "2A",
+      "name": "Demond Mullen",
+      "school": "SOA",
+      "mark": "49.35"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1998,
+      "classification": "1A",
+      "name": "Kyle Farmer",
+      "school": "OAK",
+      "mark": "49.56"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1999,
+      "classification": "4A",
+      "name": "James Graham",
+      "school": "NWE",
+      "mark": "47.32"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1999,
+      "classification": "3A",
+      "name": "Derrick Stanfield",
+      "school": "MLM",
+      "mark": "48.86"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1999,
+      "classification": "2A",
+      "name": "Karold Gray",
+      "school": "SOA",
+      "mark": "49.99"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 1999,
+      "classification": "1A",
+      "name": "Kyle Farmer",
+      "school": "OAK",
+      "mark": "48.85"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2000,
+      "classification": "4A",
+      "name": "Dwayne Thomas",
+      "school": "NWE",
+      "mark": "47.74"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2000,
+      "classification": "3A",
+      "name": "Luis George",
+      "school": "LGR",
+      "mark": "49.28"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2000,
+      "classification": "2A",
+      "name": "Marques Sneed",
+      "school": "CAT",
+      "mark": "49.29"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2000,
+      "classification": "1A",
+      "name": "Kyle Farmer",
+      "school": "OAK",
+      "mark": "47.81"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2001,
+      "classification": "4A",
+      "name": "Jamaal Wright",
+      "school": "NWE",
+      "mark": "49.33"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2001,
+      "classification": "3A",
+      "name": "Vincent Brown",
+      "school": "FRI",
+      "mark": "49.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2001,
+      "classification": "2A",
+      "name": "Germain Bryant",
+      "school": "SUR",
+      "mark": "49.46"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2001,
+      "classification": "1A",
+      "name": "Dominique Richmond",
+      "school": "SHG",
+      "mark": "48.49"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2002,
+      "classification": "4A",
+      "name": "Paul Young",
+      "school": "OXH",
+      "mark": "47.85"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2002,
+      "classification": "3A",
+      "name": "Herbert Nicholls",
+      "school": "GWP",
+      "mark": "47.48"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2002,
+      "classification": "2A",
+      "name": "Andrew Peresta",
+      "school": "SOA",
+      "mark": "50.18"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2002,
+      "classification": "1A",
+      "name": "Stann Waithe",
+      "school": "LCR",
+      "mark": "48.50"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2003,
+      "classification": "4A",
+      "name": "Serge McGill",
+      "school": "SUI",
+      "mark": "48.35"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2003,
+      "classification": "3A",
+      "name": "Dean Lee",
+      "school": "MDU",
+      "mark": "48.55"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2003,
+      "classification": "2A",
+      "name": "Andrew Peresta",
+      "school": "SOA",
+      "mark": "48.78"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2003,
+      "classification": "1A",
+      "name": "Stan Waithe",
+      "school": "LCR",
+      "mark": "48.57"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2004,
+      "classification": "4A",
+      "name": "Serge McGill",
+      "school": "SUI",
+      "mark": "48.75"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2004,
+      "classification": "3A",
+      "name": "Courtney Knight",
+      "school": "LAC",
+      "mark": "49.34"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2004,
+      "classification": "2A",
+      "name": "Drew Graybeal",
+      "school": "GLG",
+      "mark": "49.71"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2004,
+      "classification": "1A",
+      "name": "Karlton McCullough",
+      "school": "OAK",
+      "mark": "49.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2005,
+      "classification": "4A",
+      "name": "Romaine McKay",
+      "school": "ELR",
+      "mark": "48.11"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2005,
+      "classification": "3A",
+      "name": "Corryl Boyd",
+      "school": "WLA",
+      "mark": "49.63"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2005,
+      "classification": "2A",
+      "name": "Wayne Moten",
+      "school": "FOR",
+      "mark": "49.73"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2005,
+      "classification": "1A",
+      "name": "Kevin Johnson",
+      "school": "DGH",
+      "mark": "49.68"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2006,
+      "classification": "4A",
+      "name": "Terrill McCombs",
+      "school": "ELR",
+      "mark": "48.03"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2006,
+      "classification": "3A",
+      "name": "Corryl Boyd",
+      "school": "WLA",
+      "mark": "47.96"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2006,
+      "classification": "2A",
+      "name": "Andrew Scott",
+      "school": "EVT",
+      "mark": "49.45"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2006,
+      "classification": "1A",
+      "name": "Saphon Hamilton",
+      "school": "BHM",
+      "mark": "50.56"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2007,
+      "classification": "4A",
+      "name": "Donte Holmes",
+      "school": "ELR",
+      "mark": "47.94"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2007,
+      "classification": "3A",
+      "name": "Corryl Boyd",
+      "school": "WLA",
+      "mark": "47.95"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2007,
+      "classification": "2A",
+      "name": "Phil Moorehead",
+      "school": "HAM",
+      "mark": "48.37"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2007,
+      "classification": "1A",
+      "name": "Marcus Miles",
+      "school": "WAS",
+      "mark": "49.55"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2008,
+      "classification": "4A",
+      "name": "Leslie Murray",
+      "school": "HPT",
+      "mark": "48.33"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2008,
+      "classification": "3A",
+      "name": "Justin Murdock",
+      "school": "MEA",
+      "mark": "47.51"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2008,
+      "classification": "2A",
+      "name": "Joshua King",
+      "school": "MDU",
+      "mark": "49.36"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2008,
+      "classification": "1A",
+      "name": "Jordan Pridgen",
+      "school": "DGH",
+      "mark": "50.10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2009,
+      "classification": "4A",
+      "name": "George Empty",
+      "school": "CHF",
+      "mark": "48.26"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2009,
+      "classification": "3A",
+      "name": "Dominic Clarke",
+      "school": "TUS",
+      "mark": "48.92"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2009,
+      "classification": "2A",
+      "name": "Micheal Houston",
+      "school": "BPI",
+      "mark": "49.06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2009,
+      "classification": "1A",
+      "name": "Dana Smothers",
+      "school": "HVT",
+      "mark": "49.88"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2010,
+      "classification": "4A",
+      "name": "Randall Gross",
+      "school": "NPT",
+      "mark": "49.18"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2010,
+      "classification": "3A",
+      "name": "Brandon Addison",
+      "school": "WTM",
+      "mark": "48.25"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2010,
+      "classification": "2A",
+      "name": "Terrance Drew",
+      "school": "OAK",
+      "mark": "48.22"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2010,
+      "classification": "1A",
+      "name": "Deven Patterson",
+      "school": "CTT",
+      "mark": "48.51"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2011,
+      "classification": "4A",
+      "name": "Champ Page",
+      "school": "HWI",
+      "mark": "47.82"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2011,
+      "classification": "3A",
+      "name": "Dorian Clagget",
+      "school": "BPI",
+      "mark": "48.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2011,
+      "classification": "2A",
+      "name": "Yelnats Calvin",
+      "school": "LAN",
+      "mark": "49.31"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2011,
+      "classification": "1A",
+      "name": "Deven Patterson",
+      "school": "CTT",
+      "mark": "48.01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2012,
+      "classification": "4A",
+      "name": "Champ Page",
+      "school": "HWI",
+      "mark": "47.27"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2012,
+      "classification": "3A",
+      "name": "Erick Soetje",
+      "school": "RVH",
+      "mark": "48.81"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2012,
+      "classification": "2A",
+      "name": "Brandon Chase",
+      "school": "EDG",
+      "mark": "47.25"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2012,
+      "classification": "1A",
+      "name": "Matt Smith",
+      "school": "NCL",
+      "mark": "48.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2013,
+      "classification": "4A",
+      "name": "Dorian Claggett",
+      "school": "BPI",
+      "mark": "49.13"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2013,
+      "classification": "3A",
+      "name": "Josh Poole",
+      "school": "CTN",
+      "mark": "49.50"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2013,
+      "classification": "2A",
+      "name": "Marcell Preston",
+      "school": "LAR",
+      "mark": "49.41"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2013,
+      "classification": "1A",
+      "name": "Carrington Akosa",
+      "school": "WTE",
+      "mark": "50.10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2014,
+      "classification": "4A",
+      "name": "Antonio Coleman",
+      "school": "BOW",
+      "mark": "48.01"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2014,
+      "classification": "3A",
+      "name": "Deyvon Howell",
+      "school": "LAC",
+      "mark": "49.35"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2014,
+      "classification": "2A",
+      "name": "Carrington Akosa",
+      "school": "WTE",
+      "mark": "48.45"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2014,
+      "classification": "1A",
+      "name": "Maury Sall",
+      "school": "PIK",
+      "mark": "48.97"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2015,
+      "classification": "4A",
+      "name": "Maxwell Willis",
+      "school": "BOW",
+      "mark": "48.18"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2015,
+      "classification": "3A",
+      "name": "Darnell Pratt",
+      "school": "MTH",
+      "mark": "48.53"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2015,
+      "classification": "2A",
+      "name": "Rico Gomez",
+      "school": "FRD",
+      "mark": "48.29"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2015,
+      "classification": "1A",
+      "name": "Trevon Jones",
+      "school": "NOG",
+      "mark": "50.23"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2016,
+      "classification": "4A",
+      "name": "Jacari Ramsey",
+      "school": "SPB",
+      "mark": "49.41"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2016,
+      "classification": "3A",
+      "name": "Aaron Robinson",
+      "school": "OXH",
+      "mark": "48.78"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2016,
+      "classification": "2A",
+      "name": "Thomas Alcorn",
+      "school": "WLA",
+      "mark": "48.44"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2016,
+      "classification": "1A",
+      "name": "Ajahn Very",
+      "school": "NWB",
+      "mark": "50.71"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2017,
+      "classification": "4A",
+      "name": "Ken Nelson",
+      "school": "HPT",
+      "mark": "47.99"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2017,
+      "classification": "3A",
+      "name": "Aaron Robinson",
+      "school": "OXH",
+      "mark": "47.81"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2017,
+      "classification": "2A",
+      "name": "Thomas Alcorn",
+      "school": "WLA",
+      "mark": "48.74"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2017,
+      "classification": "1A",
+      "name": "Ellis Brown",
+      "school": "PIK",
+      "mark": "48.77"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2018,
+      "classification": "4A",
+      "name": "Donnell Carter",
+      "school": "NPT",
+      "mark": "48.50"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2018,
+      "classification": "3A",
+      "name": "Ariq Nixon",
+      "school": "MLM",
+      "mark": "49.14"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2018,
+      "classification": "2A",
+      "name": "Brandon James",
+      "school": "NWT",
+      "mark": "47.96"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2018,
+      "classification": "1A",
+      "name": "Aharon Luster",
+      "school": "LAR",
+      "mark": "50.40"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2019,
+      "classification": "4A",
+      "name": "Eryk Goode",
+      "school": "PEH",
+      "mark": "49.66"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2019,
+      "classification": "3A",
+      "name": "Emmanuel Ibeh",
+      "school": "RES",
+      "mark": "49.73"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2019,
+      "classification": "2A",
+      "name": "Damon Brockenberry",
+      "school": "HAM",
+      "mark": "48.66"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2019,
+      "classification": "1A",
+      "name": "Miles Gray",
+      "school": "FRD",
+      "mark": "49.02"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2021,
+      "classification": "4A",
+      "name": "Donovan Brown",
+      "school": "QOR",
+      "mark": "48.46"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2021,
+      "classification": "3A",
+      "name": "Judson Lincoln IV",
+      "school": "OAK",
+      "mark": "48.35"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2021,
+      "classification": "2A",
+      "name": "Marquis Miller",
+      "school": "MLM",
+      "mark": "49.53"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2021,
+      "classification": "1A",
+      "name": "Cameron Rejonis",
+      "school": "SMI",
+      "mark": "50.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2022,
+      "classification": "4A",
+      "name": "Jack DeBaugh",
+      "school": "SEP",
+      "mark": "48.66"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2022,
+      "classification": "3A",
+      "name": "Talil Atkins",
+      "school": "BPI",
+      "mark": "48.10"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2022,
+      "classification": "2A",
+      "name": "Judson Lincoln IV",
+      "school": "OAK",
+      "mark": "47.42"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2022,
+      "classification": "1A",
+      "name": "Cameron Rejonis",
+      "school": "SMI",
+      "mark": "50.18"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2023,
+      "classification": "4A",
+      "name": "Nicholas Spikes",
+      "school": "PBR",
+      "mark": "47.80"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2023,
+      "classification": "3A",
+      "name": "Jack Hynes",
+      "school": "BAR",
+      "mark": "48.66"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2023,
+      "classification": "2A",
+      "name": "Xavier Doctor",
+      "school": "OAK",
+      "mark": "48.29"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2023,
+      "classification": "1A",
+      "name": "Furious Trammel",
+      "school": "CTT",
+      "mark": "48.91"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2024,
+      "classification": "4A",
+      "name": "Nicholas Spikes",
+      "school": "PBR",
+      "mark": "46.59"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2024,
+      "classification": "3A",
+      "name": "LaMont Johnson",
+      "school": "DGH",
+      "mark": "46.93"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2024,
+      "classification": "2A",
+      "name": "Malachi Williams",
+      "school": "LAR",
+      "mark": "47.82"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2024,
+      "classification": "1A",
+      "name": "Furious Trammel",
+      "school": "CTT",
+      "mark": "48.34"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2025,
+      "classification": "4A",
+      "name": "D'marcus Lewis",
+      "school": "HWI",
+      "mark": "48.21"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2025,
+      "classification": "3A",
+      "name": "LaMont Johnson",
+      "school": "DGH",
+      "mark": "48.17"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2025,
+      "classification": "2A",
+      "name": "Malachi Williams",
+      "school": "LAR",
+      "mark": "48.27"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "400 Meters",
+      "year": 2025,
+      "classification": "1A",
+      "name": "Donte Long",
+      "school": "FRI",
+      "mark": "48.72"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Wheelchair 400 Meters",
+      "year": 2010,
+      "classification": "Comb",
+      "name": "Ben Mayforth",
+      "school": "BAR",
+      "mark": "1:18.76"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Wheelchair 400 Meters",
+      "year": 2011,
+      "classification": "Comb",
+      "name": "Ben Mayforth",
+      "school": "BAR",
+      "mark": "1:12.19"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "Wheelchair 400 Meters",
+      "year": 2012,
+      "classification": "Comb",
+      "name": "Ben Mayforth",
+      "school": "BAR",
+      "mark": "1:08.87"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1952,
+      "classification": "A",
+      "name": "Charlie Hartman & Bob Goldbach",
+      "school": "FTH/MTB",
+      "mark": "2:08.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1952,
+      "classification": "B",
+      "name": "Dulin",
+      "school": "EAS",
+      "mark": "2:13.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1952,
+      "classification": "C",
+      "name": "Cahall",
+      "school": "Sudlersville",
+      "mark": "3:01.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1953,
+      "classification": "A",
+      "name": "Bob Goldbach",
+      "school": "MTB",
+      "mark": "2:08.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1953,
+      "classification": "B",
+      "name": "Bob Walls",
+      "school": "Centreville",
+      "mark": null
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1954,
+      "classification": "A",
+      "name": "Phillip Parisius",
+      "school": "HOW",
+      "mark": "2:06.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1954,
+      "classification": "B",
+      "name": "Jerry Walls",
+      "school": "Centreville",
+      "mark": "2:13.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1954,
+      "classification": "C",
+      "name": "Patrick Walters",
+      "school": "WAS",
+      "mark": "2:14.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1955,
+      "classification": "A",
+      "name": "Pete Fritz",
+      "school": "TOW",
+      "mark": "2:05.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1955,
+      "classification": "B",
+      "name": "Bill Lawrence",
+      "school": "RIS",
+      "mark": "2:07.05"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1955,
+      "classification": "C",
+      "name": "Thomas",
+      "school": "Hampstead",
+      "mark": "2:12.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1956,
+      "classification": "A",
+      "name": "Jerry Raftery",
+      "school": "MTB",
+      "mark": "2:02.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1956,
+      "classification": "B",
+      "name": "Bill Lawrence",
+      "school": "RIS",
+      "mark": "2:07.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1956,
+      "classification": "C",
+      "name": "John Barnes",
+      "school": "WAS",
+      "mark": "2:13.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1957,
+      "classification": "A",
+      "name": "Len Patrick",
+      "school": "KEN",
+      "mark": "2:04.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1957,
+      "classification": "B",
+      "name": "Craft",
+      "school": "ABE",
+      "mark": "2:07.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1957,
+      "classification": "C",
+      "name": "Gilbert Hardesty",
+      "school": "SOA",
+      "mark": "2:07.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1958,
+      "classification": "A",
+      "name": "Dick Smith",
+      "school": "PKV",
+      "mark": "2:02.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1958,
+      "classification": "C",
+      "name": "John Barnes",
+      "school": "WAS",
+      "mark": "2:06.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1959,
+      "classification": "A",
+      "name": "Sal Rainiori",
+      "school": "KEN",
+      "mark": "2:99.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1959,
+      "classification": "B",
+      "name": "Herron",
+      "school": "ELK",
+      "mark": "2:07.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1959,
+      "classification": "C",
+      "name": "Gordy Moiles",
+      "school": "WAS",
+      "mark": "2:13.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1960,
+      "classification": "A",
+      "name": "Gimmel",
+      "school": "BCC",
+      "mark": "2:06"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1960,
+      "classification": "B",
+      "name": "Sharp",
+      "school": "NCN",
+      "mark": "2:05.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1960,
+      "classification": "C",
+      "name": "Burgess Blevens",
+      "school": "WAS",
+      "mark": "2:05.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1961,
+      "classification": "AA",
+      "name": "Rich Newton",
+      "school": "SHG",
+      "mark": "2:00.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1961,
+      "classification": "A",
+      "name": "Jeff Norris",
+      "school": "ALL",
+      "mark": "2:07.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1961,
+      "classification": "B",
+      "name": "Ronald Bower",
+      "school": "BOO",
+      "mark": "2:06.2"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1961,
+      "classification": "C",
+      "name": "Wainright",
+      "school": "HDG",
+      "mark": "2:07.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1962,
+      "classification": "AA",
+      "name": "Rich Newton",
+      "school": "SHG",
+      "mark": "1:55.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1962,
+      "classification": "A",
+      "name": "Blanchette",
+      "school": "ARU",
+      "mark": "2:05.5"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1962,
+      "classification": "B",
+      "name": "David Louden",
+      "school": "Sollers Point",
+      "mark": "2:00.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1962,
+      "classification": "C",
+      "name": "Parker",
+      "school": "HDG",
+      "mark": "2:09.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1963,
+      "classification": "AA",
+      "name": "Dave Patrick",
+      "school": "KEN",
+      "mark": "1:58.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1963,
+      "classification": "A",
+      "name": "Arnold Cornett",
+      "school": "Brooklyn Park",
+      "mark": "2:00.4"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1963,
+      "classification": "B",
+      "name": "Rounds",
+      "school": "Salisbury",
+      "mark": "2:00.6"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1963,
+      "classification": "C",
+      "name": "Reuben Beauchamp",
+      "school": "WAS",
+      "mark": "2:05.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1964,
+      "classification": "AA",
+      "name": "Dave Patrick",
+      "school": "KEN",
+      "mark": "1:54.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1964,
+      "classification": "A",
+      "name": "Bob Thomas",
+      "school": "SPP",
+      "mark": "2:01.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1964,
+      "classification": "B",
+      "name": "McGowan",
+      "school": "Sollers Point",
+      "mark": "2:01.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1964,
+      "classification": "C",
+      "name": "Reuben Beauchamp",
+      "school": "WAS",
+      "mark": "1:59.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1965,
+      "classification": "AA",
+      "name": "Dave Schultz",
+      "school": "OVE",
+      "mark": "1:55.7"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1965,
+      "classification": "A",
+      "name": "George Minarik",
+      "school": "PEH",
+      "mark": "1:57.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1965,
+      "classification": "C",
+      "name": "Jan Eliasson",
+      "school": "WAS",
+      "mark": "2:00.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1966,
+      "classification": "AA",
+      "name": "Rick Kell",
+      "school": "KEN",
+      "mark": "1:57.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1966,
+      "classification": "A",
+      "name": "Jay Cuthbert",
+      "school": "FRA",
+      "mark": "1:59.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1966,
+      "classification": "B",
+      "name": "Eugene Dean",
+      "school": "FSK",
+      "mark": "2:02.9"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1966,
+      "classification": "C",
+      "name": "John Britton",
+      "school": "WAS",
+      "mark": "2:05.0"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1967,
+      "classification": "AA",
+      "name": "Rick Kell",
+      "school": "KEN",
+      "mark": "1:55.1"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1967,
+      "classification": "A",
+      "name": "James Goure",
+      "school": "WCH",
+      "mark": "2:00.8"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1967,
+      "classification": "B",
+      "name": "Donald Holmes",
+      "school": "LAC",
+      "mark": "2:04.3"
+    },
+    {
+      "sport": "Boys Track and Field",
+      "event": "880 Yards",
+      "year": 1967,
+      "classification": "C",
+      "name": "John Britton",
+      "school": "WAS",
+      "mark": "2:03.8"
+    }
+  ]
+}

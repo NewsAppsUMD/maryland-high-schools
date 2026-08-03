@@ -1,0 +1,1991 @@
+{
+  "meta": {
+    "extractor": "championship",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/Spring record book 2025.pdf",
+    "source_pages": [
+      37,
+      38
+    ],
+    "extracted_at": "2026-08-02T20:25:38Z",
+    "manual_correction": "1975 Combined Girls Track champion (DuVal, coach Beverly Bigham; finalist Largo/Lee Markley) recovered from prior cache extraction (orphan) for pages [37,38]; fresh LLM call had dropped this inaugural MPSSAA row. PDF p37 confirms: 1975 1st DuVal, 2nd Largo."
+  },
+  "rows": [
+    {
+      "sport": "Girls Track and Field",
+      "year": 1950,
+      "classification": "B",
+      "champion_school": "Bates",
+      "champion_coach": null,
+      "finalist_school": "Worcester",
+      "finalist_coach": null,
+      "score": "53-26"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1950,
+      "classification": "C",
+      "champion_school": "Bel Alton",
+      "champion_coach": null,
+      "finalist_school": "Havre de Grace",
+      "finalist_coach": null,
+      "score": "41.5-26.5"
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1976,
+      "classification": "AA",
+      "champion_school": "Suitland",
+      "champion_coach": "Patricia Johnson",
+      "finalist_school": "Springbrook",
+      "finalist_coach": "James Castonguay",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1976,
+      "classification": "ABC",
+      "champion_school": "Largo",
+      "champion_coach": "Lee Markley",
+      "finalist_school": "Old Mill",
+      "finalist_coach": "Roy Payne",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1977,
+      "classification": "AA",
+      "champion_school": "Crossland",
+      "champion_coach": "Lindsay Thomas",
+      "finalist_school": "Bladensburg",
+      "finalist_coach": "Mary Lucas",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1977,
+      "classification": "A",
+      "champion_school": "Old Mill",
+      "champion_coach": "Roy Payne",
+      "finalist_school": "Largo",
+      "finalist_coach": "Barbara Stinson",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1977,
+      "classification": "B",
+      "champion_school": "Central—PG",
+      "champion_coach": "Vera Stevenson",
+      "finalist_school": "Meade",
+      "finalist_coach": "Jay Cuthbert",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1977,
+      "classification": "C",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Don Stoner",
+      "finalist_school": "Oakland Mills",
+      "finalist_coach": "Alice Frazier",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1978,
+      "classification": "AA",
+      "champion_school": "Severna Park",
+      "champion_coach": "Donn Gregg",
+      "finalist_school": "Crossland",
+      "finalist_coach": "Lindsay Thomas",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1978,
+      "classification": "A",
+      "champion_school": "E. Roosevelt",
+      "champion_coach": "Robyn Tabron",
+      "finalist_school": "B-CC",
+      "finalist_coach": "Kerry Ward",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1978,
+      "classification": "B",
+      "champion_school": "Oakland Mills",
+      "champion_coach": "Sylvester Burke",
+      "finalist_school": "Frederick",
+      "finalist_coach": "Bill Price",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1978,
+      "classification": "C",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Don Stoner",
+      "finalist_school": "Col Richardson",
+      "finalist_coach": "Doug Canan",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1979,
+      "classification": "AA",
+      "champion_school": "Crossland",
+      "champion_coach": "Lindsay Thomas",
+      "finalist_school": "Annapolis",
+      "finalist_coach": "Bob Walleck",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1979,
+      "classification": "A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Bob Rothenberg",
+      "finalist_school": "E. Roosevelt",
+      "finalist_coach": "Ralph White",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1979,
+      "classification": "B",
+      "champion_school": "Frederick",
+      "champion_coach": "Bill Price",
+      "finalist_school": "Damascus",
+      "finalist_coach": "Michael Fekete",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1979,
+      "classification": "C",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Don Stoner",
+      "finalist_school": "Leonardtown",
+      "finalist_coach": "Robert Taylor",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1980,
+      "classification": "AA",
+      "champion_school": "Bladensburg",
+      "champion_coach": "Mary Lucas",
+      "finalist_school": "Crossland",
+      "finalist_coach": "Lindsay Thomas",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1980,
+      "classification": "A",
+      "champion_school": "B-CC",
+      "champion_coach": "Kerry Ward",
+      "finalist_school": "Fairmont Heights",
+      "finalist_coach": "Bob Rothenberg",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1980,
+      "classification": "B",
+      "champion_school": "Frederick",
+      "champion_coach": "Harry Nogle",
+      "finalist_school": "Sherwood",
+      "finalist_coach": "Sue Gorsuch",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1980,
+      "classification": "C",
+      "champion_school": "Linganore",
+      "champion_coach": "Barbara Ferguson",
+      "finalist_school": "Brunswick",
+      "finalist_coach": "Carol Smith",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1981,
+      "classification": "AA",
+      "champion_school": "Bladensburg",
+      "champion_coach": "Mary Lucas",
+      "finalist_school": "Dulaney",
+      "finalist_coach": "Kathy Schmidt",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1981,
+      "classification": "A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "B-CC",
+      "finalist_coach": "Kerry Ward",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1981,
+      "classification": "B",
+      "champion_school": "Frederick",
+      "champion_coach": "Harry Nogle",
+      "finalist_school": "Northern-C",
+      "finalist_coach": "Vicki Foster",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1981,
+      "classification": "C",
+      "champion_school": "Linganore",
+      "champion_coach": "Barbara Ferguson",
+      "finalist_school": "North Caroline",
+      "finalist_coach": "Dan Cunningham",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1982,
+      "classification": "AA",
+      "champion_school": "Suitland",
+      "champion_coach": "Anne Rothenberg",
+      "finalist_school": "Crossland",
+      "finalist_coach": "Lindsay Thomas",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1982,
+      "classification": "A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "DuVal",
+      "finalist_coach": "Bev McMahon",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1982,
+      "classification": "B",
+      "champion_school": "Frederick",
+      "champion_coach": "Harry Nogle",
+      "finalist_school": "Atholton",
+      "finalist_coach": "Graydon Webster",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1982,
+      "classification": "C",
+      "champion_school": "North Caroline",
+      "champion_coach": "Dan Cunningham",
+      "finalist_school": "Middletown",
+      "finalist_coach": "Ron Albaugh",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1983,
+      "classification": "AA",
+      "champion_school": "Suitland",
+      "champion_coach": "Anne Rothenberg",
+      "finalist_school": "Oxon Hill",
+      "finalist_coach": "Bernard Burns",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1983,
+      "classification": "A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "DuVal",
+      "finalist_coach": "Bev McMahon",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1983,
+      "classification": "B",
+      "champion_school": "Frederick",
+      "champion_coach": "Mitch Thomas",
+      "finalist_school": "Oakland Mills",
+      "finalist_coach": "Sylvester Burke",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1983,
+      "classification": "C",
+      "champion_school": "Brunswick",
+      "champion_coach": "Carol Smith",
+      "finalist_school": "Middletown",
+      "finalist_coach": "Ron Albaugh",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1984,
+      "classification": "AA",
+      "champion_school": "Old Mill",
+      "champion_coach": "Ron Evans",
+      "finalist_school": "Suitland",
+      "finalist_coach": "Fletcher James",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1984,
+      "classification": "A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "McDonough",
+      "finalist_coach": "Larry Johnson",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1984,
+      "classification": "B",
+      "champion_school": "North Carroll",
+      "champion_coach": "Henry Adami",
+      "finalist_school": "Einstein",
+      "finalist_coach": "Jim Brown",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1984,
+      "classification": "C",
+      "champion_school": "Boonsboro",
+      "champion_coach": "Dwight Scott",
+      "finalist_school": "Middletown",
+      "finalist_coach": "Ron Albaugh",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1985,
+      "classification": "AA",
+      "champion_school": "Westminster",
+      "champion_coach": "Doug Renner",
+      "finalist_school": "Suitland",
+      "finalist_coach": "Fletcher James",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1985,
+      "classification": "A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "McDonough",
+      "finalist_coach": "Larry Johnson",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1985,
+      "classification": "B",
+      "champion_school": "North Carroll",
+      "champion_coach": "Henry Adami",
+      "finalist_school": "Leonardtown",
+      "finalist_coach": "Krista Taylor",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1985,
+      "classification": "C",
+      "champion_school": "Boonsboro",
+      "champion_coach": "Dwight Scott",
+      "finalist_school": "Francis Scott Key",
+      "finalist_coach": "John Seaman",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1986,
+      "classification": "AA",
+      "champion_school": "Old Mill",
+      "champion_coach": "Ron Evans",
+      "finalist_school": "Oxon Hill",
+      "finalist_coach": "Bernard Burns",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1986,
+      "classification": "A",
+      "champion_school": "McDonough",
+      "champion_coach": "Larry Johnson",
+      "finalist_school": "Douglass—PG",
+      "finalist_coach": "Vaughn Johnson",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1986,
+      "classification": "B",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Fallston",
+      "finalist_coach": "Gary Trott",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1986,
+      "classification": "C",
+      "champion_school": "Boonsboro",
+      "champion_coach": "Dwight Scott",
+      "finalist_school": "Francis Scott Key",
+      "finalist_coach": "John Seaman",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1987,
+      "classification": "AA",
+      "champion_school": "Old Mill",
+      "champion_coach": "Ron Evans",
+      "finalist_school": "Whitman",
+      "finalist_coach": "Kerry Ward",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1987,
+      "classification": "A",
+      "champion_school": "McDonough",
+      "champion_coach": "Larry Johnson",
+      "finalist_school": "North Carroll",
+      "finalist_coach": "Steve Guthrie",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1987,
+      "classification": "B",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Milford Mill",
+      "finalist_coach": "Jesse Hannon",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1987,
+      "classification": "C",
+      "champion_school": "Francis Scott Key",
+      "champion_coach": "John Seaman",
+      "finalist_school": "Boonsboro",
+      "finalist_coach": "Dwight Scott",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1988,
+      "classification": "AA",
+      "champion_school": "Old Mill",
+      "champion_coach": "Ron Evans",
+      "finalist_school": "Einstein",
+      "finalist_coach": "Jim Brown",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1988,
+      "classification": "A",
+      "champion_school": "Linganore",
+      "champion_coach": "John Grim",
+      "finalist_school": "Douglass—PG",
+      "finalist_coach": "Vaughn Johnson",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1988,
+      "classification": "B",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Centennial",
+      "finalist_coach": "Beth Freeman",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1988,
+      "classification": "C",
+      "champion_school": "Boonsboro & Milford Mill",
+      "champion_coach": "Dwight Scott & Jesse Hannon",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null,
+      "co_champion": true
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1989,
+      "classification": "4A",
+      "champion_school": "Old Mill",
+      "champion_coach": "Ron Evans",
+      "finalist_school": "Roosevelt",
+      "finalist_coach": "Debbie McCracken",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1989,
+      "classification": "3A",
+      "champion_school": "Linganore",
+      "champion_coach": "John Grim",
+      "finalist_school": "Paint Branch",
+      "finalist_coach": "Earl Hoffman",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1989,
+      "classification": "2A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Great Mills",
+      "finalist_coach": "Tim Sandstrom",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1989,
+      "classification": "1A",
+      "champion_school": "Francis Scott Key",
+      "champion_coach": "John Seaman",
+      "finalist_school": "Boonsboro",
+      "finalist_coach": "Dwight Scott",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1990,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Debbie McCracken",
+      "finalist_school": "Old Mill",
+      "finalist_coach": "Ron Evans",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1990,
+      "classification": "3A",
+      "champion_school": "Bladensburg",
+      "champion_coach": "Darryl Hamilton",
+      "finalist_school": "Leonardtown",
+      "finalist_coach": "Bob Taylor",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1990,
+      "classification": "2A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Middletown",
+      "finalist_coach": "Valerie Grim",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1990,
+      "classification": "1A",
+      "champion_school": "Boonsboro",
+      "champion_coach": "Dwight Scott",
+      "finalist_school": "Francis Scott Key",
+      "finalist_coach": "Tom Hill",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1991,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Debbie McCracken",
+      "finalist_school": "Whitman",
+      "finalist_coach": "Kerry Ward",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1991,
+      "classification": "3A",
+      "champion_school": "Bladensburg",
+      "champion_coach": "Darryl Hamilton",
+      "finalist_school": "Linganore",
+      "finalist_coach": "John Grim",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1991,
+      "classification": "2A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Hammond",
+      "finalist_coach": "Joe Russo",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1991,
+      "classification": "1A",
+      "champion_school": "Milford Mill",
+      "champion_coach": "Jesse Hannon",
+      "finalist_school": "Smithsburg",
+      "finalist_coach": "Walter Orndorff",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1992,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Old Mill",
+      "finalist_coach": "Ron Evans",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1992,
+      "classification": "3A",
+      "champion_school": "Howard",
+      "champion_coach": "Joe Thomas",
+      "finalist_school": "McDonough",
+      "finalist_coach": "Ken Lane",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1992,
+      "classification": "2A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "North Hagerstown",
+      "finalist_coach": "Ray Shriver",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1992,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Walter Orndorff",
+      "finalist_school": "Francis Scott Key",
+      "finalist_coach": "Tom Hill",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1993,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Old Mill",
+      "finalist_coach": "Ron Evans",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1993,
+      "classification": "3A",
+      "champion_school": "McDonough",
+      "champion_coach": "Ken Lane",
+      "finalist_school": "Walter Johnson",
+      "finalist_coach": "Jerry Kline",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1993,
+      "classification": "2A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Bill Godwin",
+      "finalist_school": "Surrattsville",
+      "finalist_coach": "Nathan Dinkins",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1993,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Walter Orndorff",
+      "finalist_school": "Boonsboro",
+      "finalist_coach": "Dwight Scott",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1994,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Frederick",
+      "finalist_coach": "Frank Strakonsky",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1994,
+      "classification": "3A",
+      "champion_school": "Linganore",
+      "champion_coach": "John Grim",
+      "finalist_school": "Walter Johnson",
+      "finalist_coach": "Greg Dunston",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1994,
+      "classification": "2A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Vaughn Johnson",
+      "finalist_school": "Glenelg",
+      "finalist_coach": "Bill Godwin",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1994,
+      "classification": "1A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Francis Scott Key",
+      "finalist_coach": "Tom Hill",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1995,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Larry Colbert",
+      "finalist_school": "Frederick",
+      "finalist_coach": "Frank Strakonsky",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1995,
+      "classification": "3A",
+      "champion_school": "Howard",
+      "champion_coach": "Joe Thomas",
+      "finalist_school": "Linganore",
+      "finalist_coach": "John Grim",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1995,
+      "classification": "2A",
+      "champion_school": "Fairmont Heights",
+      "champion_coach": "Vaughn Johnson",
+      "finalist_school": "Surrattsville",
+      "finalist_coach": "Nathan Dinkins",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1995,
+      "classification": "1A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Wilde Lake",
+      "finalist_coach": "Albert Merrills",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1996,
+      "classification": "4A",
+      "champion_school": "Largo",
+      "champion_coach": "Darryl Hamilton",
+      "finalist_school": "Roosevelt",
+      "finalist_coach": "Larry Colbert",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1996,
+      "classification": "3A",
+      "champion_school": "Frederick",
+      "champion_coach": "Frank Strakonsky",
+      "finalist_school": "Howard",
+      "finalist_coach": "Joe Thomas",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1996,
+      "classification": "2A",
+      "champion_school": "Linganore",
+      "champion_coach": "John Grim",
+      "finalist_school": "Central—PG",
+      "finalist_coach": "Ed Bowie",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1996,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Walter Orndorff",
+      "finalist_school": "Catoctin",
+      "finalist_coach": "Margaret Baker",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1997,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Mary Wilkins",
+      "finalist_school": "Largo",
+      "finalist_coach": "Daryl Hamilton",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1997,
+      "classification": "3A",
+      "champion_school": "Douglass—PG",
+      "champion_coach": "Jim Storey",
+      "finalist_school": "Damascus",
+      "finalist_coach": "Robert Youngblood",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1997,
+      "classification": "2A",
+      "champion_school": "Central—PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "Howard",
+      "finalist_coach": "Tony Holland",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1997,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Walter Orndorff",
+      "finalist_school": "Catoctin",
+      "finalist_coach": "Margaret Baker",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1998,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Mary Wilkins",
+      "finalist_school": "Western-B",
+      "finalist_coach": "Jerry Molyneaux",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1998,
+      "classification": "3A",
+      "champion_school": "Douglass—PG",
+      "champion_coach": "Jim Storey",
+      "finalist_school": "Northern—Cal",
+      "finalist_coach": "Brad Criss",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1998,
+      "classification": "2A",
+      "champion_school": "Long Reach",
+      "champion_coach": "Joe Thomas",
+      "finalist_school": "Central—PG",
+      "finalist_coach": "Ed Bowie",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1998,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Walter Orndorff",
+      "finalist_school": "Oakland Mills",
+      "finalist_coach": "Bryan Winfield",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1999,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Mary Wilkins",
+      "finalist_school": "Western-B",
+      "finalist_coach": "Jerry Molyneaux",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1999,
+      "classification": "3A",
+      "champion_school": "Douglass—PG",
+      "champion_coach": "Jim Storey",
+      "finalist_school": "Walter Johnson",
+      "finalist_coach": "Greg Dunston",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1999,
+      "classification": "2A",
+      "champion_school": "Long Reach",
+      "champion_coach": "Joe Thomas",
+      "finalist_school": "Central—PG",
+      "finalist_coach": "Ed Bowie",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1999,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Walter Orndorff",
+      "finalist_school": "Southern Garrett",
+      "finalist_coach": "Bill Freyman",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2000,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Katrina Allen",
+      "finalist_school": "Largo",
+      "finalist_coach": "Darryl Hamilton",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2000,
+      "classification": "3A",
+      "champion_school": "Long Reach",
+      "champion_coach": "Joe Thomas",
+      "finalist_school": "Walter Johnson",
+      "finalist_coach": "Greg Dunston",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2000,
+      "classification": "2A",
+      "champion_school": "Middletown",
+      "champion_coach": "Jen Zeltwanger",
+      "finalist_school": "Central—PG",
+      "finalist_coach": "Ed Bowie",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2000,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Walter Orndorff",
+      "finalist_school": "Oakland Mills",
+      "finalist_coach": "Bryan Winfield",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2001,
+      "classification": "4A",
+      "champion_school": "Largo",
+      "champion_coach": "Darryl Hamilton",
+      "finalist_school": "Roosevelt",
+      "finalist_coach": "Katrina Allen",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2001,
+      "classification": "3A",
+      "champion_school": "Long Reach",
+      "champion_coach": "Leslie Thomas",
+      "finalist_school": "Walter Johnson",
+      "finalist_coach": "Greg Dunston",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2001,
+      "classification": "2A",
+      "champion_school": "Atholton",
+      "champion_coach": "James Ivory",
+      "finalist_school": "Middletown",
+      "finalist_coach": "Jen Zeltwanger",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2001,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Walter Orndorff",
+      "finalist_school": "Boonsboro",
+      "finalist_coach": "Jason Orensi",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2002,
+      "classification": "4A",
+      "champion_school": "Western",
+      "champion_coach": "Jerry Molyneaux",
+      "finalist_school": "Largo",
+      "finalist_coach": "Darryl Hamilton",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2002,
+      "classification": "3A",
+      "champion_school": "Long Reach",
+      "champion_coach": "Joe Thomas",
+      "finalist_school": "Walter Johnson",
+      "finalist_coach": "Greg Dunston",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2002,
+      "classification": "2A",
+      "champion_school": "Glenelg",
+      "champion_coach": "Mike Selmer",
+      "finalist_school": "Central-PG",
+      "finalist_coach": "Ed Bowie",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2002,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Walter Orndorff",
+      "finalist_school": "Poolesville",
+      "finalist_coach": "Scott Mathias",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2003,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Ameerah Bello",
+      "finalist_school": "Western-B",
+      "finalist_coach": "Jerry Molyneaux",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2003,
+      "classification": "3A",
+      "champion_school": "Walter Johnson",
+      "champion_coach": "Greg Dunston",
+      "finalist_school": "Long Reach",
+      "finalist_coach": "Ferdan Carter",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2003,
+      "classification": "2A",
+      "champion_school": "Bethesda-CC",
+      "champion_coach": "Tim Gilmore",
+      "finalist_school": "Glenelg",
+      "finalist_coach": "Mike Selmer",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2003,
+      "classification": "1A",
+      "champion_school": "Poolesville & Smithsburg",
+      "champion_coach": "Scott Mathias & Walter Orndorff",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null,
+      "co_champion": true
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2004,
+      "classification": "4A",
+      "champion_school": "Largo",
+      "champion_coach": "Darryl Hamilton",
+      "finalist_school": "C. H. Flowers",
+      "finalist_coach": "Carlyle Rose",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2004,
+      "classification": "3A",
+      "champion_school": "Westlake",
+      "champion_coach": "Beth Shook",
+      "finalist_school": "Western",
+      "finalist_coach": "Jerry Molyneaux",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2004,
+      "classification": "2A",
+      "champion_school": "J. M. Bennett",
+      "champion_coach": "Tina Russell",
+      "finalist_school": "Edmondson",
+      "finalist_coach": "Ebony Crawford",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2004,
+      "classification": "1A",
+      "champion_school": "Boonsboro",
+      "champion_coach": "Jason Orensi",
+      "finalist_school": "Smithsburg",
+      "finalist_coach": "Walter Orndorff",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2005,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Ameerah Bello",
+      "finalist_school": "Largo",
+      "finalist_coach": "Darryl Hamilton",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2005,
+      "classification": "3A",
+      "champion_school": "Western",
+      "champion_coach": "Jerry Molyneaux",
+      "finalist_school": "Long Reach",
+      "finalist_coach": "Greg Johnson",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2005,
+      "classification": "2A",
+      "champion_school": "Atholton",
+      "champion_coach": "Brian Funk",
+      "finalist_school": "Edmondson",
+      "finalist_coach": "Amili Lumumba",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2005,
+      "classification": "1A",
+      "champion_school": "Boonsboro",
+      "champion_coach": "David Burrell",
+      "finalist_school": "Brunswick",
+      "finalist_coach": "Anne Zumbach",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2006,
+      "classification": "4A",
+      "champion_school": "Largo",
+      "champion_coach": "Darryl Hamilton",
+      "finalist_school": "Churchill",
+      "finalist_coach": "S. Bettis/S. Silverstein",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2006,
+      "classification": "3A",
+      "champion_school": "Western",
+      "champion_coach": "Jerry Molyneaux",
+      "finalist_school": "Westlake",
+      "finalist_coach": "Beth Shook",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2006,
+      "classification": "2A",
+      "champion_school": "Central-PG",
+      "champion_coach": "Ed Bowie",
+      "finalist_school": "McDonough",
+      "finalist_coach": "Anton Wallace",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2006,
+      "classification": "1A",
+      "champion_school": "Williamsport",
+      "champion_coach": "John Bailey",
+      "finalist_school": "New Town",
+      "finalist_coach": "Morgan Lisby",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2007,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Desmond Dunham",
+      "finalist_school": "Churchill",
+      "finalist_coach": "S.Bettis/ M.Silverstein",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2007,
+      "classification": "3A",
+      "champion_school": "Largo",
+      "champion_coach": "Darryl Hamilton",
+      "finalist_school": "Mount Hebron",
+      "finalist_coach": "Anthony Bell",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2007,
+      "classification": "2A",
+      "champion_school": "Middletown",
+      "champion_coach": "Frank Davis",
+      "finalist_school": "Hereford",
+      "finalist_coach": "Jason Bowman",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2007,
+      "classification": "1A",
+      "champion_school": "Digital Harbor",
+      "champion_coach": "L. Bakari/S. Darby",
+      "finalist_school": "Poolesville",
+      "finalist_coach": "Bryan Blessing",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2008,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Desmond Dunham",
+      "finalist_school": "Wootton",
+      "finalist_coach": "Kelli Redmond",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2008,
+      "classification": "3A",
+      "champion_school": "Westlake",
+      "champion_coach": "Beth Shook",
+      "finalist_school": "Annapolis",
+      "finalist_coach": "Brian Brown",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2008,
+      "classification": "2A",
+      "champion_school": "Middletown",
+      "champion_coach": "Frank Davis",
+      "finalist_school": "River Hill",
+      "finalist_coach": "Cristin Romano",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2008,
+      "classification": "1A",
+      "champion_school": "Williamsport",
+      "champion_coach": "John Bailey",
+      "finalist_school": "Western STES",
+      "finalist_coach": "Shedrick Elliott, III",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2009,
+      "classification": "4A",
+      "champion_school": "Roosevelt",
+      "champion_coach": "Greg Johnson",
+      "finalist_school": "C.H. Flowers",
+      "finalist_coach": "Carlyle Rose",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2009,
+      "classification": "3A",
+      "champion_school": "Western-B",
+      "champion_coach": "Alicia Williams",
+      "finalist_school": "Catonsville",
+      "finalist_coach": "Sarah Sheetz",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2009,
+      "classification": "2A",
+      "champion_school": "North Point",
+      "champion_coach": "Ryan Gick",
+      "finalist_school": "Polytechnic & River Hill",
+      "finalist_coach": "Latisha Moulds & Earl Lauer",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2009,
+      "classification": "1A",
+      "champion_school": "Williamsport",
+      "champion_coach": "John Bailey",
+      "finalist_school": "Digital Harbor",
+      "finalist_coach": "Lutalo Bakari",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2010,
+      "classification": "4A",
+      "champion_school": "C.H. Flowers",
+      "champion_coach": "Carlyle Rose",
+      "finalist_school": "Northwest",
+      "finalist_coach": "Beth Muehl",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2010,
+      "classification": "3A",
+      "champion_school": "Western-B",
+      "champion_coach": "Alicia Williams",
+      "finalist_school": "Northwood",
+      "finalist_coach": "Mark Brown",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2010,
+      "classification": "2A",
+      "champion_school": "N. Hagerstown",
+      "champion_coach": "Robert Waugh",
+      "finalist_school": "Digital Harbor",
+      "finalist_coach": "Lutalo Bakari",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2010,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Ray Shriver",
+      "finalist_school": "Harford Tech",
+      "finalist_coach": "Stanley DeCusatis",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2011,
+      "classification": "4A",
+      "champion_school": "Northwest",
+      "champion_coach": "Beth Muehl",
+      "finalist_school": "Th. Johnson",
+      "finalist_coach": "Becky Somerville",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2011,
+      "classification": "3A",
+      "champion_school": "Huntingtown",
+      "champion_coach": "Valerie Harrington",
+      "finalist_school": "Catonsville",
+      "finalist_coach": "Sarah Sheetz",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2011,
+      "classification": "2A",
+      "champion_school": "Liberty",
+      "champion_coach": "Bobby Ward & B. Lutz",
+      "finalist_school": "N. Hagerstown",
+      "finalist_coach": "Robert Waugh",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2011,
+      "classification": "1A",
+      "champion_school": "Boonsboro",
+      "champion_coach": "Rebecca Walter",
+      "finalist_school": "Harford Technical",
+      "finalist_coach": "Stanley DeCusatis",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2012,
+      "classification": "4A",
+      "champion_school": "Bowie",
+      "champion_coach": "Richard Andrulonis",
+      "finalist_school": "Northwest",
+      "finalist_coach": "Lexi & Dave Knight",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2012,
+      "classification": "3A",
+      "champion_school": "Thomas Johnson",
+      "champion_coach": "Jen Spivey",
+      "finalist_school": "Hereford",
+      "finalist_coach": "B. Duvall/J. Bowman",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2012,
+      "classification": "2A",
+      "champion_school": "Liberty",
+      "champion_coach": "Bobby Ward & B. Lutz",
+      "finalist_school": "Largo",
+      "finalist_coach": "D. Hamilton/M. Roberts",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2012,
+      "classification": "1A",
+      "champion_school": "Boonsboro",
+      "champion_coach": "Rebecca Walter",
+      "finalist_school": "Western STES",
+      "finalist_coach": "Shedrick Elliott, III",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2013,
+      "classification": "4A",
+      "champion_school": "Bowie",
+      "champion_coach": "Richard Andrulonis",
+      "finalist_school": "Wootton",
+      "finalist_coach": "Kellie Redmond",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2013,
+      "classification": "3A",
+      "champion_school": "Thomas Stone",
+      "champion_coach": "Paul Jenkins",
+      "finalist_school": "Howard",
+      "finalist_coach": "Tyler Wade",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2013,
+      "classification": "2A",
+      "champion_school": "Oakdale",
+      "champion_coach": "Chris Lewis",
+      "finalist_school": "Middletown",
+      "finalist_coach": "Frank Davis",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2013,
+      "classification": "1A",
+      "champion_school": "Boonsboro",
+      "champion_coach": "Rebecca Walter",
+      "finalist_school": "Western STES",
+      "finalist_coach": "Shedrick Elliott, III",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2014,
+      "classification": "4A",
+      "champion_school": "Magruder & Dr. Henry A. Wise, Jr.",
+      "champion_coach": "Lubin Hernandez Palomino & Gideon Tinch",
+      "finalist_school": null,
+      "finalist_coach": null,
+      "score": null,
+      "co_champion": true
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2014,
+      "classification": "3A",
+      "champion_school": "Huntingtown",
+      "champion_coach": "Valerie Harrington",
+      "finalist_school": "Milford Mill",
+      "finalist_coach": "James Simms",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2014,
+      "classification": "2A",
+      "champion_school": "Oakdale",
+      "champion_coach": "Chris Lewis",
+      "finalist_school": "Boonsboro",
+      "finalist_coach": "Rebecca Walter",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2014,
+      "classification": "1A",
+      "champion_school": "Manchester Valley",
+      "champion_coach": "Eric Baumgardner",
+      "finalist_school": "Perryville",
+      "finalist_coach": "Raissa Moore",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2015,
+      "classification": "4A",
+      "champion_school": "Clarksburg",
+      "champion_coach": "Scott Mathias",
+      "finalist_school": "James H. Blake",
+      "finalist_coach": "Brandon Tynes",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2015,
+      "classification": "3A",
+      "champion_school": "Milford Mill",
+      "champion_coach": "James Simms",
+      "finalist_school": "Urbana",
+      "finalist_coach": "C.J. Ecalono",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2015,
+      "classification": "2A",
+      "champion_school": "Oakdale",
+      "champion_coach": "Chris Lewis",
+      "finalist_school": "Boonsboro",
+      "finalist_coach": "Rebecca Walter",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2015,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Thomas Joseph Hood",
+      "finalist_school": "Manchester Valley",
+      "finalist_coach": "Eric Baumgardner",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2016,
+      "classification": "4A",
+      "champion_school": "C.H. Flowers",
+      "champion_coach": "H. Brady/B. Brown",
+      "finalist_school": "Clarksburg",
+      "finalist_coach": "Scott Mathias",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2016,
+      "classification": "3A",
+      "champion_school": "Urbana",
+      "champion_coach": "C.J. Ecalono",
+      "finalist_school": "Polytechnic",
+      "finalist_coach": "Latoya Brown-Johnson",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2016,
+      "classification": "2A",
+      "champion_school": "Henry E. Lackey",
+      "champion_coach": "Jimari Jones",
+      "finalist_school": "Hereford",
+      "finalist_coach": "B. Duvall/W. Fellows",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2016,
+      "classification": "1A",
+      "champion_school": "Boonsboro",
+      "champion_coach": "R. Walter/S. Cutsail",
+      "finalist_school": "Perryville",
+      "finalist_coach": "Raissa Moore/Dana Brown",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2017,
+      "classification": "4A",
+      "champion_school": "C.H. Flowers",
+      "champion_coach": "H. Brady/B. Brown",
+      "finalist_school": "Northwest",
+      "finalist_coach": "R.Youngblood/F.Parry",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2017,
+      "classification": "3A",
+      "champion_school": "Frederick",
+      "champion_coach": "R. Dixon/T. Williams",
+      "finalist_school": "Urbana",
+      "finalist_coach": "C.J. Ecalono/Dan Sipe",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2017,
+      "classification": "2A",
+      "champion_school": "Henry E. Lackey",
+      "champion_coach": "Jimari Jones",
+      "finalist_school": "Hereford",
+      "finalist_coach": "B. Duvall/A. Hittner",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2017,
+      "classification": "1A",
+      "champion_school": "Boonsboro",
+      "champion_coach": "R. Walter/S. Cutsail",
+      "finalist_school": "Smithsburg",
+      "finalist_coach": "R. Shriver/M. Keplinger",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2018,
+      "classification": "4A",
+      "champion_school": "Northwest",
+      "champion_coach": "R.Youngblood/N.Parry",
+      "finalist_school": "Dr. Henry A. Wise, Jr.",
+      "finalist_coach": "Gideon Tinch",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2018,
+      "classification": "3A",
+      "champion_school": "Frederick",
+      "champion_coach": "R. Dixon/J. Whiten",
+      "finalist_school": "Franklin",
+      "finalist_coach": "Paul Hannsen",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2018,
+      "classification": "2A",
+      "champion_school": "Harford Tech",
+      "champion_coach": "M.Davis/D.Diamond",
+      "finalist_school": "River Hill",
+      "finalist_coach": "P. Hugus/D. Richmond",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2018,
+      "classification": "1A",
+      "champion_school": "Henry E. Lackey",
+      "champion_coach": "Jimari Jones",
+      "finalist_school": "Friendly",
+      "finalist_coach": "Ned Gunter",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2019,
+      "classification": "4A",
+      "champion_school": "Urbana",
+      "champion_coach": "C.J. Ecalono",
+      "finalist_school": "Northwest",
+      "finalist_coach": "Robert Youngblood/ Nate Parry/Fran Parry",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2019,
+      "classification": "3A",
+      "champion_school": "Northern-Calvert",
+      "champion_coach": "Josh Dawson",
+      "finalist_school": "Frederick & Mt. Hebron",
+      "finalist_coach": "Robert Dixon & C. Matsakis/T. Carter",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2019,
+      "classification": "2A",
+      "champion_school": "Hereford",
+      "champion_coach": "Brad Duvall",
+      "finalist_school": "Harford Tech",
+      "finalist_coach": "M.Davis/D.Diamond",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2019,
+      "classification": "1A",
+      "champion_school": "Largo",
+      "champion_coach": "Darryl Hamilton",
+      "finalist_school": "Frederick Douglass-PG",
+      "finalist_coach": "Darryl Haraway",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2021,
+      "classification": "4A",
+      "champion_school": "Howard",
+      "champion_coach": "Zack Dickerson",
+      "finalist_school": "Urbana",
+      "finalist_coach": "CJ Ecalono",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2021,
+      "classification": "3A",
+      "champion_school": "Hereford",
+      "champion_coach": "Brad Duvall",
+      "finalist_school": "Franklin",
+      "finalist_coach": "Paul Hannsen",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2021,
+      "classification": "2A",
+      "champion_school": "Westlake",
+      "champion_coach": "Beth Shook",
+      "finalist_school": "North Harford",
+      "finalist_coach": "Jimmy Cachola/Laura O'Leary",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2021,
+      "classification": "1A",
+      "champion_school": "Western STES",
+      "champion_coach": "Clarissa Higgins",
+      "finalist_school": "Brunswick",
+      "finalist_coach": "Anne Zumbach",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2022,
+      "classification": "4A",
+      "champion_school": "Urbana",
+      "champion_coach": "CJ Ecalono",
+      "finalist_school": "James H. Blake",
+      "finalist_coach": "Darius Oxley",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2022,
+      "classification": "3A",
+      "champion_school": "Howard",
+      "champion_coach": "Zack Dickerson",
+      "finalist_school": "Linganore",
+      "finalist_coach": "Stephen Musselman",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2022,
+      "classification": "2A",
+      "champion_school": "Oakland Mills",
+      "champion_coach": "Christopher Brewington",
+      "finalist_school": "Hereford",
+      "finalist_coach": "Adam Hittner",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2022,
+      "classification": "1A",
+      "champion_school": "Western STES",
+      "champion_coach": "Clarissa Higgins",
+      "finalist_school": "Largo",
+      "finalist_coach": "Darryl Hamilton/Haywood Vaughn",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2023,
+      "classification": "4A",
+      "champion_school": "Urbana",
+      "champion_coach": "CJ Ecalono",
+      "finalist_school": "Charles H. Flowers",
+      "finalist_coach": "Bryan Brown/Terence Sheppard",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2023,
+      "classification": "3A",
+      "champion_school": "River Hill",
+      "champion_coach": "Donnie Richmond/Ammera Schmidt",
+      "finalist_school": "Northern-Calvert",
+      "finalist_coach": "Josh Dawson",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2023,
+      "classification": "2A",
+      "champion_school": "Oakland Mills",
+      "champion_coach": "Christopher Brewington",
+      "finalist_school": "Friendly",
+      "finalist_coach": "Ned Gunter",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2023,
+      "classification": "1A",
+      "champion_school": "Western STES",
+      "champion_coach": "Clarissa Higgins",
+      "finalist_school": "Smithsburg",
+      "finalist_coach": "Adam Rudy",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2024,
+      "classification": "4A",
+      "champion_school": "Woodlawn",
+      "champion_coach": "Joey Young",
+      "finalist_school": "Urbana",
+      "finalist_coach": null,
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2024,
+      "classification": "3A",
+      "champion_school": "Arundel",
+      "champion_coach": "Eric Allen",
+      "finalist_school": "Oakland Mills",
+      "finalist_coach": "Christopher Brewington",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2024,
+      "classification": "2A",
+      "champion_school": "Hereford",
+      "champion_coach": "Adam Hittner/Brad Duvall",
+      "finalist_school": "Largo",
+      "finalist_coach": "Darryl Hamilton/Haywood Vaughn",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2024,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Adam Rudy",
+      "finalist_school": "Allegany",
+      "finalist_coach": "Katie Rice",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2025,
+      "classification": "4A",
+      "champion_school": "Urbana",
+      "champion_coach": "CJ Ecalono",
+      "finalist_school": "Woodlawn",
+      "finalist_coach": "Joey Young",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2025,
+      "classification": "3A",
+      "champion_school": "Oakland Mills",
+      "champion_coach": "Christopher Brewington",
+      "finalist_school": "Howard",
+      "finalist_coach": "Erik Jenks",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2025,
+      "classification": "2A",
+      "champion_school": "Harford Technical",
+      "champion_coach": "Darrell Diamond",
+      "finalist_school": "Hereford",
+      "finalist_coach": "Adam Hittner/Brad Duvall",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 2025,
+      "classification": "1A",
+      "champion_school": "Smithsburg",
+      "champion_coach": "Adam Rudy",
+      "finalist_school": "Western STES",
+      "finalist_coach": "Shawn Waller",
+      "score": null
+    },
+    {
+      "sport": "Girls Track and Field",
+      "year": 1975,
+      "classification": "Combined",
+      "champion_school": "DuVal",
+      "champion_coach": "Beverly Bigham",
+      "finalist_school": "Largo",
+      "finalist_coach": "Lee Markley",
+      "score": null,
+      "champion_undefeated": false,
+      "co_champion": false,
+      "notes": null
+    }
+  ]
+}

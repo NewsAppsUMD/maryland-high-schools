@@ -1,0 +1,1003 @@
+{
+  "meta": {
+    "extractor": "individual_xc",
+    "model_id": "glm-5.2:cloud",
+    "source_pdf": "pdfs/FallRecordBook2024.pdf",
+    "source_pages": [
+      23
+    ],
+    "extracted_at": "2026-08-02T14:29:56Z"
+  },
+  "rows": [
+    {
+      "sport": "Boys Cross Country",
+      "year": 1946,
+      "classification": "A",
+      "name": "Gunther Schmidt",
+      "school": "Catonsville",
+      "time": "7:20.0",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1946,
+      "classification": "B",
+      "name": "Johnny Meredith",
+      "school": "Dundalk",
+      "time": "7:27.0",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1946,
+      "classification": "C",
+      "name": "Herman Deener",
+      "school": "Brunswick",
+      "time": "7:41.0",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1946,
+      "classification": "D",
+      "name": "James Haltman",
+      "school": "Pittsville",
+      "time": "7:55.0",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1947,
+      "classification": "A",
+      "name": "Al Buehler",
+      "school": "Hagerstown",
+      "time": "8:07.5",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1947,
+      "classification": "B",
+      "name": "Charles Riley",
+      "school": "Bel Air",
+      "time": "8:16.8",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1947,
+      "classification": "C",
+      "name": "Herman Deener",
+      "school": "Brunswick",
+      "time": "9:04.0",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1948,
+      "classification": "A",
+      "name": "Frank Kane",
+      "school": "Dundalk",
+      "time": "8:15.1",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1948,
+      "classification": "B",
+      "name": "Robert Green",
+      "school": "Bel Air",
+      "time": "8:22.0",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1948,
+      "classification": "C",
+      "name": "Herman Deener",
+      "school": "Brunswick",
+      "time": "9:33.4",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1948,
+      "classification": "D",
+      "name": "Albert Adkins",
+      "school": "Pittsville",
+      "time": "8:44.0",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1949,
+      "classification": "A",
+      "name": "Frank Kane",
+      "school": "Dundalk",
+      "time": "7:58.9",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1949,
+      "classification": "B",
+      "name": "Eldon Husband",
+      "school": "Elkridge",
+      "time": "8:36.2",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1949,
+      "classification": "C",
+      "name": "Alvin Cordrey",
+      "school": "Pittsville",
+      "time": "9:04.0",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1950,
+      "classification": "A",
+      "name": "Hollis Almony",
+      "school": "Towson",
+      "time": "7:51.0",
+      "distance": "1.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1952,
+      "classification": "A",
+      "name": "Dick Lindeman",
+      "school": "Catonsville",
+      "time": "11:02.0",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1952,
+      "classification": "B",
+      "name": "Gerald McGuire",
+      "school": "Sollers Point",
+      "time": "10:33.5",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1953,
+      "classification": "A",
+      "name": "Dick Lindeman",
+      "school": "Catonsville",
+      "time": "10:47.6",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1954,
+      "classification": "A",
+      "name": "Ed Vachino",
+      "school": "Kenwood",
+      "time": "10:43.6",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1955,
+      "classification": "A",
+      "name": "Ed Vachino",
+      "school": "Kenwood",
+      "time": "10:41.5",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1956,
+      "classification": "A",
+      "name": "Sal Ranieri",
+      "school": "Kenwood",
+      "time": "11:04.9",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1957,
+      "classification": "A",
+      "name": "Dave Witten",
+      "school": "Blair",
+      "time": "11:06.2",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1957,
+      "classification": "B",
+      "name": "Jerry Martin",
+      "school": "Hereford",
+      "time": "11:40.3",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1958,
+      "classification": "A",
+      "name": "Sal Ranieri",
+      "school": "Kenwood",
+      "time": "10:51.1",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1958,
+      "classification": "B",
+      "name": "Glen Thompson",
+      "school": "Hereford",
+      "time": "11:05.1",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1959,
+      "classification": "A",
+      "name": "Ramsey Thomas",
+      "school": "Catonsville",
+      "time": "11:00.3",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1959,
+      "classification": "B",
+      "name": "Johnson",
+      "school": "Damascus",
+      "time": "11:35.5",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1960,
+      "classification": "AA",
+      "name": "Irvin Hock",
+      "school": "Dundalk",
+      "time": "10:45.3",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1960,
+      "classification": "B",
+      "name": "Gene Garrett",
+      "school": "Hereford",
+      "time": "11:19.8",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1961,
+      "classification": "AA",
+      "name": "Charlie Harris",
+      "school": "Dundalk",
+      "time": "10:41.0",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1961,
+      "classification": "B",
+      "name": "J. Glover",
+      "school": "Edgewood",
+      "time": "10:53.0",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1962,
+      "classification": "AA",
+      "name": "John Lawlor",
+      "school": "Northwood",
+      "time": "10:12.8",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1962,
+      "classification": "A",
+      "name": "K. Dahms",
+      "school": "Springbrook",
+      "time": "10:42.8",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1962,
+      "classification": "B",
+      "name": "Jeff Rowland",
+      "school": "Hereford",
+      "time": "12:42.6",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1963,
+      "classification": "AA",
+      "name": "Dave Patrick",
+      "school": "Kenwood",
+      "time": "10:40.0",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1963,
+      "classification": "A",
+      "name": "J. Amoss",
+      "school": "Bel Air",
+      "time": "10:42.8",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1963,
+      "classification": "B",
+      "name": "L. Gardner",
+      "school": "Sykesville",
+      "time": "11:15.0",
+      "distance": "2.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1964,
+      "classification": "AA",
+      "name": "Wayne Vaughn",
+      "school": "S. Hagerstown",
+      "time": "13:01.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1964,
+      "classification": "A",
+      "name": "George Minarak",
+      "school": "Perry Hall",
+      "time": "13:29.2",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1964,
+      "classification": "B",
+      "name": "L. Gardner",
+      "school": "Sykesville",
+      "time": null,
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1965,
+      "classification": "AA",
+      "name": "Byron Beam",
+      "school": "Kenwood",
+      "time": "13:12.8",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1965,
+      "classification": "A",
+      "name": "Bruce Chilcote",
+      "school": "Brooklyn Park",
+      "time": "13:47.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1965,
+      "classification": "B",
+      "name": "Donald Draper",
+      "school": "Middletown",
+      "time": "13:55.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1965,
+      "classification": "C",
+      "name": "Oliver Lane",
+      "school": "Somerset",
+      "time": "14:10.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1966,
+      "classification": "AA",
+      "name": "Bob Gray",
+      "school": "Crossland",
+      "time": "13:17.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1966,
+      "classification": "A",
+      "name": "Bruce Chilcote",
+      "school": "Brooklyn Park",
+      "time": "14:08.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1966,
+      "classification": "B",
+      "name": "Bobby Brooks",
+      "school": "Brunswick",
+      "time": "14:33.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1967,
+      "classification": "AA",
+      "name": "Byron Beam",
+      "school": "Kenwood",
+      "time": "13:36.1",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1967,
+      "classification": "A",
+      "name": "Joe Lucas",
+      "school": "Churchill",
+      "time": "13:36.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1967,
+      "classification": "B",
+      "name": "Bobby Brooks",
+      "school": "Brunswick",
+      "time": "14:23.5",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1968,
+      "classification": "AA",
+      "name": "James Ruckert",
+      "school": "High Point",
+      "time": "13:46.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1968,
+      "classification": "A",
+      "name": "Kenneth Sunday",
+      "school": "Thomas Johnson",
+      "time": "14:20.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1968,
+      "classification": "B",
+      "name": "Ed Snodgrass",
+      "school": "North Harford",
+      "time": "14:35.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1968,
+      "classification": "C",
+      "name": "Andre Hager",
+      "school": "Poolesville",
+      "time": "14:47.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1969,
+      "classification": "AA",
+      "name": "Mike Fertig",
+      "school": "Whitman",
+      "time": "12:41.2",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1969,
+      "classification": "A",
+      "name": "Steve Kirk",
+      "school": "Allegany",
+      "time": "13:15.7",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1969,
+      "classification": "B",
+      "name": "Ed Snodgrass",
+      "school": "North Harford",
+      "time": "13:49.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1969,
+      "classification": "C",
+      "name": "Jesse Hinton",
+      "school": "Mt. Hebron",
+      "time": "14:13.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1970,
+      "classification": "AA",
+      "name": "Marvin Nestor",
+      "school": "Overlea",
+      "time": "12:58.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1970,
+      "classification": "A",
+      "name": "Dale Bateman",
+      "school": "Laurel",
+      "time": "12:46.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1970,
+      "classification": "B",
+      "name": "Scott Cornwell",
+      "school": "Hereford",
+      "time": "13:12.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1970,
+      "classification": "C",
+      "name": "Jim Draper",
+      "school": "Smithsburg",
+      "time": "13:44.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1971,
+      "classification": "AA",
+      "name": "Gordon Oliver",
+      "school": "Bethesda-CC",
+      "time": "12:21.5",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1971,
+      "classification": "A",
+      "name": "Steve Smith",
+      "school": "Einstein",
+      "time": "12:57.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1971,
+      "classification": "B",
+      "name": "Greg Cornwell",
+      "school": "Hereford",
+      "time": "12:59.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1971,
+      "classification": "C",
+      "name": "Kirk Davis",
+      "school": "Wilde Lake",
+      "time": "13:28.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1972,
+      "classification": "AA",
+      "name": "Jeff Smith",
+      "school": "Towson",
+      "time": "12:47.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1972,
+      "classification": "A",
+      "name": "John Lott",
+      "school": "Milford Mill",
+      "time": "13:08.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1972,
+      "classification": "B",
+      "name": "Dave Cornwell",
+      "school": "Hereford",
+      "time": "13:17.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1972,
+      "classification": "C",
+      "name": "David Shaffer",
+      "school": "Middletown",
+      "time": "14:01.0",
+      "distance": "2.5 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1973,
+      "classification": "AA",
+      "name": "Jim Peterson",
+      "school": "Wheaton",
+      "time": "14:56.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1973,
+      "classification": "A",
+      "name": "Ed Boggess",
+      "school": "Kennedy",
+      "time": "15:17.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1973,
+      "classification": "B",
+      "name": "Dave Cornwell",
+      "school": "Hereford",
+      "time": "15:29.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1973,
+      "classification": "C",
+      "name": "David Shaffer",
+      "school": "Middletown",
+      "time": "16:12.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1974,
+      "classification": "AA",
+      "name": "Jack Magee",
+      "school": "Towson",
+      "time": "15:03.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1974,
+      "classification": "A",
+      "name": "Ed Boggess",
+      "school": "Kennedy",
+      "time": "15:01.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1974,
+      "classification": "B",
+      "name": "Dave Cornwell",
+      "school": "Hereford",
+      "time": "15:06.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1974,
+      "classification": "C",
+      "name": "Dennis Albright",
+      "school": "Beall",
+      "time": "16:20.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1975,
+      "classification": "AA",
+      "name": "Richard Brady",
+      "school": "Whitman",
+      "time": "15:30.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1975,
+      "classification": "A",
+      "name": "John Holcomb",
+      "school": "Kennedy",
+      "time": "15:53.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1975,
+      "classification": "B",
+      "name": "Randy Mitchell",
+      "school": "Kent County",
+      "time": "15:20.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1975,
+      "classification": "C",
+      "name": "Dave Adams",
+      "school": "Beall",
+      "time": "16:13.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1976,
+      "classification": "AA",
+      "name": "Mike Sheely",
+      "school": "Kenwood",
+      "time": "15:34.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1976,
+      "classification": "A",
+      "name": "Mike Porter",
+      "school": "Franklin",
+      "time": "15:40.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1976,
+      "classification": "B",
+      "name": "Randy Mitchell",
+      "school": "Kent County",
+      "time": "16:14.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1976,
+      "classification": "C",
+      "name": "John Blankenfield",
+      "school": "Beall",
+      "time": null,
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1977,
+      "classification": "AA",
+      "name": "Karsten Schultz",
+      "school": "Westminster",
+      "time": "14:59.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1977,
+      "classification": "A",
+      "name": "Gary Hopkins",
+      "school": "Einstein",
+      "time": "15:10.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1977,
+      "classification": "B",
+      "name": "John Cornwell",
+      "school": "Hereford",
+      "time": "15:22.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1977,
+      "classification": "C",
+      "name": "Derick Winfield",
+      "school": "Beall",
+      "time": "16:00.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1978,
+      "classification": "AA",
+      "name": "Kelly Long",
+      "school": "Westminster",
+      "time": "15:27.9",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1978,
+      "classification": "A",
+      "name": "Tom Cuff",
+      "school": "Seneca Valley",
+      "time": "15:24.7",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1978,
+      "classification": "B",
+      "name": "Barry Holden",
+      "school": "Williamsport",
+      "time": "15:46.1",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1978,
+      "classification": "C",
+      "name": "Mike Sterling",
+      "school": "Crisfield",
+      "time": "16:12.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1979,
+      "classification": "AA",
+      "name": "Mike Burney",
+      "school": "High Point",
+      "time": "16:14.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1979,
+      "classification": "A",
+      "name": "Doug Rohrer",
+      "school": "Seneca Valley",
+      "time": "16:12.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1979,
+      "classification": "B",
+      "name": "John Wheeler",
+      "school": "Cambridge/SD",
+      "time": "16:39.4",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1979,
+      "classification": "C",
+      "name": "Mike Sterling",
+      "school": "Crisfield",
+      "time": "16:41.4",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1980,
+      "classification": "AA",
+      "name": "Robby Raisbeck",
+      "school": "High Point",
+      "time": "15:14.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1980,
+      "classification": "A",
+      "name": "Paul Kolb",
+      "school": "Walter Johnson",
+      "time": "15:47.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1980,
+      "classification": "B",
+      "name": "Scott Sheppard",
+      "school": "North Harford",
+      "time": "15:52.5",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1980,
+      "classification": "C",
+      "name": "Brian Shell",
+      "school": "Harford Vo-Tech",
+      "time": "15:52.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1981,
+      "classification": "AA",
+      "name": "Steve Kartalia",
+      "school": "Westminster",
+      "time": "15:30.2",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1981,
+      "classification": "A",
+      "name": "Rob Hovermale",
+      "school": "N. Hagerstown",
+      "time": "15:27.2",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1981,
+      "classification": "B",
+      "name": "Mike Clearly",
+      "school": "Frederick",
+      "time": "15:21.3",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1981,
+      "classification": "C",
+      "name": "Brian Shell",
+      "school": "Harford Vo-Tech",
+      "time": "15:33.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1982,
+      "classification": "AA",
+      "name": "Steve Kartalia",
+      "school": "Westminster",
+      "time": "15:30.4",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1982,
+      "classification": "A",
+      "name": "Willie McBeath",
+      "school": "Rockville",
+      "time": "15:38.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1982,
+      "classification": "B",
+      "name": "Ken Fowler",
+      "school": "Centennial",
+      "time": "15:55.0",
+      "distance": "3.0 Miles"
+    },
+    {
+      "sport": "Boys Cross Country",
+      "year": 1982,
+      "classification": "C",
+      "name": "Rod Young",
+      "school": "Hammond",
+      "time": "16:08.0",
+      "distance": "3.0 Miles"
+    }
+  ]
+}
