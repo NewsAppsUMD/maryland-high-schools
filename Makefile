@@ -7,7 +7,8 @@ SPRING_PDF := pdfs/Spring record book 2025.pdf
 
 SEASONS    := fall winter spring
 
-.PHONY: test routes extract extract-all diff verify rebuild-offline clean clean-build
+.PHONY: test routes extract extract-all diff verify rebuild-offline \
+        site serve check-links clean clean-build
 
 # ── Tests ────────────────────────────────────────────────────────────────────
 test:
@@ -56,6 +57,20 @@ rebuild-offline: clean-build
 	uv run diff_outputs.py build/fall build/winter build/spring \
 		--baseline-dir data --fail-on-diff --out build/diff_report.md
 
+# ── Static site (GitHub Pages) ────────────────────────────────────────────────
+# Builds site/ from data/*/record_book.json. `make serve` previews it locally.
+site:
+	uv run build_site.py
+
+serve:
+	@echo "Serving site/ at http://localhost:8000/  (Ctrl-C to stop)"
+	$(MAKE) site
+	uv run python -m http.server -d site 8000
+
+# Internal link check: no 404s in the built site.
+check-links: site
+	uv run scripts/check_site_links.py site
+
 # ── Cleanup ──────────────────────────────────────────────────────────────────
 clean-build:
 	rm -rf build
@@ -63,3 +78,4 @@ clean-build:
 clean: clean-build
 	rm -f diff_report.md
 	find data -name verification_report.json -delete
+	rm -rf site

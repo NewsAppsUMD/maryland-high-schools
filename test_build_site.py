@@ -500,3 +500,23 @@ class TestBuildEmbeds:
         h = (tmp_path / "embed" / "index.html").read_text()
         assert 'id="schools-data"' in h
         assert h.count('"slug"') == len(r.by_key)
+
+
+# ── Full-site integration ────────────────────────────────────────────────────
+class TestSiteIntegration:
+    def test_built_site_has_no_broken_links(self, index, tmp_path):
+        """Build the whole site and crawl it for broken internal links.
+
+        Guards against root-prefix regressions (e.g. an index page one level
+        deep rendered with root='./' instead of '../').
+        """
+        import importlib.util
+        from build_site import build_site as _build
+        registry, report = index
+        _build(registry, report, tmp_path)
+        spec = importlib.util.spec_from_file_location(
+            "check_site_links", "scripts/check_site_links.py")
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        broken = mod.check(tmp_path)
+        assert broken == [], f"{len(broken)} broken links, e.g. {broken[:3]}"

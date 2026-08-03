@@ -970,7 +970,7 @@ def build_site(registry: SchoolRegistry, report: dict, out_dir: Path) -> dict:
     schools_dir = out_dir / "schools"
     schools_dir.mkdir(parents=True, exist_ok=True)
     (schools_dir / "index.html").write_text(
-        index_tmpl.render(root=root, schools=schools_index_json(registry)),
+        index_tmpl.render(root="../", schools=schools_index_json(registry)),
         encoding="utf-8")
 
     # Per-school pages + JSON. Pages live at site/schools/{slug}/index.html,
@@ -1005,10 +1005,10 @@ def build_pegs(registry: SchoolRegistry, out_dir: Path, root: str) -> int:
     pegs_dir = out_dir / "pegs"
     pegs_dir.mkdir(parents=True, exist_ok=True)
 
-    # Peg index.
+    # Peg index (one level deep: site/pegs/index.html -> root ../).
     (pegs_dir / "index.html").write_text(
         env.get_template("pegs/index.html").render(
-            root=root,
+            root="../",
             droughts=len(pegs["droughts"]["overall"]),
             streaks=len(pegs["streaks"]["dynasties"]),
             watch=len(pegs["first_title_watch"]["candidates"]),
@@ -1080,10 +1080,10 @@ def build_embeds(registry: SchoolRegistry, out_dir: Path, root: str) -> int:
             data=anniversaries, school_base="../../"),
         encoding="utf-8")
 
-    # Builder page.
+    # Builder page (one level deep: site/embed/index.html -> root ../).
     (embed_dir / "index.html").write_text(
         env.get_template("embed/builder.html").render(
-            root=root,
+            root="../",
             schools_json=json.dumps(schools_index_json(registry))),
         encoding="utf-8")
 

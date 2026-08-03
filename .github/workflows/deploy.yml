@@ -1,0 +1,69 @@
+# Deploy the static site to GitHub Pages.
+#
+# Builds site/ from the committed data/*/record_book.json whenever the data,
+# the web source (templates/static), or the generator itself changes on main,
+# then publishes with actions/deploy-pages. No LLM calls — build_site.py only
+# reads the committed JSON.
+#
+# One-time repo setup (manual, outside CI): Settings -> Pages -> Build and
+# deployment -> Source: "GitHub Actions".
+
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "web/**"
+      - "build_site.py"
+      - "test_build_site.py"
+      - "pyproject.toml"
+      - "uv.lock"
+      - ".github/workflows/deploy.yml"
+  # Allow manual runs from the Actions tab.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only one deploy at a time; cancel in-flight runs on new pushes.
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install uv
+        run: pip install uv
+      - name: Install dependencies
+        run: uv sync
+      - name: Build site
+        run: uv run build_site.py
+      - name: Check internal links
+        run: uv run scripts/check_site_links.py site
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -118,6 +118,53 @@ does not honor Ollama's schema-structured output, so extraction uses
 Championship pages are sent two at a time; other tables one page at a time.
 Results are deduplicated by natural key before writing.
 
+## Web site (newsroom use)
+
+`build_site.py` turns the committed `data/*/record_book.json` into a static
+site under `site/` — one clip-file page per school, story-peg pages, and
+embeddable widgets. No npm; Python + Jinja2, vanilla JS/CSS. Deployed to
+GitHub Pages on push to `main` (`.github/workflows/deploy.yml`).
+
+```bash
+make site         # build site/
+make serve        # build + preview at http://localhost:8000/
+make check-links  # build + crawl for broken internal links
+```
+
+### For reporters
+
+- **School clip files** (`/schools/<slug>/`) — a ready-to-paste fast-facts
+  paragraph ("X has won N state championships across M sports…"), a print-safe
+  championship timeline (inline SVG, no JS needed), and per-sport title tables
+  with PDF page citations. Use the **Copy paragraph** button.
+- **Story pegs** (`/pegs/`) — ranked angles: longest active title droughts,
+  current win streaks, schools that have never won a title, first-title watch,
+  and championship anniversaries (25/50/75/100 years).
+- **Embeddable widgets** (`/embed/`) — drop-in `<iframe>` snippets for a
+  school's timeline or title list. The `/embed/` builder page generates the
+  snippet for any school; widgets are self-contained (inline CSS/SVG, no
+  external requests) and accept `?theme=light|dark`.
+
+Widgets are standalone HTML files, so an embed is one line:
+
+```html
+<iframe src="https://<org>.github.io/<repo>/embed/timeline/<slug>/"
+        width="100%" height="300" frameborder="0"></iframe>
+```
+
+### School-name matching
+
+The one hard data problem is school identity: `school_records` is ALLCAPS
+regex output, championship/individual tables are mixed-case LLM output, and
+names appear with abbreviations, em-dashes, county suffixes (`-AA`/`-B`), and
+co-champion `" & "` joins. `build_site.py` normalizes names
+(`normalize_school` + `slugify`), `web/aliases.csv` holds the curated
+alias→canonical map, and a `canonical_display` map keeps proper mixed-case
+display names. The build report (`site/site-build-report.txt`) lists any names
+that appear in championship results but couldn't be matched to a school
+record — mostly closed/segregated-era schools and individual-event artifacts —
+so the gaps are documented rather than silent.
+
 ## Notes
 
 - Football school records use uppercase codes (`CH:`, `RU:`, `SF:`, `QF:`) with region/classification suffixes like `(4AW)`. These are now parsed correctly.
