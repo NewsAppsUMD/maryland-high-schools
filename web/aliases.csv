@@ -1,0 +1,59 @@
+alias,canonical
+# School-name alias map for build_site.py.
+# `alias` is a name as it appears in the record books (any table);
+# `canonical` is the preferred display name. Both sides are normalized
+# (casefolded, punctuation collapsed) before lookup, so casing and most
+# punctuation differences don't need to be listed here — only true
+# abbreviations, renames, and forms that normalize to a different key.
+# Add rows below; the build prints unmatched championship/individual
+# names to site-build-report.txt each run for curation.
+
+# --- Abbreviations ---
+B-CC,Bethesda-Chevy Chase
+BCC,Bethesda-Chevy Chase
+B.C.C.,Bethesda-Chevy Chase
+C. H. Flowers,Charles H. Flowers
+C.H. Flowers,Charles H. Flowers
+C. M. Wright,C. Milton Wright
+C.M. Wright,C. Milton Wright
+E. Roosevelt,Eleanor Roosevelt
+R. Montgomery,Richard Montgomery
+Balto. Polytechnic,Baltimore Polytechnic
+Baltimore Poly. Inst.,Baltimore Polytechnic
+Mergenthaler Vo-Tech,Mergenthaler
+Mervo,Mergenthaler
+Baltimore City College,City College
+City Coll.,City College
+
+# --- Extraction typos / spelling variants (normalized so the site merges them;
+# these are LLM spelling errors in individual_results/championships, not source
+# data changes — see site-build-report.txt) ---
+Westminister,Westminster
+Smithburg,Smithsburg
+Oakland Mil,Oakland Mills
+Stephen Dacatur,Stephen Decatur
+Northen-Cal,Northern-Cal
+J. M. Bennett,James M. Bennett
+LaPlata,La Plata
+Eastern Vo-Tech,Eastern Technical
+Northern-Cal,Northern-Calvert
+Northern (Calvert Co.),Northern-Calvert
+Blair,Montgomery Blair
+St. Michael's,St. Michaels
+Steph. Decatur,Stephen Decatur
+N. Hagerstown,North Hagerstown
+S. Hagerstown,South Hagerstown
+Th. Johnson,Thomas Johnson
+Thos. Johnson,Thomas Johnson
+Thomas Johson,Thomas Johnson
+JM Bennett,James M. Bennett
+El. Roosevelt,Eleanor Roosevelt
+Queen Anne,Queen Anne's
+Queen Anne',Queen Anne's
+Surrattsvile,Surrattsville
+Catotin,Catoctin
+Farimont Heights,Fairmont Heights
+Harford Technincal,Harford Technical
+Havre de Grace Cons,Havre de Grace
+St. Charles,Saint Charles
+Suitland-LBV,Suitland

@@ -212,3 +212,6 @@ data/*/verification_report.json
 
 # macOS
 .DS_Store
+
+# Static site build output (built by build_site.py, deployed via GitHub Pages)
+site/
