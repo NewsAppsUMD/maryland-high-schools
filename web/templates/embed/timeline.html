@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ school.name }} championship timeline</title>
+<style>
+  :root { --ink:#1a1a1a; --bg:#fff; --muted:#5a6470; --line:#d8dde3; --accent:#b3001b; --link:#1a5490; }
+  :root[data-theme="dark"] { --ink:#e8eaed; --bg:#121417; --muted:#9aa3ad; --line:#3a4150; --link:#7db4ec; }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:10px 12px; font:14px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:var(--bg); }
+  h2 { margin:0 0 6px; font-size:15px; }
+  h2 a { color:var(--ink); text-decoration:none; }
+  h2 a:hover { color:var(--link); }
+  .src { color:var(--muted); font-size:11px; margin:4px 0 0; }
+  .timeline { display:block; max-width:100%; background:var(--bg); }
+  .timeline text { font:11px ui-sans-serif,system-ui,sans-serif; fill:var(--ink); }
+  .timeline .tl-grid { stroke:var(--line); stroke-width:1; }
+  .timeline .tl-axis { fill:var(--muted); font-size:10px; }
+  .timeline .tl-sport { fill:var(--ink); font-size:11px; }
+  .timeline .tl-dot { stroke:var(--bg); stroke-width:1; }
+  .timeline .tl-empty { fill:var(--muted); }
+</style>
+</head>
+<body>
+  <h2><a href="{{ school_url }}" target="_blank" rel="noopener">{{ school.name }}</a></h2>
+  <p class="src">{{ school.total_titles }} state title{{ 's' if school.total_titles != 1 else '' }} &middot; MPSSAA record books</p>
+  {{ timeline_svg|safe }}
+  <script>var t=new URLSearchParams(location.search).get('theme');if(t==='dark')document.documentElement.dataset.theme='dark';</script>
+</body>
+</html>

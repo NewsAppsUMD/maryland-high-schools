@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}Embed builder &mdash; Maryland HS Sports Record Book{% endblock %}
+{% block content %}
+<h1>Embed builder</h1>
+<p class="muted">Pick a school and a widget, then copy the iframe snippet into any CMS that
+  allows iframes. Widgets are self-contained and themeable.</p>
+
+<div class="builder">
+  <div class="builder-form">
+    <label>Widget
+      <select id="widget">
+        <option value="timeline">Championship timeline</option>
+        <option value="titles">Title count card</option>
+        <option value="anniversaries">This-season anniversaries</option>
+      </select>
+    </label>
+    <label>School
+      <select id="school" disabled>
+        <option value="">(anniversaries needs no school)</option>
+      </select>
+    </label>
+    <label>Theme
+      <select id="theme">
+        <option value="light">Light</option>
+        <option value="dark">Dark</option>
+      </select>
+    </label>
+  </div>
+
+  <label class="snippet-label">Embed snippet</label>
+  <textarea id="snippet" readonly rows="4" class="snippet"></textarea>
+  <div class="builder-actions">
+    <button id="copy-snippet" type="button" class="copy-btn">Copy snippet</button>
+    <span id="copy-msg" class="muted"></span>
+  </div>
+
+  <h2>Preview</h2>
+  <div class="embed-preview"><iframe id="preview" frameborder="0" scrolling="no"></iframe></div>
+</div>
+
+<script id="schools-data" type="application/json">{{ schools_json|safe }}</script>
+<script src="{{ root }}static/embed.js"></script>
+{% endblock %}

@@ -13,6 +13,7 @@ from build_site import (
     _base_normalize,
     _longest_consecutive_run,
     best_display_name,
+    build_embeds,
     build_school_index,
     cite_str,
     compute_anniversaries,
@@ -464,3 +465,38 @@ class TestComputePegs:
         p = compute_pegs(r)
         assert set(p) == {"droughts", "streaks", "never_won",
                           "first_title_watch", "anniversaries"}
+
+
+# ── Embed widgets ────────────────────────────────────────────────────────────
+class TestBuildEmbeds:
+    def test_renders_all_embed_types(self, index, tmp_path):
+        r, _ = index
+        n = build_embeds(r, tmp_path, root="./")
+        assert (tmp_path / "embed" / "timeline" / "allegany" / "index.html").exists()
+        assert (tmp_path / "embed" / "titles" / "allegany" / "index.html").exists()
+        assert (tmp_path / "embed" / "anniversaries" / "index.html").exists()
+        assert (tmp_path / "embed" / "index.html").exists()  # builder
+        assert n == len(r.by_key) * 2 + 2
+
+    def test_timeline_embed_is_self_contained(self, index, tmp_path):
+        r, _ = index
+        build_embeds(r, tmp_path, root="./")
+        h = (tmp_path / "embed" / "timeline" / "allegany" / "index.html").read_text()
+        assert "<link" not in h          # no external stylesheet
+        assert "<script src=" not in h   # no external script
+        assert "<svg" in h               # timeline inlined
+        assert 'data-theme="light"' in h  # default theme
+        assert "URLSearchParams" in h     # theme toggle script
+
+    def test_titles_embed_shows_count(self, index, tmp_path):
+        r, _ = index
+        build_embeds(r, tmp_path, root="./")
+        h = (tmp_path / "embed" / "titles" / "allegany" / "index.html").read_text()
+        assert 'class="num">34</span>' in h
+
+    def test_builder_inlines_schools_json(self, index, tmp_path):
+        r, _ = index
+        build_embeds(r, tmp_path, root="./")
+        h = (tmp_path / "embed" / "index.html").read_text()
+        assert 'id="schools-data"' in h
+        assert h.count('"slug"') == len(r.by_key)

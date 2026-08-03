@@ -988,9 +988,12 @@ def build_site(registry: SchoolRegistry, report: dict, out_dir: Path) -> dict:
     # Story pegs.
     peg_pages = build_pegs(registry, out_dir, root)
 
+    # Embeddable widgets + builder.
+    embed_pages = build_embeds(registry, out_dir, root)
+
     return {
         "schools": len(schools),
-        "pages": len(schools) + 2 + peg_pages,  # schools + home + index + pegs
+        "pages": len(schools) + 2 + peg_pages + embed_pages,
         "json_files": len(schools) + 1 + 5,     # per-school + index + 5 peg JSON
     }
 
@@ -1029,6 +1032,62 @@ def build_pegs(registry: SchoolRegistry, out_dir: Path, root: str) -> int:
         (pegs_dir / f"{slug.replace('-', '_')}.json").write_text(
             json.dumps(data, indent=2), encoding="utf-8")
     return len(pages) + 1  # 5 peg pages + index
+
+
+def build_embeds(registry: SchoolRegistry, out_dir: Path, root: str) -> int:
+    """Render self-contained iframe embed pages + the builder page.
+
+    Each embed inlines its data at build time (no external requests), so it
+    works inside any CMS that allows iframes. ``?theme=light|dark`` is read
+    by a tiny inline script in each embed.
+    """
+    env = _jinja_env()
+    embed_dir = out_dir / "embed"
+    embed_dir.mkdir(parents=True, exist_ok=True)
+    schools = sorted(registry.by_key.values(), key=lambda s: s.display_name.lower())
+    anniversaries = compute_anniversaries(registry)
+
+    timeline_tmpl = env.get_template("embed/timeline.html")
+    titles_tmpl = env.get_template("embed/titles.html")
+
+    for school in schools:
+        # /embed/timeline/{slug}/index.html  -> school page is ../../../schools/{slug}/
+        tl_dir = embed_dir / "timeline" / school.slug
+        tl_dir.mkdir(parents=True, exist_ok=True)
+        (tl_dir / "index.html").write_text(timeline_tmpl.render(
+            school={"name": school.display_name, "slug": school.slug,
+                    "total_titles": len(school.titles)},
+            timeline_svg=render_timeline_svg(school.titles),
+            school_url=f"../../../schools/{school.slug}/index.html",
+        ), encoding="utf-8")
+
+        ti_dir = embed_dir / "titles" / school.slug
+        ti_dir.mkdir(parents=True, exist_ok=True)
+        sports_count = len({t["sport"] for t in school.titles})
+        last = _last_title_str(school.titles)
+        (ti_dir / "index.html").write_text(titles_tmpl.render(
+            school={"name": school.display_name, "slug": school.slug,
+                    "total_titles": len(school.titles), "last_title": last},
+            sports_count=sports_count,
+            school_url=f"../../../schools/{school.slug}/index.html",
+        ), encoding="utf-8")
+
+    # Anniversaries widget (no per-school variant).
+    ann_dir = embed_dir / "anniversaries"
+    ann_dir.mkdir(parents=True, exist_ok=True)
+    (ann_dir / "index.html").write_text(
+        env.get_template("embed/anniversaries.html").render(
+            data=anniversaries, school_base="../../"),
+        encoding="utf-8")
+
+    # Builder page.
+    (embed_dir / "index.html").write_text(
+        env.get_template("embed/builder.html").render(
+            root=root,
+            schools_json=json.dumps(schools_index_json(registry))),
+        encoding="utf-8")
+
+    return len(schools) * 2 + 2  # timeline + titles per school, + anniversaries + builder
 
 
 def _relative_root() -> str:
