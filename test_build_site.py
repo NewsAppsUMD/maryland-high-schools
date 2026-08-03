@@ -13,6 +13,7 @@ from build_site import (
     _base_normalize,
     best_display_name,
     build_school_index,
+    fast_facts_paragraph,
     load_aliases,
     load_books,
     make_normalizer,
@@ -22,8 +23,8 @@ from build_site import (
     split_cochampions,
 )
 
-ALIASES = load_aliases()
-NORM = make_normalizer(ALIASES)
+ALIAS_MAP, CANON_DISPLAY = load_aliases()
+NORM = make_normalizer(ALIAS_MAP)
 
 
 # ── base normalization ───────────────────────────────────────────────────────
@@ -130,7 +131,8 @@ class TestBestDisplayName:
 @pytest.fixture(scope="module")
 def index():
     books = load_books()
-    registry, report = build_school_index(books, make_normalizer(load_aliases()))
+    am, cd = load_aliases()
+    registry, report = build_school_index(books, make_normalizer(am), cd)
     return registry, report
 
 
@@ -258,3 +260,65 @@ class TestRenderTimelineSvg:
         svg = render_timeline_svg([{"sport": "Track & Field", "year": 2000}])
         assert "Track &amp; Field" in svg
         assert "Track & Field<" not in svg  # no raw ampersand inside an element
+
+
+# ── Fast-facts paragraph generator ───────────────────────────────────────────
+class TestFastFacts:
+    def test_with_titles_full_paragraph(self, index):
+        r, _ = index
+        ff = fast_facts_paragraph("Allegany", r.lookup("Allegany"))
+        assert ff == ("Allegany has won 34 state championships across 7 sports, "
+                      "most recently 1A baseball in 2025. It has produced 13 "
+                      "individual state champions and won 2 sportsmanship awards.")
+
+    def test_singular_grammar_one_title_one_sport(self, index):
+        r, _ = index
+        ff = fast_facts_paragraph("Charles W. Woodward", r.lookup("Charles W. Woodward"))
+        assert ff == ("Charles W. Woodward has won 1 state championship across 1 "
+                      "sport, most recently A boys basketball in 1977.")
+
+    def test_no_title_but_finals(self, index):
+        r, _ = index
+        ff = fast_facts_paragraph("Cambridge-South Dorchester",
+                                  r.lookup("Cambridge-South Dorchester"))
+        assert ff == ("Cambridge-South Dorchester has reached 1 state final without "
+                      "a title. It has produced 6 individual state champions and won "
+                      "2 sportsmanship awards.")
+
+    def test_no_history_at_all(self, index):
+        r, _ = index
+        ff = fast_facts_paragraph("Carver A&t", r.lookup("Carver A&t"))
+        assert ff == "Carver A&t has no recorded state championship appearances."
+
+    def test_no_title_individual_only(self, index):
+        r, _ = index
+        ff = fast_facts_paragraph("Elmer Wolfe", r.lookup("Elmer Wolfe"))
+        assert ff == ("Elmer Wolfe has no recorded state championship appearances. "
+                      "It has produced 1 individual state champion.")
+
+    def test_deterministic(self, index):
+        r, _ = index
+        s = r.lookup("Eleanor Roosevelt")
+        assert fast_facts_paragraph("Eleanor Roosevelt", s) == \
+            fast_facts_paragraph("Eleanor Roosevelt", s)
+
+    def test_uses_classification_and_in_year(self, index):
+        r, _ = index
+        ff = fast_facts_paragraph("Eleanor Roosevelt", r.lookup("Eleanor Roosevelt"))
+        # last title is 4A Boys Basketball 2022
+        assert "4A boys basketball in 2022" in ff
+
+
+class TestCanonicalDisplayName:
+    def test_alias_canonical_preferred_over_short_abbreviation(self, index):
+        # Regression: best_display_name once picked "E. Roosevelt" over
+        # "Eleanor Roosevelt" because the abbreviation was shorter. The curated
+        # canonical display name from aliases.csv must win.
+        r, _ = index
+        er = r.lookup("Eleanor Roosevelt")
+        assert er.display_name == "Eleanor Roosevelt"
+
+    def test_baltimore_polytechnic_display_name(self, index):
+        r, _ = index
+        bpi = r.lookup("Baltimore Polytechnic Institute")
+        assert bpi.display_name == "Baltimore Polytechnic Institute"

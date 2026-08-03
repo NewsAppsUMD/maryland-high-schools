@@ -103,15 +103,21 @@ def _base_normalize(name: str) -> str:
     return " ".join(tokens)
 
 
-def load_aliases(path: Path = ALIASES_CSV) -> dict[str, str]:
-    """Load ``alias,canonical`` rows into a normalized alias_key -> canonical_key map.
+def load_aliases(path: Path = ALIASES_CSV) -> tuple[dict[str, str], dict[str, str]]:
+    """Load ``alias,canonical`` rows.
 
-    Comment lines (starting with ``#``) and blank rows are skipped. Both sides
-    are base-normalized so lookups are case/punctuation-insensitive.
+    Returns ``(alias_map, canonical_display)``:
+    - ``alias_map``: normalized alias_key -> normalized canonical_key (used by
+      the normalizer so alias forms resolve to one school).
+    - ``canonical_display``: normalized canonical_key -> canonical display name
+      (mixed-case, as written in the CSV), so a school reached via an
+      abbreviation uses the curated full name instead of the short alias form.
+    Comment lines (starting with ``#``) and blank rows are skipped.
     """
-    mapping: dict[str, str] = {}
+    alias_map: dict[str, str] = {}
+    canonical_display: dict[str, str] = {}
     if not path.exists():
-        return mapping
+        return alias_map, canonical_display
     with path.open(newline="", encoding="utf-8") as fh:
         reader = csv.reader(fh)
         for row in reader:
@@ -121,9 +127,13 @@ def load_aliases(path: Path = ALIASES_CSV) -> dict[str, str]:
                 continue
             alias_key = _base_normalize(row[0])
             canon_key = _base_normalize(row[1])
+            canon_display = row[1].strip()
             if alias_key and canon_key:
-                mapping[alias_key] = canon_key
-    return mapping
+                alias_map[alias_key] = canon_key
+            if canon_key and canon_display:
+                # Last write wins; keep the first-seen display for a canonical.
+                canonical_display.setdefault(canon_key, canon_display)
+    return alias_map, canonical_display
 
 
 def make_normalizer(aliases: dict[str, str]):
@@ -252,8 +262,9 @@ def _cite(row: dict) -> dict:
 class SchoolRegistry:
     """Holds every known school keyed by normalized name; dedupes display names."""
 
-    def __init__(self, normalize_school):
+    def __init__(self, normalize_school, canonical_display: dict[str, str] | None = None):
         self.norm = normalize_school
+        self.canonical_display = canonical_display or {}
         self.by_key: dict[str, School] = {}
         self._variants: dict[str, set[str]] = defaultdict(set)
         # names seen in championships/individual/etc that did NOT resolve to a
@@ -286,11 +297,12 @@ class SchoolRegistry:
 
     def finalize_names(self) -> None:
         """After all variants are collected, assign slugs + display names."""
-        # Ensure display name is set from the best variant; the alias canonical
-        # (mixed-case) is preferred if it was registered early as a variant.
+        # Prefer the curated canonical display name (from aliases.csv) over the
+        # heuristic, so "E. Roosevelt" doesn't win over "Eleanor Roosevelt".
         for key, school in self.by_key.items():
             if not school.display_name:
-                school.display_name = best_display_name(sorted(self._variants[key]))
+                school.display_name = (self.canonical_display.get(key)
+                                       or best_display_name(sorted(self._variants[key])))
             if not school.slug:
                 school.slug = slugify(key)
         # Resolve slug collisions deterministically by appending a short hash.
@@ -314,12 +326,14 @@ class SchoolRegistry:
             self.unmatched[key].append(f"{raw_name} ({context})")
 
 
-def build_school_index(books: dict[str, dict], normalize_school) -> tuple[SchoolRegistry, dict]:
+def build_school_index(books: dict[str, dict], normalize_school,
+                       canonical_display: dict[str, str] | None = None
+                       ) -> tuple[SchoolRegistry, dict]:
     """Build the unified per-school model from all three season books.
 
     Returns (registry, report) where report carries counts + unmatched names.
     """
-    registry = SchoolRegistry(normalize_school)
+    registry = SchoolRegistry(normalize_school, canonical_display)
 
     # 1. Seed registry from school_records (the canonical school universe).
     sr_rows = 0
@@ -576,46 +590,52 @@ def cite_str(row: dict) -> str:
 
 # ── Per-school page data ─────────────────────────────────────────────────────
 def _last_title_str(titles: list[dict]) -> str | None:
+    """Short form for the fact grid: '4A Boys Basketball 2022'."""
     if not titles:
         return None
-    t = max(titles, key=lambda r: r.get("year") or 0)
+    t = max(titles, key=lambda r: (r.get("year") or 0, r.get("sport") or ""))
     cls = t.get("classification") or ""
     return f"{cls} {t['sport']} {t['year']}".strip()
 
 
+def _last_title_phrase(titles: list[dict]) -> str | None:
+    """Prose form for the fast-facts paragraph: '4A boys basketball in 2022'."""
+    if not titles:
+        return None
+    t = max(titles, key=lambda r: (r.get("year") or 0, r.get("sport") or ""))
+    cls = t.get("classification") or ""
+    sport = (t.get("sport") or "").lower()
+    prefix = f"{cls} {sport}".strip()
+    return f"{prefix} in {t.get('year')}"
+
+
 def fast_facts_paragraph(name: str, school: School) -> str:
-    """Deterministic paste-ready summary. (Richer phrasing lands in Batch 3.)"""
+    """Deterministic, paste-ready summary paragraph for a school clip file."""
     n_titles = len(school.titles)
     n_finals = len(school.finals)
     n_indiv = len(school.individual_champions)
-    sports_won = sorted({t["sport"] for t in school.titles})
-    parts: list[str] = []
-    if n_titles:
-        s_pl = "s" if n_titles != 1 else ""
-        sp_pl = "s" if len(sports_won) != 1 else ""
-        parts.append(f"{name} has won {n_titles} state championship{s_pl} "
-                     f"across {len(sports_won)} sport{sp_pl}")
-        last = _last_title_str(school.titles)
-        if last:
-            parts.append(f"most recently {last}")
-        if n_finals:
-            parts.append(f"with {n_finals} finals appearance{'s' if n_finals != 1 else ''}")
-        bits = "; ".join(p for p in parts if p)
-        if not bits.endswith((";", ".")):
-            bits += "."
-        return bits.replace("; most recently", ", most recently").replace("; with", " and")
-    base = f"{name} has no recorded state titles"
-    if n_finals:
-        base += f" but reached {n_finals} final{'s' if n_finals != 1 else ''}"
-    extra = []
+    n_sport = len(school.sportsmanship)
+    sports_won = {t["sport"] for t in school.titles}
+
+    def pl(n: int, sing: str, plur: str) -> str:
+        return f"{n} {sing if n == 1 else plur}"
+
+    extras: list[str] = []
     if n_indiv:
-        extra.append(f"{n_indiv} individual state champion{'s' if n_indiv != 1 else ''}")
-    if school.sportsmanship:
-        extra.append(f"{len(school.sportsmanship)} sportsmanship award"
-                     f"{'s' if len(school.sportsmanship) != 1 else ''}")
-    if extra:
-        base += " and " + " and ".join(extra)
-    return base + "."
+        extras.append(f"produced {pl(n_indiv, 'individual state champion', 'individual state champions')}")
+    if n_sport:
+        extras.append(f"won {pl(n_sport, 'sportsmanship award', 'sportsmanship awards')}")
+    extra_str = (" It has " + " and ".join(extras) + ".") if extras else ""
+
+    if n_titles:
+        phrase = _last_title_phrase(school.titles)
+        return (f"{name} has won {pl(n_titles, 'state championship', 'state championships')} "
+                f"across {pl(len(sports_won), 'sport', 'sports')}, most recently {phrase}."
+                + extra_str)
+    if n_finals:
+        return (f"{name} has reached {pl(n_finals, 'state final', 'state finals')} "
+                f"without a title." + extra_str)
+    return f"{name} has no recorded state championship appearances.{extra_str}"
 
 
 def _grouped_by_sport(rows: list[dict]) -> dict[str, list[dict]]:
@@ -844,9 +864,9 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
 
     books = load_books()
-    aliases = load_aliases()
-    normalize_school = make_normalizer(aliases)
-    registry, report = build_school_index(books, normalize_school)
+    alias_map, canonical_display = load_aliases()
+    normalize_school = make_normalizer(alias_map)
+    registry, report = build_school_index(books, normalize_school, canonical_display)
 
     print(render_report(report))
 
