@@ -718,19 +718,25 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
     combined = "\n".join(pages_text)
     records: list[dict] = []
 
-    # A school name: either all-caps (e.g. "ALLEGANY") or mixed-case with
-    # parenthetical stats (e.g. "Aberdeen (16, 7-15)" in Football records)
+    # A school name: either all-caps (e.g. "ALLEGANY", "SOUTHERN (G)") or
+    # mixed-case with parenthetical stats (e.g. "Aberdeen (16, 7-15)" or
+    # "Dr. Henry A. Wise, Jr. (16, 46-10)" in Football records). An optional
+    # leading "x-" is MPSSAA's closed-school marker ("x-North Carroll").
     school_re = re.compile(
-        r"^(?!YEAR|CLASS|MPSSAA|HONOR ROLL|TOURNAMENTS|STATE|PREVIOUS|PUBLIC|SOCCER)"
-        r"(?:[A-Z][A-Z\s\.\-\'/&]+$|[A-Z][A-Za-z\s\.\-\'/&]+\(\d)"
+        r"^(?:x-)?"
+        r"(?!YEAR|CLASS|MPSSAA|HONOR ROLL|TOURNAMENTS|STATE|PREVIOUS|PUBLIC|SOCCER)"
+        r"(?:[A-Z][A-Z\s\.\-\'/&]+(?:\([A-Za-z\s\.]{1,14}\))?\s*$|[A-Z][A-Za-z\s\.\-\'/&,]+\(\d)"
     )
     status_start_re = re.compile(r"^(Ch|Fn|Sf|RU|QF|RS|RR\d?|CH|SF|RU):")
 
     def get_years(block: list[str], code: str) -> list[int]:
         combined_block = " ".join(block)
         # Grab everything after "Code:" until the next code or end.
-        # Allow parenthetical classifications like "(2AE)" between years.
-        parts = re.findall(rf"(?i)\b{code}:\s*([\d,\s\n\(\)A-Za-z]+?)(?=\b(?:Ch|Fn|Sf|RU|QF|RS|RR\d?|CH|SF)\b:|$)", combined_block)
+        # Allow parenthetical classifications like "(2AE)" between years — and
+        # merged-class ones like "(4A/3AE)" or "(2A/1ASN)": without "/" in the
+        # class the match dies mid-block and the school's years silently vanish
+        # (this is how North Point's 2022/2024 football titles went missing).
+        parts = re.findall(rf"(?i)\b{code}:\s*([\d,\s\n\(\)A-Za-z/\-]+?)(?=\b(?:Ch|Fn|Sf|RU|QF|RS|RR\d?|CH|SF)\b:|$)", combined_block)
         years: list[int] = []
         for part in parts:
             years.extend(int(y) for y in re.findall(r"\d{4}", part))
@@ -745,7 +751,10 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
         sf = get_years(block, "Sf")
         ru = get_years(block, "RU")
         qf = get_years(block, "Qf")
-        if ch or fn or ru:
+        # Keep semifinal/quarterfinal-only schools too (e.g. "Northeast - AA
+        # (7, 2-7) / SF: 1981"): the schema has fields for them, and dropping
+        # them makes every such school invisible to the site and verify script.
+        if ch or fn or sf or ru or qf:
             rec = {
                 "sport": sport,
                 "school": school,
@@ -771,8 +780,12 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
                 rec = flush(current_school, current_block)
                 if rec:
                     records.append(rec)
-            # Strip parenthetical stats like "(16, 7-15)" from Football records
-            current_school = re.sub(r"\s*\([\d,\s\-]+\)\s*$", "", line).strip()
+            # Strip parenthetical stats like "(16, 7-15)" from Football records.
+            # Tolerate a missing close paren ("Northwood (6, 2-6") — pypdf
+            # sometimes wraps the ")" onto the next line — and drop the
+            # closed-school marker ("x-North Carroll" -> "North Carroll").
+            name = re.sub(r"\s*\([\d,\s\-]+\)?\s*$", "", line).strip()
+            current_school = re.sub(r"^x-", "", name)
             current_block = []
         elif current_school:
             current_block.append(line)

@@ -64,3 +64,97 @@ Harford Technincal,Harford Technical
 Havre de Grace Cons,Havre de Grace
 St. Charles,Saint Charles
 Suitland-LBV,Suitland
+
+# --- Short forms used in championship tables / individual results ---
+# (Championship tables abbreviate famous schools; verified against the full
+# names in school records for the same sport/era.)
+Churchill,Winston Churchill
+W. Churchill,Winston Churchill
+Kennedy,John F. Kennedy
+Whitman,Walt Whitman
+W. Whitman,Walt Whitman
+Woodward,Charles W. Woodward
+Einstein,Albert Einstein
+Wootton,Thomas S. Wootton
+T.S. Wootton,Thomas S. Wootton
+Peary,Robert E. Peary
+Lackey,Henry E. Lackey
+Tubman,Harriet Tubman
+Roosevelt,Eleanor Roosevelt
+Central,Central-PG
+Central Cons,Central Consolidated
+Central Cons.,Central Consolidated
+Mont. Blair,Montgomery Blair
+W Johnson,Walter Johnson
+F.S. Key,Francis Scott Key
+Kent,Kent County
+Western,Western-B
+Douglass,Frederick Douglass-PG
+F. Douglass,Frederick Douglass-PG
+Northwestern,Northwestern-PG
+N'western-PG,Northwestern-PG
+Northeast,Northeast-AA
+North East,North East-Cecil
+North East-C,North East-Cecil
+North East-Cec,North East-Cecil
+Chesapeake-B,Chesapeake-BC
+Southern-A,Southern-AA
+Howard Co,Howard County
+Sollers Pt.,Sollers Point
+Lincoln-Fr,Lincoln
+Merganthaler Vo-Tech,Mergenthaler
+Merganthaler Vocational-Technical,Mergenthaler
+Northern Garrett Huskies,Northern Garrett
+
+# --- Same school, two registry spellings (merge + canonical display) ---
+Thomas Wootton,Thomas S. Wootton
+Thomas S. Wooton,Thomas S. Wootton
+Thomas Johnson,Gov. Thomas Johnson
+Governor Thomas Johnson,Gov. Thomas Johnson
+James H. Blake,James Hubert Blake
+Howard County,Howard
+Southern-G,Southern Garrett
+Douglass-PG,Frederick Douglass-PG
+Douglass-B,Frederick Douglass-B
+Frederick Douglass,Frederick Douglass-PG
+FrederickDouglass-PG,Frederick Douglass-PG
+F. Douglass - PG,Frederick Douglass-PG
+Henry A. Wise,"Dr. Henry A. Wise, Jr."
+Henry Wise,"Dr. Henry A. Wise, Jr."
+Dr. Henry A. Wise,"Dr. Henry A. Wise, Jr."
+Dr. Henry Wise Jr.,"Dr. Henry A. Wise, Jr."
+Chesapeake - BC,Chesapeake-BC
+CARVER CENTER FOR A&T,Carver Center for Arts & Technology
+Carver Center for Arts,Carver Center for Arts & Technology
+Henry E.Lackey,Henry E. Lackey
+
+# --- LLM spelling errors seen in individual_results (second batch) ---
+Allegeny,Allegany
+Pooleville,Poolesville
+Cotoctin,Catoctin
+Owings Mill,Owings Mills
+Wiliamsport,Williamsport
+Wiilamsport,Williamsport
+Aundel,Arundel
+Marriots Ridge,Marriotts Ridge
+Bladensbug,Bladensburg
+Souh Carroll,South Carroll
+Fredeick,Frederick
+Centrevlle,Centreville
+Fort Hil,Fort Hill
+Harriett Tubman,Harriet Tubman
+Oakland Mils,Oakland Mills
+Spring Brook,Springbrook
+Surattsville,Surrattsville
+Stephen Decautur,Stephen Decatur
+Westner STES,Western STES
+N Caroline,North Caroline
+Saint Michael's,St. Michaels
+Maces Lane,Mace's Lane
+Garnet,Garnett
+Du Val,DuVal
+Queen Annes,Queen Anne's
+Betesda-CC,Bethesda-Chevy Chase
+CM Wright,C. Milton Wright
+Blake,James Hubert Blake
+Reginald Lewis,Reginald F. Lewis
