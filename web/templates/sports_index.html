@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Sports &mdash; Maryland HS Sports Record Book{% endblock %}
+{% block content %}
+<h1>Sports</h1>
+<p class="muted">Every MPSSAA championship sport, with its full title history,
+  all-time leaders, and individual champions.</p>
+
+{% for season in ["fall", "winter", "spring"] %}
+{% set season_sports = sports | selectattr("season", "equalto", season) | list %}
+{% if season_sports %}
+<h2 class="season-heading">{{ season | capitalize }}</h2>
+<table class="school-index">
+  <thead>
+    <tr><th>Sport</th><th>Years</th><th class="num">Championships</th><th class="num">Indiv. champions</th><th class="num">Sportsmanship</th></tr>
+  </thead>
+  <tbody>
+  {% for s in season_sports %}
+    <tr>
+      <td><a href="{{ root }}sports/{{ s.slug }}/index.html">{{ s.name }}</a></td>
+      <td>{% if s.span %}{{ s.span[0] }}&ndash;{{ s.span[1] }}{% endif %}</td>
+      <td class="num">{{ s.championships }}</td>
+      <td class="num">{{ s.individual }}</td>
+      <td class="num">{{ s.sportsmanship }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+{% endfor %}
+{% endblock %}

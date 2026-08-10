@@ -24,7 +24,7 @@
 
   {% for g in sports %}
   <section class="sport-section">
-    <h2>{{ g.sport }}</h2>
+    <h2><a class="plain" href="{{ root }}sports/{{ g.sport_slug }}/index.html">{{ g.sport }}</a></h2>
 
     {% if g.titles %}
     <table class="results">

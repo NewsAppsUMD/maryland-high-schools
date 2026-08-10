@@ -68,6 +68,14 @@ tbody tr:hover { background: var(--tint); }
 .fact-grid dt { color: var(--muted); font-size: .8rem; }
 .fact-grid dd { margin: 0; font-weight: 700; font-size: 1.1rem; }
 .sport-section h2 { border-bottom: 2px solid var(--accent); padding-bottom: 4px; margin-top: 32px; }
+a.plain { color: inherit; }
+a.plain:hover { color: var(--link); }
+
+/* sport pages */
+.season-heading { margin-top: 28px; text-transform: capitalize; }
+.sport-page details { margin: 10px 0; border: 1px solid var(--line); border-radius: 4px; padding: 8px 12px; }
+.sport-page summary { cursor: pointer; font-weight: 600; }
+.sport-page details table { margin-top: 10px; }
 .year-lists th { width: 120px; color: var(--muted); font-weight: 600; }
 .json-link { margin-top: 32px; font-size: .9rem; color: var(--muted); }
 

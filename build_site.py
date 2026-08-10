@@ -748,6 +748,7 @@ def school_page_data(school: School) -> dict:
 
         sports.append({
             "sport": sport,
+            "sport_slug": slugify(sport),
             "titles": title_rows,
             "record_years": record_years,
             "individual": sorted(indiv_by_sport.get(sport, []),
@@ -796,6 +797,175 @@ def school_json(school: School) -> dict:
         "golf_team": school.golf_team,
         "golf_individual": school.golf_individual,
         "stat_records": school.stat_records,
+    }
+
+
+# ── Per-sport page data ──────────────────────────────────────────────────────
+# Sport pages are built straight from the season books (the tables are already
+# sport-shaped); the registry is used only to resolve school names to pages.
+
+SEASON_ORDER = {"fall": 0, "winter": 1, "spring": 2}
+
+
+def _school_ref(registry: SchoolRegistry, raw_name: str) -> dict:
+    """{"name", "slug"} for one school name; slug is None when it has no page."""
+    s = registry.lookup(raw_name) if raw_name else None
+    if s:
+        return {"name": s.display_name, "slug": s.slug}
+    return {"name": raw_name, "slug": None}
+
+
+def _school_refs(registry: SchoolRegistry, raw_field: str | None) -> list[dict]:
+    """Resolve a (possibly tied/co-champion) school field to page links.
+
+    Whole-name-first, same as build_school_index: "Cambridge/South Dorchester"
+    is one ref; "Poolesville/St. Michaels" is two.
+    """
+    if not raw_field:
+        return []
+    if registry.lookup(raw_field):
+        return [_school_ref(registry, raw_field)]
+    return [_school_ref(registry, p) for p in split_cochampions(raw_field)]
+
+
+def build_sport_index(books: dict[str, dict], registry: SchoolRegistry) -> dict[str, dict]:
+    """Assemble per-sport page data across all seasons, keyed by sport name.
+
+    Each entry: championships (year desc), title leaders, individual champions
+    grouped by event, sportsmanship awards — with school names resolved to
+    page links and provenance fields kept for citations. Golf's championship
+    history lives in golf_results, so the Golf entry is fed from that table.
+    """
+    sports: dict[str, dict] = {}
+
+    def entry(sport: str, season: str) -> dict:
+        e = sports.get(sport)
+        if e is None:
+            e = sports[sport] = {
+                "name": sport,
+                "slug": slugify(sport),
+                "season": season,
+                "championships": [],
+                "golf": [],
+                "individual": [],       # raw rows; grouped by event below
+                "sportsmanship": [],
+            }
+        return e
+
+    for season, book in books.items():
+        for r in book.get("championship_results", []):
+            sport = r.get("sport")
+            if not sport:
+                continue
+            e = entry(sport, season)
+            e["championships"].append({
+                **r,
+                "champions": _school_refs(registry, r.get("champion_school")),
+                "finalists": _school_refs(registry, r.get("finalist_school")),
+            })
+        for r in book.get("golf_results", []):
+            e = entry("Golf", season)
+            e["golf"].append({
+                **r,
+                "team_champions": _school_refs(registry, r.get("team_champion_school")),
+                "individual_school": _school_ref(registry, r.get("individual_winner_school"))
+                                     if r.get("individual_winner_school") else None,
+            })
+        for r in book.get("individual_xc_champions", []):
+            sport = r.get("sport")
+            if not sport:
+                continue
+            e = entry(sport, season)
+            time = r.get("time") or ""
+            dist = r.get("distance") or ""
+            e["individual"].append({
+                **r,
+                "event": "Individual champion",
+                "mark": f"{time} ({dist})".strip() if dist else time,
+                "school_ref": _school_ref(registry, r.get("school")),
+            })
+        for r in book.get("individual_results", []):
+            sport = r.get("sport")
+            if not sport:
+                continue
+            e = entry(sport, season)
+            e["individual"].append({
+                **r,
+                "school_ref": _school_ref(registry, r.get("school")),
+            })
+        for r in book.get("sportsmanship_awards", []):
+            sport = r.get("sport")
+            if not sport:
+                continue
+            e = entry(sport, season)
+            e["sportsmanship"].append({
+                **r,
+                "school_ref": _school_ref(registry, r.get("school")),
+            })
+
+    for e in sports.values():
+        e["championships"].sort(
+            key=lambda r: (-(r.get("year") or 0), str(r.get("classification") or "")))
+        e["golf"].sort(
+            key=lambda r: (-(r.get("year") or 0), str(r.get("classification") or "")))
+        e["sportsmanship"].sort(key=lambda r: (r.get("year") or 0))
+
+        # Title leaders: one title per school per row (co-champions each count).
+        counts: dict[str, dict] = {}
+        title_rows = e["championships"] or []
+        refs_iter = ([c for r in title_rows for c in r["champions"]]
+                     + [c for r in e["golf"] for c in r["team_champions"]])
+        for ref in refs_iter:
+            c = counts.setdefault(ref["name"], {"name": ref["name"],
+                                                "slug": ref["slug"], "titles": 0})
+            c["titles"] += 1
+        e["leaders"] = sorted(counts.values(),
+                              key=lambda c: (-c["titles"], c["name"].lower()))
+
+        # Individual champions grouped by event, years ascending within each.
+        by_event: dict[str, list[dict]] = defaultdict(list)
+        for r in e["individual"]:
+            by_event[r.get("event") or "Individual champion"].append(r)
+        e["events"] = [
+            {"event": ev, "rows": sorted(rows, key=lambda r: (r.get("year") or 0,
+                                                              str(r.get("classification") or "")))}
+            for ev, rows in sorted(by_event.items())
+        ]
+
+        years = ([r.get("year") for r in e["championships"] if r.get("year")]
+                 + [r.get("year") for r in e["golf"] if r.get("year")])
+        if not years:
+            # Individual-only sports (Tennis) have no team championship table.
+            years = [r.get("year") for r in e["individual"] if r.get("year")]
+        e["span"] = [min(years), max(years)] if years else None
+        e["counts"] = {
+            "championships": len(e["championships"]) + len(e["golf"]),
+            "individual": len(e["individual"]),
+            "sportsmanship": len(e["sportsmanship"]),
+        }
+    return sports
+
+
+def sports_summary(sport_index: dict[str, dict]) -> list[dict]:
+    """Compact per-sport rows for the sports index page/JSON, in season order."""
+    ordered = sorted(sport_index.values(),
+                     key=lambda e: (SEASON_ORDER.get(e["season"], 9), e["name"]))
+    return [{
+        "name": e["name"], "slug": e["slug"], "season": e["season"],
+        "span": e["span"], **e["counts"],
+    } for e in ordered]
+
+
+def sport_json(e: dict) -> dict:
+    """Machine-readable per-sport record (mirrors the school JSON)."""
+    return {
+        "name": e["name"], "slug": e["slug"], "season": e["season"],
+        "span": e["span"], "counts": e["counts"],
+        "leaders": e["leaders"],
+        "championships": e["championships"],
+        "golf": e["golf"],
+        "individual": e["individual"],
+        "sportsmanship": e["sportsmanship"],
     }
 
 
@@ -996,7 +1166,8 @@ def _jinja_env() -> "jinja2.Environment":
     return env
 
 
-def build_site(registry: SchoolRegistry, report: dict, out_dir: Path) -> dict:
+def build_site(registry: SchoolRegistry, report: dict, out_dir: Path,
+               books: dict[str, dict]) -> dict:
     """Render the full static site to ``out_dir``. Returns page counts."""
     env = _jinja_env()
     root = _relative_root()  # path prefix from a page back to site root
@@ -1045,6 +1216,9 @@ def build_site(registry: SchoolRegistry, report: dict, out_dir: Path) -> dict:
         (schools_dir / f"{school.slug}.json").write_text(
             json.dumps(school_json(school), indent=2), encoding="utf-8")
 
+    # Sport pages.
+    sport_pages, sport_json_files = build_sports(books, registry, out_dir)
+
     # Story pegs.
     peg_pages = build_pegs(registry, out_dir, root)
 
@@ -1053,9 +1227,39 @@ def build_site(registry: SchoolRegistry, report: dict, out_dir: Path) -> dict:
 
     return {
         "schools": len(schools),
-        "pages": len(schools) + 2 + peg_pages + embed_pages,
-        "json_files": len(schools) + 1 + 5,     # per-school + index + 5 peg JSON
+        "pages": len(schools) + 2 + sport_pages + peg_pages + embed_pages,
+        # per-school + schools index + per-sport + sports index + 5 peg JSON
+        "json_files": len(schools) + 1 + sport_json_files + 5,
     }
+
+
+def build_sports(books: dict[str, dict], registry: SchoolRegistry,
+                 out_dir: Path) -> tuple[int, int]:
+    """Render /sports/ index + one page/JSON per sport.
+
+    Returns (pages_rendered, json_files_written).
+    """
+    env = _jinja_env()
+    sport_index = build_sport_index(books, registry)
+    summary = sports_summary(sport_index)
+
+    sports_dir = out_dir / "sports"
+    sports_dir.mkdir(parents=True, exist_ok=True)
+    (sports_dir / "index.html").write_text(
+        env.get_template("sports_index.html").render(root="../", sports=summary),
+        encoding="utf-8")
+    (out_dir / "sports-index.json").write_text(
+        json.dumps(summary, indent=2), encoding="utf-8")
+
+    tmpl = env.get_template("sport.html")
+    for e in sport_index.values():
+        page_dir = sports_dir / e["slug"]
+        page_dir.mkdir(parents=True, exist_ok=True)
+        (page_dir / "index.html").write_text(
+            tmpl.render(root="../../", sport=e), encoding="utf-8")
+        (sports_dir / f"{e['slug']}.json").write_text(
+            json.dumps(sport_json(e), indent=2), encoding="utf-8")
+    return len(sport_index) + 1, len(sport_index) + 1
 
 
 def build_pegs(registry: SchoolRegistry, out_dir: Path, root: str) -> int:
@@ -1229,7 +1433,7 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     args.out.mkdir(parents=True, exist_ok=True)
-    counts = build_site(registry, report, args.out)
+    counts = build_site(registry, report, args.out, books)
     # Top-level schools-index.json (the search dataset) + build report.
     (args.out / "schools-index.json").write_text(
         json.dumps(schools_index_json(registry), indent=2), encoding="utf-8")

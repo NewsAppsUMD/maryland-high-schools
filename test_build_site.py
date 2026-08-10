@@ -569,6 +569,85 @@ class TestBuildEmbeds:
         assert h.count('"slug"') == len(r.by_key)
 
 
+# ── Per-sport pages ──────────────────────────────────────────────────────────
+class TestSportIndex:
+    def _mini_books(self):
+        prov = {"source_pdf": "pdfs/FallRecordBook2024.pdf", "source_pages": [10]}
+        return {
+            "fall": {
+                "championship_results": [
+                    {"sport": "Field Hockey", "year": 2024, "classification": "1A",
+                     "champion_school": "Pocomoke", "finalist_school": "Hereford",
+                     "score": "2-1", **prov},
+                    {"sport": "Field Hockey", "year": 2023, "classification": "1A",
+                     "champion_school": "Pocomoke & Hereford", "co_champion": True, **prov},
+                ],
+                "school_records": [
+                    {"sport": "Field Hockey", "school": "POCOMOKE", "champion_years": [2023, 2024]},
+                    {"sport": "Field Hockey", "school": "HEREFORD", "champion_years": [2023]},
+                ],
+                "golf_results": [
+                    {"year": 2024, "classification": "Combined",
+                     "team_champion_school": "Pocomoke",
+                     "individual_winner_name": "A. Golfer",
+                     "individual_winner_school": "Hereford", **prov},
+                ],
+                "individual_xc_champions": [],
+                "individual_results": [
+                    {"sport": "Tennis", "event": "Boys Singles", "year": 2024,
+                     "classification": "1A", "name": "B. Player",
+                     "school": "Pocomoke", **prov},
+                ],
+                "sportsmanship_awards": [
+                    {"sport": "Field Hockey", "year": 2024, "classification": "1A",
+                     "school": "Hereford", **prov},
+                ],
+            },
+        }
+
+    def _registry(self):
+        am, cd = load_aliases()
+        norm = make_normalizer(am)
+        registry, _ = build_school_index(self._mini_books(), norm, cd)
+        return registry
+
+    def test_leaders_count_co_champions_and_golf(self):
+        from build_site import build_sport_index
+        idx = build_sport_index(self._mini_books(), self._registry())
+        fh = idx["Field Hockey"]
+        leaders = {l["name"]: l["titles"] for l in fh["leaders"]}
+        # Pocomoke: 2024 title + 2023 co-title; Hereford: 2023 co-title.
+        assert leaders == {"Pocomoke": 2, "Hereford": 1}
+        golf = idx["Golf"]
+        assert [l["name"] for l in golf["leaders"]] == ["Pocomoke"]
+
+    def test_championships_sorted_recent_first_with_links(self):
+        from build_site import build_sport_index
+        idx = build_sport_index(self._mini_books(), self._registry())
+        rows = idx["Field Hockey"]["championships"]
+        assert [r["year"] for r in rows] == [2024, 2023]
+        assert rows[0]["champions"][0]["slug"] == "pocomoke"
+        # co-champion field splits into two linked refs
+        assert [c["name"] for c in rows[1]["champions"]] == ["Pocomoke", "Hereford"]
+
+    def test_individual_only_sport_gets_span_from_individual_rows(self):
+        from build_site import build_sport_index
+        idx = build_sport_index(self._mini_books(), self._registry())
+        tennis = idx["Tennis"]
+        assert tennis["span"] == [2024, 2024]
+        assert tennis["events"][0]["event"] == "Boys Singles"
+
+    def test_summary_orders_by_season(self, index):
+        from build_site import build_sport_index, sports_summary, load_books
+        registry, _ = index
+        summary = sports_summary(build_sport_index(load_books(), registry))
+        seasons = [s["season"] for s in summary]
+        # fall block, then winter, then spring — no interleaving
+        assert seasons == sorted(seasons, key=["fall", "winter", "spring"].index)
+        names = {s["name"] for s in summary}
+        assert {"Football", "Wrestling", "Baseball", "Golf", "Tennis"} <= names
+
+
 # ── Full-site integration ────────────────────────────────────────────────────
 class TestSiteIntegration:
     def test_built_site_has_no_broken_links(self, index, tmp_path):
@@ -578,9 +657,9 @@ class TestSiteIntegration:
         deep rendered with root='./' instead of '../').
         """
         import importlib.util
-        from build_site import build_site as _build
+        from build_site import build_site as _build, load_books
         registry, report = index
-        _build(registry, report, tmp_path)
+        _build(registry, report, tmp_path, load_books())
         spec = importlib.util.spec_from_file_location(
             "check_site_links", "scripts/check_site_links.py")
         mod = importlib.util.module_from_spec(spec)
