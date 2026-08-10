@@ -706,6 +706,14 @@ class TestParseSchoolRecords:
         records = parse_school_records([text], "Football")
         assert len(records) == 1
         assert records[0]["school"] == "North Carroll"
+        # The "x-" marker means the school is closed — kept as metadata.
+        assert records[0]["closed"] is True
+
+    def test_open_school_has_no_closed_flag(self):
+        text = "Middletown (10, 20-5)\nCH: 2015 (2A)\n"
+        records = parse_school_records([text], "Football")
+        assert len(records) == 1
+        assert "closed" not in records[0]
 
     def test_allcaps_name_with_letter_parenthetical(self):
         # "SOUTHERN (G)" (Garrett) — letter suffix, not stats parenthetical.

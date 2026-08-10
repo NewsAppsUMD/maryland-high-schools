@@ -251,6 +251,12 @@ class School:
     golf_individual: list[dict] = field(default_factory=list)
     stat_records: list[dict] = field(default_factory=list)
 
+    @property
+    def closed(self) -> bool:
+        """True when any school_records row carries the record book's "x-"
+        closed-school marker (e.g. "x-North Carroll")."""
+        return any(r.get("closed") for r in self.school_record_rows)
+
 
 def load_books(data_dir: Path = DATA_DIR) -> dict[str, dict]:
     """Load the three season record_book.json files."""
@@ -452,11 +458,15 @@ def build_school_index(books: dict[str, dict], normalize_school,
         for row in book.get("stat_records", []):
             stat_rows += 1
             enriched = {**row, "season": season}
-            s = registry.lookup(row.get("school") or "")
+            school_name = row.get("school") or ""
+            s = registry.lookup(school_name)
             if s:
                 s.stat_records.append(enriched)
-            # stat_records with school=None (e.g. "Dunbar v. Allegany") are not
-            # attached to a school page; they're surfaced on peg/sport pages later.
+            elif school_name:
+                # A named school that doesn't resolve is a curation signal like
+                # any other table's; only school=None (team-vs-team records
+                # like "Dunbar v. Allegany") is expected to go unattached.
+                registry.note_unmatched(school_name, f"{season} stat_records")
 
     registry.finalize_names()
 
@@ -505,14 +515,17 @@ def schools_index_json(registry: SchoolRegistry) -> list[dict]:
     """Compact A-Z/search index: one entry per school."""
     out = []
     for school in sorted(registry.by_key.values(), key=lambda s: s.display_name.lower()):
-        out.append({
+        entry = {
             "slug": school.slug,
             "name": school.display_name,
             "titles": len(school.titles),
             "finals": len(school.finals),
             "individual_champions": len(school.individual_champions),
             "sportsmanship": len(school.sportsmanship),
-        })
+        }
+        if school.closed:
+            entry["closed"] = True
+        out.append(entry)
     return out
 
 
@@ -748,6 +761,7 @@ def school_page_data(school: School) -> dict:
         "school": {
             "name": school.display_name,
             "slug": school.slug,
+            "closed": school.closed,
             "total_titles": len(school.titles),
             "total_finals": len(school.finals),
             "last_title": _last_title_str(school.titles),
@@ -764,6 +778,7 @@ def school_json(school: School) -> dict:
     return {
         "slug": school.slug,
         "name": school.display_name,
+        "closed": school.closed,
         "totals": {
             "titles": len(school.titles),
             "finals": len(school.finals),

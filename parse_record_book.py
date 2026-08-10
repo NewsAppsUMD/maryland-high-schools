@@ -743,9 +743,10 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
         return sorted(set(years))
 
     current_school: Optional[str] = None
+    current_closed = False
     current_block: list[str] = []
 
-    def flush(school: str, block: list[str]) -> Optional[dict]:
+    def flush(school: str, block: list[str], closed: bool) -> Optional[dict]:
         ch = get_years(block, "Ch")
         fn = get_years(block, "Fn")
         sf = get_years(block, "Sf")
@@ -765,6 +766,8 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
             }
             if qf:
                 rec["quarterfinal_years"] = qf
+            if closed:
+                rec["closed"] = True
             return rec
         return None
 
@@ -777,21 +780,23 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
             continue
         if school_re.match(line) and len(line) >= 3:
             if current_school and current_block:
-                rec = flush(current_school, current_block)
+                rec = flush(current_school, current_block, current_closed)
                 if rec:
                     records.append(rec)
             # Strip parenthetical stats like "(16, 7-15)" from Football records.
             # Tolerate a missing close paren ("Northwood (6, 2-6") — pypdf
-            # sometimes wraps the ")" onto the next line — and drop the
-            # closed-school marker ("x-North Carroll" -> "North Carroll").
+            # sometimes wraps the ")" onto the next line. The "x-" prefix is
+            # MPSSAA's closed-school marker: strip it from the name but keep
+            # it as metadata.
             name = re.sub(r"\s*\([\d,\s\-]+\)?\s*$", "", line).strip()
+            current_closed = name.startswith("x-")
             current_school = re.sub(r"^x-", "", name)
             current_block = []
         elif current_school:
             current_block.append(line)
 
     if current_school and current_block:
-        rec = flush(current_school, current_block)
+        rec = flush(current_school, current_block, current_closed)
         if rec:
             records.append(rec)
 
@@ -799,11 +804,6 @@ def parse_school_records(pages_text: list[str], sport: str) -> list[dict]:
 
 
 # ── Championship results (LLM) ────────────────────────────────────────────────
-
-
-def _clean_dot_leaders(text: str) -> str:
-    """Replace dot leaders (......) with a single tab for cleaner LLM input."""
-    return re.sub(r"\.{3,}", "\t", text)
 
 
 def _clean_dot_leaders(text: str) -> str:
@@ -1459,7 +1459,8 @@ def main(argv=None) -> None:
         out_dir / "school_records.csv",
         tables["school_records"],
         ["sport", "school", "champion_years", "finalist_years",
-         "semifinalist_years", "runner_up_years", "quarterfinal_years"] + pf,
+         "semifinalist_years", "runner_up_years", "quarterfinal_years",
+         "closed"] + pf,
     )
     write_csv(
         out_dir / "individual_results.csv",

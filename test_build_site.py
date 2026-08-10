@@ -216,6 +216,13 @@ class TestBuildSchoolIndex:
         # every title row carries season + provenance
         assert all("season" in t and "source_pdf" in t for t in er.titles)
 
+    def test_closed_property(self, index):
+        # School.closed reflects the record book's "x-" marker on any
+        # school_records row; an open school reads False.
+        registry, _ = index
+        er = registry.lookup("Eleanor Roosevelt")
+        assert er.closed is False
+
     def test_allegany_xc_titles_from_pdf(self, index):
         # The README calls out Allegany XC 1997-98 as a known record.
         registry, _ = index
@@ -352,10 +359,10 @@ class TestFastFacts:
     def test_with_titles_full_paragraph(self, index):
         r, _ = index
         ff = fast_facts_paragraph("Allegany", r.lookup("Allegany"))
-        # 14 individual champions: includes the "Allegeny" typo row merged by
-        # the alias map.
+        # 75 individual champions: includes the "Allegeny" typo row and the
+        # "ALL" Athlete-School-Mark code rows merged by the alias map.
         assert ff == ("Allegany has won 34 state championships across 7 sports, "
-                      "most recently 1A baseball in 2025. It has produced 14 "
+                      "most recently 1A baseball in 2025. It has produced 75 "
                       "individual state champions and won 2 sportsmanship awards.")
 
     def test_singular_grammar_one_title_one_sport(self, index):
@@ -374,8 +381,9 @@ class TestFastFacts:
         r, _ = index
         ff = fast_facts_paragraph("James Hubert Blake",
                                   r.lookup("James Hubert Blake"))
+        # 45 individual champions: includes the "JHB" code rows.
         assert ff == ("James Hubert Blake has reached 4 state finals without "
-                      "a title. It has produced 29 individual state champions and won "
+                      "a title. It has produced 45 individual state champions and won "
                       "3 sportsmanship awards.")
 
     def test_no_history_at_all(self, index):
