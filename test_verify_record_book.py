@@ -266,9 +266,77 @@ class TestContinuity:
         assert "Field Hockey" not in report["sports"]
 
 
+class TestKnownGaps:
+    def test_winter_2021_exempt(self):
+        # Winter 2020-21 championships were cancelled; a 2021 hole in any
+        # winter sport is history, not an extraction loss.
+        book = _book()
+        book["championship_results"] = [
+            {"sport": "Wrestling", "year": y, "classification": "1A",
+             "champion_school": "Northwood"} for y in (2019, 2022, 2023)
+        ]
+        book["school_records"] = [
+            {"sport": "Wrestling", "school": "Northwood",
+             "champion_years": [2019, 2022, 2023]}]
+        report = check_continuity(book)
+        assert report["warnings"] == 0
+
+    def test_girls_basketball_1950_1972_exempt(self):
+        # Tournament ran 1947-49, paused, resumed 1973 (Title IX era).
+        book = _book()
+        book["championship_results"] = [
+            {"sport": "Girls Basketball", "year": y, "classification": "A",
+             "champion_school": "Northwood"} for y in (1948, 1949, 1973, 1974)
+        ]
+        book["school_records"] = [
+            {"sport": "Girls Basketball", "school": "Northwood",
+             "champion_years": [1948, 1949, 1973, 1974]}]
+        report = check_continuity(book)
+        assert report["warnings"] == 0
+
+    def test_unknown_gap_still_warns(self):
+        # A hole NOT in KNOWN_GAPS must still surface.
+        book = _book()
+        book["championship_results"] = [
+            {"sport": "Wrestling", "year": y, "classification": "1A",
+             "champion_school": "Northwood"} for y in (2015, 2018)
+        ]
+        book["school_records"] = [
+            {"sport": "Wrestling", "school": "Northwood",
+             "champion_years": [2015, 2018]}]
+        report = check_continuity(book)
+        assert report["sports"]["Wrestling"]["missing_years"] == [2016, 2017]
+
+
 class TestReferentialSchools:
     def test_no_missing(self):
         report = check_referential_schools(_book())
+        assert report["warnings"] == 0
+
+    def test_alias_normalized_match(self):
+        # "E. Roosevelt" in a championship table matches "ELEANOR ROOSEVELT"
+        # in school records via the site's alias map — no warning.
+        book = _book()
+        book["championship_results"].append(
+            {"sport": "Boys Cross Country", "year": 2014, "classification": "Combined",
+             "champion_school": "E. Roosevelt"})
+        book["school_records"].append(
+            {"sport": "Boys Cross Country", "school": "ELEANOR ROOSEVELT",
+             "champion_years": [2014]})
+        report = check_referential_schools(book)
+        assert report["warnings"] == 0
+
+    def test_whole_name_checked_before_split(self):
+        # "Cambridge/South Dorchester" is ONE school; the whole name matches
+        # school records and must not be split into bogus halves.
+        book = _book()
+        book["championship_results"].append(
+            {"sport": "Boys Cross Country", "year": 2014, "classification": "Combined",
+             "champion_school": "Cambridge/South Dorchester"})
+        book["school_records"].append(
+            {"sport": "Boys Cross Country", "school": "CAMBRIDGE-SOUTH DORCHESTER",
+             "champion_years": [2014]})
+        report = check_referential_schools(book)
         assert report["warnings"] == 0
 
     def test_missing_school_warned(self):

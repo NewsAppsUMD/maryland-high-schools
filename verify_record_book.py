@@ -43,6 +43,22 @@ from pathlib import Path
 
 # 2020 state tournaments were cancelled (COVID); continuity ignores that gap.
 COVID_YEAR = 2020
+# Documented gaps in championship history — historical facts, not extraction
+# losses. Continuity skips these so its warnings stay meaningful.
+_WINTER_2021 = {2021}  # winter 2020-21 championships were cancelled (COVID)
+KNOWN_GAPS: dict[str, set[int]] = {
+    "Boys Basketball": _WINTER_2021,
+    # Girls tournament ran 1947-49, paused, and resumed in 1973 (Title IX era);
+    # the winter book shows 1949 -> 1973 with nothing between.
+    "Girls Basketball": _WINTER_2021 | set(range(1950, 1973)),
+    "Boys Indoor Track": _WINTER_2021,
+    "Girls Indoor Track": _WINTER_2021,
+    "Boys Swimming & Diving": _WINTER_2021,
+    "Girls Swimming & Diving": _WINTER_2021,
+    "Wrestling": _WINTER_2021,
+    # No 1951 meet in the source book (1950 is followed by 1952).
+    "Boys Cross Country": {1951},
+}
 # Notes value parse_record_book.py stamps on precursor tournaments run before
 # MPSSAA sponsorship ("PRIOR TO MPSSAA SPONSORSHIP" / "PRE-MPSSAA" sections).
 # Verify excludes these rows from continuity, cross-path, and referential checks.
@@ -235,7 +251,9 @@ def check_continuity(book: dict) -> dict:
             continue
         lo = min(years)
         hi = max(years)
-        gaps = [y for y in range(lo, hi + 1) if y not in years and y != COVID_YEAR]
+        exempt = KNOWN_GAPS.get(sport, set())
+        gaps = [y for y in range(lo, hi + 1)
+                if y not in years and y != COVID_YEAR and y not in exempt]
         if gaps:
             total_gaps += len(gaps)
             per_sport[sport] = {"span": [lo, hi], "missing_years": gaps}
@@ -247,11 +265,21 @@ def check_referential_schools(book: dict) -> dict:
 
     Pre-MPSSAA precursor rows are excluded — their 1940s public-school winners
     are not expected to appear in the MPSSAA-era school_records table.
+
+    Names on both sides go through the site's alias-aware normalizer
+    (build_site + web/aliases.csv), so a championship-table short form like
+    "Churchill" matches "WINSTON CHURCHILL" in school records instead of
+    drowning the report in spelling-variant noise. Whole names are tried
+    before tie-splitting ("Cambridge/South Dorchester" is one school).
     """
+    from build_site import load_aliases, make_normalizer, split_cochampions
+
+    aliases, _ = load_aliases()
+    norm = make_normalizer(aliases)
     records_by_sport = collections.defaultdict(set)
     for r in _table(book, "school_records"):
         if r.get("sport") and r.get("school"):
-            records_by_sport[r["sport"]].add(r["school"])
+            records_by_sport[r["sport"]].add(norm(r["school"]))
     per_sport = {}
     warnings = 0
     for r in _table(book, "championship_results"):
@@ -260,8 +288,11 @@ def check_referential_schools(book: dict) -> dict:
         sport, school = r.get("sport"), r.get("champion_school")
         if not sport or not school:
             continue
-        for part in (p.strip() for p in school.split(" & ")):
-            if part and part not in records_by_sport.get(sport, set()):
+        known = records_by_sport.get(sport, set())
+        if norm(school) in known:
+            continue
+        for part in split_cochampions(school):
+            if part and norm(part) not in known:
                 per_sport.setdefault(sport, set()).add(part)
     out = {}
     for sport, schools in per_sport.items():

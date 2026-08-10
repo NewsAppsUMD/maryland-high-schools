@@ -367,12 +367,16 @@ class TestFastFacts:
                       "sport, most recently D boys cross country in 1947.")
 
     def test_no_title_but_finals(self, index):
+        # (Cambridge-South Dorchester previously filled this role, but its
+        # "Cambridge/SD"-spelled championships now merge via the alias map and
+        # it has 11 titles. Blake has finals, individual champions, and
+        # sportsmanship awards — but no team title.)
         r, _ = index
-        ff = fast_facts_paragraph("Cambridge-South Dorchester",
-                                  r.lookup("Cambridge-South Dorchester"))
-        assert ff == ("Cambridge-South Dorchester has reached 1 state final without "
-                      "a title. It has produced 6 individual state champions and won "
-                      "2 sportsmanship awards.")
+        ff = fast_facts_paragraph("James Hubert Blake",
+                                  r.lookup("James Hubert Blake"))
+        assert ff == ("James Hubert Blake has reached 4 state finals without "
+                      "a title. It has produced 29 individual state champions and won "
+                      "3 sportsmanship awards.")
 
     def test_no_history_at_all(self, index):
         r, _ = index
