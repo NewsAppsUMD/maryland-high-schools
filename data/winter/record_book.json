@@ -3,7 +3,7 @@
     "source_pdf": "pdfs/Winter record book.pdf",
     "season": "winter",
     "extraction_model": "glm-5.2:cloud",
-    "generated_at": "2026-08-02T22:52:01Z"
+    "generated_at": "2026-08-10T02:26:47Z"
   },
   "championship_results": [
     {
@@ -19877,7 +19877,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -19900,7 +19900,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -19925,7 +19925,28 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "ANNAPOLIS",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1974,
+        1975,
+        1976,
+        1994
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -19955,7 +19976,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -19979,7 +20000,61 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "BEALL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1981
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "BEL AIR",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1979
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "JAMES M. BENNETT",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1976
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20000,7 +20075,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20026,7 +20101,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20050,7 +20125,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20071,7 +20146,26 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "BOHEMIA MANOR",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2001,
+        2002
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20089,7 +20183,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20108,7 +20202,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20134,7 +20228,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20155,7 +20249,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20179,7 +20273,25 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "CAMBRIDGE/SD",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1999
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20205,7 +20317,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20232,7 +20344,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20255,7 +20367,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20265,9 +20377,42 @@
       "finalist_years": [
         2012
       ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "CENTRAL (PG)",
+      "champion_years": [],
+      "finalist_years": [],
       "semifinalist_years": [
         1993,
-        1999,
+        1999
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "CHESAPEAKE (AA)",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
         2002
       ],
       "runner_up_years": [],
@@ -20277,7 +20422,43 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "NORTH",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2020
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "CHOPTICON",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1975
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20301,7 +20482,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20323,7 +20504,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20345,7 +20526,27 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "COPPIN ACADEMY",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20363,7 +20564,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20386,7 +20587,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20408,24 +20609,42 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Girls Basketball",
       "school": "DIGITAL HARBOR",
       "champion_years": [
-        1978,
         2009
+      ],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2008,
+        2010,
+        2011
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "FREDERICK DOUGLASS (PG)",
+      "champion_years": [
+        1978
       ],
       "finalist_years": [
         1996
       ],
       "semifinalist_years": [
         1998,
-        2008,
-        2010,
-        2011,
         2025
       ],
       "runner_up_years": [],
@@ -20435,7 +20654,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20462,7 +20681,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20490,7 +20709,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20520,7 +20739,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20541,7 +20760,45 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "ALBERT EINSTEIN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1989
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "ELKTON",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1980,
+        1981,
+        2011
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20563,7 +20820,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20594,7 +20851,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20617,7 +20874,31 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "FOREST PARK",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2015,
+        2016,
+        2020,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20638,7 +20919,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20660,7 +20941,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20689,7 +20970,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20713,7 +20994,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20739,7 +21020,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20760,7 +21041,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20786,7 +21067,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20808,7 +21089,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20837,7 +21118,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20862,7 +21143,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20882,7 +21163,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20907,7 +21188,25 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "HIGH POINT",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1974
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20933,7 +21232,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20958,7 +21257,25 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "WALTER JOHNSON",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1986
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -20982,7 +21299,28 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "KENT COUNTY",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1976,
+        1978,
+        1979,
+        1991
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21003,7 +21341,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21027,7 +21365,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21045,7 +21383,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21068,7 +21406,27 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "LANSDOWNE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1988,
+        1989,
+        1993
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21100,7 +21458,25 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "LAUREL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1992
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21120,7 +21496,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21140,7 +21516,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21165,7 +21541,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21188,7 +21564,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21208,7 +21584,26 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "COL. ZADOK MAGRUDER",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1985,
+        2014
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21235,7 +21630,25 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "MARRIOTTS RIDGE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2017
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21253,7 +21666,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21285,7 +21698,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21316,7 +21729,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21334,7 +21747,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21361,7 +21774,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21390,7 +21803,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21408,7 +21821,25 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "TION (NAF)",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2014
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21433,7 +21864,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21455,7 +21886,46 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "NORTH DORCHESTER",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2001
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "NORTH EAST (Cecil)",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1975,
+        1976,
+        1978,
+        1979
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21481,7 +21951,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21501,25 +21971,20 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Girls Basketball",
       "school": "NORTH POINT",
       "champion_years": [
-        1979,
         2013,
         2025
       ],
       "finalist_years": [
-        1997,
-        2011,
         2014
       ],
       "semifinalist_years": [
-        1991,
-        1999,
         2011,
         2012,
         2016,
@@ -21534,7 +21999,82 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "NORTHEAST (AA)",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1990
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "NORTHERN (Cal.)",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1991,
+        1999,
+        2016
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "NORTHERN (G)",
+      "champion_years": [],
+      "finalist_years": [
+        1997,
+        2011
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "NORTHWESTERN (PG)",
+      "champion_years": [
+        1979
+      ],
+      "finalist_years": [],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21555,7 +22095,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21580,7 +22120,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21607,7 +22147,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21627,7 +22167,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21657,7 +22197,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21690,7 +22230,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21711,7 +22251,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21742,7 +22282,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21764,7 +22304,25 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "PATAPSCO",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1986
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21788,7 +22346,43 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "PATUXENT",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2003
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "PERRY HALL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1996
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21812,7 +22406,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21845,7 +22439,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21877,7 +22471,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21895,7 +22489,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21918,7 +22512,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21938,7 +22532,47 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "RANDALLSTOWN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1994,
+        2013
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "RISING SUN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1989,
+        1997,
+        1998,
+        2000
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21964,7 +22598,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -21986,7 +22620,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22019,7 +22653,25 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "SAINT CHARLES",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2023
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22039,7 +22691,27 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "SEVERNA PARK",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1980,
+        1988,
+        2023
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22066,7 +22738,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22098,7 +22770,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22126,7 +22798,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22148,32 +22820,94 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "SOUTH HAGERSTOWN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1995
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Girls Basketball",
       "school": "SOUTH RIVER",
       "champion_years": [
+        1986,
+        2025
+      ],
+      "finalist_years": [
+        2005
+      ],
+      "semifinalist_years": [
+        1984,
+        1987,
+        1994
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "SOUTHERN (AA)",
+      "champion_years": [
         1979,
         1980,
         1983,
-        1984,
-        1986,
-        2004,
-        2007,
-        2014,
-        2018,
-        2025
+        1984
       ],
       "finalist_years": [
         1981,
         1986,
         1987,
+        1997
+      ],
+      "semifinalist_years": [
+        1989,
+        1998,
+        2006
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "SOUTHERN (G)",
+      "champion_years": [
+        2004,
+        2007,
+        2014,
+        2018
+      ],
+      "finalist_years": [
         1995,
-        1997,
         2001,
-        2005,
         2015,
         2016,
         2017,
@@ -22183,11 +22917,7 @@
       "semifinalist_years": [
         1984,
         1985,
-        1987,
-        1989,
         1994,
-        1998,
-        2006,
         2013
       ],
       "runner_up_years": [],
@@ -22197,7 +22927,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22218,7 +22948,25 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "SOUTHWESTERN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2017
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22244,7 +22992,25 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "THOMAS STONE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2000
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22264,7 +23030,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22287,7 +23053,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22312,7 +23078,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22337,7 +23103,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22355,7 +23121,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22378,19 +23144,55 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "WASHINGTON",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1996,
+        1998
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Girls Basketball",
       "school": "WATKINS MILL",
+      "champion_years": [],
+      "finalist_years": [
+        1992
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "WESTERN (B)",
       "champion_years": [
         1994,
         1995,
         2022
       ],
       "finalist_years": [
-        1992,
         1993,
         1999,
         2006,
@@ -22418,7 +23220,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22440,7 +23242,32 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "WESTLAKE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2001,
+        2002,
+        2004,
+        2005,
+        2012,
+        2014,
+        2015,
+        2020
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22461,7 +23288,26 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "WESTMINSTER",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1981,
+        1984
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22487,7 +23333,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22514,7 +23360,28 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Basketball",
+      "school": "WICOMICO",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1977,
+        1983,
+        1992,
+        2008
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22536,7 +23403,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22558,7 +23425,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22579,7 +23446,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22602,7 +23469,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22622,7 +23489,7 @@
         10,
         11
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22658,7 +23525,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22696,7 +23563,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22719,7 +23586,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22766,7 +23633,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22794,7 +23661,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22817,7 +23684,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22839,7 +23706,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22865,7 +23732,26 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "BEL AIR",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1953,
+        1956
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22887,7 +23773,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22920,7 +23806,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22946,7 +23832,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22976,7 +23862,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -22997,7 +23883,44 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "BOHEMIA MANOR",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1966,
+        1968
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "BOONSBORO",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1989
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23018,7 +23941,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23036,7 +23959,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23063,7 +23986,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23089,7 +24012,47 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "CALVERT COUNTY",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1972,
+        1973
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "CALVERT",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1987,
+        1989,
+        1997,
+        2013
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23117,7 +24080,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23150,7 +24113,43 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "CARVER",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1964
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "CATOCTIN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1981
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23177,32 +24176,69 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Boys Basketball",
       "school": "CENTENNIAL",
       "champion_years": [
-        1950,
-        1952,
-        1969,
-        1984,
-        1990,
-        1996,
         2015
       ],
       "finalist_years": [
-        1951,
+        2011
+      ],
+      "semifinalist_years": [
+        2012
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "CENTRAL (Lonaconing)",
+      "champion_years": [
+        1950,
+        1952
+      ],
+      "finalist_years": [
+        1951
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "CENTRAL (PG)",
+      "champion_years": [
+        1969,
+        1984,
+        1990,
+        1996
+      ],
+      "finalist_years": [
         1998,
         2002,
-        2003,
-        2011
+        2003
       ],
       "semifinalist_years": [
         1972,
         1999,
-        2012,
         2014,
         2017
       ],
@@ -23213,7 +24249,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23233,7 +24269,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23253,7 +24289,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23264,7 +24300,6 @@
         2017
       ],
       "semifinalist_years": [
-        2002,
         2009
       ],
       "runner_up_years": [],
@@ -23274,7 +24309,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "CHESAPEAKE (BC)",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2002
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23294,7 +24347,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23316,7 +24369,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23338,7 +24391,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23365,7 +24418,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23385,7 +24438,44 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "CLEAR SPRING",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2016,
+        2018
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "CMIT NORTH",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2023
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23423,7 +24513,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23451,7 +24541,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23475,7 +24565,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23507,24 +24597,77 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "DENTON",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1947
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Boys Basketball",
       "school": "DIGITAL HARBOR",
       "champion_years": [
-        1963,
-        1966,
-        2002,
-        2004,
         2009,
         2010
+      ],
+      "finalist_years": [],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "FREDERICK DOUGLASS (B)",
+      "champion_years": [
+        2002,
+        2004
+      ],
+      "finalist_years": [
+        1994
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "FREDERICK DOUGLASS (PG)",
+      "champion_years": [
+        1963,
+        1966
       ],
       "finalist_years": [
         1964,
         1986,
-        1994,
         2009,
         2022
       ],
@@ -23539,7 +24682,27 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "DULANEY",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1976,
+        1977,
+        2019
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23579,7 +24742,28 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "DUNDALK",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1968,
+        1969,
+        1970,
+        1971
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23605,7 +24789,26 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "EASTERN TECHNICAL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2002,
+        2005
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23633,7 +24836,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23664,7 +24867,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23692,7 +24895,26 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "ALBERT EINSTEIN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1983,
+        1999
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23715,7 +24937,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "EMMITSBURG",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1962
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23747,7 +24987,80 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "FALLSTON",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1987,
+        1993
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "FEDERALSBURG",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1954
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "FLINTSTONE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1983
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "CHARLES H. FLOWERS",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2025
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23765,7 +25078,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23788,7 +25101,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23819,7 +25132,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23837,7 +25150,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23873,7 +25186,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23901,7 +25214,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23926,7 +25239,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23944,7 +25257,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23970,7 +25283,26 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "GLENELG",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1963,
+        1973
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -23991,7 +25323,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24030,7 +25362,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24053,7 +25385,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24076,7 +25408,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24098,7 +25430,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "HARFORD TECHNICAL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2017
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24126,7 +25476,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24146,7 +25496,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24169,7 +25519,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24190,7 +25540,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24210,7 +25560,26 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "HYATTSVILLE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1947,
+        1949
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24244,7 +25613,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24265,7 +25634,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24289,7 +25658,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24309,7 +25678,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "KENT COUNTY",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2017
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24330,7 +25717,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24351,7 +25738,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24380,7 +25767,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24413,7 +25800,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24432,7 +25819,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24461,7 +25848,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24484,7 +25871,63 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "LIBERTY",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2025
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "LINGANORE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1980,
+        2004,
+        2015
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "LOCH RAVEN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1984
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24502,7 +25945,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24525,7 +25968,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24547,7 +25990,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24573,7 +26016,64 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "MANCHESTER",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1956
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "MARDELA",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1950,
+        1955
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "MCDONOUGH",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1982,
+        1985,
+        2004
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24602,7 +26102,28 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "MERGENTHALER",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1998,
+        2002,
+        2006,
+        2007
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24630,7 +26151,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24665,7 +26186,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24690,7 +26211,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "MOTON",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1963
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24712,7 +26251,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24730,7 +26269,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24756,7 +26295,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24784,7 +26323,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24805,7 +26344,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24830,7 +26369,27 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "NORTH CARROLL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1958,
+        1985,
+        2010
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24842,6 +26401,22 @@
       "finalist_years": [
         1983
       ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "NORTH EAST (Cecil)",
+      "champion_years": [],
+      "finalist_years": [],
       "semifinalist_years": [
         1949,
         1960,
@@ -24854,7 +26429,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24879,7 +26454,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24897,32 +26472,17 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Boys Basketball",
       "school": "NORTH POINT",
       "champion_years": [
-        1956,
-        1967,
-        1968,
-        1987,
-        2011,
-        2024
+        2011
       ],
-      "finalist_years": [
-        1982,
-        1984,
-        1990,
-        1996
-      ],
+      "finalist_years": [],
       "semifinalist_years": [
-        1960,
-        1968,
-        1989,
-        1991,
-        2000,
         2012,
         2013
       ],
@@ -24933,7 +26493,113 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "NORTHEAST (AA)",
+      "champion_years": [
+        2024
+      ],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1983,
+        2020
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "NORTHERN (Cal.)",
+      "champion_years": [],
+      "finalist_years": [
+        1984,
+        1990
+      ],
+      "semifinalist_years": [
+        1989,
+        1991,
+        2000
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "NORTHERN (G)",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1960,
+        1968
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "NORTHWESTERN (PG)",
+      "champion_years": [
+        1956,
+        1967,
+        1968,
+        1987
+      ],
+      "finalist_years": [
+        1982,
+        1996
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "NORTHWOOD",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1964,
+        1975
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24958,7 +26624,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -24985,7 +26651,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25007,7 +26673,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25030,7 +26696,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25050,7 +26716,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25070,7 +26736,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25094,7 +26760,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25120,7 +26786,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25142,7 +26808,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25170,7 +26836,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "PATAPSCO",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1979
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25195,7 +26879,27 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "PATTERSON MILL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2014,
+        2018,
+        2022
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25216,7 +26920,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25239,7 +26943,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25261,7 +26965,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25299,7 +27003,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25322,7 +27026,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25350,7 +27054,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25381,7 +27085,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "QUEEN ANNE'S",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2016
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25402,7 +27124,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25435,7 +27157,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25455,7 +27177,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25478,7 +27200,27 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "RISING SUN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1959,
+        1972,
+        1978
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25498,7 +27240,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "ROCK HALL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1953
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25523,7 +27283,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25552,7 +27312,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25572,7 +27332,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25592,7 +27352,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25610,7 +27370,46 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "SENECA VALLEY",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1992,
+        2006,
+        2016,
+        2017
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "SEVERNA PARK",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1981
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25640,7 +27439,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25662,7 +27461,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25686,7 +27485,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "SOLLERS POINT",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1965
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25710,7 +27527,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25733,40 +27550,69 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Boys Basketball",
       "school": "SOUTH HAGERSTOWN",
       "champion_years": [
+        1974
+      ],
+      "finalist_years": [],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "SOUTHERN (AA)",
+      "champion_years": [
         1973,
-        1974,
         1981,
         1983,
-        1986,
-        1993,
-        1994,
-        1996
+        1986
       ],
       "finalist_years": [
         1955,
-        1961,
         1972,
-        1976,
         1979,
-        1980,
-        2019
+        1980
       ],
       "semifinalist_years": [
         1957,
         1970,
         1971,
-        1982,
-        1984,
-        1985,
+        1984
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "SOUTHERN (B)",
+      "champion_years": [
+        1993,
+        1994,
+        1996
+      ],
+      "finalist_years": [],
+      "semifinalist_years": [
         2000,
-        2001,
         2003
       ],
       "runner_up_years": [],
@@ -25776,7 +27622,32 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "SOUTHERN (G)",
+      "champion_years": [],
+      "finalist_years": [
+        1961,
+        1976,
+        2019
+      ],
+      "semifinalist_years": [
+        1971,
+        1982,
+        1985,
+        2001
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25796,7 +27667,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "SPARKS",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1948
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25816,7 +27705,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25852,7 +27741,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25879,7 +27768,28 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "SUDLERSVILLE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1947,
+        1948,
+        1957,
+        1961
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25899,7 +27809,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25928,7 +27838,28 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "SYKESVILLE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1952,
+        1964,
+        1966,
+        1967
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25955,7 +27886,45 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "TUSCARORA",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2012
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "URBANA",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2010,
+        2013,
+        2014
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -25987,7 +27956,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26007,7 +27976,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26027,7 +27996,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26058,7 +28027,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26082,7 +28051,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "WATKINS MILL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1991
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26105,7 +28092,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26126,7 +28113,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26146,7 +28133,25 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "WHEATON",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1997
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26173,7 +28178,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26221,7 +28226,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26245,7 +28250,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26273,7 +28278,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26298,7 +28303,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26317,7 +28322,28 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Basketball",
+      "school": "WOODLAWN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1978,
+        1983,
+        1989,
+        2004
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26338,7 +28364,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26360,7 +28386,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26378,7 +28404,7 @@
         18,
         19
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26395,7 +28421,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26412,7 +28438,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26429,7 +28455,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26447,7 +28473,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26467,7 +28493,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26487,7 +28513,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26505,7 +28531,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26531,7 +28557,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26550,7 +28576,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26567,7 +28593,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26588,12 +28614,30 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Girls Indoor Track",
       "school": "CENTENNIAL",
+      "champion_years": [],
+      "finalist_years": [
+        1981,
+        1989
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        27,
+        28
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "school": "CENTRAL (PG)",
       "champion_years": [
         1977,
         1981,
@@ -26616,9 +28660,7 @@
         1978,
         1979,
         1980,
-        1981,
         1986,
-        1989,
         1993,
         1994,
         1995,
@@ -26631,7 +28673,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26653,7 +28695,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26670,7 +28712,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26689,7 +28731,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26712,7 +28754,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26732,21 +28774,16 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Girls Indoor Track",
       "school": "DIGITAL HARBOR",
       "champion_years": [
-        1986,
-        1998,
-        2007,
-        2019
+        2007
       ],
       "finalist_years": [
-        1988,
-        1997,
         2009
       ],
       "semifinalist_years": [],
@@ -26756,7 +28793,29 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "school": "DOUGLASS (PG)",
+      "champion_years": [
+        1986,
+        1998,
+        2019
+      ],
+      "finalist_years": [
+        1988,
+        1997
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        27,
+        28
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26777,7 +28836,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26794,7 +28853,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26814,7 +28873,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26831,7 +28890,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26855,7 +28914,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26874,7 +28933,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26895,7 +28954,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26914,7 +28973,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26936,7 +28995,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26957,7 +29016,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -26978,7 +29037,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27006,7 +29065,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27023,7 +29082,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27041,7 +29100,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27058,7 +29117,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27076,7 +29135,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27096,7 +29155,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27115,7 +29174,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27146,7 +29205,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27167,7 +29226,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27191,7 +29250,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27208,7 +29267,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27226,7 +29285,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27243,7 +29302,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27262,7 +29321,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27280,7 +29339,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27297,7 +29356,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27314,7 +29373,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27338,7 +29397,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27364,7 +29423,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27385,7 +29444,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27402,7 +29461,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27419,12 +29478,29 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Girls Indoor Track",
       "school": "NORTH POINT",
+      "champion_years": [],
+      "finalist_years": [
+        2013
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        27,
+        28
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "school": "NORTHERN (Cal)",
       "champion_years": [
         2016,
         2019,
@@ -27433,7 +29509,6 @@
         2024
       ],
       "finalist_years": [
-        2013,
         2018,
         2020
       ],
@@ -27444,14 +29519,13 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Girls Indoor Track",
       "school": "NORTHWEST",
       "champion_years": [
-        1987,
         2011
       ],
       "finalist_years": [
@@ -27469,7 +29543,41 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "school": "NORTHWESTERN (PG)",
+      "champion_years": [
+        1987
+      ],
+      "finalist_years": [],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        27,
+        28
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "school": "NORTHWESTERN (B)",
+      "champion_years": [],
+      "finalist_years": [
+        2012
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        27,
+        28
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27486,7 +29594,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27505,7 +29613,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27528,7 +29636,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27550,7 +29658,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27570,7 +29678,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27587,7 +29695,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27611,7 +29719,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27628,7 +29736,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27650,7 +29758,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27691,7 +29799,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27708,7 +29816,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27725,7 +29833,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27749,7 +29857,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27768,7 +29876,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27778,7 +29886,23 @@
         2014
       ],
       "finalist_years": [
-        2015,
+        2015
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        27,
+        28
+      ],
+      "extracted_at": "2026-08-10T02:26:46Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Indoor Track",
+      "school": "SOUTHERN (AA)",
+      "champion_years": [],
+      "finalist_years": [
         2024
       ],
       "semifinalist_years": [],
@@ -27788,7 +29912,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27805,7 +29929,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27823,7 +29947,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27847,7 +29971,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27864,7 +29988,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27881,7 +30005,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27902,7 +30026,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27921,7 +30045,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27939,7 +30063,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27958,7 +30082,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27976,7 +30100,7 @@
         27,
         28
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:46Z",
       "extraction_model": "regex"
     },
     {
@@ -27995,7 +30119,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28012,7 +30136,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28036,7 +30160,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28053,7 +30177,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28070,7 +30194,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28087,7 +30211,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28109,7 +30233,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28127,7 +30251,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28144,7 +30268,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28162,7 +30286,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28183,7 +30307,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28200,7 +30324,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28218,24 +30342,19 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Boys Indoor Track",
       "school": "CENTURY",
       "champion_years": [
-        1984,
-        1985,
-        1988,
         2011,
         2013,
         2017,
         2018
       ],
       "finalist_years": [
-        1987,
-        1993,
         2014,
         2015,
         2016,
@@ -28248,7 +30367,45 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "school": "CENTRAL (PG)",
+      "champion_years": [
+        1984,
+        1985,
+        1988
+      ],
+      "finalist_years": [
+        1993
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        46,
+        47
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "school": "CHESAPEAKE (AA)",
+      "champion_years": [],
+      "finalist_years": [
+        1987
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        46,
+        47
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28265,7 +30422,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28284,7 +30441,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28303,7 +30460,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28324,7 +30481,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28343,7 +30500,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28351,13 +30508,10 @@
       "school": "DIGITAL HARBOR",
       "champion_years": [
         2008,
-        2012,
         2013,
-        2014,
         2024
       ],
       "finalist_years": [
-        1984,
         2025
       ],
       "semifinalist_years": [],
@@ -28367,7 +30521,27 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "school": "DOUGLASS (PG)",
+      "champion_years": [
+        2012,
+        2014
+      ],
+      "finalist_years": [
+        1984
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        46,
+        47
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28386,7 +30560,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28405,7 +30579,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28427,7 +30601,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28444,7 +30618,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28464,7 +30638,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28493,7 +30667,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28513,7 +30687,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28530,7 +30704,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28551,7 +30725,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28568,7 +30742,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28594,7 +30768,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28611,7 +30785,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28628,7 +30802,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28647,7 +30821,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28667,7 +30841,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28687,7 +30861,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28708,7 +30882,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28726,7 +30900,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28748,7 +30922,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28765,7 +30939,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28782,7 +30956,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28800,7 +30974,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28820,7 +30994,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28839,7 +31013,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28856,7 +31030,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28873,7 +31047,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28894,7 +31068,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28918,7 +31092,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28935,7 +31109,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28954,7 +31128,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -28977,7 +31151,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29000,7 +31174,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29026,7 +31200,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29051,7 +31225,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29071,7 +31245,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29089,15 +31263,33 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Boys Indoor Track",
       "school": "NORTH POINT",
       "champion_years": [
+        2009
+      ],
+      "finalist_years": [
+        2020
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        46,
+        47
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "school": "NORTHERN (Cal.)",
+      "champion_years": [
         1983,
-        2009,
         2023
       ],
       "finalist_years": [
@@ -29110,7 +31302,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29133,7 +31325,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29141,8 +31333,6 @@
       "school": "NORTHWESTERN-B",
       "champion_years": [],
       "finalist_years": [
-        1976,
-        1999,
         2010,
         2012
       ],
@@ -29153,7 +31343,25 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Boys Indoor Track",
+      "school": "NORTHWESTERN (PG)",
+      "champion_years": [],
+      "finalist_years": [
+        1976,
+        1999
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        46,
+        47
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29175,7 +31383,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29211,7 +31419,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29238,7 +31446,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29260,7 +31468,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29284,7 +31492,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29301,7 +31509,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29318,7 +31526,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29337,7 +31545,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29355,7 +31563,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29376,7 +31584,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29397,7 +31605,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29417,7 +31625,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29434,7 +31642,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29452,7 +31660,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29482,7 +31690,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29499,7 +31707,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29518,7 +31726,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29540,7 +31748,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29557,7 +31765,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29574,7 +31782,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29599,7 +31807,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29618,7 +31826,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29638,7 +31846,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29657,7 +31865,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29681,7 +31889,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29698,7 +31906,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29715,7 +31923,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29732,7 +31940,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29750,7 +31958,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29767,7 +31975,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29787,7 +31995,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29809,7 +32017,7 @@
         46,
         47
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29829,7 +32037,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29845,7 +32053,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29863,7 +32071,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29884,7 +32092,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29905,7 +32113,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29925,7 +32133,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29948,7 +32156,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29968,7 +32176,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -29984,7 +32192,23 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Girls Swimming & Diving",
+      "school": "NORTHERN (CAL)",
+      "champion_years": [
+        2024
+      ],
+      "finalist_years": [],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        62
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30010,7 +32234,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30026,7 +32250,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30044,7 +32268,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30065,7 +32289,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30087,7 +32311,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30107,7 +32331,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30123,7 +32347,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30142,7 +32366,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30159,7 +32383,7 @@
       "source_pages": [
         62
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30175,7 +32399,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30191,7 +32415,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30210,7 +32434,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30235,7 +32459,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30254,7 +32478,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30270,7 +32494,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30289,7 +32513,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30308,7 +32532,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30325,7 +32549,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30347,7 +32571,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30363,7 +32587,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30379,7 +32603,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30408,7 +32632,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30428,7 +32652,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30447,7 +32671,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30463,7 +32687,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30479,7 +32703,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30497,7 +32721,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30515,7 +32739,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30534,7 +32758,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30551,7 +32775,7 @@
       "source_pages": [
         71
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30569,7 +32793,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30587,7 +32811,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30605,7 +32829,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30624,7 +32848,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30645,7 +32869,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30667,7 +32891,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30685,7 +32909,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30708,7 +32932,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30730,7 +32954,43 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "MONTGOMERY BLAIR",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2022
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "JAMES HUBERT BLAKE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2011
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30751,12 +33011,48 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "CARVER A & T",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2020
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Wrestling",
       "school": "CENTENNIAL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2003
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "CHESAPEAKE (AA)",
       "champion_years": [
         2022,
         2025
@@ -30774,7 +33070,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30793,7 +33089,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30828,7 +33124,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30857,7 +33153,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30876,7 +33172,25 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "FRANKLIN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2025
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30897,7 +33211,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30928,7 +33242,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30955,7 +33269,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -30978,7 +33292,28 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "HARFORD TECHNICAL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2005,
+        2022,
+        2023,
+        2024
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31003,7 +33338,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31029,7 +33364,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31049,7 +33384,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31070,7 +33405,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31099,7 +33434,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31124,7 +33459,43 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "LEONARDTOWN",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2017
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "LIBERTY",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2006
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31146,7 +33517,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31164,7 +33535,27 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "MARRIOTTS RIDGE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2023,
+        2024,
+        2025
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31190,7 +33581,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31210,7 +33601,46 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "MOUNTAIN RIDGE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2014
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "NORTH CAROLIINE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2014,
+        2015,
+        2016,
+        2017
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31233,7 +33663,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31257,29 +33687,17 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Wrestling",
       "school": "NORTH POINT",
-      "champion_years": [
-        1995,
-        2000
-      ],
+      "champion_years": [],
       "finalist_years": [
-        1996,
-        2001,
-        2005,
-        2007,
-        2022,
         2023
       ],
       "semifinalist_years": [
-        1994,
-        1999,
-        2000,
-        2002,
         2012,
         2013
       ],
@@ -31290,7 +33708,94 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "NORTHEAST (AA)",
+      "champion_years": [],
+      "finalist_years": [
+        1995
+      ],
+      "semifinalist_years": [],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "NORTHERN (Cal.)",
+      "champion_years": [
+        1995
+      ],
+      "finalist_years": [
+        1996,
+        2001,
+        2005
+      ],
+      "semifinalist_years": [
+        1994,
+        2000,
+        2002
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "NORTHERN (G)",
+      "champion_years": [
+        2000
+      ],
+      "finalist_years": [
+        2001,
+        2007,
+        2022,
+        2023
+      ],
+      "semifinalist_years": [
+        1999
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "NORTHWEST",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2003
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31308,7 +33813,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31329,7 +33834,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31357,7 +33862,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31375,7 +33880,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31411,7 +33916,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31431,7 +33936,64 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "PARKSIDE",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2019
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "PATTERSON MILL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2018,
+        2019,
+        2020
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "PERRY HALL",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        1994,
+        2025
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31449,7 +34011,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31469,7 +34031,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31494,7 +34056,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31520,7 +34082,46 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "ELEANOR ROOSEVELT",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2018,
+        2019,
+        2020,
+        2022
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "SHERWOOD",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2023
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31548,17 +34149,13 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
       "sport": "Wrestling",
       "school": "SOUTH RIVER",
       "champion_years": [
-        2009,
-        2018,
-        2019,
-        2020,
         2022,
         2023
       ],
@@ -31567,7 +34164,6 @@
         2024
       ],
       "semifinalist_years": [
-        2008,
         2013
       ],
       "runner_up_years": [],
@@ -31577,7 +34173,30 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "SOUTHERN (G)",
+      "champion_years": [
+        2009,
+        2018,
+        2019,
+        2020
+      ],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2008
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31602,7 +34221,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31625,7 +34244,25 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
+      "extraction_model": "regex"
+    },
+    {
+      "sport": "Wrestling",
+      "school": "TUSCARORA",
+      "champion_years": [],
+      "finalist_years": [],
+      "semifinalist_years": [
+        2018
+      ],
+      "runner_up_years": [],
+      "source_pdf": "pdfs/Winter record book.pdf",
+      "source_pages": [
+        90,
+        91,
+        95
+      ],
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31650,7 +34287,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31670,7 +34307,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31691,7 +34328,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31716,7 +34353,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     },
     {
@@ -31737,7 +34374,7 @@
         91,
         95
       ],
-      "extracted_at": "2026-08-02T22:52:01Z",
+      "extracted_at": "2026-08-10T02:26:47Z",
       "extraction_model": "regex"
     }
   ],

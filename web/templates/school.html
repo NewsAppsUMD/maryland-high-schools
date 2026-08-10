@@ -3,7 +3,7 @@
 {% block content %}
 <article class="clip-file">
   <header class="clip-header">
-    <h1>{{ school.name }}</h1>
+    <h1>{{ school.name }}{% if school.closed %} <span class="closed-tag">(closed)</span>{% endif %}</h1>
     <p class="fast-facts">{{ fast_facts }}</p>
     <div class="copy-row">
       <button class="copy-btn" data-copy="{{ fast_facts|e }}" type="button">Copy paragraph</button>

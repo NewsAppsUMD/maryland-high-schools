@@ -671,6 +671,65 @@ class TestParseSchoolRecords:
         assert len(bel_air) == 1
         assert bel_air[0].get("quarterfinal_years", []) == [2024, 2025]
 
+    def test_merged_class_years_with_slash(self):
+        # "(4A/3AE)" classifications broke get_years mid-block before "/" was
+        # allowed — North Point's 2022/2024 football titles vanished this way.
+        text = (
+            "North Point (14, 24-12)\n"
+            "CH: 2022 (4A/3AE), 2024 (4A/3AE)\n"
+            "RU: 2018 (4AE), 2023 (4A/3AE)\n"
+            "SF: 2017 (4AE)\n"
+        )
+        records = parse_school_records([text], "Football")
+        assert len(records) == 1
+        assert records[0]["champion_years"] == [2022, 2024]
+        assert records[0]["runner_up_years"] == [2018, 2023]
+
+    def test_semifinal_only_school_kept(self):
+        # Schools with only SF/QF appearances (e.g. "Northeast - AA") used to
+        # be dropped entirely because flush() required Ch/Fn/RU.
+        text = "Northeast - AA (7, 2-7)\nSF: 1981 (A)\n"
+        records = parse_school_records([text], "Football")
+        assert len(records) == 1
+        assert records[0]["school"] == "Northeast - AA"
+        assert records[0]["semifinalist_years"] == [1981]
+
+    def test_comma_in_school_name(self):
+        text = "Dr. Henry A. Wise, Jr. (16, 46-10)\nCH: 2009 (4A), 2012 (4A)\n"
+        records = parse_school_records([text], "Football")
+        assert len(records) == 1
+        assert records[0]["school"] == "Dr. Henry A. Wise, Jr."
+        assert records[0]["champion_years"] == [2009, 2012]
+
+    def test_closed_school_x_prefix_stripped(self):
+        text = "x-North Carroll (5, 2-5)\nSF: 1978 (C)\n"
+        records = parse_school_records([text], "Football")
+        assert len(records) == 1
+        assert records[0]["school"] == "North Carroll"
+        # The "x-" marker means the school is closed — kept as metadata.
+        assert records[0]["closed"] is True
+
+    def test_open_school_has_no_closed_flag(self):
+        text = "Middletown (10, 20-5)\nCH: 2015 (2A)\n"
+        records = parse_school_records([text], "Football")
+        assert len(records) == 1
+        assert "closed" not in records[0]
+
+    def test_allcaps_name_with_letter_parenthetical(self):
+        # "SOUTHERN (G)" (Garrett) — letter suffix, not stats parenthetical.
+        text = "SOUTHERN (G)\nCh: 1993, 1994\nFn: 1998\n"
+        records = parse_school_records([text], "Boys Cross Country")
+        assert len(records) == 1
+        assert records[0]["school"] == "SOUTHERN (G)"
+        assert records[0]["champion_years"] == [1993, 1994]
+
+    def test_unclosed_stats_parenthetical_stripped(self):
+        # pypdf sometimes wraps the ")" to the next line: "Northwood (6, 2-6".
+        text = "Northwood (6, 2-6\nCH: 1987 (2A)\n"
+        records = parse_school_records([text], "Football")
+        assert len(records) == 1
+        assert records[0]["school"] == "Northwood"
+
 
 # ── Championship dedup logic ─────────────────────────────────────────────────
 

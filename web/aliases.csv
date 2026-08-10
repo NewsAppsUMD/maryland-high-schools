@@ -64,3 +64,323 @@ Harford Technincal,Harford Technical
 Havre de Grace Cons,Havre de Grace
 St. Charles,Saint Charles
 Suitland-LBV,Suitland
+
+# --- Short forms used in championship tables / individual results ---
+# (Championship tables abbreviate famous schools; verified against the full
+# names in school records for the same sport/era.)
+Churchill,Winston Churchill
+W. Churchill,Winston Churchill
+Kennedy,John F. Kennedy
+Whitman,Walt Whitman
+W. Whitman,Walt Whitman
+Woodward,Charles W. Woodward
+Einstein,Albert Einstein
+Wootton,Thomas S. Wootton
+T.S. Wootton,Thomas S. Wootton
+Peary,Robert E. Peary
+Lackey,Henry E. Lackey
+Tubman,Harriet Tubman
+Roosevelt,Eleanor Roosevelt
+Central,Central-PG
+Central Cons,Central Consolidated
+Central Cons.,Central Consolidated
+Mont. Blair,Montgomery Blair
+W Johnson,Walter Johnson
+F.S. Key,Francis Scott Key
+Kent,Kent County
+Western,Western-B
+Douglass,Frederick Douglass-PG
+F. Douglass,Frederick Douglass-PG
+Northwestern,Northwestern-PG
+N'western-PG,Northwestern-PG
+Northeast,Northeast-AA
+North East,North East-Cecil
+North East-C,North East-Cecil
+North East-Cec,North East-Cecil
+Chesapeake-B,Chesapeake-BC
+Southern-A,Southern-AA
+Howard Co,Howard County
+Sollers Pt.,Sollers Point
+Lincoln-Fr,Lincoln
+Merganthaler Vo-Tech,Mergenthaler
+Merganthaler Vocational-Technical,Mergenthaler
+Northern Garrett Huskies,Northern Garrett
+
+# --- Same school, two registry spellings (merge + canonical display) ---
+Thomas Wootton,Thomas S. Wootton
+Thomas S. Wooton,Thomas S. Wootton
+Thomas Johnson,Gov. Thomas Johnson
+Governor Thomas Johnson,Gov. Thomas Johnson
+James H. Blake,James Hubert Blake
+Howard County,Howard
+Southern-G,Southern Garrett
+Douglass-PG,Frederick Douglass-PG
+Douglass-B,Frederick Douglass-B
+Frederick Douglass,Frederick Douglass-PG
+FrederickDouglass-PG,Frederick Douglass-PG
+F. Douglass - PG,Frederick Douglass-PG
+Henry A. Wise,"Dr. Henry A. Wise, Jr."
+Henry Wise,"Dr. Henry A. Wise, Jr."
+Dr. Henry A. Wise,"Dr. Henry A. Wise, Jr."
+Dr. Henry Wise Jr.,"Dr. Henry A. Wise, Jr."
+Chesapeake - BC,Chesapeake-BC
+CARVER CENTER FOR A&T,Carver Center for Arts & Technology
+Carver Center for Arts,Carver Center for Arts & Technology
+Henry E.Lackey,Henry E. Lackey
+
+# --- LLM spelling errors seen in individual_results (second batch) ---
+Allegeny,Allegany
+Pooleville,Poolesville
+Cotoctin,Catoctin
+Owings Mill,Owings Mills
+Wiliamsport,Williamsport
+Wiilamsport,Williamsport
+Aundel,Arundel
+Marriots Ridge,Marriotts Ridge
+Bladensbug,Bladensburg
+Souh Carroll,South Carroll
+Fredeick,Frederick
+Centrevlle,Centreville
+Fort Hil,Fort Hill
+Harriett Tubman,Harriet Tubman
+Oakland Mils,Oakland Mills
+Spring Brook,Springbrook
+Surattsville,Surrattsville
+Stephen Decautur,Stephen Decatur
+Westner STES,Western STES
+N Caroline,North Caroline
+Saint Michael's,St. Michaels
+Maces Lane,Mace's Lane
+Garnet,Garnett
+Du Val,DuVal
+Queen Annes,Queen Anne's
+Betesda-CC,Bethesda-Chevy Chase
+CM Wright,C. Milton Wright
+Centennail,Centennial
+Blake,James Hubert Blake
+Reginald Lewis,Reginald F. Lewis
+Magruder,Col. Zadok Magruder
+
+# --- "Athlete-School-Mark" codes -------------------------------------------
+# The track/swim event pages print school as a 2-4 letter code with no legend
+# ("1972 Comb D. Jones JMB 11.2y"). Mappings inferred from class/era context
+# and cross-checked against known athletes (e.g. CVT: Bernard Williams, the
+# Olympic sprinter from Carver Vo-Tech; ELR: Suziann Reid, Eleanor Roosevelt;
+# BAR: Ben Mayforth and Kieran McDermott, Bel Air; NCL ends at North
+# Carroll's 2016 closure; NWD resumes with Northwood's 2024 reopening).
+# Codes with era-mixed or unresolvable candidates are deliberately NOT mapped:
+# CHA, CHB, CLR, COCK, CTT, FAET, MTS, NOB, SOB, VCU.
+ABE,Aberdeen
+AEI,Albert Einstein
+ALL,Allegany
+AND,Andover
+ANN,Annapolis
+ARU,Arundel
+ATH,Atholton
+BAR,Bel Air
+BDN,Broadneck
+BEA,Beall
+BHM,Bohemia Manor
+BKP,Brooklyn Park
+BLA,Bladensburg
+BOO,Boonsboro
+BOW,Bowie
+BPI,Baltimore Polytechnic Institute
+BRN,Brunswick
+CAL,Calvert
+CAM,Cambridge
+CAT,Catonsville
+CEN,Central-PG
+CHF,Charles H. Flowers
+CHH,Charles Hickey
+CHO,Chopticon
+CHT,Chestertown
+CLK,Clarksburg
+CLS,Clear Spring
+CMW,C. Milton Wright
+CNT,Century
+CRF,Crofton
+CRI,Crisfield
+CRO,Crossland
+CSD,Cambridge-South Dorchester
+CTN,Catoctin
+CTY,City College
+CVR,Carver Vo-Tech
+CVT,Carver Vo-Tech
+CWW,Charles W. Woodward
+CZM,Col. Zadok Magruder
+DAM,Damascus
+DGH,Digital Harbor
+DNB,Dunbar
+DUB,W.E.B. Du Bois
+DUL,Dulaney
+DUN,Dundalk
+DUV,DuVal
+EAS,Easton
+EDG,Edgewood
+EDW,Edmondson-Westside
+ELK,Elkton
+ELR,Eleanor Roosevelt
+EVT,Eastern Technical
+FAH,Fairmont Heights
+FAL,Fallston
+FDB,Frederick Douglass-B
+FOR,Forestville
+FPK,Forest Park
+FRA,Franklin
+FRD,Frederick Douglass-PG
+FRE,Frederick
+FRI,Friendly
+FSK,Francis Scott Key
+FTH,Fort Hill
+GAI,Gaithersburg
+GARN,Garnett
+GLB,Glen Burnie
+GLG,Glenelg
+GTJ,Gov. Thomas Johnson
+GTM,Great Mills
+GWP,Gwynn Park
+HAM,Hammond
+HAN,Hancock
+HDG,Havre de Grace
+HER,Hereford
+HOW,Howard
+HPT,High Point
+HUN,Huntingtown
+HVT,Harford Technical
+HWI,"Dr. Henry A. Wise, Jr."
+JFK,John F. Kennedy
+JHB,James Hubert Blake
+JMB,James M. Bennett
+JOP,Joppatowne
+KEN,Kenwood
+KTC,Kent County
+KTI,Kent Island
+LAC,Henry E. Lackey
+LAN,Lansdowne
+LAP,La Plata
+LAR,Largo
+LAU,Laurel
+LCE,Lake Clifton/Eastern
+LCR,Loch Raven
+LEO,Leonardtown
+LGR,Long Reach
+LIB,Liberty
+LIN,Linganore
+MAL,Mace's Lane
+MAR,Mardela
+MDU,Maurice J. McDonough
+MEA,Meade
+MID,Middletown
+MILM,Milford Mill
+MLM,Milford Mill
+MRR,Marriotts Ridge
+MSD,Maryland School for the Deaf
+MTB,Montgomery Blair
+MTH,Mount Hebron
+MTR,Mountain Ridge
+MVM,Manchester Valley
+MVT,Mergenthaler
+NAF,National Academy Foundation
+NCL,North Carroll
+NCN,North Caroline
+NCT,North County
+NDC,North Dorchester
+NEA,Northeast-AA
+NEC,North East-Cecil
+NHF,North Harford
+NHG,North Hagerstown
+NOC,Northern-Calvert
+NOG,Northern Garrett
+NPT,North Point
+NWB,Northwestern-B
+NWD,Northwood
+NWE,Northwestern-PG
+NWM,Northwest
+NWT,New Town
+OAD,Oakdale
+OAK,Oakland Mills
+OLD,Old Mill
+OLM,Old Mill
+OVE,Overlea
+OWM,Owings Mills
+OXH,Oxon Hill
+PBR,Paint Branch
+PEH,Perry Hall
+PEV,Perryville
+PIK,Pikesville
+PKD,Parkdale
+PKS,Parkside
+PKV,Parkville
+POO,Poolesville
+POT,Potomac
+PPM,Patterson Mill
+PTX,Patuxent
+PXT,Patuxent
+QAN,Queen Anne's
+QOR,Quince Orchard
+RAN,Randallstown
+REP,Robert E. Peary
+RES,Reservoir
+RFL,Reginald F. Lewis
+RGL,Reginald F. Lewis
+RIS,Rising Sun
+RMT,Richard Montgomery
+RTM,Richard Montgomery
+ROC,Rockville
+RVH,River Hill
+SCL,South Carroll
+SDC,South Dorchester
+SEP,Severna Park
+SEV,Seneca Valley
+SHE,Sherwood
+SHG,South Hagerstown
+SMI,Smithsburg
+SNH,Snow Hill
+SOA,Southern-AA
+SOG,Southern Garrett
+SOM,Somerset
+SOMER,Somerset
+SPB,Springbrook
+SPP,Sparrows Point
+SRI,South River
+STC,Saint Charles
+STD,Stephen Decatur
+STM,St. Michaels
+SUI,Suitland
+SUR,Surrattsville
+SWE,Southwestern
+THS,Thomas Stone
+TOW,Towson
+TSW,Thomas S. Wootton
+TUS,Tuscarora
+URB,Urbana
+VAL,Valley
+WAJ,Walter Johnson
+WAS,Washington
+WCH,Winston Churchill
+WEB,Western-B
+WES,Westminster
+WHE,Wheaton
+WIC,Wicomico
+WIL,Williamsport
+WLA,Westlake
+WLB,Walbrook
+WLD,Wilde Lake
+WLK,Walkersville
+WMI,Winters Mill
+WMR,Westmar
+WOO,Woodlawn
+WTE,Western STES
+WTM,Watkins Mill
+WWH,Walt Whitman
+McDonough,Maurice J. McDonough
+Cambridge-SD,Cambridge-South Dorchester
+Cambridge/SD,Cambridge-South Dorchester
+Cambridge-S. Dorchester,Cambridge-South Dorchester
+Cambridge/S. Dorchester,Cambridge-South Dorchester
+Cambridge/S.Dorchester,Cambridge-South Dorchester
+Northern-G,Northern Garrett
+Northern (G),Northern Garrett
+Northern-C,Northern-Calvert
+Northern (C),Northern-Calvert

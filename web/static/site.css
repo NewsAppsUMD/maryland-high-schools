@@ -58,6 +58,7 @@ tbody tr:hover { background: var(--tint); }
 
 /* clip file */
 .clip-header h1 { margin-bottom: .1em; }
+.closed-tag { font-size: .55em; font-weight: normal; color: var(--muted); vertical-align: middle; }
 .fast-facts { font-size: 1.05rem; max-width: 44em; margin: .2em 0 .6em; }
 .copy-row { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
 .copy-btn { padding: 6px 12px; border: 1px solid var(--line); border-radius: 4px; background: var(--tint); color: var(--ink); cursor: pointer; font: inherit; }

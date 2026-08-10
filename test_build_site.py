@@ -146,6 +146,26 @@ class TestSplitCochampions:
         assert split_cochampions("") == []
         assert split_cochampions(None) == []
 
+    def test_tie_prefix_stripped(self):
+        assert split_cochampions("TIE: Fairmont Heights / Beall") == [
+            "Fairmont Heights", "Beall"]
+
+    def test_slash_tie_splits_when_both_plausible(self):
+        assert split_cochampions("Poolesville/St. Michaels") == [
+            "Poolesville", "St. Michaels"]
+        assert split_cochampions("High Point/Old Mill") == [
+            "High Point", "Old Mill"]
+
+    def test_slash_kept_when_part_too_short(self):
+        # "Cambridge/SD" is ONE school (Cambridge-South Dorchester); "SD"
+        # normalizes to 2 chars, so the name must not split.
+        assert split_cochampions("Cambridge/SD") == ["Cambridge/SD"]
+        assert split_cochampions("FRD/SRI") == ["FRD/SRI"]
+
+    def test_unspaced_ampersand_is_one_school(self):
+        # "Carver A&T" is a single school; only a spaced " & " separates ties.
+        assert split_cochampions("Carver A&T") == ["Carver A&T"]
+
 
 # ── display-name selection ───────────────────────────────────────────────────
 class TestBestDisplayName:
@@ -175,7 +195,9 @@ class TestBuildSchoolIndex:
         _, report = index
         assert report["seasons"] == ["fall", "winter", "spring"]
         assert report["championship_rows"] == 3597
-        assert report["school_records_rows"] == 1719
+        # 2268 after the parse_school_records fixes (slash classifications,
+        # SF/QF-only schools, comma names, "SOUTHERN (G)"-style suffixes).
+        assert report["school_records_rows"] == 2268
         assert report["schools"] > 200
 
     def test_unmatched_is_bucketed(self, index):
@@ -193,6 +215,13 @@ class TestBuildSchoolIndex:
         assert len(er.titles) > 0
         # every title row carries season + provenance
         assert all("season" in t and "source_pdf" in t for t in er.titles)
+
+    def test_closed_property(self, index):
+        # School.closed reflects the record book's "x-" marker on any
+        # school_records row; an open school reads False.
+        registry, _ = index
+        er = registry.lookup("Eleanor Roosevelt")
+        assert er.closed is False
 
     def test_allegany_xc_titles_from_pdf(self, index):
         # The README calls out Allegany XC 1997-98 as a known record.
@@ -330,23 +359,32 @@ class TestFastFacts:
     def test_with_titles_full_paragraph(self, index):
         r, _ = index
         ff = fast_facts_paragraph("Allegany", r.lookup("Allegany"))
+        # 75 individual champions: includes the "Allegeny" typo row and the
+        # "ALL" Athlete-School-Mark code rows merged by the alias map.
         assert ff == ("Allegany has won 34 state championships across 7 sports, "
-                      "most recently 1A baseball in 2025. It has produced 13 "
+                      "most recently 1A baseball in 2025. It has produced 75 "
                       "individual state champions and won 2 sportsmanship awards.")
 
     def test_singular_grammar_one_title_one_sport(self, index):
+        # Old Post (closed) has exactly one title in one sport, exercising the
+        # singular-noun branches.
         r, _ = index
-        ff = fast_facts_paragraph("Charles W. Woodward", r.lookup("Charles W. Woodward"))
-        assert ff == ("Charles W. Woodward has won 1 state championship across 1 "
-                      "sport, most recently A boys basketball in 1977.")
+        ff = fast_facts_paragraph("Old Post", r.lookup("Old Post"))
+        assert ff == ("Old Post has won 1 state championship across 1 "
+                      "sport, most recently D boys cross country in 1947.")
 
     def test_no_title_but_finals(self, index):
+        # (Cambridge-South Dorchester previously filled this role, but its
+        # "Cambridge/SD"-spelled championships now merge via the alias map and
+        # it has 11 titles. Blake has finals, individual champions, and
+        # sportsmanship awards — but no team title.)
         r, _ = index
-        ff = fast_facts_paragraph("Cambridge-South Dorchester",
-                                  r.lookup("Cambridge-South Dorchester"))
-        assert ff == ("Cambridge-South Dorchester has reached 1 state final without "
-                      "a title. It has produced 6 individual state champions and won "
-                      "2 sportsmanship awards.")
+        ff = fast_facts_paragraph("James Hubert Blake",
+                                  r.lookup("James Hubert Blake"))
+        # 45 individual champions: includes the "JHB" code rows.
+        assert ff == ("James Hubert Blake has reached 4 state finals without "
+                      "a title. It has produced 45 individual state champions and won "
+                      "3 sportsmanship awards.")
 
     def test_no_history_at_all(self, index):
         r, _ = index

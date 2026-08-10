@@ -166,17 +166,35 @@ def slugify(name: str) -> str:
     return n
 
 
-# Co-champion split: "A & B" -> ["A", "B"]. A bare " & " inside a single school
-# name is unknown in this data, so splitting on " & " is safe here.
-_COCHAMP_SEP = re.compile(r"\s*&\s*")
+# Co-champion split: "A & B" -> ["A", "B"]. Split only on a SPACED " & " —
+# "Carver A&T" is one school and must not split. Slash ties ("Poolesville/St.
+# Michaels", "TIE: Fairmont Heights / Beall") split only when every part is a
+# plausible school name (normalized length >= 4), which protects single-school
+# names like "Cambridge/SD" (SD -> "sd", too short).
+_COCHAMP_SEP = re.compile(r"\s+&\s+")
+_TIE_PREFIX = re.compile(r"^\s*TIE:\s*", re.IGNORECASE)
 
 
 def split_cochampions(name: str) -> list[str]:
     """Split a co-champion school field into its constituent school names."""
     if not name:
         return []
-    parts = [p.strip() for p in _COCHAMP_SEP.split(name)]
-    return [p for p in parts if p]
+    name = _TIE_PREFIX.sub("", name)
+    out: list[str] = []
+    # Semicolons separate co-winner lists ("La Plata; Aberdeen; Northern")
+    # and never appear inside a school name — split unconditionally.
+    for chunk in re.split(r"\s*;\s*", name):
+        for part in _COCHAMP_SEP.split(chunk):
+            part = part.strip()
+            if not part:
+                continue
+            if "/" in part:
+                subs = [s.strip() for s in part.split("/")]
+                if all(len(_base_normalize(s)) >= 4 for s in subs):
+                    out.extend(s for s in subs if s)
+                    continue
+            out.append(part)
+    return out
 
 
 def best_display_name(variants: list[str]) -> str:
@@ -232,6 +250,12 @@ class School:
     golf_team: list[dict] = field(default_factory=list)
     golf_individual: list[dict] = field(default_factory=list)
     stat_records: list[dict] = field(default_factory=list)
+
+    @property
+    def closed(self) -> bool:
+        """True when any school_records row carries the record book's "x-"
+        closed-school marker (e.g. "x-North Carroll")."""
+        return any(r.get("closed") for r in self.school_record_rows)
 
 
 def load_books(data_dir: Path = DATA_DIR) -> dict[str, dict]:
@@ -343,13 +367,27 @@ def build_school_index(books: dict[str, dict], normalize_school,
             school.school_record_rows.append({**row, "season": season})
             sr_rows += 1
 
+    def resolve(raw_name: str) -> list[str]:
+        """Names to attach a row to: the whole name if it's a known school,
+        else its tie/co-champion parts.
+
+        Whole-name-first matters: "Cambridge/South Dorchester" is ONE school
+        whose normalized form matches directly, while "Poolesville/St.
+        Michaels" is a tie that must split. Only unresolvable names are split.
+        """
+        if not raw_name:
+            return []
+        if registry.lookup(raw_name):
+            return [raw_name]
+        return split_cochampions(raw_name)
+
     # 2. Championships. Split co-champions; attach to champion + finalist schools.
     champ_rows = 0
     for season, book in books.items():
         for row in book.get("championship_results", []):
             champ_rows += 1
             enriched = {**row, "season": season}
-            champ_schools = split_cochampions(row.get("champion_school") or "")
+            champ_schools = resolve(row.get("champion_school") or "")
             for nm in champ_schools:
                 s = registry.lookup(nm)
                 if s:
@@ -358,25 +396,28 @@ def build_school_index(books: dict[str, dict], normalize_school,
                     registry.note_unmatched(nm, f"{season} champion {row.get('sport')}")
             fin = row.get("finalist_school")
             if fin:
-                for nm in split_cochampions(fin):
+                for nm in resolve(fin):
                     s = registry.lookup(nm)
                     if s:
                         s.finals.append(enriched)
                     else:
                         registry.note_unmatched(nm, f"{season} finalist {row.get('sport')}")
 
-    # 3. Individual champions (XC + individual_results).
+    # 3. Individual champions (XC + individual_results). Split multi-school
+    # entries too — event ties serialize as "Crossland & Bel Air", and the row
+    # belongs on both schools' pages.
     indiv_rows = 0
     for season, book in books.items():
         for table in ("individual_xc_champions", "individual_results"):
             for row in book.get(table, []):
                 indiv_rows += 1
                 enriched = {**row, "season": season, "table": table}
-                s = registry.lookup(row.get("school") or "")
-                if s:
-                    s.individual_champions.append(enriched)
-                else:
-                    registry.note_unmatched(row.get("school") or "", f"{season} {table}")
+                for nm in resolve(row.get("school") or ""):
+                    s = registry.lookup(nm)
+                    if s:
+                        s.individual_champions.append(enriched)
+                    else:
+                        registry.note_unmatched(nm, f"{season} {table}")
 
     # 4. Sportsmanship.
     sport_rows = 0
@@ -384,11 +425,12 @@ def build_school_index(books: dict[str, dict], normalize_school,
         for row in book.get("sportsmanship_awards", []):
             sport_rows += 1
             enriched = {**row, "season": season}
-            s = registry.lookup(row.get("school") or "")
-            if s:
-                s.sportsmanship.append(enriched)
-            else:
-                registry.note_unmatched(row.get("school") or "", f"{season} sportsmanship")
+            for nm in resolve(row.get("school") or ""):
+                s = registry.lookup(nm)
+                if s:
+                    s.sportsmanship.append(enriched)
+                else:
+                    registry.note_unmatched(nm, f"{season} sportsmanship")
 
     # 5. Golf: team + individual champions are separate school fields.
     golf_rows = 0
@@ -396,7 +438,7 @@ def build_school_index(books: dict[str, dict], normalize_school,
         for row in book.get("golf_results", []):
             golf_rows += 1
             enriched = {**row, "season": season}
-            for nm in split_cochampions(row.get("team_champion_school") or ""):
+            for nm in resolve(row.get("team_champion_school") or ""):
                 s = registry.lookup(nm)
                 if s:
                     s.golf_team.append(enriched)
@@ -416,11 +458,15 @@ def build_school_index(books: dict[str, dict], normalize_school,
         for row in book.get("stat_records", []):
             stat_rows += 1
             enriched = {**row, "season": season}
-            s = registry.lookup(row.get("school") or "")
+            school_name = row.get("school") or ""
+            s = registry.lookup(school_name)
             if s:
                 s.stat_records.append(enriched)
-            # stat_records with school=None (e.g. "Dunbar v. Allegany") are not
-            # attached to a school page; they're surfaced on peg/sport pages later.
+            elif school_name:
+                # A named school that doesn't resolve is a curation signal like
+                # any other table's; only school=None (team-vs-team records
+                # like "Dunbar v. Allegany") is expected to go unattached.
+                registry.note_unmatched(school_name, f"{season} stat_records")
 
     registry.finalize_names()
 
@@ -469,14 +515,17 @@ def schools_index_json(registry: SchoolRegistry) -> list[dict]:
     """Compact A-Z/search index: one entry per school."""
     out = []
     for school in sorted(registry.by_key.values(), key=lambda s: s.display_name.lower()):
-        out.append({
+        entry = {
             "slug": school.slug,
             "name": school.display_name,
             "titles": len(school.titles),
             "finals": len(school.finals),
             "individual_champions": len(school.individual_champions),
             "sportsmanship": len(school.sportsmanship),
-        })
+        }
+        if school.closed:
+            entry["closed"] = True
+        out.append(entry)
     return out
 
 
@@ -712,6 +761,7 @@ def school_page_data(school: School) -> dict:
         "school": {
             "name": school.display_name,
             "slug": school.slug,
+            "closed": school.closed,
             "total_titles": len(school.titles),
             "total_finals": len(school.finals),
             "last_title": _last_title_str(school.titles),
@@ -728,6 +778,7 @@ def school_json(school: School) -> dict:
     return {
         "slug": school.slug,
         "name": school.display_name,
+        "closed": school.closed,
         "totals": {
             "titles": len(school.titles),
             "finals": len(school.finals),
