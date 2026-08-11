@@ -1,0 +1,44 @@
+{
+  "sport": "Football",
+  "season": "fall",
+  "note": "Runner-up (finalist) schools for MPSSAA football state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is checked as a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Add entries year-by-year; keep sources.",
+  "entries": [
+    {"year": "2010", "classification": "1A", "champion": "Dunbar",              "score": "22-12", "finalist": "Havre de Grace",        "source": "https://www.mpssaa.org/football-teams-grind-out-titles/"},
+    {"year": "2010", "classification": "2A", "champion": "McDonough",           "score": "21-14", "finalist": "Middletown",            "source": "https://www.mpssaa.org/football-teams-grind-out-titles/"},
+    {"year": "2010", "classification": "3A", "champion": "Wilde Lake",         "score": "21-14", "finalist": "Franklin",              "source": "https://www.mpssaa.org/football-teams-grind-out-titles/"},
+    {"year": "2010", "classification": "4A", "champion": "Urbana",              "score": "6-0",   "finalist": "Dr. Henry A. Wise, Jr.", "source": "https://www.mpssaa.org/football-teams-grind-out-titles/"},
+
+    {"year": "2019", "classification": "1A", "champion": "Catoctin",           "score": "31-8",  "finalist": "Paul Laurence Dunbar",  "source": "http://www.mpssaa.org/2019-state-football-title-winners-played-with-the-heart-of-a-champion/"},
+    {"year": "2019", "classification": "2A", "champion": "Middletown",         "score": "34-15", "finalist": "Potomac",               "source": "http://www.mpssaa.org/2019-state-football-title-winners-played-with-the-heart-of-a-champion/"},
+    {"year": "2019", "classification": "3A", "champion": "Damascus",           "score": "38-0",  "finalist": "Linganore",             "source": "http://www.mpssaa.org/2019-state-football-title-winners-played-with-the-heart-of-a-champion/"},
+    {"year": "2019", "classification": "4A", "champion": "Dr. Henry A. Wise, Jr.", "score": "35-14", "finalist": "Northwest",          "source": "http://www.mpssaa.org/2019-state-football-title-winners-played-with-the-heart-of-a-champion/"},
+
+    {"year": "2021", "classification": "4A",    "champion": "Quince Orchard",        "score": "31-13", "finalist": "Dr. Henry A. Wise, Jr.", "source": "https://www.mpssaa.org/2021-mpssaa-football-recap/"},
+    {"year": "2021", "classification": "4A/3A", "champion": "Mergenthaler Vo-Tech",   "score": "22-13", "finalist": "Dundalk",               "source": "https://www.mpssaa.org/2021-mpssaa-football-recap/"},
+    {"year": "2021", "classification": "3A",    "champion": "Northern-Cal",          "score": "28-23", "finalist": "Linganore",             "source": "https://www.mpssaa.org/2021-mpssaa-football-recap/"},
+    {"year": "2021", "classification": "2A",    "champion": "Frederick Douglass-PG", "score": "29-14", "finalist": "Milford Mill",          "source": "https://www.mpssaa.org/2021-mpssaa-football-recap/"},
+    {"year": "2021", "classification": "2A/1A", "champion": "Paul Laurence Dunbar",  "score": "38-6",  "finalist": "South Carroll",         "source": "https://www.mpssaa.org/2021-mpssaa-football-recap/"},
+    {"year": "2021", "classification": "1A",    "champion": "Fort Hill",             "score": "51-31", "finalist": "Mountain Ridge",         "source": "https://www.mpssaa.org/2021-mpssaa-football-recap/"},
+
+    {"year": "2022", "classification": "4A",    "champion": "Quince Orchard",       "score": "32-7",  "finalist": "Charles H. Flowers",     "source": "https://www.mpssaa.org/2022-football-state-finals-produce-back-to-back-champions/"},
+    {"year": "2022", "classification": "4A/3A", "champion": "North Point",          "score": "31-14", "finalist": "Arundel",                "source": "https://www.mpssaa.org/2022-football-state-finals-produce-back-to-back-champions/"},
+    {"year": "2022", "classification": "3A",    "champion": "Damascus",             "score": "21-14", "finalist": "Oakdale",                "source": "https://www.mpssaa.org/2022-football-state-finals-produce-back-to-back-champions/"},
+    {"year": "2022", "classification": "2A",    "champion": "Milford Mill",         "score": "25-16", "finalist": "Kent Island",            "source": "https://www.mpssaa.org/2022-football-state-finals-produce-back-to-back-champions/"},
+    {"year": "2022", "classification": "2A/1A", "champion": "Paul Laurence Dunbar",  "score": "22-13", "finalist": "Patuxent",               "source": "https://www.mpssaa.org/2022-football-state-finals-produce-back-to-back-champions/"},
+    {"year": "2022", "classification": "1A",    "champion": "Fort Hill",             "score": "16-14", "finalist": "Mountain Ridge",         "source": "https://www.mpssaa.org/2022-football-state-finals-produce-back-to-back-champions/"},
+
+    {"year": "2023", "classification": "4A",    "champion": "Dr. Henry A. Wise, Jr.", "score": "21-0",  "finalist": "Broadneck",            "source": "https://www.mpssaa.org/2023-football-state-finals-recap/"},
+    {"year": "2023", "classification": "4A/3A", "champion": "Mergenthaler Vo-Tech",    "score": "14-7",  "finalist": "North Point",          "source": "https://www.mpssaa.org/2023-football-state-finals-recap/"},
+    {"year": "2023", "classification": "3A",    "champion": "Oakdale",                "score": "42-35", "finalist": "Linganore",            "source": "https://www.mpssaa.org/2023-football-state-finals-recap/"},
+    {"year": "2023", "classification": "2A",    "champion": "Stephen Decatur",       "score": "21-13", "finalist": "Huntingtown",          "source": "https://www.mpssaa.org/2023-football-state-finals-recap/"},
+    {"year": "2023", "classification": "2A/1A", "champion": "Paul Laurence Dunbar",   "score": "8-0",   "finalist": "Calvert",             "source": "https://www.mpssaa.org/2023-football-state-finals-recap/"},
+    {"year": "2023", "classification": "1A",    "champion": "Fort Hill",              "score": "45-21", "finalist": "Mountain Ridge",      "source": "https://www.mpssaa.org/2023-football-state-finals-recap/"},
+
+    {"year": "2024", "classification": "4A",    "champion": "Quince Orchard",        "score": "24-13", "finalist": "Dr. Henry A. Wise, Jr.", "source": "https://www.si.com/high-school/maryland/quince-orchard-wins-maryland-4a-state-championship-defeats-wise-24-13-to-cap-perfect-season-01jegvyzs4xk"},
+    {"year": "2024", "classification": "4A/3A", "champion": "North Point",           "score": "21-20", "finalist": "Mergenthaler Vo-Tech",   "source": "https://mdfootballscores.com/north-point-outlasts-mervo-in-overtime-to-win-4a-3a-state-title/"},
+    {"year": "2024", "classification": "3A",    "champion": "Arundel",              "score": "35-7",  "finalist": "Linganore",              "source": "https://www.capitalgazette.com/2024/12/07/arundel-football-dominates-linganore-35-7-to-win-1st-state-title-since-1975/"},
+    {"year": "2024", "classification": "2A",    "champion": "Stephen Decatur",      "score": "13-12", "finalist": "Huntingtown",            "source": "https://www.si.com/high-school/maryland/stephen-decatur-stages-another-rally-tops-huntingtown-in-mpssaa-2a-state-championship-game-01jehx0bz8f4"},
+    {"year": "2024", "classification": "2A/1A", "champion": "Patuxent",              "score": "8-6",   "finalist": "Paul Laurence Dunbar",   "source": "https://www.si.com/high-school/maryland/patuxent-denies-dunbar-at-17th-maryland-football-state-championship-01jefb6ds3p2"},
+    {"year": "2024", "classification": "1A",    "champion": "Fort Hill",            "score": "35-0",  "finalist": "Northern-Garrett",       "source": "https://www.times-news.com/sports/local_sports/fort-hill-downs-northern-35-0-for-record-tying-4th-straight-state-championship/article_eb3f4282-b4ba-11ef-aeb7-efae5b72f205.html"}
+  ]
+}

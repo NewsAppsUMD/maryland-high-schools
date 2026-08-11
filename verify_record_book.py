@@ -80,6 +80,22 @@ ERA_FLOORS = {
     "Golf": 2024,
 }
 
+# Head-to-head contest sports whose `finalist_school` (the runner-up) should be
+# populated for every MPSSAA-era final. The record-book PDFs don't print the
+# runner-up on their honor-roll pages, so it is back-filled from school_records
+# finalist/runner-up years + LLM class assignment (scripts/fill_finalists.py).
+# Below this fill ratio the back-fill has clearly regressed. The floor starts
+# conservative (0.80) and warn-only; once the post-pilot baseline is measured,
+# raise it toward 0.95 and flip FINALIST_WARN_ONLY to False to enforce.
+CONTEST_SPORT_FINALIST_FLOOR = {
+    "Football": 0.80,
+    "Boys Basketball": 0.80,
+    # remaining contest sports are added here as they are back-filled:
+    # Boys/Girls Soccer, Field Hockey, Volleyball, Girls Basketball,
+    # Baseball, Boys/Girls Lacrosse, Softball.
+}
+FINALIST_WARN_ONLY = True
+
 # Natural key per table. Same keys the parser dedups on, minus the cross-country
 # `name` addition (co-champions legitimately share a year/classification, so
 # the XC natural key for verification stays coarse).
@@ -331,6 +347,63 @@ def check_era_floors(book: dict) -> dict:
     return {"errors": len(missing), "missing": missing}
 
 
+def check_finalist_coverage(book: dict) -> dict:
+    """Report finalist_school fill rate for head-to-head contest sports.
+
+    The PDF honor-roll pages print only champion + score, so finalist_school is
+    back-filled (scripts/fill_finalists.py). Eligible rows: championship_results
+    rows for a floored contest sport with a populated score (the contest-sport
+    proxy — score is ~100% filled), excluding Pre-MPSSAA precursor rows and
+    KNOWN_GAPS years. Below the per-sport floor the check would error, downgraded
+    to a warning while FINALIST_WARN_ONLY is set so the pilot run stays green.
+    """
+    per_sport = {}
+    warnings = 0
+    errors = 0
+    for sport, floor in sorted(CONTEST_SPORT_FINALIST_FLOOR.items()):
+        gaps = KNOWN_GAPS.get(sport, set())
+        eligible = filled = 0
+        missing = []
+        for r in _table(book, "championship_results"):
+            if r.get("sport") != sport:
+                continue
+            if (r.get("notes") or "").startswith(PRE_MPSSAA):
+                continue
+            try:
+                year = int(r.get("year"))
+            except (TypeError, ValueError):
+                continue
+            if year in gaps:
+                continue
+            # Score is ~100% filled for contest sports; rows without one are
+            # pre-MPSSAA/precursor oddities, not back-fill targets.
+            if not (r.get("score") or "").strip():
+                continue
+            eligible += 1
+            if (r.get("finalist_school") or "").strip():
+                filled += 1
+            else:
+                missing.append((year, r.get("classification")))
+        if eligible == 0:
+            continue
+        coverage = filled / eligible
+        status = "ok" if coverage >= floor else "below_floor"
+        if status == "below_floor":
+            if FINALIST_WARN_ONLY:
+                warnings += 1
+            else:
+                errors += 1
+        per_sport[sport] = {
+            "eligible": eligible,
+            "filled": filled,
+            "coverage": coverage,
+            "floor": floor,
+            "status": status,
+            "missing": sorted(missing),
+        }
+    return {"warnings": warnings, "errors": errors, "sports": per_sport}
+
+
 def _load_head_book(data_dir: Path) -> tuple[dict | None, str | None]:
     """Load the record_book.json checked in at HEAD, for the regression guard.
 
@@ -409,6 +482,7 @@ def build_report(book: dict, data_dir: Path, *, allow_removals: bool) -> dict:
     continuity = check_continuity(book)
     referential = check_referential_schools(book)
     era = check_era_floors(book)
+    finalist_cov = check_finalist_coverage(book)
     head_book, head_note = _load_head_book(data_dir)
     regression = check_regression(book, head_book, head_note, allow_removals)
 
@@ -417,8 +491,13 @@ def build_report(book: dict, data_dir: Path, *, allow_removals: bool) -> dict:
         + dup["errors"]
         + era["errors"]
         + regression["errors"]
+        + finalist_cov["errors"]
     )
-    warnings = continuity["warnings"] + referential["warnings"]
+    warnings = (
+        continuity["warnings"]
+        + referential["warnings"]
+        + finalist_cov["warnings"]
+    )
 
     row_counts = {t: len(_table(book, t)) for t in TABLE_KEYS}
     return {
@@ -436,6 +515,7 @@ def build_report(book: dict, data_dir: Path, *, allow_removals: bool) -> dict:
             "continuity": continuity,
             "referential_schools": referential,
             "era_floors": era,
+            "finalist_coverage": finalist_cov,
             "regression_guard": regression,
         },
     }
@@ -502,6 +582,20 @@ def print_summary(report: dict) -> None:
             print(f"  ✗ {m['sport']} missing anchor year {m['floor_year']}")
     else:
         print("\nEra floors: all present ✓")
+
+    fc = report["checks"]["finalist_coverage"]
+    if fc["sports"]:
+        label = "warnings" if FINALIST_WARN_ONLY else "errors"
+        print(f"\nFinalist coverage (contest sports; {label}): {fc['warnings'] if FINALIST_WARN_ONLY else fc['errors']}")
+        for sport, info in fc["sports"].items():
+            marker = "✓" if info["status"] == "ok" else "✗"
+            print(
+                f"  {marker} {sport:18s} filled={info['filled']:3d}/{info['eligible']:3d}"
+                f"  coverage={info['coverage']:.0%}  floor={info['floor']:.0%}"
+            )
+            shown = _clip([f"{y} {c}" for y, c in info["missing"]], 10)
+            if info["missing"]:
+                print(f"      missing: {shown}")
 
     reg = report["checks"]["regression_guard"]
     if reg.get("skipped"):
