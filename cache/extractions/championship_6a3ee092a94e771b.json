@@ -7,7 +7,8 @@
       55,
       56
     ],
-    "extracted_at": "2026-08-02T14:33:47Z"
+    "extracted_at": "2026-08-02T14:33:47Z",
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -1472,12 +1473,12 @@
       "classification": "4A",
       "champion_school": "Perry Hall",
       "champion_coach": "Matt Smoot",
-      "finalist_school": null,
+      "finalist_school": "Walt Whitman",
       "finalist_coach": null,
       "score": "4-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1485,12 +1486,12 @@
       "classification": "3A",
       "champion_school": "Northern-Calvert",
       "champion_coach": "John P. Battle",
-      "finalist_school": null,
+      "finalist_school": "Thomas Johnson",
       "finalist_coach": null,
       "score": "4-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1498,12 +1499,12 @@
       "classification": "2A",
       "champion_school": "River Hill",
       "champion_coach": "Brian Song",
-      "finalist_school": null,
+      "finalist_school": "Walkersville",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1511,12 +1512,12 @@
       "classification": "1A",
       "champion_school": "Sparrows Point",
       "champion_coach": "Lori Sexton",
-      "finalist_school": null,
+      "finalist_school": "Smithsburg",
       "finalist_coach": null,
       "score": "4-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1524,12 +1525,12 @@
       "classification": "4A",
       "champion_school": "Perry Hall",
       "champion_coach": "Matt Smoot",
-      "finalist_school": null,
+      "finalist_school": "Severna Park",
       "finalist_coach": null,
       "score": "1-0 (PKs)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1537,12 +1538,12 @@
       "classification": "3A",
       "champion_school": "Northern-Calvert",
       "champion_coach": "John P. Battle",
-      "finalist_school": null,
+      "finalist_school": "Wilde Lake",
       "finalist_coach": null,
       "score": "5-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1550,12 +1551,12 @@
       "classification": "2A",
       "champion_school": "Calvert",
       "champion_coach": "John Baker",
-      "finalist_school": null,
+      "finalist_school": "Middletown",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1563,12 +1564,12 @@
       "classification": "1A",
       "champion_school": "Patterson Mill",
       "champion_coach": "Mike Parker",
-      "finalist_school": null,
+      "finalist_school": "Loch Raven",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1576,12 +1577,12 @@
       "classification": "4A",
       "champion_school": "Walt Whitman",
       "champion_coach": "Greg Herbert",
-      "finalist_school": null,
+      "finalist_school": "Broadneck",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1589,12 +1590,12 @@
       "classification": "3A",
       "champion_school": "Mount Hebron",
       "champion_coach": "Tim Deppen",
-      "finalist_school": null,
+      "finalist_school": "River Hill",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1602,12 +1603,12 @@
       "classification": "2A",
       "champion_school": "Glenelg",
       "champion_coach": "Vicente D'Antuono",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1615,12 +1616,12 @@
       "classification": "1A",
       "champion_school": "Fallston",
       "champion_coach": "Madison Ferrara",
-      "finalist_school": null,
+      "finalist_school": "Brunswick",
       "finalist_coach": null,
       "score": "6-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1628,12 +1629,12 @@
       "classification": "4A",
       "champion_school": "Walt Whitman",
       "champion_coach": "Greg Herbert",
-      "finalist_school": null,
+      "finalist_school": "Quince Orchard",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1641,12 +1642,12 @@
       "classification": "3A",
       "champion_school": "Crofton",
       "champion_coach": "Travis Bonfigli",
-      "finalist_school": null,
+      "finalist_school": "Mount Hebron",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1654,12 +1655,12 @@
       "classification": "2A",
       "champion_school": "Century",
       "champion_coach": "Chris Little",
-      "finalist_school": null,
+      "finalist_school": "Glenelg",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1667,12 +1668,12 @@
       "classification": "1A",
       "champion_school": "Fallston",
       "champion_coach": "Jon Salbeck",
-      "finalist_school": null,
+      "finalist_school": "South Carroll",
       "finalist_coach": null,
       "score": "3-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1680,12 +1681,12 @@
       "classification": "4A",
       "champion_school": "Walt Whitman",
       "champion_coach": "Greg Herbert",
-      "finalist_school": null,
+      "finalist_school": "Montgomery Blair",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1693,12 +1694,12 @@
       "classification": "3A",
       "champion_school": "Severna Park",
       "champion_coach": "Rick Stimpson",
-      "finalist_school": null,
+      "finalist_school": "Mount Hebron",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1706,12 +1707,12 @@
       "classification": "2A",
       "champion_school": "Sparrows Point",
       "champion_coach": "Jonathan Wynne",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -1719,12 +1720,12 @@
       "classification": "1A",
       "champion_school": "Havre de Grace",
       "champion_coach": "Lea Cataggio",
-      "finalist_school": null,
+      "finalist_school": "Perryville",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     }
   ]
 }

@@ -92,9 +92,13 @@ CONTEST_SPORT_FINALIST_FLOOR = {
     "Boys Basketball": 0.80,
     "Boys Lacrosse": 0.80,
     "Girls Lacrosse": 0.80,
-    # remaining contest sports are added here as they are back-filled:
-    # Boys/Girls Soccer, Field Hockey, Volleyball, Girls Basketball,
-    # Baseball, Softball.
+    "Boys Soccer": 0.80,
+    "Girls Soccer": 0.80,
+    "Field Hockey": 0.80,
+    "Volleyball": 0.80,
+    "Girls Basketball": 0.80,
+    "Baseball": 0.80,
+    "Softball": 0.80,
 }
 FINALIST_WARN_ONLY = True
 

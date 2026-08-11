@@ -1,0 +1,199 @@
+{
+  "sport": "Boys Soccer",
+  "season": "fall",
+  "note": "Runner-up (finalist) schools for MPSSAA boys soccer state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Scope: the four-classification era 2018-2025 (no 2020 = COVID). Add entries year-by-year; keep sources.",
+  "entries": [
+    {
+      "year": "2018",
+      "classification": "1A",
+      "champion": "Patterson Mill",
+      "score": "3-0",
+      "finalist": "Loch Raven",
+      "source": "https://www.mpssaa.org/2018-state-soccer-champions-prevail-over-tough-elements-and-even-tougher-opponents/"
+    },
+    {
+      "year": "2018",
+      "classification": "2A",
+      "champion": "Oakdale",
+      "score": "2-1 (PKs)",
+      "finalist": "River Hill",
+      "source": "https://www.fredericknewspost.com/sports/level/high_school/bears-stand-up-to-penalty-kick-pressure-to-win-2a-boys-soccer-state-title/article_988af8ee-7f77-5e8d-8c60-cb1ea857c386.html"
+    },
+    {
+      "year": "2018",
+      "classification": "3A",
+      "champion": "C. Milton Wright",
+      "score": "2-1",
+      "finalist": "Magruder",
+      "source": "https://www.maxpreps.com/md/bel-air/c-milton-wright-mustangs/soccer/18-19/schedule/"
+    },
+    {
+      "year": "2018",
+      "classification": "4A",
+      "champion": "Walt Whitman",
+      "score": "2-1",
+      "finalist": "Urbana",
+      "source": "https://theblackandwhite.net/61674/sports/boys-soccer-captures-state-championship-2-1-over-urbana/"
+    },
+    {
+      "year": "2019",
+      "classification": "1A",
+      "champion": "Mountain Ridge",
+      "score": "3-0",
+      "finalist": "Francis Scott Key",
+      "source": "https://www.mpssaa.org/soccer-state-champions-kick-it-into-high-gear-to-earn-2019-titles/"
+    },
+    {
+      "year": "2019",
+      "classification": "2A",
+      "champion": "Century",
+      "score": "1-0",
+      "finalist": "La Plata",
+      "source": "https://www.mpssaa.org/soccer-state-champions-kick-it-into-high-gear-to-earn-2019-titles/"
+    },
+    {
+      "year": "2019",
+      "classification": "3A",
+      "champion": "Wilde Lake",
+      "score": "1-0",
+      "finalist": "C. Milton Wright",
+      "source": "https://www.mpssaa.org/soccer-state-champions-kick-it-into-high-gear-to-earn-2019-titles/"
+    },
+    {
+      "year": "2019",
+      "classification": "4A",
+      "champion": "Walt Whitman",
+      "score": "3-1",
+      "finalist": "Leonardtown",
+      "source": "https://theblackandwhite.net/66161/sports/boys-soccer-secures-back-to-back-state-championships-with-3-1-victory-over-leonardtown-raiders/"
+    },
+    {
+      "year": "2021",
+      "classification": "1A",
+      "champion": "Brunswick",
+      "score": "",
+      "finalist": "Fallston",
+      "source": "https://www.fredericknewspost.com/sports/level/high_school/right-on-the-money-malones-goal-late-in-overtime-gives-brunswick-boys-1a-state-title/article_f564dc93-5a0a-5685-a9ac-701bc811c78d.html"
+    },
+    {
+      "year": "2021",
+      "classification": "2A",
+      "champion": "Parkside",
+      "score": "",
+      "finalist": "Harford Technical",
+      "source": "https://www.mpssaa.org/2021-mpssaa-soccer-recap/"
+    },
+    {
+      "year": "2021",
+      "classification": "3A",
+      "champion": "James M. Bennett",
+      "score": "",
+      "finalist": "C. Milton Wright",
+      "source": "https://thegleaner.com/story/sports/high-school/2021/11/20/jmb-boys-soccer-team-wins-3-a-state-championship-c-milton-wright/8698830002/"
+    },
+    {
+      "year": "2021",
+      "classification": "4A",
+      "champion": "Northwestern",
+      "score": "",
+      "finalist": "Northwest",
+      "source": "https://www.washingtonpost.com/sports/2021/11/20/josue-guzman-northwestern-ride-sudden-surge-goals-maryland-4a-title/"
+    },
+    {
+      "year": "2022",
+      "classification": "1A",
+      "champion": "Brunswick",
+      "score": "3-0 (OT)",
+      "finalist": "Fallston",
+      "source": "https://www.baltimoresun.com/2022/11/19/brunswick-boys-soccer-beats-fallston-in-overtime-3-2-for-class-1a-state-championship/"
+    },
+    {
+      "year": "2022",
+      "classification": "2A",
+      "champion": "Glenelg",
+      "score": "2-0",
+      "finalist": "North Harford",
+      "source": "https://www.washingtonpost.com/sports/2022/11/18/glenelg-strikes-early-way-first-boys-soccer-title-since-1997/"
+    },
+    {
+      "year": "2022",
+      "classification": "3A",
+      "champion": "Tuscarora",
+      "score": "3-0",
+      "finalist": "Centennial",
+      "source": "https://www.washingtonpost.com/sports/2022/11/17/maryland-3a-final-centennial-boys-soccer-team-cant-keep-up-with-tuscarora/"
+    },
+    {
+      "year": "2022",
+      "classification": "4A",
+      "champion": "Bowie",
+      "score": "1-0",
+      "finalist": "Severna Park",
+      "source": "https://www.baltimoresun.com/2022/11/19/severna-park-boys-soccer-falls-to-bowie-1-0-in-class-4a-state-championship-game/"
+    },
+    {
+      "year": "2023",
+      "classification": "1A",
+      "champion": "Harford Technical",
+      "score": "2-0",
+      "finalist": "Allegany",
+      "source": "https://sports.yahoo.com/harford-tech-boys-soccer-takes-000300812.html"
+    },
+    {
+      "year": "2023",
+      "classification": "2A",
+      "champion": "Damascus",
+      "score": "3-1",
+      "finalist": "Century",
+      "source": "https://www.mpssaa.org/2023-mpssaa-soccer-state-championships-recap/"
+    },
+    {
+      "year": "2023",
+      "classification": "3A",
+      "champion": "South River",
+      "score": "5-1",
+      "finalist": "Towson",
+      "source": "https://www.capitalgazette.com/2023/11/18/south-river-boys-soccer-takes-charge-early-to-beat-towson-5-1-in-3a-final-for-first-state-title-since-1987/"
+    },
+    {
+      "year": "2023",
+      "classification": "4A",
+      "champion": "Leonardtown",
+      "score": "2-0 (4-2 PKs)",
+      "finalist": "Northwestern",
+      "source": "https://www.washingtonpost.com/sports/2023/11/17/leonardtown-boys-soccer-northwestern-maryland/"
+    },
+    {
+      "year": "2024",
+      "classification": "1A",
+      "champion": "Liberty",
+      "score": "2-1",
+      "finalist": "Brunswick",
+      "source": "https://www.fredericknewspost.com/sports/level/high_school/by-slimmest-of-margins-brunswick-boys-soccer-falls-to-liberty-on-pks-in-1a-state/article_1d20f5e5-b2bb-5adf-8040-a11d29e1787e.html"
+    },
+    {
+      "year": "2024",
+      "classification": "2A",
+      "champion": "C. Milton Wright",
+      "score": "1-0",
+      "finalist": "Parkside",
+      "source": "https://www.baltimoresun.com/2024/11/16/c-milton-wright-boys-soccer-class-2a-state-title/"
+    },
+    {
+      "year": "2024",
+      "classification": "3A",
+      "champion": "River Hill",
+      "score": "1-0 (5-3 PKs)",
+      "finalist": "Mount Hebron",
+      "source": "https://www.washingtonpost.com/sports/2024/11/14/river-hill-maryland-boys-soccer/"
+    },
+    {
+      "year": "2024",
+      "classification": "4A",
+      "champion": "Montgomery Blair",
+      "score": "1-0",
+      "finalist": "Richard Montgomery",
+      "source": "https://www.washingtonpost.com/sports/2024/11/15/blair-boys-soccer/"
+    }
+  ]
+}
