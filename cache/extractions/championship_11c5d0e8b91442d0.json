@@ -6,7 +6,8 @@
     "source_pages": [
       65
     ],
-    "extracted_at": "2026-08-02T13:25:06Z"
+    "extracted_at": "2026-08-02T13:25:06Z",
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -483,12 +484,12 @@
       "classification": "CLASS 4A",
       "champion_school": "Walt Whitman",
       "champion_coach": "Dave Greene",
-      "finalist_school": null,
+      "finalist_school": "Urbana",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -496,12 +497,12 @@
       "classification": "CLASS 3A",
       "champion_school": "C. Milton Wright",
       "champion_coach": "Brian Tully",
-      "finalist_school": null,
+      "finalist_school": "Magruder",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -509,12 +510,12 @@
       "classification": "CLASS 2A",
       "champion_school": "Oakdale",
       "champion_coach": "Mitch Rubin",
-      "finalist_school": null,
+      "finalist_school": "River Hill",
       "finalist_coach": null,
       "score": "2-1 (PKs)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -522,12 +523,12 @@
       "classification": "CLASS 1A",
       "champion_school": "Patterson Mill",
       "champion_coach": "Wes Rich",
-      "finalist_school": null,
+      "finalist_school": "Loch Raven",
       "finalist_coach": null,
       "score": "3-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -535,12 +536,12 @@
       "classification": "CLASS 4A",
       "champion_school": "Walt Whitman",
       "champion_coach": "Dave Greene",
-      "finalist_school": null,
+      "finalist_school": "Leonardtown",
       "finalist_coach": null,
       "score": "3-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -548,12 +549,12 @@
       "classification": "CLASS 3A",
       "champion_school": "Wilde Lake",
       "champion_coach": "Trevor Shea",
-      "finalist_school": null,
+      "finalist_school": "C. Milton Wright",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -561,12 +562,12 @@
       "classification": "CLASS 2A",
       "champion_school": "Century",
       "champion_coach": "Trey Howes",
-      "finalist_school": null,
+      "finalist_school": "La Plata",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -574,12 +575,12 @@
       "classification": "CLASS 1A",
       "champion_school": "Mountain Ridge",
       "champion_coach": "Tim Nightengale",
-      "finalist_school": null,
+      "finalist_school": "Francis Scott Key",
       "finalist_coach": null,
       "score": "3-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -587,12 +588,12 @@
       "classification": "CLASS 4A",
       "champion_school": "Northwestern",
       "champion_coach": "Victor Ramirez",
-      "finalist_school": null,
+      "finalist_school": "Northwest",
       "finalist_coach": null,
       "score": null,
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -600,12 +601,12 @@
       "classification": "CLASS 3A",
       "champion_school": "James M. Bennett",
       "champion_coach": "Gabe Kane",
-      "finalist_school": null,
+      "finalist_school": "C. Milton Wright",
       "finalist_coach": null,
       "score": null,
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -613,12 +614,12 @@
       "classification": "CLASS 2A",
       "champion_school": "Parkside",
       "champion_coach": "Blair Osborne",
-      "finalist_school": null,
+      "finalist_school": "Harford Technical",
       "finalist_coach": null,
       "score": null,
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -626,12 +627,12 @@
       "classification": "CLASS 1A",
       "champion_school": "Brunswick",
       "champion_coach": "Shawn Baker",
-      "finalist_school": null,
+      "finalist_school": "Fallston",
       "finalist_coach": null,
       "score": null,
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -639,12 +640,12 @@
       "classification": "CLASS 4A",
       "champion_school": "Bowie",
       "champion_coach": "Frantz Deetjen",
-      "finalist_school": null,
+      "finalist_school": "Severna Park",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -652,12 +653,12 @@
       "classification": "CLASS 3A",
       "champion_school": "Tuscarora",
       "champion_coach": "Todd Knepper",
-      "finalist_school": null,
+      "finalist_school": "Centennial",
       "finalist_coach": null,
       "score": "3-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -665,12 +666,12 @@
       "classification": "CLASS 2A",
       "champion_school": "Glenelg",
       "champion_coach": "Joey Osborne",
-      "finalist_school": null,
+      "finalist_school": "North Harford",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -678,12 +679,12 @@
       "classification": "CLASS 1A",
       "champion_school": "Brunswick",
       "champion_coach": "Shawn Baker",
-      "finalist_school": null,
+      "finalist_school": "Fallston",
       "finalist_coach": null,
       "score": "3-0 (OT)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -691,12 +692,12 @@
       "classification": "CLASS 4A",
       "champion_school": "Leonardtown",
       "champion_coach": "Luke Kokolios",
-      "finalist_school": null,
+      "finalist_school": "Northwestern",
       "finalist_coach": null,
       "score": "2-0 (4-2 PKs)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -704,12 +705,12 @@
       "classification": "CLASS 3A",
       "champion_school": "South River",
       "champion_coach": "Marlyn Argueta",
-      "finalist_school": null,
+      "finalist_school": "Towson",
       "finalist_coach": null,
       "score": "5-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -717,12 +718,12 @@
       "classification": "CLASS 2A",
       "champion_school": "Damascus",
       "champion_coach": "Stephen Pfeil",
-      "finalist_school": null,
+      "finalist_school": "Century",
       "finalist_coach": null,
       "score": "3-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -730,12 +731,12 @@
       "classification": "CLASS 1A",
       "champion_school": "Harford Technical",
       "champion_coach": "Mike Dempsey",
-      "finalist_school": null,
+      "finalist_school": "Allegany",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -743,12 +744,12 @@
       "classification": "CLASS 4A",
       "champion_school": "Montgomery Blair",
       "champion_coach": "Allie Coyle",
-      "finalist_school": null,
+      "finalist_school": "Richard Montgomery",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -756,12 +757,12 @@
       "classification": "CLASS 3A",
       "champion_school": "River Hill",
       "champion_coach": "Matt Shagogue",
-      "finalist_school": null,
+      "finalist_school": "Mount Hebron",
       "finalist_coach": null,
       "score": "1-0 (5-3 PKs)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -769,12 +770,12 @@
       "classification": "CLASS 2A",
       "champion_school": "C. Milton Wright",
       "champion_coach": "Eric Riedlbauer",
-      "finalist_school": null,
+      "finalist_school": "Parkside",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -782,12 +783,12 @@
       "classification": "CLASS 1A",
       "champion_school": "Liberty",
       "champion_coach": "Donnie Kwedar",
-      "finalist_school": null,
+      "finalist_school": "Brunswick",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     }
   ]
 }

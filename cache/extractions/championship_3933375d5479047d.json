@@ -7,7 +7,8 @@
       24,
       25
     ],
-    "extracted_at": "2026-08-02T20:22:35Z"
+    "extracted_at": "2026-08-02T20:22:35Z",
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -2135,12 +2136,12 @@
       "classification": "4A",
       "champion_school": "Severna Park",
       "champion_coach": "Meredith McAlister",
-      "finalist_school": null,
+      "finalist_school": "Northwest",
       "finalist_coach": null,
       "score": "13-0 (5 inns.)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2148,12 +2149,12 @@
       "classification": "3A",
       "champion_school": "Huntingtown",
       "champion_coach": "Michael Johnson",
-      "finalist_school": null,
+      "finalist_school": "Westminster",
       "finalist_coach": null,
       "score": "5-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2161,12 +2162,12 @@
       "classification": "2A",
       "champion_school": "La Plata",
       "champion_coach": "Tara Larkin",
-      "finalist_school": null,
+      "finalist_school": "Eastern Technical",
       "finalist_coach": null,
       "score": "3-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2174,12 +2175,12 @@
       "classification": "1A",
       "champion_school": "Bohemia Manor",
       "champion_coach": "Russ Morgan",
-      "finalist_school": null,
+      "finalist_school": "Catoctin",
       "finalist_coach": null,
       "score": "4-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2187,12 +2188,12 @@
       "classification": "4A",
       "champion_school": "Sherwood",
       "champion_coach": "Ashley Barber-Strunk",
-      "finalist_school": null,
+      "finalist_school": "Glen Burnie",
       "finalist_coach": null,
       "score": "8-7",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2200,12 +2201,12 @@
       "classification": "3A",
       "champion_school": "Huntingtown",
       "champion_coach": "Michael Johnson",
-      "finalist_school": null,
+      "finalist_school": "Chesapeake-AA",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2213,12 +2214,12 @@
       "classification": "2A",
       "champion_school": "La Plata",
       "champion_coach": "Tara Larkin",
-      "finalist_school": null,
+      "finalist_school": "Queen Anne's",
       "finalist_coach": null,
       "score": "9-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2226,12 +2227,12 @@
       "classification": "1A",
       "champion_school": "Bohemia Manor",
       "champion_coach": "Ed Abshagen",
-      "finalist_school": null,
+      "finalist_school": "Sparrows Point",
       "finalist_coach": null,
       "score": "8-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2239,12 +2240,12 @@
       "classification": "4A",
       "champion_school": "Catonsville",
       "champion_coach": "Paul Harris",
-      "finalist_school": null,
+      "finalist_school": "North County",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2252,12 +2253,12 @@
       "classification": "3A",
       "champion_school": "Chesapeake-AA",
       "champion_coach": "Don Ellenberger",
-      "finalist_school": null,
+      "finalist_school": "Reservoir",
       "finalist_coach": null,
       "score": "3-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2265,12 +2266,12 @@
       "classification": "2A",
       "champion_school": "Queen Anne's",
       "champion_coach": "Kim Betts",
-      "finalist_school": null,
+      "finalist_school": "Calvert",
       "finalist_coach": null,
       "score": "2-1 (8 inns.)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2278,12 +2279,12 @@
       "classification": "1A",
       "champion_school": "Patterson Mill",
       "champion_coach": "Jeff Horton",
-      "finalist_school": null,
+      "finalist_school": "Allegany",
       "finalist_coach": null,
       "score": "4-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2291,12 +2292,12 @@
       "classification": "4A",
       "champion_school": "Sherwood",
       "champion_coach": "Ashley Barber-Strunk",
-      "finalist_school": null,
+      "finalist_school": "Severna Park",
       "finalist_coach": null,
       "score": "21-5 (5 inns.)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2304,12 +2305,12 @@
       "classification": "3A",
       "champion_school": "Linganore",
       "champion_coach": "Andrea Poffinberger",
-      "finalist_school": null,
+      "finalist_school": "Chopticon",
       "finalist_coach": null,
       "score": "9-8 (8 inns.)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2317,12 +2318,12 @@
       "classification": "2A",
       "champion_school": "Calvert",
       "champion_coach": "Lauren Robison",
-      "finalist_school": null,
+      "finalist_school": "Rising Sun",
       "finalist_coach": null,
       "score": "5-4 (8 inns.)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2330,12 +2331,12 @@
       "classification": "1A",
       "champion_school": "Allegany",
       "champion_coach": "Dave Winner",
-      "finalist_school": null,
+      "finalist_school": "Patterson Mill",
       "finalist_coach": null,
       "score": "3-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2343,12 +2344,12 @@
       "classification": "4A",
       "champion_school": "Urbana",
       "champion_coach": "Frank Husson",
-      "finalist_school": null,
+      "finalist_school": "Dulaney",
       "finalist_coach": null,
       "score": "8-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2356,12 +2357,12 @@
       "classification": "3A",
       "champion_school": "Damascus",
       "champion_coach": "Lindsay Burns",
-      "finalist_school": null,
+      "finalist_school": "Reservoir",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2369,12 +2370,12 @@
       "classification": "2A",
       "champion_school": "Rising Sun",
       "champion_coach": "Paul Taylor",
-      "finalist_school": null,
+      "finalist_school": "Calvert",
       "finalist_coach": null,
       "score": "1-0 (8 inns.)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2382,12 +2383,12 @@
       "classification": "1A",
       "champion_school": "North Dorchester",
       "champion_coach": "Carol Hubbard",
-      "finalist_school": null,
+      "finalist_school": "Catoctin",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2395,12 +2396,12 @@
       "classification": "4A",
       "champion_school": "Leonardtown",
       "champion_coach": "Kimberly Schrader",
-      "finalist_school": null,
+      "finalist_school": "Eleanor Roosevelt",
       "finalist_coach": null,
       "score": "14-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2408,12 +2409,12 @@
       "classification": "3A",
       "champion_school": "Sherwood",
       "champion_coach": "Ashley Barber-Strunk",
-      "finalist_school": null,
+      "finalist_school": "Linganore",
       "finalist_coach": null,
       "score": "6-5 (8 inns.)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2421,12 +2422,12 @@
       "classification": "2A",
       "champion_school": "Rising Sun",
       "champion_coach": "Paul Taylor",
-      "finalist_school": null,
+      "finalist_school": "Huntingtown",
       "finalist_coach": null,
       "score": "4-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2434,12 +2435,12 @@
       "classification": "1A",
       "champion_school": "Allegany",
       "champion_coach": "Dave Winner",
-      "finalist_school": null,
+      "finalist_school": "Boonsboro",
       "finalist_coach": null,
       "score": "9-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2447,12 +2448,12 @@
       "classification": "4A",
       "champion_school": "Leonardtown",
       "champion_coach": "Kimberly Schrader",
-      "finalist_school": null,
+      "finalist_school": "Winston Churchill",
       "finalist_coach": null,
       "score": "5-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2460,12 +2461,12 @@
       "classification": "3A",
       "champion_school": "Chopticon",
       "champion_coach": "Woodburn Kevin Cioppa",
-      "finalist_school": null,
+      "finalist_school": "Sherwood",
       "finalist_coach": null,
       "score": "5-3",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2473,12 +2474,12 @@
       "classification": "2A",
       "champion_school": "Huntingtown",
       "champion_coach": "Mike Johnson",
-      "finalist_school": null,
+      "finalist_school": "Stephen Decatur",
       "finalist_coach": null,
       "score": "3-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Softball",
@@ -2486,12 +2487,12 @@
       "classification": "1A",
       "champion_school": "Mardela",
       "champion_coach": "Kory Shiles",
-      "finalist_school": null,
+      "finalist_school": "Catoctin",
       "finalist_coach": null,
       "score": "4-3",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     }
   ]
 }

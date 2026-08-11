@@ -1,0 +1,199 @@
+{
+  "sport": "Volleyball",
+  "season": "fall",
+  "note": "Runner-up (finalist) schools for MPSSAA volleyball state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Scope: the four-classification era 2018-2025 (no 2020 = COVID). Add entries year-by-year; keep sources.",
+  "entries": [
+    {
+      "year": "2018",
+      "classification": "1A",
+      "champion": "Clear Spring",
+      "score": "3-0",
+      "finalist": "Western Tech",
+      "source": "https://eu.amestrib.com/story/sports/2018/11/21/believe-this-blazers-state-champs/44512823/"
+    },
+    {
+      "year": "2018",
+      "classification": "2A",
+      "champion": "Williamsport",
+      "score": "3-0",
+      "finalist": "Glenelg",
+      "source": "https://www.mpssaa.org/precise-execution-and-teamwork-define-the-2018-state-volleyball-champions/"
+    },
+    {
+      "year": "2018",
+      "classification": "3A",
+      "champion": "Atholton",
+      "score": "3-0",
+      "finalist": "Bel Air",
+      "source": "https://www.nfhsnetwork.com/events/mpssaa/gam777dd20e1b"
+    },
+    {
+      "year": "2018",
+      "classification": "4A",
+      "champion": "Northwest",
+      "score": "3-0",
+      "finalist": "Urbana",
+      "source": "https://www.washingtonpost.com/sports/highschools/northwest-volleyball-scores-its-fourth-straight-maryland-4a-title-by-thumping-urbana/2018/11/19/09f03256-eb93-11e8-96d4-0d23f2aaad09_story.html"
+    },
+    {
+      "year": "2019",
+      "classification": "1A",
+      "champion": "Smithsburg",
+      "score": "3-0",
+      "finalist": "Patterson Mill",
+      "source": "http://www.mpssaa.org/2019-state-volleyball-champions-savor-the-hard-work-that-got-them-to-the-top/"
+    },
+    {
+      "year": "2019",
+      "classification": "2A",
+      "champion": "Century",
+      "score": "3-1",
+      "finalist": "Oakdale",
+      "source": "http://www.mpssaa.org/2019-state-volleyball-champions-savor-the-hard-work-that-got-them-to-the-top/"
+    },
+    {
+      "year": "2019",
+      "classification": "3A",
+      "champion": "Col. Zadok Magruder",
+      "score": "3-1",
+      "finalist": "Northern",
+      "source": "https://www.washingtonpost.com/sports/md-3a-volleyball-final-magruder-gets-first-state-title/2019/11/16/17582cd0-080e-11ea-924a-28d87132c7ec_story.html"
+    },
+    {
+      "year": "2019",
+      "classification": "4A",
+      "champion": "Arundel",
+      "score": "3-2",
+      "finalist": "Broadneck",
+      "source": "https://www.capitalgazette.com/2019/11/19/under-new-format-arundel-and-broadneck-produced-a-thrilling-volleyball-state-final/"
+    },
+    {
+      "year": "2021",
+      "classification": "1A",
+      "champion": "Williamsport",
+      "score": "3-0",
+      "finalist": "Mountain Ridge",
+      "source": "https://www.mpssaa.org/2021-mpssaa-volleyball-recap/"
+    },
+    {
+      "year": "2021",
+      "classification": "2A",
+      "champion": "Glenelg",
+      "score": "3-0",
+      "finalist": "Century",
+      "source": "https://www.mpssaa.org/2021-mpssaa-volleyball-recap/"
+    },
+    {
+      "year": "2021",
+      "classification": "3A",
+      "champion": "Reservoir",
+      "score": "3-1",
+      "finalist": "Huntingtown",
+      "source": "https://www.mpssaa.org/2021-mpssaa-volleyball-recap/"
+    },
+    {
+      "year": "2021",
+      "classification": "4A",
+      "champion": "Arundel",
+      "score": "3-0",
+      "finalist": "Leonardtown",
+      "source": "https://www.capitalgazette.com/2021/11/18/arundel-volleyball-defends-title-with-sweep-over-leonardtown-for-4a-state-championship/"
+    },
+    {
+      "year": "2022",
+      "classification": "1A",
+      "champion": "Clear Spring",
+      "score": "3-0",
+      "finalist": "South Carroll",
+      "source": "https://www.heraldmailmedia.com/story/sports/high-school/2022/11/17/clear-spring-sweeps-south-carroll-for-maryland-class-1a-volleyball-title/69656025007/"
+    },
+    {
+      "year": "2022",
+      "classification": "2A",
+      "champion": "Liberty",
+      "score": "3-1",
+      "finalist": "Middletown",
+      "source": "https://www.thebanner.com/sports/high-school/unbeaten-liberty-wins-class-2a-volleyball-state-title-VU4BYBGY6RFLLN3W35ORBFDSYI/"
+    },
+    {
+      "year": "2022",
+      "classification": "3A",
+      "champion": "North Hagerstown",
+      "score": "3-1",
+      "finalist": "Northern-Calvert",
+      "source": "https://www.mpssaa.org/check-here-for-your-2022-volleyball-state-champions/"
+    },
+    {
+      "year": "2022",
+      "classification": "4A",
+      "champion": "Urbana",
+      "score": "3-2",
+      "finalist": "Arundel",
+      "source": "https://www.capitalgazette.com/2022/11/17/arundel-volleyballs-quest-for-third-straight-title-ends-in-heartbreak-wildcats-lose-to-urbana-3-2-in-class-4a-final/"
+    },
+    {
+      "year": "2023",
+      "classification": "1A",
+      "champion": "Clear Spring",
+      "score": "3-2",
+      "finalist": "Smithsburg",
+      "source": "http://www.mpssaa.org/2023-volleyball-state-championships-recap/"
+    },
+    {
+      "year": "2023",
+      "classification": "2A",
+      "champion": "Centennial",
+      "score": "3-0",
+      "finalist": "Calvert",
+      "source": "https://www.baltimoresun.com/2023/11/18/centennial-volleyball-sweeps-calvert-in-2a-final-to-win-15th-state-title-and-first-since-2008/"
+    },
+    {
+      "year": "2023",
+      "classification": "3A",
+      "champion": "North Hagerstown",
+      "score": "3-0",
+      "finalist": "Arundel",
+      "source": "https://www.capitalgazette.com/2023/11/18/arundel-volleyball-loses-to-north-hagerstown-in-class-3a-state-championship-match-in-three-close-sets/"
+    },
+    {
+      "year": "2023",
+      "classification": "4A",
+      "champion": "Richard Montgomery",
+      "score": "3-1",
+      "finalist": "Leonardtown",
+      "source": "http://www.mpssaa.org/2023-volleyball-state-championships-recap/"
+    },
+    {
+      "year": "2024",
+      "classification": "1A",
+      "champion": "Boonsboro",
+      "score": "3-1",
+      "finalist": "Clear Spring",
+      "source": "https://sports.yahoo.com/boonsboro-williamsport-north-washington-county-090119935.html"
+    },
+    {
+      "year": "2024",
+      "classification": "2A",
+      "champion": "Williamsport",
+      "score": "3-1",
+      "finalist": "Centennial",
+      "source": "https://sports.yahoo.com/boonsboro-williamsport-north-washington-county-090119935.html"
+    },
+    {
+      "year": "2024",
+      "classification": "3A",
+      "champion": "North Hagerstown",
+      "score": "3-0",
+      "finalist": "Thomas S. Wootton",
+      "source": "https://sports.yahoo.com/boonsboro-williamsport-north-washington-county-090119935.html"
+    },
+    {
+      "year": "2024",
+      "classification": "4A",
+      "champion": "Richard Montgomery",
+      "score": "3-",
+      "finalist": "Broadneck",
+      "source": "https://www.washingtonpost.com/sports/2024/11/16/richard-montgomery-volleyball/"
+    }
+  ]
+}

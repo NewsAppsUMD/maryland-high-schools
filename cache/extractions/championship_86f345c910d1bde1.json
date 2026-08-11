@@ -7,7 +7,8 @@
       4,
       5
     ],
-    "extracted_at": "2026-08-02T19:25:37Z"
+    "extracted_at": "2026-08-02T19:25:37Z",
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -2408,12 +2409,12 @@
       "classification": "4A",
       "champion_school": "Eleanor Roosevelt",
       "champion_coach": "Delton Fuller",
-      "finalist_school": null,
+      "finalist_school": "Catonsville",
       "finalist_coach": null,
       "score": "60-56",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2421,12 +2422,12 @@
       "classification": "3A",
       "champion_school": "Frederick",
       "champion_coach": "Ashley Bush",
-      "finalist_school": null,
+      "finalist_school": "Long Reach",
       "finalist_coach": null,
       "score": "62-50",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2434,12 +2435,12 @@
       "classification": "2A",
       "champion_school": "Poolesville",
       "champion_coach": "Fred Swick",
-      "finalist_school": null,
+      "finalist_school": "Queen Anne's",
       "finalist_coach": null,
       "score": "63-23",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2447,12 +2448,12 @@
       "classification": "1A",
       "champion_school": "Southern-Garrett",
       "champion_coach": "Rodger Bowman",
-      "finalist_school": null,
+      "finalist_school": "Largo",
       "finalist_coach": null,
       "score": "52-48",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2460,12 +2461,12 @@
       "classification": "4A",
       "champion_school": "Charles H. Flowers",
       "champion_coach": "Roderick Hairston",
-      "finalist_school": null,
+      "finalist_school": "Old Mill",
       "finalist_coach": null,
       "score": "57-42",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2473,12 +2474,12 @@
       "classification": "3A",
       "champion_school": "Frederick",
       "champion_coach": "Ashley Bush",
-      "finalist_school": null,
+      "finalist_school": "Baltimore Poly. Inst.",
       "finalist_coach": null,
       "score": "58-44",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2486,12 +2487,12 @@
       "classification": "2A",
       "champion_school": "River Hill",
       "champion_coach": "Teresa Waters",
-      "finalist_school": null,
+      "finalist_school": "Middletown",
       "finalist_coach": null,
       "score": "44-39",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2499,12 +2500,12 @@
       "classification": "1A",
       "champion_school": "Pikesville",
       "champion_coach": "Michael Dukes",
-      "finalist_school": null,
+      "finalist_school": "Smithsburg",
       "finalist_coach": null,
       "score": "61-31",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2512,12 +2513,12 @@
       "classification": "4A",
       "champion_school": "Western",
       "champion_coach": "Latasha Townsend",
-      "finalist_school": null,
+      "finalist_school": "Clarksburg",
       "finalist_coach": null,
       "score": "81-68",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2525,12 +2526,12 @@
       "classification": "3A",
       "champion_school": "Baltimore Poly. Inst.",
       "champion_coach": "Kendall Peace-Able",
-      "finalist_school": null,
+      "finalist_school": "Howard",
       "finalist_coach": null,
       "score": "60-37",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2538,12 +2539,12 @@
       "classification": "2A",
       "champion_school": "Fallston",
       "champion_coach": "Johnny Woods",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
       "score": "57-56 OT",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2551,12 +2552,12 @@
       "classification": "1A",
       "champion_school": "Pikesville",
       "champion_coach": "Michael Dukes",
-      "finalist_school": null,
+      "finalist_school": "Catoctin",
       "finalist_coach": null,
       "score": "51-42",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2564,12 +2565,12 @@
       "classification": "4A",
       "champion_school": "Glen Burnie",
       "champion_coach": "Sam Porter",
-      "finalist_school": null,
+      "finalist_school": "Winston Churchill",
       "finalist_coach": null,
       "score": "43-40",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2577,12 +2578,12 @@
       "classification": "3A",
       "champion_school": "Howard",
       "champion_coach": "Scott Robinson",
-      "finalist_school": null,
+      "finalist_school": "Baltimore Poly. Inst.",
       "finalist_coach": null,
       "score": "64-52",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2590,12 +2591,12 @@
       "classification": "2A",
       "champion_school": "Henry E. Lackey",
       "champion_coach": "Jo-nel Barnes",
-      "finalist_school": null,
+      "finalist_school": "Kent Island",
       "finalist_coach": null,
       "score": "53-33",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2603,12 +2604,12 @@
       "classification": "1A",
       "champion_school": "Pikesville",
       "champion_coach": "Michael Dukes",
-      "finalist_school": null,
+      "finalist_school": "Mountain Ridge",
       "finalist_coach": null,
       "score": "38-33",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2616,12 +2617,12 @@
       "classification": "4A",
       "champion_school": "Clarksburg",
       "champion_coach": "Sissy Natoli",
-      "finalist_school": null,
+      "finalist_school": "Bethesda-Chevy Chase",
       "finalist_coach": null,
       "score": "43-36",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2629,12 +2630,12 @@
       "classification": "3A",
       "champion_school": "Baltimore Poly. Inst.",
       "champion_coach": "Kendall Peace-Able",
-      "finalist_school": null,
+      "finalist_school": "Oakdale",
       "finalist_coach": null,
       "score": "45-18",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2642,12 +2643,12 @@
       "classification": "2A",
       "champion_school": "Hammond",
       "champion_coach": "Ayanna Jones",
-      "finalist_school": null,
+      "finalist_school": "Francis Scott Key",
       "finalist_coach": null,
       "score": "65-46",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2655,12 +2656,12 @@
       "classification": "1A",
       "champion_school": "Pikesville",
       "champion_coach": "Michael Dukes",
-      "finalist_school": null,
+      "finalist_school": "Southern-Garrett",
       "finalist_coach": null,
       "score": "48-39",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2668,12 +2669,12 @@
       "classification": "4A",
       "champion_school": "North Point",
       "champion_coach": "Michael Serpone, II",
-      "finalist_school": null,
+      "finalist_school": "Western",
       "finalist_coach": null,
       "score": "61-30",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2681,12 +2682,12 @@
       "classification": "3A",
       "champion_school": "South River",
       "champion_coach": "Mike Zivic",
-      "finalist_school": null,
+      "finalist_school": "Oakland Mills",
       "finalist_coach": null,
       "score": "56-45",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2694,12 +2695,12 @@
       "classification": "2A",
       "champion_school": "Francis Scott Key",
       "champion_coach": "Mitchell Walther",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
       "score": "44-39",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Basketball",
@@ -2707,12 +2708,12 @@
       "classification": "1A",
       "champion_school": "Pikesville",
       "champion_coach": "Michael Dukes",
-      "finalist_school": null,
+      "finalist_school": "Southern-Garrett",
       "finalist_coach": null,
       "score": "67-62",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     }
   ]
 }

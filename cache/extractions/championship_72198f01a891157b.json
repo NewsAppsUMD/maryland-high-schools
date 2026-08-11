@@ -6,7 +6,8 @@
     "source_pages": [
       57
     ],
-    "extracted_at": "2026-08-02T14:33:52Z"
+    "extracted_at": "2026-08-02T14:33:52Z",
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -15,12 +16,12 @@
       "classification": "4A",
       "champion_school": "Walt Whitman",
       "champion_coach": "Greg Herbert",
-      "finalist_school": null,
+      "finalist_school": "Crofton",
       "finalist_coach": null,
       "score": "3-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -28,12 +29,12 @@
       "classification": "3A",
       "champion_school": "Severna Park",
       "champion_coach": "Rick Simpson",
-      "finalist_school": null,
+      "finalist_school": "Towson",
       "finalist_coach": null,
       "score": "4-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -41,12 +42,12 @@
       "classification": "2A",
       "champion_school": "Queen Anne's",
       "champion_coach": "MIke Kern",
-      "finalist_school": null,
+      "finalist_school": "C. Milton Wright",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Girls Soccer",
@@ -54,12 +55,12 @@
       "classification": "1A",
       "champion_school": "Liberty",
       "champion_coach": "Danielle Prietz",
-      "finalist_school": null,
+      "finalist_school": "Mardela",
       "finalist_coach": null,
       "score": "3-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     }
   ]
 }

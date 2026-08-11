@@ -7,7 +7,8 @@
       5,
       6
     ],
-    "extracted_at": "2026-08-02T20:04:15Z"
+    "extracted_at": "2026-08-02T20:04:15Z",
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -1405,7 +1406,9 @@
       "classification": "4A",
       "champion_school": "Howard",
       "champion_coach": "Nick Hoffner",
-      "score": "5-4"
+      "score": "5-4",
+      "finalist_school": "Severna Park",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1413,7 +1416,9 @@
       "classification": "3A",
       "champion_school": "Gov. Thomas Johnson",
       "champion_coach": "Billy Gross",
-      "score": "3-2"
+      "score": "3-2",
+      "finalist_school": "Huntingtown",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1421,7 +1426,9 @@
       "classification": "2A",
       "champion_school": "Century",
       "champion_coach": "Michael Marrale",
-      "score": "4-1"
+      "score": "4-1",
+      "finalist_school": "La Plata",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1429,7 +1436,9 @@
       "classification": "1A",
       "champion_school": "Boonsboro",
       "champion_coach": "Steve Mason",
-      "score": "12-9 (9)"
+      "score": "12-9 (9)",
+      "finalist_school": "St. Michaels",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1437,7 +1446,9 @@
       "classification": "4A",
       "champion_school": "Old Mill",
       "champion_coach": "Charlie Chaffin",
-      "score": "4-3 (9)"
+      "score": "4-3 (9)",
+      "finalist_school": "Sherwood",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1445,7 +1456,9 @@
       "classification": "3A",
       "champion_school": "James M. Bennett",
       "champion_coach": "Jay Fenoglietto & Jesse Serig",
-      "score": "5-3"
+      "score": "5-3",
+      "finalist_school": "C. Milton Wright",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1453,7 +1466,9 @@
       "classification": "2A",
       "champion_school": "La Plata",
       "champion_coach": "John Childers",
-      "score": "4-2"
+      "score": "4-2",
+      "finalist_school": "Middletown",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1462,7 +1477,9 @@
       "champion_school": "Col. Richardson",
       "champion_coach": "Dan Mangum",
       "score": "6-0 (9)",
-      "champion_undefeated": true
+      "champion_undefeated": true,
+      "finalist_school": "McDonough",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1471,7 +1488,9 @@
       "champion_school": "Sherwood",
       "champion_coach": "Sean Davis",
       "score": "5-4 (8)",
-      "champion_undefeated": true
+      "champion_undefeated": true,
+      "finalist_school": "Severna Park",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1479,7 +1498,9 @@
       "classification": "3A",
       "champion_school": "Chopticon",
       "champion_coach": "Raymond Sapp",
-      "score": "4-2"
+      "score": "4-2",
+      "finalist_school": "Atholton",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1487,7 +1508,9 @@
       "classification": "2A",
       "champion_school": "La Plata",
       "champion_coach": "John Childers",
-      "score": "8-7"
+      "score": "8-7",
+      "finalist_school": "Sparrows Point",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1495,7 +1518,9 @@
       "classification": "1A",
       "champion_school": "Catoctin",
       "champion_coach": "Mike Franklin",
-      "score": "10-3"
+      "score": "10-3",
+      "finalist_school": "St. Michaels",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1503,7 +1528,9 @@
       "classification": "4A",
       "champion_school": "Sherwood",
       "champion_coach": "Sean Davis",
-      "score": "11-0 (5)"
+      "score": "11-0 (5)",
+      "finalist_school": "Severna Park",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1511,7 +1538,9 @@
       "classification": "3A",
       "champion_school": "Chesapeake-AA",
       "champion_coach": "Jeff Young",
-      "score": "5-1"
+      "score": "5-1",
+      "finalist_school": "Towson",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1519,7 +1548,9 @@
       "classification": "2A",
       "champion_school": "Glenelg",
       "champion_coach": "Steve Tiffany",
-      "score": "4-1"
+      "score": "4-1",
+      "finalist_school": "Patuxent",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1527,7 +1558,9 @@
       "classification": "1A",
       "champion_school": "Clear Spring",
       "champion_coach": "Mark Shives",
-      "score": "11-3"
+      "score": "11-3",
+      "finalist_school": "Col. Richardson",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1535,7 +1568,9 @@
       "classification": "4A",
       "champion_school": "Sherwood",
       "champion_coach": "Sean Davis",
-      "score": "7-4"
+      "score": "7-4",
+      "finalist_school": "Urbana",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1543,7 +1578,9 @@
       "classification": "3A",
       "champion_school": "River Hill",
       "champion_coach": "Craig Estrin",
-      "score": "1-0"
+      "score": "1-0",
+      "finalist_school": "C. Milton Wright",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1551,7 +1588,9 @@
       "classification": "2A",
       "champion_school": "Parkside",
       "champion_coach": "Kyle Daubert",
-      "score": "3-1"
+      "score": "3-1",
+      "finalist_school": "Patuxent",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1559,7 +1598,9 @@
       "classification": "1A",
       "champion_school": "Clear Spring",
       "champion_coach": "Brandon Glazer",
-      "score": "3-2 (11)"
+      "score": "3-2 (11)",
+      "finalist_school": "Col. Richardson",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1567,7 +1608,9 @@
       "classification": "4A",
       "champion_school": "Leonardtown",
       "champion_coach": "Austin Guy",
-      "score": "2-0"
+      "score": "2-0",
+      "finalist_school": "Walt Whitman",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1575,7 +1618,9 @@
       "classification": "3A",
       "champion_school": "Col. Zadok Magruder",
       "champion_coach": "Josh Creighton",
-      "score": "4-0"
+      "score": "4-0",
+      "finalist_school": "Chesapeake-AA",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1583,7 +1628,9 @@
       "classification": "2A",
       "champion_school": "Middletown",
       "champion_coach": "Andy Baker",
-      "score": "6-5"
+      "score": "6-5",
+      "finalist_school": "Glenelg",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1591,7 +1638,9 @@
       "classification": "1A",
       "champion_school": "Brunswick",
       "champion_coach": "Roger Dawson",
-      "score": "4-1"
+      "score": "4-1",
+      "finalist_school": "Patterson Mill",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1599,7 +1648,9 @@
       "classification": "4A",
       "champion_school": "Walter Johnson",
       "champion_coach": "Steve Sutherland",
-      "score": "7-6"
+      "score": "7-6",
+      "finalist_school": "Urbana",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1607,7 +1658,9 @@
       "classification": "3A",
       "champion_school": "Sherwood",
       "champion_coach": "Sean Davis",
-      "score": "8-3"
+      "score": "8-3",
+      "finalist_school": "Chopticon",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1615,7 +1668,9 @@
       "classification": "2A",
       "champion_school": "Huntingtown",
       "champion_coach": "Guy Smith",
-      "score": "1-0"
+      "score": "1-0",
+      "finalist_school": "Parkside",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Baseball",
@@ -1623,7 +1678,9 @@
       "classification": "1A",
       "champion_school": "Allegany",
       "champion_coach": "Jon Irons",
-      "score": "6-2"
+      "score": "6-2",
+      "finalist_school": "St. Michaels",
+      "notes": "finalist:recap-verified"
     }
   ]
 }
