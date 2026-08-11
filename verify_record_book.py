@@ -90,9 +90,11 @@ ERA_FLOORS = {
 CONTEST_SPORT_FINALIST_FLOOR = {
     "Football": 0.80,
     "Boys Basketball": 0.80,
+    "Boys Lacrosse": 0.80,
+    "Girls Lacrosse": 0.80,
     # remaining contest sports are added here as they are back-filled:
     # Boys/Girls Soccer, Field Hockey, Volleyball, Girls Basketball,
-    # Baseball, Boys/Girls Lacrosse, Softball.
+    # Baseball, Softball.
 }
 FINALIST_WARN_ONLY = True
 
