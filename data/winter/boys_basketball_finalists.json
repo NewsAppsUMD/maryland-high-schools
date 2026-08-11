@@ -1,0 +1,51 @@
+{
+  "sport": "Boys Basketball",
+  "season": "winter",
+  "note": "Runner-up (finalist) schools for MPSSAA boys basketball state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Add entries year-by-year; keep sources. Note: no 2020/2021 state tournament (COVID).",
+  "entries": [
+    {"year": "2015", "classification": "4A", "champion": "Meade",                   "score": "80-45",   "finalist": "Bethesda-Chevy Chase", "source": "https://www.mpssaa.org/mobile/2015-state-basketball-titles-are-hard-earned/?F_All=y"},
+    {"year": "2015", "classification": "3A", "champion": "Centennial",              "score": "57-43",   "finalist": "Westlake",             "source": "https://www.mpssaa.org/mobile/2015-state-basketball-titles-are-hard-earned/?F_All=y"},
+    {"year": "2015", "classification": "2A", "champion": "Oakland Mills",           "score": "64-55",   "finalist": "Patterson",            "source": "https://www.mpssaa.org/mobile/2015-state-basketball-titles-are-hard-earned/?F_All=y"},
+    {"year": "2015", "classification": "1A", "champion": "New Town",                "score": "55-51",   "finalist": "Lake Clifton",         "source": "https://www.mpssaa.org/mobile/2015-state-basketball-titles-are-hard-earned/?F_All=y"},
+
+    {"year": "2016", "classification": "4A", "champion": "Eleanor Roosevelt",      "score": "72-39",   "finalist": "Meade",                "source": "https://www.mpssaa.org/2016-boys-state-basketball-semifinal--final-game-statistics/"},
+    {"year": "2016", "classification": "3A", "champion": "C. Milton Wright",       "score": "51-49 OT","finalist": "Stephen Decatur",      "source": "https://www.mpssaa.org/2016-boys-state-basketball-semifinal--final-game-statistics/"},
+    {"year": "2016", "classification": "2A", "champion": "New Town",               "score": "56-52",   "finalist": "Middletown",           "source": "https://www.mpssaa.org/2016-boys-state-basketball-semifinal--final-game-statistics/"},
+    {"year": "2016", "classification": "1A", "champion": "Pocomoke",               "score": "64-56",   "finalist": "Lake Clifton",         "source": "https://www.mpssaa.org/2016-boys-state-basketball-semifinal--final-game-statistics/"},
+
+    {"year": "2017", "classification": "4A", "champion": "Perry Hall",             "score": "59-56 OT","finalist": "Quince Orchard",       "source": "http://www.mpssaa.org/2017-boys-basketball-state-semifinal-and-final-game-stats/"},
+    {"year": "2017", "classification": "3A", "champion": "Baltimore Polytechnic",  "score": "64-63",   "finalist": "Potomac",              "source": "http://www.mpssaa.org/2017-boys-basketball-state-semifinal-and-final-game-stats/"},
+    {"year": "2017", "classification": "2A", "champion": "Patterson",              "score": "49-43",   "finalist": "Century",              "source": "http://www.mpssaa.org/2017-boys-basketball-state-semifinal-and-final-game-stats/"},
+    {"year": "2017", "classification": "1A", "champion": "Fairmont Heights",       "score": "65-52",   "finalist": "Edmondson/Westside",   "source": "http://www.mpssaa.org/2017-boys-basketball-state-semifinal-and-final-game-stats/"},
+
+    {"year": "2018", "classification": "4A", "champion": "Perry Hall",             "score": "56-52",   "finalist": "Bladensburg",          "source": "http://www.mpssaa.org/hardwood-titles-are-hard-earned-for-2018-state-basketball-champions/"},
+    {"year": "2018", "classification": "3A", "champion": "Baltimore Polytechnic",  "score": "49-47",   "finalist": "Milford Mill",         "source": "http://www.mpssaa.org/hardwood-titles-are-hard-earned-for-2018-state-basketball-champions/"},
+    {"year": "2018", "classification": "2A", "champion": "Lake Clifton",           "score": "63-55",   "finalist": "North Caroline",       "source": "http://www.mpssaa.org/hardwood-titles-are-hard-earned-for-2018-state-basketball-champions/"},
+    {"year": "2018", "classification": "1A", "champion": "Paul Laurence Dunbar",   "score": "59-48",   "finalist": "Fairmont Heights",     "source": "http://www.mpssaa.org/hardwood-titles-are-hard-earned-for-2018-state-basketball-champions/"},
+
+    {"year": "2019", "classification": "4A", "champion": "Eleanor Roosevelt",      "score": "77-48",   "finalist": "Broadneck",            "source": "http://www.mpssaa.org/hoop-dreams-become-reality-for-2019-state-basketball-champions/"},
+    {"year": "2019", "classification": "3A", "champion": "Baltimore Polytechnic",  "score": "69-41",   "finalist": "Reservoir",            "source": "http://www.mpssaa.org/hoop-dreams-become-reality-for-2019-state-basketball-champions/"},
+    {"year": "2019", "classification": "2A", "champion": "Patterson",              "score": "79-56",   "finalist": "Wicomico",             "source": "http://www.mpssaa.org/hoop-dreams-become-reality-for-2019-state-basketball-champions/"},
+    {"year": "2019", "classification": "1A", "champion": "Lake Clifton",           "score": "64-46",   "finalist": "Southern-Garrett",     "source": "http://www.mpssaa.org/hoop-dreams-become-reality-for-2019-state-basketball-champions/"},
+
+    {"year": "2022", "classification": "4A", "champion": "Eleanor Roosevelt",      "score": "54-49 2OT","finalist": "Winston Churchill",   "source": "https://www.mpssaa.org/mobile/2022-mpssaa-basketball-recap/?F_All=y"},
+    {"year": "2022", "classification": "3A", "champion": "Oakdale",                "score": "61-40",   "finalist": "Huntingtown",          "source": "https://www.mpssaa.org/mobile/2022-mpssaa-basketball-recap/?F_All=y"},
+    {"year": "2022", "classification": "2A", "champion": "Westlake",               "score": "63-61",   "finalist": "Frederick Douglass-PG","source": "https://www.mpssaa.org/mobile/2022-mpssaa-basketball-recap/?F_All=y"},
+    {"year": "2022", "classification": "1A", "champion": "Lake Clifton",           "score": "60-46",   "finalist": "Edmondson/Westside",   "source": "https://www.mpssaa.org/mobile/2022-mpssaa-basketball-recap/?F_All=y"},
+
+    {"year": "2023", "classification": "4A", "champion": "Parkville",              "score": "72-56",   "finalist": "Meade",                "source": "https://www.mpssaa.org/mobile/2023-basketball-state-championships/"},
+    {"year": "2023", "classification": "3A", "champion": "Baltimore City College", "score": "67-54",   "finalist": "Damascus",             "source": "https://www.mpssaa.org/mobile/2023-basketball-state-championships/"},
+    {"year": "2023", "classification": "2A", "champion": "New Town",               "score": "64-57",   "finalist": "Largo",                "source": "https://www.mpssaa.org/mobile/2023-basketball-state-championships/"},
+    {"year": "2023", "classification": "1A", "champion": "Edmondson/Westside",     "score": "56-48",   "finalist": "Lake Clifton",         "source": "https://www.mpssaa.org/mobile/2023-basketball-state-championships/"},
+
+    {"year": "2024", "classification": "4A", "champion": "Frederick",              "score": "74-49",   "finalist": "Walt Whitman",         "source": "https://www.mpssaa.org/reaching-the-top-is-sweet-for-state-champs/"},
+    {"year": "2024", "classification": "3A", "champion": "Northeast-AA",           "score": "69-66",   "finalist": "St. Charles",          "source": "https://www.si.com/high-school/maryland/2024/03/16/cam-albury-carriers-northeast-aa-to-its-first-mpssaa-state-championship"},
+    {"year": "2024", "classification": "2A", "champion": "Largo",                  "score": "66-52",   "finalist": "Carver Vo-Tech",       "source": "https://www.si.com/high-school/maryland/2024/03/17/cam-ward-powers-largo-to-mpssaa-2a-boys-basketball-state-championship"},
+    {"year": "2024", "classification": "1A", "champion": "Edmondson/Westside",     "score": "69-65",   "finalist": "Cambridge-S. Dorchester","source": "https://www.mpssaa.org/reaching-the-top-is-sweet-for-state-champs/"},
+
+    {"year": "2025", "classification": "4A", "champion": "Laurel",                 "score": "68-53",   "finalist": "Walt Whitman",         "source": "https://prephoops.com/2025/03/mpssa-4a-championship-laurel-68-walt-whitman-53/"},
+    {"year": "2025", "classification": "3A", "champion": "Baltimore City College", "score": "70-61",   "finalist": "Sherwood",             "source": "https://www.si.com/high-school/maryland/ity-college-and-laurel-rally-for-epic-wins-in-maryland-state-basketball-championships-01jpg38e398y"},
+    {"year": "2025", "classification": "2A", "champion": "Largo",                  "score": "50-48",   "finalist": "New Town",             "source": "https://www.washingtonpost.com/sports/2025/03/14/largo-basketball-cam-ward/"},
+    {"year": "2025", "classification": "1A", "champion": "Cambridge-S. Dorchester","score": "36-33 OT","finalist": "SEED School",          "source": "https://www.si.com/high-school/maryland/watch-cambridge-south-dorchester-and-largo-capture-maryland-state-titles-in-thrilling-fashion-01jpd6q40cw8"}
+  ]
+}
