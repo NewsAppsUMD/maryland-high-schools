@@ -18,6 +18,7 @@ C. M. Wright,C. Milton Wright
 C.M. Wright,C. Milton Wright
 E. Roosevelt,Eleanor Roosevelt
 R. Montgomery,Richard Montgomery
+Balt. Polytechnic Institute,Baltimore Polytechnic Institute
 Balto. Polytechnic,Baltimore Polytechnic Institute
 Baltimore Polytechnic,Baltimore Polytechnic Institute
 Baltimore Poly. Inst.,Baltimore Polytechnic Institute
@@ -42,6 +43,7 @@ Stephen Dacatur,Stephen Decatur
 Northen-Cal,Northern-Cal
 J. M. Bennett,James M. Bennett
 LaPlata,La Plata
+Eastern Tech,Eastern Technical
 Eastern Vo-Tech,Eastern Technical
 Northern-Cal,Northern-Calvert
 Northern (Calvert Co.),Northern-Calvert
@@ -58,6 +60,7 @@ El. Roosevelt,Eleanor Roosevelt
 Queen Anne,Queen Anne's
 Queen Anne',Queen Anne's
 Surrattsvile,Surrattsville
+North Caroliine,North Caroline
 Catotin,Catoctin
 Farimont Heights,Fairmont Heights
 Harford Technincal,Harford Technical
@@ -107,6 +110,15 @@ Merganthaler Vocational-Technical,Mergenthaler
 Northern Garrett Huskies,Northern Garrett
 
 # --- Same school, two registry spellings (merge + canonical display) ---
+Milford Mill Academy,Milford Mill
+CMIT North,Chesapeake Math & IT
+Ches. Math & IT-North,Chesapeake Math & IT
+Southside Academy,Southside
+Calvert County,Calvert
+Havre de Grace Consolidated,Havre de Grace
+Lake Clifton,Lake Clifton/Eastern
+Dunbar,Paul Laurence Dunbar
+Edmondson,Edmondson-Westside
 Thomas Wootton,Thomas S. Wootton
 Thomas S. Wooton,Thomas S. Wootton
 Thomas Johnson,Gov. Thomas Johnson
