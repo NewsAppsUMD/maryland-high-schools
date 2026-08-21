@@ -1,0 +1,199 @@
+{
+  "sport": "Girls Soccer",
+  "season": "fall",
+  "note": "Runner-up (finalist) schools for MPSSAA girls soccer state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Scope: the four-classification era 2018-2025 (no 2020 = COVID). Add entries year-by-year; keep sources.",
+  "entries": [
+    {
+      "year": "2018",
+      "classification": "1A",
+      "champion": "Sparrows Point",
+      "score": "4-2",
+      "finalist": "Smithsburg",
+      "source": "https://www.mpssaa.org/2018-state-soccer-champions-prevail-over-tough-elements-and-even-tougher-opponents/"
+    },
+    {
+      "year": "2018",
+      "classification": "2A",
+      "champion": "River Hill",
+      "score": "1-0",
+      "finalist": "Walkersville",
+      "source": "https://www.washingtonpost.com/sports/river-hill-girls-soccer-holds-on-for-third-straight-state-championship/2018/11/16/f737b92a-e9d7-11e8-a939-9469f1166f9d_story.html"
+    },
+    {
+      "year": "2018",
+      "classification": "3A",
+      "champion": "Northern-Calvert",
+      "score": "4-1",
+      "finalist": "Thomas Johnson",
+      "source": "https://www.somdnews.com/recorder/spotlight/northern-girls-soccer-surges-past-thomas-johnson-to-win-first-state-title/article_1f3c1f7f-0ba0-5c21-b35b-c4a194404502.html"
+    },
+    {
+      "year": "2018",
+      "classification": "4A",
+      "champion": "Perry Hall",
+      "score": "4-2",
+      "finalist": "Walt Whitman",
+      "source": "https://www.washingtonpost.com/sports/highschools/whitman-girls-soccer-comes-up-short-in-unexpectedly-high-scoring-state-final/2018/11/16/7d39de1e-e9d7-11e8-bbdb-72fdbf9d4fed_story.html"
+    },
+    {
+      "year": "2019",
+      "classification": "1A",
+      "champion": "Patterson Mill",
+      "score": "1-0",
+      "finalist": "Loch Raven",
+      "source": "https://www.nfhsnetwork.com/events/mpssaa/gam5d5a160f95"
+    },
+    {
+      "year": "2019",
+      "classification": "2A",
+      "champion": "Calvert",
+      "score": "2-1",
+      "finalist": "Middletown",
+      "source": "https://www.somdnews.com/recorder/spotlight/calvert-girls-soccer-wins-2a-state-title-over-middletown-on-lewis-double-overtime-goal/article_84b7997c-c72b-5102-be89-a847c20a185b.html"
+    },
+    {
+      "year": "2019",
+      "classification": "3A",
+      "champion": "Northern-Calvert",
+      "score": "5-0",
+      "finalist": "Wilde Lake",
+      "source": "https://www.somdnews.com/recorder/spotlight/northern-girls-soccer-captures-second-straight-3a-state-title/article_4dabbf47-c12c-5854-b9ae-2e6cf26ac9d3.html"
+    },
+    {
+      "year": "2019",
+      "classification": "4A",
+      "champion": "Perry Hall",
+      "score": "1-0 (PKs)",
+      "finalist": "Severna Park",
+      "source": "https://patch.com/maryland/perryhall/mpssaa-girls-soccer-championship-perry-hall-vs-severna-park"
+    },
+    {
+      "year": "2021",
+      "classification": "1A",
+      "champion": "Fallston",
+      "score": "6-0",
+      "finalist": "Brunswick",
+      "source": "https://www.baltimoresun.com/2021/11/18/no-7-fallston-girls-soccer-caps-unbeaten-season-with-6-0-win-over-brunswick-in-class-1a-state-final/"
+    },
+    {
+      "year": "2021",
+      "classification": "2A",
+      "champion": "Glenelg",
+      "score": "2-1",
+      "finalist": "Hereford",
+      "source": "https://www.baltimoresun.com/2021/11/20/stephanie-lathrops-28th-goal-of-the-season-lifts-no-9-glenelg-girls-soccer-past-hereford-2-1-for-class-2a-state-crown/"
+    },
+    {
+      "year": "2021",
+      "classification": "3A",
+      "champion": "Mount Hebron",
+      "score": "1-0",
+      "finalist": "River Hill",
+      "source": "https://www.washingtonpost.com/sports/2021/11/19/mount-hebron-takes-down-vaunted-river-hill-its-first-gilrs-soccer-state-title/"
+    },
+    {
+      "year": "2021",
+      "classification": "4A",
+      "champion": "Walt Whitman",
+      "score": "2-1",
+      "finalist": "Broadneck",
+      "source": "https://www.capitalgazette.com/2021/11/21/broadneck-girls-soccer-falls-goal-short-against-walt-whitman-in-class-4a-state-final/"
+    },
+    {
+      "year": "2022",
+      "classification": "1A",
+      "champion": "Fallston",
+      "score": "3-2",
+      "finalist": "South Carroll",
+      "source": "https://www.baltimoresun.com/2022/11/19/behind-katherine-king-fallston-girls-soccer-repeats-as-class-1a-state-champion-with-3-2-win-over-south-carroll/"
+    },
+    {
+      "year": "2022",
+      "classification": "2A",
+      "champion": "Century",
+      "score": "1-0",
+      "finalist": "Glenelg",
+      "source": "https://www.thebanner.com/sports/century-clips-no-8-glenelg-for-state-2a-girls-soccer-title-QHVUCDJHOBAZXHDYM7Q7TMQ5KM/"
+    },
+    {
+      "year": "2022",
+      "classification": "3A",
+      "champion": "Crofton",
+      "score": "1-0",
+      "finalist": "Mount Hebron",
+      "source": "https://www.thebanner.com/sports/another-championship-breakthrough-for-crofton-2M2NZRRQ6VB6XCQML2MJA2TV4A/"
+    },
+    {
+      "year": "2022",
+      "classification": "4A",
+      "champion": "Walt Whitman",
+      "score": "2-0",
+      "finalist": "Quince Orchard",
+      "source": "https://theblackandwhite.net/73792/sports/girls-soccer-defeats-quince-orchard-2-0-wins-second-consecutive-state-championship/"
+    },
+    {
+      "year": "2023",
+      "classification": "1A",
+      "champion": "Havre de Grace",
+      "score": "1-0",
+      "finalist": "Perryville",
+      "source": "https://www.mpssaa.org/2023-mpssaa-soccer-state-championships-recap/"
+    },
+    {
+      "year": "2023",
+      "classification": "2A",
+      "champion": "Sparrows Point",
+      "score": "1-0",
+      "finalist": "Hereford",
+      "source": "https://www.eastcountytimes.com/sports/sparrows-point-girls-soccer-wins-7th-state-title/"
+    },
+    {
+      "year": "2023",
+      "classification": "3A",
+      "champion": "Severna Park",
+      "score": "2-0",
+      "finalist": "Mount Hebron",
+      "source": "https://www.capitalgazette.com/2023/11/18/severna-park-girls-soccer-completes-perfect-season-with-first-state-title-in-20-years-2-0-over-mt-hebron-in-3a-final/"
+    },
+    {
+      "year": "2023",
+      "classification": "4A",
+      "champion": "Walt Whitman",
+      "score": "2-0",
+      "finalist": "Montgomery Blair",
+      "source": "https://www.mpssaa.org/2023-mpssaa-soccer-state-championships-recap/"
+    },
+    {
+      "year": "2024",
+      "classification": "1A",
+      "champion": "Liberty",
+      "score": "3-0",
+      "finalist": "Mardela",
+      "source": "https://eu.delmarvanow.com/story/sports/high-school/2024/11/16/liberty-defeats-mardela-in-the-1a-girls-soccer-state-championship/76331518007/"
+    },
+    {
+      "year": "2024",
+      "classification": "2A",
+      "champion": "Queen Anne's",
+      "score": "2-0",
+      "finalist": "C. Milton Wright",
+      "source": "https://www.wmdt.com/2024/11/queen-annes-girls-soccer-wins-state-title-wins-first-championship-in-program-history/"
+    },
+    {
+      "year": "2024",
+      "classification": "3A",
+      "champion": "Severna Park",
+      "score": "4-0",
+      "finalist": "Towson",
+      "source": "https://www.washingtonpost.com/sports/2024/11/14/severna-park-girls-soccer/"
+    },
+    {
+      "year": "2024",
+      "classification": "4A",
+      "champion": "Walt Whitman",
+      "score": "3-0",
+      "finalist": "Crofton",
+      "source": "https://www.thesentinel.com/communities/whitman-girls-soccer-makes-history-as-they-win-fourth-consecutive-state-championship-3-0-against/article_853cf246-a690-11ef-bc51-dfef80f4911f.html"
+    }
+  ]
+}

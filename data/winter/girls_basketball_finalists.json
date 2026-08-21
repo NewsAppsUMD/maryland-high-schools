@@ -1,0 +1,199 @@
+{
+  "sport": "Girls Basketball",
+  "season": "winter",
+  "note": "Runner-up (finalist) schools for MPSSAA girls basketball state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Scope: the four-classification era 2018-2025 (no 2020 = COVID). Add entries year-by-year; keep sources.",
+  "entries": [
+    {
+      "year": "2018",
+      "classification": "1A",
+      "champion": "Southern-Garrett",
+      "score": "52-48",
+      "finalist": "Largo",
+      "source": "https://www.washingtonpost.com/sports/highschools/largo-loses-maryland-1a-girls-state-title-game-to-southern-amid-confusing-finish/2018/03/10/818b8974-2491-11e8-94da-ebf9d112159c_story.html"
+    },
+    {
+      "year": "2018",
+      "classification": "2A",
+      "champion": "Poolesville",
+      "score": "63-23",
+      "finalist": "Queen Anne's",
+      "source": "http://www.mpssaa.org/hardwood-titles-are-hard-earned-for-2018-state-basketball-champions/"
+    },
+    {
+      "year": "2018",
+      "classification": "3A",
+      "champion": "Frederick",
+      "score": "62-50",
+      "finalist": "Long Reach",
+      "source": "https://www.washingtonpost.com/sports/highschools/long-reachs-historic-season-ends-with-maryland-3a-girls-state-final-loss/2018/03/10/e727919c-2491-11e8-94da-ebf9d112159c_story.html"
+    },
+    {
+      "year": "2018",
+      "classification": "4A",
+      "champion": "Eleanor Roosevelt",
+      "score": "60-56",
+      "finalist": "Catonsville",
+      "source": "https://www.washingtonpost.com/sports/highschools/eleanor-roosevelt-wins-maryland-4a-girls-state-title-behind-ashia-mccallas-29-points/2018/03/10/42c77c96-23df-11e8-86f6-54bfff693d2b_story.html"
+    },
+    {
+      "year": "2019",
+      "classification": "1A",
+      "champion": "Pikesville",
+      "score": "61-31",
+      "finalist": "Smithsburg",
+      "source": "https://www.heraldmailmedia.com/story/sports/2019/03/17/magic-runs-out-for-leopards/44228009/"
+    },
+    {
+      "year": "2019",
+      "classification": "2A",
+      "champion": "River Hill",
+      "score": "44-39",
+      "finalist": "Middletown",
+      "source": "https://www.dcnewsnow.com/sports/local-sports/maryland-sports/river-hill-vs-middletown-girls-basketball/"
+    },
+    {
+      "year": "2019",
+      "classification": "3A",
+      "champion": "Frederick",
+      "score": "58-44",
+      "finalist": "Baltimore Poly. Inst.",
+      "source": "http://www.mpssaa.org/hoop-dreams-become-reality-for-2019-state-basketball-champions/"
+    },
+    {
+      "year": "2019",
+      "classification": "4A",
+      "champion": "Charles H. Flowers",
+      "score": "57-42",
+      "finalist": "Old Mill",
+      "source": "https://www.washingtonpost.com/sports/girls-basketball-ch-flowers-relentless-effort-pushes-it-to-4a-championship-over-old-mill/2019/03/16/4d307e44-4837-11e9-9726-50f151ab44b9_story.html"
+    },
+    {
+      "year": "2022",
+      "classification": "1A",
+      "champion": "Pikesville",
+      "score": "51-42",
+      "finalist": "Catoctin",
+      "source": "https://www.dcnewsnow.com/sports/local-sports/catoctin-girls-basketball-falls-in-1a-state-title-game/"
+    },
+    {
+      "year": "2022",
+      "classification": "2A",
+      "champion": "Fallston",
+      "score": "57-56 OT",
+      "finalist": "Hereford",
+      "source": "https://www.mpssaa.org/mobile/2022-mpssaa-basketball-recap/?F_All=y"
+    },
+    {
+      "year": "2022",
+      "classification": "3A",
+      "champion": "Baltimore Poly. Inst.",
+      "score": "60-37",
+      "finalist": "Howard",
+      "source": "https://www.baltimoresun.com/2022/03/12/no-10-poly-girls-basketball-captures-first-state-title-defeating-no-2-howard-60-37-in-class-3a-final/"
+    },
+    {
+      "year": "2022",
+      "classification": "4A",
+      "champion": "Western",
+      "score": "81-68",
+      "finalist": "Clarksburg",
+      "source": "https://www.mpssaa.org/mobile/2022-mpssaa-basketball-recap/?F_All=y"
+    },
+    {
+      "year": "2023",
+      "classification": "1A",
+      "champion": "Pikesville",
+      "score": "38-33",
+      "finalist": "Mountain Ridge",
+      "source": "https://www.mpssaa.org/mobile/2023-basketball-state-championships/"
+    },
+    {
+      "year": "2023",
+      "classification": "2A",
+      "champion": "Henry E. Lackey",
+      "score": "53-33",
+      "finalist": "Kent Island",
+      "source": "https://www.capitalgazette.com/2023/03/11/lackey-girls-basketball-spoils-kent-islands-quest-for-perfect-season-with-53-33-win-in-class-2a-title-game/"
+    },
+    {
+      "year": "2023",
+      "classification": "3A",
+      "champion": "Howard",
+      "score": "64-52",
+      "finalist": "Baltimore Poly. Inst.",
+      "source": "https://www.washingtonpost.com/sports/2023/03/10/like-lions-out-like-champs-howard-girls-capture-maryland-3a-crown/"
+    },
+    {
+      "year": "2023",
+      "classification": "4A",
+      "champion": "Glen Burnie",
+      "score": "43-40",
+      "finalist": "Winston Churchill",
+      "source": "https://www.capitalgazette.com/2023/03/11/glen-burnie-girls-basketball-rallies-in-fourth-quarter-to-programs-first-state-title-beating-winston-churchill-43-40/"
+    },
+    {
+      "year": "2024",
+      "classification": "1A",
+      "champion": "Pikesville",
+      "score": "48-39",
+      "finalist": "Southern-Garrett",
+      "source": "https://www.si.com/high-school/maryland/2024/03/17/pikesville-girls-claim-four-peat-in-mpssaa-1a-state-basketball-finals"
+    },
+    {
+      "year": "2024",
+      "classification": "2A",
+      "champion": "Hammond",
+      "score": "65-46",
+      "finalist": "Francis Scott Key",
+      "source": "https://www.si.com/high-school/maryland/2024/03/16/hammond-girls-finish-perfect-season-with-mpssa-2a-state-title"
+    },
+    {
+      "year": "2024",
+      "classification": "3A",
+      "champion": "Baltimore Poly. Inst.",
+      "score": "45-18",
+      "finalist": "Oakdale",
+      "source": "https://www.si.com/high-school/maryland/2024/03/17/past-pushes-poly-to-mpssaa-3a-girls-basketball-state-title"
+    },
+    {
+      "year": "2024",
+      "classification": "4A",
+      "champion": "Clarksburg",
+      "score": "43-36",
+      "finalist": "Bethesda-Chevy Chase",
+      "source": "https://www.si.com/high-school/maryland/2024/03/16/turner-sisters-carry-clarksburg-girls-to-first-mpssaa-state-crown-video"
+    },
+    {
+      "year": "2025",
+      "classification": "1A",
+      "champion": "Pikesville",
+      "score": "67-62",
+      "finalist": "Southern-Garrett",
+      "source": "https://www.si.com/high-school/maryland/pikesville-and-francis-scott-key-capture-maryland-state-titles-in-thrilling-championship-saturday-01jpg294ffrg"
+    },
+    {
+      "year": "2025",
+      "classification": "2A",
+      "champion": "Francis Scott Key",
+      "score": "44-39",
+      "finalist": "Hereford",
+      "source": "https://www.baltimoresun.com/2025/03/16/francis-scott-key-girls-basketball-wins-class-2a-state-championship-video/"
+    },
+    {
+      "year": "2025",
+      "classification": "3A",
+      "champion": "South River",
+      "score": "56-45",
+      "finalist": "Oakland Mills",
+      "source": "https://www.si.com/high-school/maryland/watch-south-river-and-north-point-celebrate-maryland-girls-basketball-titles-in-championship-thriller-01jpd7zbc4ak"
+    },
+    {
+      "year": "2025",
+      "classification": "4A",
+      "champion": "North Point",
+      "score": "61-30",
+      "finalist": "Western",
+      "source": "https://www.washingtonpost.com/sports/2025/03/14/north-point-4a-championship/"
+    }
+  ]
+}

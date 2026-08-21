@@ -6,7 +6,8 @@
     "source_pages": [
       18
     ],
-    "extracted_at": "2026-08-02T20:20:49Z"
+    "extracted_at": "2026-08-02T20:20:49Z",
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -745,9 +746,10 @@
       "classification": "4A",
       "champion_school": "Severna Park",
       "champion_coach": "Dave Earl",
-      "finalist_school": null,
+      "finalist_school": "Winston Churchill",
       "finalist_coach": null,
-      "score": "8-7, OT"
+      "score": "8-7, OT",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -755,9 +757,10 @@
       "classification": "3A",
       "champion_school": "Westminster",
       "champion_coach": "Steve DeFeo",
-      "finalist_school": null,
+      "finalist_school": "Northern-Calvert",
       "finalist_coach": null,
-      "score": "12-8"
+      "score": "12-8",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -765,9 +768,10 @@
       "classification": "2A",
       "champion_school": "Marriotts Ridge",
       "champion_coach": "Tony Incontrera",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
-      "score": "8-6"
+      "score": "8-6",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -775,9 +779,10 @@
       "classification": "1A",
       "champion_school": "Patterson Mill",
       "champion_coach": "Jason Bellamy",
-      "finalist_school": null,
+      "finalist_school": "Smithsburg",
       "finalist_coach": null,
-      "score": "18-8"
+      "score": "18-8",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -785,9 +790,10 @@
       "classification": "4A",
       "champion_school": "Severna Park",
       "champion_coach": "Dave Earl",
-      "finalist_school": null,
+      "finalist_school": "Howard",
       "finalist_coach": null,
-      "score": "9-6"
+      "score": "9-6",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -795,9 +801,10 @@
       "classification": "3A",
       "champion_school": "Westminster",
       "champion_coach": "Steve DeFeo",
-      "finalist_school": null,
+      "finalist_school": "Northern-Calvert",
       "finalist_coach": null,
-      "score": "9-8"
+      "score": "9-8",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -805,9 +812,10 @@
       "classification": "2A",
       "champion_school": "Glenelg",
       "champion_coach": "Josh Hatmaker",
-      "finalist_school": null,
+      "finalist_school": "Century",
       "finalist_coach": null,
-      "score": "11-7"
+      "score": "11-7",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -815,9 +823,10 @@
       "classification": "1A",
       "champion_school": "Patterson Mill",
       "champion_coach": "Jason Bellamy",
-      "finalist_school": null,
+      "finalist_school": "Sparrows Point",
       "finalist_coach": null,
-      "score": "14-3"
+      "score": "14-3",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -825,9 +834,10 @@
       "classification": "4A",
       "champion_school": "Severna Park",
       "champion_coach": "Travis Loving",
-      "finalist_school": null,
+      "finalist_school": "Catonsville",
       "finalist_coach": null,
-      "score": "11-3"
+      "score": "11-3",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -835,9 +845,10 @@
       "classification": "3A",
       "champion_school": "Urbana",
       "champion_coach": "Gavin Donahue",
-      "finalist_school": null,
+      "finalist_school": "Towson",
       "finalist_coach": null,
-      "score": "7-6"
+      "score": "7-6",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -845,9 +856,10 @@
       "classification": "2A",
       "champion_school": "Hereford",
       "champion_coach": "Kyle Lippert",
-      "finalist_school": null,
+      "finalist_school": "Kent Island",
       "finalist_coach": null,
-      "score": "5-4"
+      "score": "5-4",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -855,9 +867,10 @@
       "classification": "1A",
       "champion_school": "Fallston",
       "champion_coach": "Patrick Mull",
-      "finalist_school": null,
+      "finalist_school": "Smithsburg",
       "finalist_coach": null,
-      "score": "13-8"
+      "score": "13-8",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -865,9 +878,10 @@
       "classification": "4A",
       "champion_school": "Winston Churchill",
       "champion_coach": "Jeff Fritz",
-      "finalist_school": null,
+      "finalist_school": "Broadneck",
       "finalist_coach": null,
-      "score": "15-7"
+      "score": "15-7",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -875,9 +889,10 @@
       "classification": "3A",
       "champion_school": "Severna Park",
       "champion_coach": "Dave Earl",
-      "finalist_school": null,
+      "finalist_school": "Mount Hebron",
       "finalist_coach": null,
-      "score": "9-6"
+      "score": "9-6",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -885,9 +900,10 @@
       "classification": "2A",
       "champion_school": "Kent Island",
       "champion_coach": "Robert Woolley",
-      "finalist_school": null,
+      "finalist_school": "Huntingtown",
       "finalist_coach": null,
-      "score": "11-7"
+      "score": "11-7",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -895,9 +911,10 @@
       "classification": "1A",
       "champion_school": "Southern-AA",
       "champion_coach": "Brendan Brace",
-      "finalist_school": null,
+      "finalist_school": "Fallston",
       "finalist_coach": null,
-      "score": "14-7"
+      "score": "14-7",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -905,9 +922,10 @@
       "classification": "4A",
       "champion_school": "Broadneck",
       "champion_coach": "Jeff McGuire",
-      "finalist_school": null,
+      "finalist_school": "Sherwood",
       "finalist_coach": null,
-      "score": "16-6"
+      "score": "16-6",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -915,9 +933,10 @@
       "classification": "3A",
       "champion_school": "Severna Park",
       "champion_coach": "Dave Earl",
-      "finalist_school": null,
+      "finalist_school": "Mount Hebron",
       "finalist_coach": null,
-      "score": "9-8"
+      "score": "9-8",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -925,9 +944,10 @@
       "classification": "2A",
       "champion_school": "Kent Island",
       "champion_coach": "Robert Woolley",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
-      "score": "9-3"
+      "score": "9-3",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -935,9 +955,10 @@
       "classification": "1A",
       "champion_school": "Fallston",
       "champion_coach": "Patrick Mull",
-      "finalist_school": null,
+      "finalist_school": "Perryville",
       "finalist_coach": null,
-      "score": "19-7"
+      "score": "19-7",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -945,9 +966,10 @@
       "classification": "4A",
       "champion_school": "Urbana",
       "champion_coach": "Gavin Donahue",
-      "finalist_school": null,
+      "finalist_school": "Broadneck",
       "finalist_coach": null,
-      "score": "7-5"
+      "score": "7-5",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -955,9 +977,10 @@
       "classification": "3A",
       "champion_school": "Severna Park",
       "champion_coach": "Robert Zichelli",
-      "finalist_school": null,
+      "finalist_school": "Towson",
       "finalist_coach": null,
-      "score": "8-6"
+      "score": "8-6",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -965,9 +988,10 @@
       "classification": "2A",
       "champion_school": "Glenelg",
       "champion_coach": "Josh Hatmaker",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
-      "score": "10-7"
+      "score": "10-7",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -975,9 +999,10 @@
       "classification": "1A",
       "champion_school": "Fallston",
       "champion_coach": "Patrick Mull",
-      "finalist_school": null,
+      "finalist_school": "Liberty",
       "finalist_coach": null,
-      "score": "15-2"
+      "score": "15-2",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -985,9 +1010,10 @@
       "classification": "4A",
       "champion_school": "Urbana",
       "champion_coach": "Gavin Donahue",
-      "finalist_school": null,
+      "finalist_school": "Broadneck",
       "finalist_coach": null,
-      "score": "5-2"
+      "score": "5-2",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -995,9 +1021,10 @@
       "classification": "3A",
       "champion_school": "Severna Park",
       "champion_coach": "Robert Zichelli",
-      "finalist_school": null,
+      "finalist_school": "Towson",
       "finalist_coach": null,
-      "score": "11-4"
+      "score": "11-4",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -1005,9 +1032,10 @@
       "classification": "2A",
       "champion_school": "Kent Island",
       "champion_coach": "Robert Woolley",
-      "finalist_school": null,
+      "finalist_school": "Stephen Decatur",
       "finalist_coach": null,
-      "score": "13-12"
+      "score": "13-12",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Lacrosse",
@@ -1015,9 +1043,10 @@
       "classification": "1A",
       "champion_school": "Middletown",
       "champion_coach": "Dominic Ceresini",
-      "finalist_school": null,
+      "finalist_school": "Fallston",
       "finalist_coach": null,
-      "score": "9-8"
+      "score": "9-8",
+      "notes": "finalist:recap-verified"
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "sport": "Girls Lacrosse",
+  "season": "spring",
+  "note": "Runner-up (finalist) schools for MPSSAA girls lacrosse state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Scope: the four-classification era 2018-2025 (no 2020 = COVID). Add entries year-by-year; keep sources.",
+  "entries": [
+    {"year": "2018", "classification": "1A", "champion": "Patterson Mill",   "score": "16-8",     "finalist": "Boonsboro",          "source": "http://www.mpssaa.org/2018-boys-and-girls-lacrosse-state-champs-bask-in-the-glow-of-their-accomplishments/"},
+    {"year": "2018", "classification": "2A", "champion": "Glenelg",          "score": "6-5",      "finalist": "Hereford",           "source": "http://www.mpssaa.org/2018-boys-and-girls-lacrosse-state-champs-bask-in-the-glow-of-their-accomplishments/"},
+    {"year": "2018", "classification": "3A", "champion": "Westminster",      "score": "9-5",      "finalist": "Mount Hebron",       "source": "http://www.mpssaa.org/2018-boys-and-girls-lacrosse-state-champs-bask-in-the-glow-of-their-accomplishments/"},
+    {"year": "2018", "classification": "4A", "champion": "South River",      "score": "11-9",     "finalist": "Dulaney",            "source": "http://www.mpssaa.org/2018-boys-and-girls-lacrosse-state-champs-bask-in-the-glow-of-their-accomplishments/"},
+
+    {"year": "2019", "classification": "1A", "champion": "Patterson Mill",   "score": "20-4",     "finalist": "Loch Raven",         "source": "https://www.mpssaa.org/final-game-of-the-season-is-sweetest-for-2019-state-lacrosse-champions/"},
+    {"year": "2019", "classification": "2A", "champion": "South Carroll",    "score": "10-9",     "finalist": "Hereford",           "source": "https://www.mpssaa.org/final-game-of-the-season-is-sweetest-for-2019-state-lacrosse-champions/"},
+    {"year": "2019", "classification": "3A", "champion": "Westminster",      "score": "15-9",     "finalist": "C. Milton Wright",   "source": "https://www.mpssaa.org/final-game-of-the-season-is-sweetest-for-2019-state-lacrosse-champions/"},
+    {"year": "2019", "classification": "4A", "champion": "Severna Park",     "score": "10-5",     "finalist": "Dulaney",            "source": "https://www.mpssaa.org/final-game-of-the-season-is-sweetest-for-2019-state-lacrosse-champions/"},
+
+    {"year": "2021", "classification": "1A", "champion": "Liberty",          "score": "10-9",     "finalist": "Fallston",           "source": "https://www.mpssaa.org/2021-state-championship-recap/"},
+    {"year": "2021", "classification": "2A", "champion": "Queen Anne's",     "score": "13-10",    "finalist": "Middletown",         "source": "https://www.mpssaa.org/2021-state-championship-recap/"},
+    {"year": "2021", "classification": "3A", "champion": "Marriotts Ridge",  "score": "16-11",    "finalist": "C. Milton Wright",   "source": "https://www.mpssaa.org/2021-state-championship-recap/"},
+    {"year": "2021", "classification": "4A", "champion": "Broadneck",        "score": "12-11",    "finalist": "Arundel",            "source": "https://www.mpssaa.org/2021-state-championship-recap/"},
+
+    {"year": "2022", "classification": "1A", "champion": "Liberty",          "score": "9-4",      "finalist": "Fallston",           "source": "https://www.mpssaa.org/mobile/2022-mpssaa-lacrosse-recap/?F_All=y"},
+    {"year": "2022", "classification": "2A", "champion": "Century",          "score": "16-6",     "finalist": "Hereford",           "source": "https://www.mpssaa.org/mobile/2022-mpssaa-lacrosse-recap/?F_All=y"},
+    {"year": "2022", "classification": "3A", "champion": "Marriotts Ridge",  "score": "11-10",    "finalist": "Severna Park",       "source": "https://www.mpssaa.org/mobile/2022-mpssaa-lacrosse-recap/?F_All=y"},
+    {"year": "2022", "classification": "4A", "champion": "Broadneck",        "score": "17-4",     "finalist": "Bethesda-Chevy Chase","source": "https://www.mpssaa.org/mobile/2022-mpssaa-lacrosse-recap/?F_All=y"},
+
+    {"year": "2023", "classification": "1A", "champion": "Liberty",          "score": "14-10",    "finalist": "Fallston",           "source": "https://www.mpssaa.org/mobile/2023-lacrosse-state-championships-recap/"},
+    {"year": "2023", "classification": "2A", "champion": "Manchester Valley","score": "15-7",     "finalist": "Middletown",         "source": "https://www.mpssaa.org/mobile/2023-lacrosse-state-championships-recap/"},
+    {"year": "2023", "classification": "3A", "champion": "Severna Park",     "score": "12-8",     "finalist": "Towson",             "source": "https://www.mpssaa.org/mobile/2023-lacrosse-state-championships-recap/"},
+    {"year": "2023", "classification": "4A", "champion": "Broadneck",        "score": "9-8",      "finalist": "Dulaney",            "source": "https://www.mpssaa.org/mobile/2023-lacrosse-state-championships-recap/"},
+
+    {"year": "2024", "classification": "1A", "champion": "Fallston",         "score": "14-7",     "finalist": "Southern-AA",        "source": "https://www.si.com/high-school/maryland/fallston-girls-middletown-boys-claim-maryland-class-1a-lacrosse-titles-after-weather-delay-01ks64dypppa"},
+    {"year": "2024", "classification": "2A", "champion": "Glenelg",          "score": "13-3",     "finalist": "Queen Anne's",       "source": "https://www.washingtonpost.com/sports/2024/05/21/glenelg-lacrosse-maryland-2a/"},
+    {"year": "2024", "classification": "3A", "champion": "Severna Park",     "score": "12-6",     "finalist": "Dulaney",            "source": "https://www.washingtonpost.com/sports/2024/05/21/severna-park-girls-lacrosse/"},
+    {"year": "2024", "classification": "4A", "champion": "Broadneck",        "score": "10-9",     "finalist": "Urbana",             "source": "https://www.capitalgazette.com/2024/05/23/broadneck-girls-lacrosse-4a-state-title-urbana/"},
+
+    {"year": "2025", "classification": "1A", "champion": "South Carroll",    "score": "13-5",     "finalist": "Middletown",         "source": "https://www.mpssaa.org/2026/lacrosse/2025-lacrosse-state-championships-recap/"},
+    {"year": "2025", "classification": "2A", "champion": "Manchester Valley","score": "17-9",     "finalist": "Glenelg",            "source": "https://www.mpssaa.org/2026/lacrosse/2025-lacrosse-state-championships-recap/"},
+    {"year": "2025", "classification": "3A", "champion": "Marriotts Ridge",  "score": "11-10",    "finalist": "Severna Park",       "source": "https://www.mpssaa.org/2026/lacrosse/2025-lacrosse-state-championships-recap/"},
+    {"year": "2025", "classification": "4A", "champion": "Broadneck",        "score": "8-6",      "finalist": "Urbana",             "source": "https://www.mpssaa.org/2026/lacrosse/2025-lacrosse-state-championships-recap/"}
+  ]
+}

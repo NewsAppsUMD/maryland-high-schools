@@ -1,0 +1,41 @@
+{
+  "sport": "Boys Lacrosse",
+  "season": "spring",
+  "note": "Runner-up (finalist) schools for MPSSAA boys lacrosse state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Scope: the four-classification era 2018-2025 (no 2020 = COVID). Add entries year-by-year; keep sources.",
+  "entries": [
+    {"year": "2018", "classification": "1A", "champion": "Patterson Mill",   "score": "18-8",     "finalist": "Smithsburg",         "source": "http://www.mpssaa.org/2018-boys-and-girls-lacrosse-state-champs-bask-in-the-glow-of-their-accomplishments/"},
+    {"year": "2018", "classification": "2A", "champion": "Marriotts Ridge",  "score": "8-6",      "finalist": "Hereford",           "source": "http://www.mpssaa.org/2018-boys-and-girls-lacrosse-state-champs-bask-in-the-glow-of-their-accomplishments/"},
+    {"year": "2018", "classification": "3A", "champion": "Westminster",      "score": "12-8",     "finalist": "Northern-Calvert",   "source": "http://www.mpssaa.org/2018-boys-and-girls-lacrosse-state-champs-bask-in-the-glow-of-their-accomplishments/"},
+    {"year": "2018", "classification": "4A", "champion": "Severna Park",     "score": "8-7, OT",  "finalist": "Winston Churchill",  "source": "http://www.mpssaa.org/2018-boys-and-girls-lacrosse-state-champs-bask-in-the-glow-of-their-accomplishments/"},
+
+    {"year": "2019", "classification": "1A", "champion": "Patterson Mill",   "score": "14-3",     "finalist": "Sparrows Point",     "source": "https://www.mpssaa.org/final-game-of-the-season-is-sweetest-for-2019-state-lacrosse-champions/"},
+    {"year": "2019", "classification": "2A", "champion": "Glenelg",          "score": "11-7",     "finalist": "Century",            "source": "https://www.mpssaa.org/final-game-of-the-season-is-sweetest-for-2019-state-lacrosse-champions/"},
+    {"year": "2019", "classification": "3A", "champion": "Westminster",      "score": "9-8",      "finalist": "Northern-Calvert",   "source": "https://www.mpssaa.org/final-game-of-the-season-is-sweetest-for-2019-state-lacrosse-champions/"},
+    {"year": "2019", "classification": "4A", "champion": "Severna Park",     "score": "9-6",      "finalist": "Howard",             "source": "https://www.mpssaa.org/final-game-of-the-season-is-sweetest-for-2019-state-lacrosse-champions/"},
+
+    {"year": "2021", "classification": "1A", "champion": "Fallston",         "score": "13-8",     "finalist": "Smithsburg",         "source": "https://www.mpssaa.org/2021-state-championship-recap/"},
+    {"year": "2021", "classification": "2A", "champion": "Hereford",         "score": "5-4",      "finalist": "Kent Island",        "source": "https://www.mpssaa.org/2021-state-championship-recap/"},
+    {"year": "2021", "classification": "3A", "champion": "Urbana",           "score": "7-6",      "finalist": "Towson",             "source": "https://www.mpssaa.org/2021-state-championship-recap/"},
+    {"year": "2021", "classification": "4A", "champion": "Severna Park",     "score": "11-3",     "finalist": "Catonsville",        "source": "https://www.mpssaa.org/2021-state-championship-recap/"},
+
+    {"year": "2022", "classification": "1A", "champion": "Southern-AA",      "score": "14-7",     "finalist": "Fallston",           "source": "https://www.mpssaa.org/mobile/2022-mpssaa-lacrosse-recap/?F_All=y"},
+    {"year": "2022", "classification": "2A", "champion": "Kent Island",      "score": "11-7",     "finalist": "Huntingtown",        "source": "https://www.mpssaa.org/mobile/2022-mpssaa-lacrosse-recap/?F_All=y"},
+    {"year": "2022", "classification": "3A", "champion": "Severna Park",     "score": "9-6",      "finalist": "Mount Hebron",       "source": "https://www.mpssaa.org/mobile/2022-mpssaa-lacrosse-recap/?F_All=y"},
+    {"year": "2022", "classification": "4A", "champion": "Winston Churchill","score": "15-7",     "finalist": "Broadneck",          "source": "https://www.mpssaa.org/mobile/2022-mpssaa-lacrosse-recap/?F_All=y"},
+
+    {"year": "2023", "classification": "1A", "champion": "Fallston",         "score": "19-7",     "finalist": "Perryville",         "source": "https://www.mpssaa.org/mobile/2023-lacrosse-state-championships-recap/"},
+    {"year": "2023", "classification": "2A", "champion": "Kent Island",      "score": "9-3",      "finalist": "Hereford",           "source": "https://www.mpssaa.org/mobile/2023-lacrosse-state-championships-recap/"},
+    {"year": "2023", "classification": "3A", "champion": "Severna Park",     "score": "9-8",      "finalist": "Mount Hebron",       "source": "https://www.mpssaa.org/mobile/2023-lacrosse-state-championships-recap/"},
+    {"year": "2023", "classification": "4A", "champion": "Broadneck",        "score": "16-6",     "finalist": "Sherwood",           "source": "https://www.mpssaa.org/mobile/2023-lacrosse-state-championships-recap/"},
+
+    {"year": "2024", "classification": "1A", "champion": "Fallston",         "score": "15-2",     "finalist": "Liberty",            "source": "https://www.baltimoresun.com/2024/05/22/fallston-boys-lacrosse-liberty-1a-state-championship/"},
+    {"year": "2024", "classification": "2A", "champion": "Glenelg",          "score": "10-7",     "finalist": "Hereford",           "source": "https://www.washingtonpost.com/sports/2024/05/22/glenelg-hereford-maryland-boys-lacrosse/"},
+    {"year": "2024", "classification": "3A", "champion": "Severna Park",     "score": "8-6",      "finalist": "Towson",             "source": "https://www.capitalgazette.com/2024/05/21/severna-park-boys-lacrosse-legacy/"},
+    {"year": "2024", "classification": "4A", "champion": "Urbana",           "score": "7-5",      "finalist": "Broadneck",          "source": "https://www.washingtonpost.com/sports/2024/05/23/maryland-4a-boys-lacrosse-broadneck/"},
+
+    {"year": "2025", "classification": "1A", "champion": "Middletown",       "score": "9-8",      "finalist": "Fallston",           "source": "https://www.mpssaa.org/2026/lacrosse/2025-lacrosse-state-championships-recap/"},
+    {"year": "2025", "classification": "2A", "champion": "Kent Island",      "score": "13-12",    "finalist": "Stephen Decatur",    "source": "https://www.mpssaa.org/2026/lacrosse/2025-lacrosse-state-championships-recap/"},
+    {"year": "2025", "classification": "3A", "champion": "Severna Park",     "score": "11-4",     "finalist": "Towson",             "source": "https://www.mpssaa.org/2026/lacrosse/2025-lacrosse-state-championships-recap/"},
+    {"year": "2025", "classification": "4A", "champion": "Urbana",           "score": "5-2",      "finalist": "Broadneck",          "source": "https://www.mpssaa.org/2026/lacrosse/2025-lacrosse-state-championships-recap/"}
+  ]
+}

@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import datetime
 import json
 import re
 import shutil
@@ -1119,14 +1120,17 @@ def compute_first_title_watch(registry: SchoolRegistry) -> dict:
 
 def compute_anniversaries(registry: SchoolRegistry, current_year: int | None = None) -> dict:
     """Round-number title anniversaries (25/50/75/100 yrs) falling in the
-    latest championship year. Each entry carries its PDF citation.
+    current calendar year. Each entry carries its PDF citation.
 
     The record books carry years but no dates, so entries are keyed by
     anniversary year rather than calendar week; the page presents them as
-    'this season's round-number anniversaries.'
+    'this season's round-number anniversaries.' Unlike the drought/streak
+    pegs (which are anchored to the latest championship year in the data),
+    anniversaries are anchored to the real current calendar year — a title
+    won in 2001 is a 25-year anniversary in 2026, not 2025.
     """
     if current_year is None:
-        current_year = _latest_year(registry)
+        current_year = datetime.date.today().year
     targets = {current_year - a: a for a in _ANNIVERSARY_YEARS}
     out = []
     for s in registry.by_key.values():

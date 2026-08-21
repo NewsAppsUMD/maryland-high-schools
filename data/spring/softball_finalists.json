@@ -1,0 +1,231 @@
+{
+  "sport": "Softball",
+  "season": "spring",
+  "note": "Runner-up (finalist) schools for MPSSAA softball state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Scope: the four-classification era 2018-2025 (no 2020 = COVID). Add entries year-by-year; keep sources.",
+  "entries": [
+    {
+      "year": "2018",
+      "classification": "1A",
+      "champion": "Bohemia Manor",
+      "score": "4-2",
+      "finalist": "Catoctin",
+      "source": "https://www.maxpreps.com/news/ZMQeD5k0y0i5YP8RUQ6CnA/2017-18-high-school-softball-state-champions.htm"
+    },
+    {
+      "year": "2018",
+      "classification": "2A",
+      "champion": "La Plata",
+      "score": "3-2",
+      "finalist": "Eastern Technical",
+      "source": "https://www.maxpreps.com/news/ZMQeD5k0y0i5YP8RUQ6CnA/2017-18-high-school-softball-state-champions.htm"
+    },
+    {
+      "year": "2018",
+      "classification": "3A",
+      "champion": "Huntingtown",
+      "score": "5-0",
+      "finalist": "Westminster",
+      "source": "https://www.maxpreps.com/news/ZMQeD5k0y0i5YP8RUQ6CnA/2017-18-high-school-softball-state-champions.htm"
+    },
+    {
+      "year": "2018",
+      "classification": "4A",
+      "champion": "Severna Park",
+      "score": "13-0 (5 inns.)",
+      "finalist": "Northwest",
+      "source": "https://www.mpssaa.org/state-champions-use-solid-defense-to-secure-2018-softball-crowns/"
+    },
+    {
+      "year": "2019",
+      "classification": "1A",
+      "champion": "Bohemia Manor",
+      "score": "8-0",
+      "finalist": "Sparrows Point",
+      "source": "https://www.mpssaa.org/execution-of-game-fundamentals-defines-the-2019-state-softball-champions/"
+    },
+    {
+      "year": "2019",
+      "classification": "2A",
+      "champion": "La Plata",
+      "score": "9-0",
+      "finalist": "Queen Anne's",
+      "source": "https://www.mpssaa.org/execution-of-game-fundamentals-defines-the-2019-state-softball-champions/"
+    },
+    {
+      "year": "2019",
+      "classification": "3A",
+      "champion": "Huntingtown",
+      "score": "2-0",
+      "finalist": "Chesapeake-AA",
+      "source": "https://www.mpssaa.org/execution-of-game-fundamentals-defines-the-2019-state-softball-champions/"
+    },
+    {
+      "year": "2019",
+      "classification": "4A",
+      "champion": "Sherwood",
+      "score": "8-7",
+      "finalist": "Glen Burnie",
+      "source": "https://www.mpssaa.org/execution-of-game-fundamentals-defines-the-2019-state-softball-champions/"
+    },
+    {
+      "year": "2021",
+      "classification": "1A",
+      "champion": "Patterson Mill",
+      "score": "4-1",
+      "finalist": "Allegany",
+      "source": "https://www.mpssaa.org/2021-state-championship-recap/"
+    },
+    {
+      "year": "2021",
+      "classification": "2A",
+      "champion": "Queen Anne's",
+      "score": "2-1 (8 inns.)",
+      "finalist": "Calvert",
+      "source": "https://www.mpssaa.org/2021-state-championship-recap/"
+    },
+    {
+      "year": "2021",
+      "classification": "3A",
+      "champion": "Chesapeake-AA",
+      "score": "3-1",
+      "finalist": "Reservoir",
+      "source": "https://www.capitalgazette.com/2021/06/18/chesapeake-softball-beats-reservoir-3-1-in-3a-final-to-capture-first-state-championship-since-2008/"
+    },
+    {
+      "year": "2021",
+      "classification": "4A",
+      "champion": "Catonsville",
+      "score": "1-0",
+      "finalist": "North County",
+      "source": "https://www.capitalgazette.com/2021/06/18/sammi-sisolak-pitches-catonsville-softball-to-first-state-title-with-1-0-win-over-north-county-in-4a-final/"
+    },
+    {
+      "year": "2022",
+      "classification": "1A",
+      "champion": "Allegany",
+      "score": "3-2",
+      "finalist": "Patterson Mill",
+      "source": "https://www.mpssaa.org/2022-mpssaa-softball-recap/"
+    },
+    {
+      "year": "2022",
+      "classification": "2A",
+      "champion": "Calvert",
+      "score": "5-4 (8 inns.)",
+      "finalist": "Rising Sun",
+      "source": "https://www.mpssaa.org/2022-mpssaa-softball-recap/"
+    },
+    {
+      "year": "2022",
+      "classification": "3A",
+      "champion": "Linganore",
+      "score": "9-8 (8 inns.)",
+      "finalist": "Chopticon",
+      "source": "https://www.mpssaa.org/2022-mpssaa-softball-recap/"
+    },
+    {
+      "year": "2022",
+      "classification": "4A",
+      "champion": "Sherwood",
+      "score": "21-5 (5 inns.)",
+      "finalist": "Severna Park",
+      "source": "https://www.mpssaa.org/2022-mpssaa-softball-recap/"
+    },
+    {
+      "year": "2023",
+      "classification": "1A",
+      "champion": "North Dorchester",
+      "score": "1-0",
+      "finalist": "Catoctin",
+      "source": "https://www.mpssaa.org/2023-softball-state-championships-recap/"
+    },
+    {
+      "year": "2023",
+      "classification": "2A",
+      "champion": "Rising Sun",
+      "score": "1-0 (8 inns.)",
+      "finalist": "Calvert",
+      "source": "https://www.mpssaa.org/2023-softball-state-championships-recap/"
+    },
+    {
+      "year": "2023",
+      "classification": "3A",
+      "champion": "Damascus",
+      "score": "2-0",
+      "finalist": "Reservoir",
+      "source": "https://www.mpssaa.org/2023-softball-state-championships-recap/"
+    },
+    {
+      "year": "2023",
+      "classification": "4A",
+      "champion": "Urbana",
+      "score": "8-2",
+      "finalist": "Dulaney",
+      "source": "https://www.mpssaa.org/2023-softball-state-championships-recap/"
+    },
+    {
+      "year": "2024",
+      "classification": "1A",
+      "champion": "Allegany",
+      "score": "9-1",
+      "finalist": "Boonsboro",
+      "source": "https://www.mpssaa.org/2024-softball-state-championships-recap/"
+    },
+    {
+      "year": "2024",
+      "classification": "2A",
+      "champion": "Rising Sun",
+      "score": "4-2",
+      "finalist": "Huntingtown",
+      "source": "https://www.mpssaa.org/2024-softball-state-championships-recap/"
+    },
+    {
+      "year": "2024",
+      "classification": "3A",
+      "champion": "Sherwood",
+      "score": "6-5 (8 inns.)",
+      "finalist": "Linganore",
+      "source": "https://www.mpssaa.org/2024-softball-state-championships-recap/"
+    },
+    {
+      "year": "2024",
+      "classification": "4A",
+      "champion": "Leonardtown",
+      "score": "14-0",
+      "finalist": "Eleanor Roosevelt",
+      "source": "https://www.mpssaa.org/2024-softball-state-championships-recap/"
+    },
+    {
+      "year": "2025",
+      "classification": "1A",
+      "champion": "Mardela",
+      "score": "4-3",
+      "finalist": "Catoctin",
+      "source": "https://sturgisjournal.com/story/sports/high-school/2025/05/24/mardela-mounts-comeback-defeat-catoctin-to-win-1a-softball-state-championship/83841743007/"
+    },
+    {
+      "year": "2025",
+      "classification": "2A",
+      "champion": "Huntingtown",
+      "score": "3-2",
+      "finalist": "Stephen Decatur",
+      "source": "https://www.delmarvasportsnetwork.com/ott/highlights-huntingtown-is-your-mpssaa-class-2a-softball-state-champions/article_becef72a-d4d8-49ae-955b-ecfacaacb425.html"
+    },
+    {
+      "year": "2025",
+      "classification": "3A",
+      "champion": "Chopticon",
+      "score": "5-3",
+      "finalist": "Sherwood",
+      "source": "https://www.washingtonpost.com/sports/2025/05/24/maryland-3a-softball-chopticon/"
+    },
+    {
+      "year": "2025",
+      "classification": "4A",
+      "champion": "Leonardtown",
+      "score": "5-0",
+      "finalist": "Winston Churchill",
+      "source": "https://www.washingtonpost.com/sports/2025/05/24/leonardtown-softball-maryland-4a/"
+    }
+  ]
+}

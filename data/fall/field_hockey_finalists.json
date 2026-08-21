@@ -1,0 +1,199 @@
+{
+  "sport": "Field Hockey",
+  "season": "fall",
+  "note": "Runner-up (finalist) schools for MPSSAA field hockey state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Scope: the four-classification era 2018-2025 (no 2020 = COVID). Add entries year-by-year; keep sources.",
+  "entries": [
+    {
+      "year": "2018",
+      "classification": "1A",
+      "champion": "South Carroll",
+      "score": "2-0",
+      "finalist": "Patuxent",
+      "source": "https://www.mpssaa.org/solid-defense-is-key-to-winning-2018-state-field-hockey-crowns/"
+    },
+    {
+      "year": "2018",
+      "classification": "2A",
+      "champion": "Liberty",
+      "score": "1-0",
+      "finalist": "Hereford",
+      "source": "https://www.mpssaa.org/solid-defense-is-key-to-winning-2018-state-field-hockey-crowns/"
+    },
+    {
+      "year": "2018",
+      "classification": "3A",
+      "champion": "C. Milton Wright",
+      "score": "3-0",
+      "finalist": "Chesapeake-AA",
+      "source": "https://www.mpssaa.org/solid-defense-is-key-to-winning-2018-state-field-hockey-crowns/"
+    },
+    {
+      "year": "2018",
+      "classification": "4A",
+      "champion": "South River",
+      "score": "2-0",
+      "finalist": "Dulaney",
+      "source": "https://www.mpssaa.org/solid-defense-is-key-to-winning-2018-state-field-hockey-crowns/"
+    },
+    {
+      "year": "2019",
+      "classification": "1A",
+      "champion": "Liberty",
+      "score": "2-1",
+      "finalist": "Washington",
+      "source": "http://www.mpssaa.org/stiff-competition-pushes-2019-state-field-hockey-champions-to-titles/"
+    },
+    {
+      "year": "2019",
+      "classification": "2A",
+      "champion": "Marriotts Ridge",
+      "score": "1-0",
+      "finalist": "Oakdale",
+      "source": "http://www.mpssaa.org/stiff-competition-pushes-2019-state-field-hockey-champions-to-titles/"
+    },
+    {
+      "year": "2019",
+      "classification": "3A",
+      "champion": "Westminster",
+      "score": "2-1",
+      "finalist": "Urbana",
+      "source": "http://www.mpssaa.org/stiff-competition-pushes-2019-state-field-hockey-champions-to-titles/"
+    },
+    {
+      "year": "2019",
+      "classification": "4A",
+      "champion": "Severna Park",
+      "score": "1-0",
+      "finalist": "Dulaney",
+      "source": "http://www.mpssaa.org/stiff-competition-pushes-2019-state-field-hockey-champions-to-titles/"
+    },
+    {
+      "year": "2021",
+      "classification": "1A",
+      "champion": "Pocomoke",
+      "score": "1-0",
+      "finalist": "Patuxent",
+      "source": "https://www.washingtonpost.com/sports/2021/11/13/patuxent-comes-away-proud-despite-falling-1-0-maryland-1a-field-hockey-championship/"
+    },
+    {
+      "year": "2021",
+      "classification": "2A",
+      "champion": "Glenelg",
+      "score": "1-0",
+      "finalist": "Hereford",
+      "source": "https://www.washingtonpost.com/sports/2021/11/13/led-by-sophomore-class-glenelg-wins-2a-field-hockey-title-is-already-eyeing-more/"
+    },
+    {
+      "year": "2021",
+      "classification": "3A",
+      "champion": "Arundel",
+      "score": "2-1",
+      "finalist": "River Hill",
+      "source": "https://www.baltimoresun.com/2021/11/13/arundel-field-hockey-takes-down-river-hill-2-1-to-secure-first-3a-state-championship/"
+    },
+    {
+      "year": "2021",
+      "classification": "4A",
+      "champion": "Severna Park",
+      "score": "2-0",
+      "finalist": "Winston Churchill",
+      "source": "https://www.baltimoresun.com/2021/11/13/severna-park-field-hockey-captures-record-extending-25th-state-title-with-2-0-win-over-churchill/"
+    },
+    {
+      "year": "2022",
+      "classification": "1A",
+      "champion": "Pocomoke",
+      "score": "5-1",
+      "finalist": "South Carroll",
+      "source": "https://www.baltimoresun.com/2022/11/12/south-carroll-field-hockey-falls-to-pocomoke-5-1-in-class-1a-state-championship/"
+    },
+    {
+      "year": "2022",
+      "classification": "2A",
+      "champion": "Glenelg",
+      "score": "2-0",
+      "finalist": "Manchester Valley",
+      "source": "https://www.baltimoresun.com/2022/11/12/no-11-glenelg-field-hockey-beats-no-9-manchester-valley-2-0-in-class-2a-final-for-second-straight-state-title/"
+    },
+    {
+      "year": "2022",
+      "classification": "3A",
+      "champion": "Crofton",
+      "score": "2-1",
+      "finalist": "River Hill",
+      "source": "https://www.baltimoresun.com/2022/11/12/no-4-crofton-field-hockey-scores-late-to-edge-no-6-river-hill-2-1-in-class-3a-final-for-first-state-championship/"
+    },
+    {
+      "year": "2022",
+      "classification": "4A",
+      "champion": "Broadneck",
+      "score": "2-0",
+      "finalist": "Winston Churchill",
+      "source": "https://www.baltimoresun.com/2022/11/12/no-1-broadneck-field-hockey-beats-churchill-2-0-in-class-4a-final-to-win-first-state-championship-since-2002/"
+    },
+    {
+      "year": "2023",
+      "classification": "1A",
+      "champion": "South Carroll",
+      "score": "2-1",
+      "finalist": "Pocomoke",
+      "source": "https://www.mpssaa.org/2023-field-hockey-championships-recap/"
+    },
+    {
+      "year": "2023",
+      "classification": "2A",
+      "champion": "Glenelg",
+      "score": "4-0",
+      "finalist": "Hereford",
+      "source": "https://www.mpssaa.org/2023-field-hockey-championships-recap/"
+    },
+    {
+      "year": "2023",
+      "classification": "3A",
+      "champion": "Mount Hebron",
+      "score": "5-1",
+      "finalist": "Northern-Calvert",
+      "source": "https://www.mpssaa.org/2023-field-hockey-championships-recap/"
+    },
+    {
+      "year": "2023",
+      "classification": "4A",
+      "champion": "Crofton",
+      "score": "5-0",
+      "finalist": "Winston Churchill",
+      "source": "https://www.mpssaa.org/2023-field-hockey-championships-recap/"
+    },
+    {
+      "year": "2024",
+      "classification": "1A",
+      "champion": "Pocomoke",
+      "score": "3-1",
+      "finalist": "Patuxent",
+      "source": "https://www.washingtonpost.com/sports/2024/11/09/patuxent-pocomoke-field-hockey/"
+    },
+    {
+      "year": "2024",
+      "classification": "2A",
+      "champion": "Manchester Valley",
+      "score": "5-3",
+      "finalist": "Glenelg",
+      "source": "https://www.washingtonpost.com/sports/2024/11/09/glenelg-field-hockey-maryland/"
+    },
+    {
+      "year": "2024",
+      "classification": "3A",
+      "champion": "Severna Park",
+      "score": "4-0",
+      "finalist": "Westminster",
+      "source": "https://www.washingtonpost.com/sports/2024/11/09/severna-park-field-hockey-md/"
+    },
+    {
+      "year": "2024",
+      "classification": "4A",
+      "champion": "Crofton",
+      "score": "2-0",
+      "finalist": "Broadneck",
+      "source": "https://www.capitalgazette.com/2024/11/09/crofton-field-hockey-broadneck-class-4a-state-final/"
+    }
+  ]
+}

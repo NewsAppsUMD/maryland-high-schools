@@ -1,0 +1,231 @@
+{
+  "sport": "Baseball",
+  "season": "spring",
+  "note": "Runner-up (finalist) schools for MPSSAA baseball state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Scope: the four-classification era 2018-2025 (no 2020 = COVID). Add entries year-by-year; keep sources.",
+  "entries": [
+    {
+      "year": "2018",
+      "classification": "1A",
+      "champion": "Boonsboro",
+      "score": "12-9 (9)",
+      "finalist": "St. Michaels",
+      "source": "https://www.baltimorebaseball.com/2018/05/26/class-1a-championship-boonsboro-earns-redemption-12-9-win-extras/"
+    },
+    {
+      "year": "2018",
+      "classification": "2A",
+      "champion": "Century",
+      "score": "4-1",
+      "finalist": "La Plata",
+      "source": "https://www.baltimorebaseball.com/2018/05/26/class-2a-championship-century-uses-big-blast-great-pitching-win-first-title/"
+    },
+    {
+      "year": "2018",
+      "classification": "3A",
+      "champion": "Gov. Thomas Johnson",
+      "score": "3-2",
+      "finalist": "Huntingtown",
+      "source": "https://www.baltimorebaseball.com/2018/05/27/class-3a-championship-thomas-johnson-wins-fourth-title-first-since-2002/"
+    },
+    {
+      "year": "2018",
+      "classification": "4A",
+      "champion": "Howard",
+      "score": "5-4",
+      "finalist": "Severna Park",
+      "source": "https://www.baltimorebaseball.com/2018/05/26/class-4a-championship-howard-explodes-four-run-walkoff-rally-win-first-state-title/"
+    },
+    {
+      "year": "2019",
+      "classification": "1A",
+      "champion": "Col. Richardson",
+      "score": "6-0 (9)",
+      "finalist": "McDonough",
+      "source": "https://www.mpssaa.org/2019-state-baseball-champions-epitomize-the-we-before-me-philosophy/"
+    },
+    {
+      "year": "2019",
+      "classification": "2A",
+      "champion": "La Plata",
+      "score": "4-2",
+      "finalist": "Middletown",
+      "source": "https://www.mpssaa.org/2019-state-baseball-champions-epitomize-the-we-before-me-philosophy/"
+    },
+    {
+      "year": "2019",
+      "classification": "3A",
+      "champion": "James M. Bennett",
+      "score": "5-3",
+      "finalist": "C. Milton Wright",
+      "source": "https://www.mpssaa.org/2019-state-baseball-champions-epitomize-the-we-before-me-philosophy/"
+    },
+    {
+      "year": "2019",
+      "classification": "4A",
+      "champion": "Old Mill",
+      "score": "4-3 (9)",
+      "finalist": "Sherwood",
+      "source": "https://www.capitalgazette.com/2019/05/24/old-mill-rallies-to-win-state-baseball-title/"
+    },
+    {
+      "year": "2021",
+      "classification": "1A",
+      "champion": "Catoctin",
+      "score": "10-3",
+      "finalist": "St. Michaels",
+      "source": "https://www.mpssaa.org/2021-state-championship-recap/"
+    },
+    {
+      "year": "2021",
+      "classification": "2A",
+      "champion": "La Plata",
+      "score": "8-7",
+      "finalist": "Sparrows Point",
+      "source": "https://www.mpssaa.org/2021-state-championship-recap/"
+    },
+    {
+      "year": "2021",
+      "classification": "3A",
+      "champion": "Chopticon",
+      "score": "4-2",
+      "finalist": "Atholton",
+      "source": "https://www.mpssaa.org/2021-state-championship-recap/"
+    },
+    {
+      "year": "2021",
+      "classification": "4A",
+      "champion": "Sherwood",
+      "score": "5-4 (8)",
+      "finalist": "Severna Park",
+      "source": "https://www.capitalgazette.com/2021/06/19/severna-park-baseball-suffers-more-postseason-heartbreak-falls-to-sherwood-5-4-in-extras-in-4a-title-game/"
+    },
+    {
+      "year": "2022",
+      "classification": "1A",
+      "champion": "Clear Spring",
+      "score": "11-3",
+      "finalist": "Col. Richardson",
+      "source": "https://www.mpssaa.org/2022-mpssaa-baseball-recap/"
+    },
+    {
+      "year": "2022",
+      "classification": "2A",
+      "champion": "Glenelg",
+      "score": "4-1",
+      "finalist": "Patuxent",
+      "source": "https://thebaynet.com/glenelg-prevails-over-patuxent-in-competitive-state-championship-game/"
+    },
+    {
+      "year": "2022",
+      "classification": "3A",
+      "champion": "Chesapeake-AA",
+      "score": "5-1",
+      "finalist": "Towson",
+      "source": "https://www.mpssaa.org/2022-mpssaa-baseball-recap/"
+    },
+    {
+      "year": "2022",
+      "classification": "4A",
+      "champion": "Sherwood",
+      "score": "11-0 (5)",
+      "finalist": "Severna Park",
+      "source": "https://www.mpssaa.org/2022-mpssaa-baseball-recap/"
+    },
+    {
+      "year": "2023",
+      "classification": "1A",
+      "champion": "Clear Spring",
+      "score": "3-2 (11)",
+      "finalist": "Col. Richardson",
+      "source": "https://www.heraldmailmedia.com/story/sports/high-school/2023/05/27/clear-spring-blazers-win-maryland-class-1a-baseball-title-for-their-boys-upstairs/70255169007/"
+    },
+    {
+      "year": "2023",
+      "classification": "2A",
+      "champion": "Parkside",
+      "score": "3-1",
+      "finalist": "Patuxent",
+      "source": "https://www.delmarvanow.com/story/sports/high-school/2023/05/27/parkside-defeats-patuxent-for-class-2a-baseball-state-championship/70264261007/"
+    },
+    {
+      "year": "2023",
+      "classification": "3A",
+      "champion": "River Hill",
+      "score": "1-0",
+      "finalist": "C. Milton Wright",
+      "source": "https://www.baltimoresun.com/2023/05/27/river-hill-baseball-captures-second-state-title-defeating-c-milton-wright-1-0-our-dream-season-became-a-reality/"
+    },
+    {
+      "year": "2023",
+      "classification": "4A",
+      "champion": "Sherwood",
+      "score": "7-4",
+      "finalist": "Urbana",
+      "source": "https://www.washingtonpost.com/sports/2023/05/26/sherwood-urbana-maryland-baseball/"
+    },
+    {
+      "year": "2024",
+      "classification": "1A",
+      "champion": "Brunswick",
+      "score": "4-1",
+      "finalist": "Patterson Mill",
+      "source": "https://www.mpssaa.org/2024-baseball-state-championship-results/"
+    },
+    {
+      "year": "2024",
+      "classification": "2A",
+      "champion": "Middletown",
+      "score": "6-5",
+      "finalist": "Glenelg",
+      "source": "https://www.mpssaa.org/2024-baseball-state-championship-results/"
+    },
+    {
+      "year": "2024",
+      "classification": "3A",
+      "champion": "Col. Zadok Magruder",
+      "score": "4-0",
+      "finalist": "Chesapeake-AA",
+      "source": "https://www.mpssaa.org/2024-baseball-state-championship-results/"
+    },
+    {
+      "year": "2024",
+      "classification": "4A",
+      "champion": "Leonardtown",
+      "score": "2-0",
+      "finalist": "Walt Whitman",
+      "source": "https://www.mpssaa.org/2024-baseball-state-championship-results/"
+    },
+    {
+      "year": "2025",
+      "classification": "1A",
+      "champion": "Allegany",
+      "score": "6-2",
+      "finalist": "St. Michaels",
+      "source": "https://sports.yahoo.com/article/allegany-wins-class-1a-state-035900124.html"
+    },
+    {
+      "year": "2025",
+      "classification": "2A",
+      "champion": "Huntingtown",
+      "score": "1-0",
+      "finalist": "Parkside",
+      "source": "https://www.somdnews.com/sports/high_school/huntingtown-baseball-wins-2a-title-but-chopticon-baseball-falls/article_98caab93-dd18-4222-9990-aa471ce5f523.html"
+    },
+    {
+      "year": "2025",
+      "classification": "3A",
+      "champion": "Sherwood",
+      "score": "8-3",
+      "finalist": "Chopticon",
+      "source": "https://sports.yahoo.com/article/2025-maryland-baseball-state-championships-023012624.html"
+    },
+    {
+      "year": "2025",
+      "classification": "4A",
+      "champion": "Walter Johnson",
+      "score": "7-6",
+      "finalist": "Urbana",
+      "source": "https://dcsportsfan.com/2025/05/26/maryland-4a-baseball-final-photos-walter-johnson-7-urbana-6/"
+    }
+  ]
+}

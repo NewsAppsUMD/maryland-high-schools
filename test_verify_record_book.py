@@ -24,10 +24,14 @@ from verify_record_book import (
     check_cross_path,
     check_duplicate_keys,
     check_era_floors,
+    check_finalist_coverage,
     check_referential_schools,
     check_regression,
     llm_champion_years,
     record_champion_years,
+    CONTEST_SPORT_FINALIST_FLOOR,
+    FINALIST_WARN_ONLY,
+    KNOWN_GAPS,
 )
 
 
@@ -571,3 +575,75 @@ class TestTableKeys:
         legacy_row = {"sport": "Golf", "year": 2024}
         key_fields = ("sport", "year", "individual_gender")
         assert _key_tuple(current_row, key_fields) == _key_tuple(legacy_row, key_fields)
+
+class TestFinalistCoverage:
+    """check_finalist_coverage — contest-sport finalist_school fill rate."""
+
+    def _rows(self, filled_count, total, sport="Football", start_year=2000):
+        rows = []
+        for i in range(total):
+            rows.append({
+                "sport": sport, "year": start_year + i,
+                "classification": "4A", "champion_school": "Fort Hill",
+                "finalist_school": "Bel Air" if i < filled_count else "",
+                "score": "21-14", "notes": "",
+            })
+        return rows
+
+    def test_ok_above_floor(self):
+        # Every eligible row filled -> status ok, no warnings/errors.
+        book = {"championship_results": self._rows(filled_count=10, total=10)}
+        rep = check_finalist_coverage(book)
+        assert rep["errors"] == 0
+        assert rep["warnings"] == 0
+        info = rep["sports"]["Football"]
+        assert info["status"] == "ok"
+        assert info["coverage"] == 1.0
+
+    def test_below_floor_warns_not_errors(self):
+        # 0/10 filled -> below the 0.80 floor; warn-only => warning, not error.
+        book = {"championship_results": self._rows(filled_count=0, total=10)}
+        rep = check_finalist_coverage(book)
+        assert rep["errors"] == 0
+        assert rep["warnings"] == 1
+        info = rep["sports"]["Football"]
+        assert info["status"] == "below_floor"
+        assert info["coverage"] == 0.0
+        assert len(info["missing"]) == 10
+
+    def test_pre_mpssaa_excluded(self):
+        rows = self._rows(filled_count=0, total=2)
+        rows.append({"sport": "Football", "year": 1946, "classification": "A",
+                     "champion_school": "Towson", "finalist_school": "",
+                     "score": "6-0", "notes": "Pre-MPSSAA"})
+        book = {"championship_results": rows}
+        rep = check_finalist_coverage(book)
+        # 2 eligible (the Pre-MPSSAA row is excluded), 0 filled -> below floor.
+        assert rep["sports"]["Football"]["eligible"] == 2
+
+    def test_known_gap_year_excluded(self):
+        # Boys Basketball 2021 is a KNOWN_GAP (winter COVID cancellation).
+        rows = self._rows(filled_count=0, total=2, sport="Boys Basketball",
+                          start_year=2020)
+        # rows are 2020 and 2021; 2021 is a gap -> only 2021 excluded
+        rows[1]["year"] = 2021  # ensure the gap year is the second row
+        book = {"championship_results": rows}
+        rep = check_finalist_coverage(book)
+        assert 2021 in KNOWN_GAPS["Boys Basketball"]
+        assert rep["sports"]["Boys Basketball"]["eligible"] == 1
+
+    def test_no_score_excluded(self):
+        # A contest row without a score is not a back-fill target.
+        rows = self._rows(filled_count=0, total=1)
+        rows[0]["score"] = ""
+        book = {"championship_results": rows}
+        rep = check_finalist_coverage(book)
+        # eligible == 0 -> sport skipped entirely
+        assert "Football" not in rep["sports"]
+
+    def test_enforced_when_not_warn_only(self, monkeypatch):
+        monkeypatch.setattr(vrb, "FINALIST_WARN_ONLY", False)
+        book = {"championship_results": self._rows(filled_count=0, total=10)}
+        rep = check_finalist_coverage(book)
+        assert rep["errors"] == 1
+        assert rep["warnings"] == 0

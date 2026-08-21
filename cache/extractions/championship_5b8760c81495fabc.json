@@ -7,7 +7,8 @@
       68,
       69
     ],
-    "extracted_at": "2026-08-02T13:27:42Z"
+    "extracted_at": "2026-08-02T13:27:42Z",
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -1738,9 +1739,10 @@
       "classification": "4A",
       "champion_school": "Northwest",
       "champion_coach": "Stephanie Blake",
-      "finalist_school": null,
+      "finalist_school": "Urbana",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1748,9 +1750,10 @@
       "classification": "3A",
       "champion_school": "Atholton",
       "champion_coach": "Larry Schofield",
-      "finalist_school": null,
+      "finalist_school": "Bel Air",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1758,9 +1761,10 @@
       "classification": "2A",
       "champion_school": "Williamsport",
       "champion_coach": "Karen Moyer",
-      "finalist_school": null,
+      "finalist_school": "Glenelg",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1768,9 +1772,10 @@
       "classification": "1A",
       "champion_school": "Clear Spring",
       "champion_coach": "Jessica Custer",
-      "finalist_school": null,
+      "finalist_school": "Western Tech",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1778,9 +1783,10 @@
       "classification": "4A",
       "champion_school": "Arundel",
       "champion_coach": "Ashley Yuscavage",
-      "finalist_school": null,
+      "finalist_school": "Broadneck",
       "finalist_coach": null,
-      "score": "3-2"
+      "score": "3-2",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1788,9 +1794,10 @@
       "classification": "3A",
       "champion_school": "Col. Zadok Magruder",
       "champion_coach": "Scott Zanni",
-      "finalist_school": null,
+      "finalist_school": "Northern",
       "finalist_coach": null,
-      "score": "3-1"
+      "score": "3-1",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1798,9 +1805,10 @@
       "classification": "2A",
       "champion_school": "Century",
       "champion_coach": "Bryan Trumbo",
-      "finalist_school": null,
+      "finalist_school": "Oakdale",
       "finalist_coach": null,
-      "score": "3-1"
+      "score": "3-1",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1808,9 +1816,10 @@
       "classification": "1A",
       "champion_school": "Smithsburg",
       "champion_coach": "Rachel Bachtell",
-      "finalist_school": null,
+      "finalist_school": "Patterson Mill",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1818,9 +1827,10 @@
       "classification": "4A",
       "champion_school": "Arundel",
       "champion_coach": "Ashley Yuscavage",
-      "finalist_school": null,
+      "finalist_school": "Leonardtown",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1828,9 +1838,10 @@
       "classification": "3A",
       "champion_school": "Reservoir",
       "champion_coach": "Carole Ferrante",
-      "finalist_school": null,
+      "finalist_school": "Huntingtown",
       "finalist_coach": null,
-      "score": "3-1"
+      "score": "3-1",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1838,9 +1849,10 @@
       "classification": "2A",
       "champion_school": "Glenelg",
       "champion_coach": "Jason Monjes",
-      "finalist_school": null,
+      "finalist_school": "Century",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1848,9 +1860,10 @@
       "classification": "1A",
       "champion_school": "Williamsport",
       "champion_coach": "Karen Hampton",
-      "finalist_school": null,
+      "finalist_school": "Mountain Ridge",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1858,9 +1871,10 @@
       "classification": "4A",
       "champion_school": "Urbana",
       "champion_coach": "Jerry Burge",
-      "finalist_school": null,
+      "finalist_school": "Arundel",
       "finalist_coach": null,
-      "score": "3-2"
+      "score": "3-2",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1868,9 +1882,10 @@
       "classification": "3A",
       "champion_school": "North Hagerstown",
       "champion_coach": "Megan Crawford",
-      "finalist_school": null,
+      "finalist_school": "Northern-Calvert",
       "finalist_coach": null,
-      "score": "3-1"
+      "score": "3-1",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1878,9 +1893,10 @@
       "classification": "2A",
       "champion_school": "Liberty",
       "champion_coach": "Sheri Hagen",
-      "finalist_school": null,
+      "finalist_school": "Middletown",
       "finalist_coach": null,
-      "score": "3-1"
+      "score": "3-1",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1888,9 +1904,10 @@
       "classification": "1A",
       "champion_school": "Clear Spring",
       "champion_coach": "Jessica Custer",
-      "finalist_school": null,
+      "finalist_school": "South Carroll",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1898,9 +1915,10 @@
       "classification": "4A",
       "champion_school": "Richard Montgomery",
       "champion_coach": "Gretchen Barber-Strunk",
-      "finalist_school": null,
+      "finalist_school": "Leonardtown",
       "finalist_coach": null,
-      "score": "3-1"
+      "score": "3-1",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1908,9 +1926,10 @@
       "classification": "3A",
       "champion_school": "North Hagerstown",
       "champion_coach": "Lacie Johnson",
-      "finalist_school": null,
+      "finalist_school": "Arundel",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1918,9 +1937,10 @@
       "classification": "2A",
       "champion_school": "Centennial",
       "champion_coach": "Michael Bossom",
-      "finalist_school": null,
+      "finalist_school": "Calvert",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1928,9 +1948,10 @@
       "classification": "1A",
       "champion_school": "Clear Spring",
       "champion_coach": "Jessica Custer",
-      "finalist_school": null,
+      "finalist_school": "Smithsburg",
       "finalist_coach": null,
-      "score": "3-2"
+      "score": "3-2",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1938,9 +1959,10 @@
       "classification": "4A",
       "champion_school": "Richard Montgomery",
       "champion_coach": "Gretchen Barber-Strunk",
-      "finalist_school": null,
+      "finalist_school": "Broadneck",
       "finalist_coach": null,
-      "score": "3-"
+      "score": "3-",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1948,9 +1970,10 @@
       "classification": "3A",
       "champion_school": "North Hagerstown",
       "champion_coach": "Lacie Johnson",
-      "finalist_school": null,
+      "finalist_school": "Thomas S. Wootton",
       "finalist_coach": null,
-      "score": "3-0"
+      "score": "3-0",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1958,9 +1981,10 @@
       "classification": "2A",
       "champion_school": "Williamsport",
       "champion_coach": "Karen Hampton",
-      "finalist_school": null,
+      "finalist_school": "Centennial",
       "finalist_coach": null,
-      "score": "3-1"
+      "score": "3-1",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Volleyball",
@@ -1968,9 +1992,10 @@
       "classification": "1A",
       "champion_school": "Boonsboro",
       "champion_coach": "Shelby Wallace",
-      "finalist_school": null,
+      "finalist_school": "Clear Spring",
       "finalist_coach": null,
-      "score": "3-1"
+      "score": "3-1",
+      "notes": "finalist:recap-verified"
     }
   ]
 }

@@ -6,7 +6,8 @@
     "source_pages": [
       31
     ],
-    "extracted_at": "2026-08-02T13:16:19Z"
+    "extracted_at": "2026-08-02T13:16:19Z",
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -431,12 +432,12 @@
       "classification": "4A",
       "champion_school": "South River",
       "champion_coach": "Megan Atkinson",
-      "finalist_school": null,
+      "finalist_school": "Dulaney",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -444,12 +445,12 @@
       "classification": "3A",
       "champion_school": "C. Milton Wright",
       "champion_coach": "Kelly Mattingly",
-      "finalist_school": null,
+      "finalist_school": "Chesapeake-AA",
       "finalist_coach": null,
       "score": "3-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -457,12 +458,12 @@
       "classification": "2A",
       "champion_school": "Liberty",
       "champion_coach": "Brenda Strohmer",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -470,12 +471,12 @@
       "classification": "1A",
       "champion_school": "South Carroll",
       "champion_coach": "Julie Radnoff",
-      "finalist_school": null,
+      "finalist_school": "Patuxent",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -483,12 +484,12 @@
       "classification": "4A",
       "champion_school": "Severna Park",
       "champion_coach": "Shannon Garden",
-      "finalist_school": null,
+      "finalist_school": "Dulaney",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -496,12 +497,12 @@
       "classification": "3A",
       "champion_school": "Westminster",
       "champion_coach": "Laurie Naill",
-      "finalist_school": null,
+      "finalist_school": "Urbana",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -509,12 +510,12 @@
       "classification": "2A",
       "champion_school": "Marriotts Ridge",
       "champion_coach": "Stacie Gado",
-      "finalist_school": null,
+      "finalist_school": "Oakdale",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -522,12 +523,12 @@
       "classification": "1A",
       "champion_school": "Liberty",
       "champion_coach": "Brenda Strohmer",
-      "finalist_school": null,
+      "finalist_school": "Washington",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -535,12 +536,12 @@
       "classification": "4A",
       "champion_school": "Severna Park",
       "champion_coach": "Shannon Garden",
-      "finalist_school": null,
+      "finalist_school": "Winston Churchill",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -548,12 +549,12 @@
       "classification": "3A",
       "champion_school": "Arundel",
       "champion_coach": "Carrie Vosburg",
-      "finalist_school": null,
+      "finalist_school": "River Hill",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -561,12 +562,12 @@
       "classification": "2A",
       "champion_school": "Glenelg",
       "champion_coach": "Nicole Trunzo",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -574,12 +575,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Brandi Castaneda",
-      "finalist_school": null,
+      "finalist_school": "Patuxent",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -587,12 +588,12 @@
       "classification": "4A",
       "champion_school": "Broadneck",
       "champion_coach": "Shannon Hanratty",
-      "finalist_school": null,
+      "finalist_school": "Winston Churchill",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -600,12 +601,12 @@
       "classification": "3A",
       "champion_school": "Crofton",
       "champion_coach": "Amy Skrickus",
-      "finalist_school": null,
+      "finalist_school": "River Hill",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -613,12 +614,12 @@
       "classification": "2A",
       "champion_school": "Glenelg",
       "champion_coach": "Christina Giampalmo",
-      "finalist_school": null,
+      "finalist_school": "Manchester Valley",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -626,12 +627,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Kasey Hickman",
-      "finalist_school": null,
+      "finalist_school": "South Carroll",
       "finalist_coach": null,
       "score": "5-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -639,12 +640,12 @@
       "classification": "4A",
       "champion_school": "Crofton",
       "champion_coach": "Amy Skrickus",
-      "finalist_school": null,
+      "finalist_school": "Winston Churchill",
       "finalist_coach": null,
       "score": "5-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -652,12 +653,12 @@
       "classification": "3A",
       "champion_school": "Mount Hebron",
       "champion_coach": "Jeanette Ireland",
-      "finalist_school": null,
+      "finalist_school": "Northern-Calvert",
       "finalist_coach": null,
       "score": "5-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -665,12 +666,12 @@
       "classification": "2A",
       "champion_school": "Glenelg",
       "champion_coach": "Martie Dyer",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
       "score": "4-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -678,12 +679,12 @@
       "classification": "1A",
       "champion_school": "South Carroll",
       "champion_coach": "Kayla Holston",
-      "finalist_school": null,
+      "finalist_school": "Pocomoke",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -691,12 +692,12 @@
       "classification": "4A",
       "champion_school": "Crofton",
       "champion_coach": "Amy Skrickus",
-      "finalist_school": null,
+      "finalist_school": "Broadneck",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -704,12 +705,12 @@
       "classification": "3A",
       "champion_school": "Severna Park",
       "champion_coach": "Shannon Garden",
-      "finalist_school": null,
+      "finalist_school": "Westminster",
       "finalist_coach": null,
       "score": "4-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -717,12 +718,12 @@
       "classification": "2A",
       "champion_school": "Manchester Valley",
       "champion_coach": "Denean Koontz",
-      "finalist_school": null,
+      "finalist_school": "Glenelg",
       "finalist_coach": null,
       "score": "5-3",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -730,12 +731,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Brandi Castaneda",
-      "finalist_school": null,
+      "finalist_school": "Patuxent",
       "finalist_coach": null,
       "score": "3-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     }
   ]
 }
