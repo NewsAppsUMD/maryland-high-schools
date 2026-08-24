@@ -1369,12 +1369,12 @@
       "classification": "4A",
       "champion_school": "Gaithersburg",
       "champion_coach": "Kreg Kephart",
-      "finalist_school": null,
+      "finalist_school": "Sherwood",
       "finalist_coach": null,
       "score": "24-21",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1382,12 +1382,12 @@
       "classification": "3A",
       "champion_school": "Calvert",
       "champion_coach": "Jerry Franks",
-      "finalist_school": null,
+      "finalist_school": "Annapolis",
       "finalist_coach": null,
       "score": "34-22",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1395,12 +1395,12 @@
       "classification": "2A",
       "champion_school": "Urbana",
       "champion_coach": "Dave Carruthers",
-      "finalist_school": null,
+      "finalist_school": "Gwynn Park",
       "finalist_coach": null,
       "score": "49-8",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1408,12 +1408,12 @@
       "classification": "1A",
       "champion_school": "Elkton",
       "champion_coach": "Bill Russell",
-      "finalist_school": null,
+      "finalist_school": "Forestville",
       "finalist_coach": null,
       "score": "21-8",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1421,12 +1421,12 @@
       "classification": "4A",
       "champion_school": "Bowie",
       "champion_coach": "Scott Chadwick",
-      "finalist_school": null,
+      "finalist_school": "Eleanor Roosevelt",
       "finalist_coach": null,
       "score": "23-6",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1434,12 +1434,12 @@
       "classification": "3A",
       "champion_school": "Urbana",
       "champion_coach": "Dave Carruthers",
-      "finalist_school": null,
+      "finalist_school": "Patuxent",
       "finalist_coach": null,
       "score": "7-6",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1447,12 +1447,12 @@
       "classification": "2A",
       "champion_school": "Hereford",
       "champion_coach": "Steve Turnbaugh",
-      "finalist_school": null,
+      "finalist_school": "Joppatowne",
       "finalist_coach": null,
       "score": "43-15",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1460,12 +1460,12 @@
       "classification": "1A",
       "champion_school": "Allegany",
       "champion_coach": "Tim Kane",
-      "finalist_school": null,
+      "finalist_school": "Oakland Mills",
       "finalist_coach": null,
       "score": "27-26",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1473,12 +1473,12 @@
       "classification": "4A",
       "champion_school": "Parkdale",
       "champion_coach": "Mike Rucker",
-      "finalist_school": null,
+      "finalist_school": "Sherwood",
       "finalist_coach": null,
       "score": "34-14",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1486,12 +1486,12 @@
       "classification": "3A",
       "champion_school": "Seneca Valley",
       "champion_coach": "Terry Changuris",
-      "finalist_school": null,
+      "finalist_school": "Linganore",
       "finalist_coach": null,
       "score": "14-7",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1499,12 +1499,12 @@
       "classification": "2A",
       "champion_school": "Hereford",
       "champion_coach": "Steve Turnbaugh",
-      "finalist_school": null,
+      "finalist_school": "Middletown",
       "finalist_coach": null,
       "score": "20-9",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1512,12 +1512,12 @@
       "classification": "1A",
       "champion_school": "Bohemia Manor",
       "champion_coach": "Todd Shives",
-      "finalist_school": null,
+      "finalist_school": "Beall",
       "finalist_coach": null,
       "score": "34-27",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1525,12 +1525,12 @@
       "classification": "4A",
       "champion_school": "Damascus",
       "champion_coach": "Dan Makosy",
-      "finalist_school": null,
+      "finalist_school": "Broadneck",
       "finalist_coach": null,
       "score": "13-7",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1538,12 +1538,12 @@
       "classification": "3A",
       "champion_school": "Linganore",
       "champion_coach": "Rick Conner",
-      "finalist_school": null,
+      "finalist_school": "Henry E. Lackey",
       "finalist_coach": null,
       "score": "28-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1551,12 +1551,12 @@
       "classification": "2A",
       "champion_school": "Aberdeen",
       "champion_coach": "Joe Harbert",
-      "finalist_school": null,
+      "finalist_school": "Potomac",
       "finalist_coach": null,
       "score": "33-25 (OT)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1564,12 +1564,12 @@
       "classification": "1A",
       "champion_school": "Joppatowne",
       "champion_coach": "Greg Komondor",
-      "finalist_school": null,
+      "finalist_school": "Beall",
       "finalist_coach": null,
       "score": "26-6",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1577,12 +1577,12 @@
       "classification": "4A",
       "champion_school": "Suitland",
       "champion_coach": "Nick Lynch",
-      "finalist_school": null,
+      "finalist_school": "Damascus",
       "finalist_coach": null,
       "score": "14-7",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1590,12 +1590,12 @@
       "classification": "3A",
       "champion_school": "Northwest",
       "champion_coach": "Randy Trivers",
-      "finalist_school": null,
+      "finalist_school": "Henry E. Lackey",
       "finalist_coach": null,
       "score": "14-9",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1603,12 +1603,12 @@
       "classification": "2A",
       "champion_school": "Potomac",
       "champion_coach": "Eric Knight",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
       "score": "19-12",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1616,12 +1616,12 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Benjamin Eaton",
-      "finalist_school": null,
+      "finalist_school": "Joppatowne",
       "finalist_coach": null,
       "score": "16-14",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1629,12 +1629,12 @@
       "classification": "4A",
       "champion_school": "Damascus",
       "champion_coach": "Dan Mokosy",
-      "finalist_school": null,
+      "finalist_school": "Sherwood",
       "finalist_coach": null,
       "score": "20-6",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1642,12 +1642,12 @@
       "classification": "3A",
       "champion_school": "Gwynn Park",
       "champion_coach": "Danny Hayes",
-      "finalist_school": null,
+      "finalist_school": "Westminster",
       "finalist_coach": null,
       "score": "20-14 (2 OT)",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1655,12 +1655,12 @@
       "classification": "2A",
       "champion_school": "Potomac",
       "champion_coach": "Eric Knight",
-      "finalist_school": null,
+      "finalist_school": "South Carroll",
       "finalist_coach": null,
       "score": "38-3",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1668,12 +1668,12 @@
       "classification": "1A",
       "champion_school": "Allegany",
       "champion_coach": "Tom Preaskorn",
-      "finalist_school": null,
+      "finalist_school": "Snow Hill",
       "finalist_coach": null,
       "score": "41-20",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1681,12 +1681,12 @@
       "classification": "4A",
       "champion_school": "Suitland",
       "champion_coach": "Nick Lynch",
-      "finalist_school": null,
+      "finalist_school": "Sherwood",
       "finalist_coach": null,
       "score": "39-38 (OT)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1694,12 +1694,12 @@
       "classification": "3A",
       "champion_school": "Friendly",
       "champion_coach": "George Earley",
-      "finalist_school": null,
+      "finalist_school": "River Hill",
       "finalist_coach": null,
       "score": "37-18",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1707,12 +1707,12 @@
       "classification": "2A",
       "champion_school": "Edmondson",
       "champion_coach": "Dante Jones",
-      "finalist_school": null,
+      "finalist_school": "Maurice J. McDonough",
       "finalist_coach": null,
       "score": "37-9",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1720,12 +1720,12 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Benjamin Eaton",
-      "finalist_school": null,
+      "finalist_school": "Fort Hill",
       "finalist_coach": null,
       "score": "38-23",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1733,12 +1733,12 @@
       "classification": "4A",
       "champion_school": "Quince Orchard",
       "champion_coach": "Dave Mencarini",
-      "finalist_school": null,
+      "finalist_school": "Arundel",
       "finalist_coach": null,
       "score": "36-30",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1746,12 +1746,12 @@
       "classification": "3A",
       "champion_school": "Damascus",
       "champion_coach": "Dan Makosy",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
       "score": "40-20",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1759,12 +1759,12 @@
       "classification": "2A",
       "champion_school": "River Hill",
       "champion_coach": "Brian Van Deusen",
-      "finalist_school": null,
+      "finalist_school": "Eastern Technical",
       "finalist_coach": null,
       "score": "14-7",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1772,12 +1772,12 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Lawrence Smith",
-      "finalist_school": null,
+      "finalist_school": "Allegany",
       "finalist_coach": null,
       "score": "58-34",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1785,12 +1785,12 @@
       "classification": "4A",
       "champion_school": "Sherwood",
       "champion_coach": "Al Thomas",
-      "finalist_school": null,
+      "finalist_school": "Linganore",
       "finalist_coach": null,
       "score": "21-3",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1798,12 +1798,12 @@
       "classification": "3A",
       "champion_school": "Westlake",
       "champion_coach": "Dominic Zaccarelli",
-      "finalist_school": null,
+      "finalist_school": "Wilde Lake",
       "finalist_coach": null,
       "score": "13-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1811,12 +1811,12 @@
       "classification": "2A",
       "champion_school": "River Hill",
       "champion_coach": "Brian Van Deusen",
-      "finalist_school": null,
+      "finalist_school": "Eastern Technical",
       "finalist_coach": null,
       "score": "31-6",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1824,12 +1824,12 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Lawrence Smith",
-      "finalist_school": null,
+      "finalist_school": "Fort Hill",
       "finalist_coach": null,
       "score": "20-19",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1837,12 +1837,12 @@
       "classification": "4A",
       "champion_school": "Old Mill",
       "champion_coach": "Damian Ferragamo",
-      "finalist_school": null,
+      "finalist_school": "Dr. Henry A. Wise, Jr.",
       "finalist_coach": null,
       "score": "17-16",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1850,12 +1850,12 @@
       "classification": "3A",
       "champion_school": "Linganore",
       "champion_coach": "Rick Conner",
-      "finalist_school": null,
+      "finalist_school": "Huntingtown",
       "finalist_coach": null,
       "score": "31-14",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1863,12 +1863,12 @@
       "classification": "2A",
       "champion_school": "Eastern Technical",
       "champion_coach": "Marc Mesaros",
-      "finalist_school": null,
+      "finalist_school": "Queen Anne's",
       "finalist_coach": null,
       "score": "16-8",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1876,12 +1876,12 @@
       "classification": "1A",
       "champion_school": "Catoctin",
       "champion_coach": "Doug Williams",
-      "finalist_school": null,
+      "finalist_school": "Joppatowne",
       "finalist_coach": null,
       "score": "37-12",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1941,12 +1941,12 @@
       "classification": "4A",
       "champion_school": "Old Mill",
       "champion_coach": "Chad McCormick",
-      "finalist_school": null,
+      "finalist_school": "Quince Orchard",
       "finalist_coach": null,
       "score": "36-35",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1954,12 +1954,12 @@
       "classification": "3A",
       "champion_school": "River Hill",
       "champion_coach": "Brian Van Deusen",
-      "finalist_school": null,
+      "finalist_school": "Gov. Thomas Johnson",
       "finalist_coach": null,
       "score": "41-13",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1967,12 +1967,12 @@
       "classification": "2A",
       "champion_school": "Middletown",
       "champion_coach": "Kevin Lynott",
-      "finalist_school": null,
+      "finalist_school": "Frederick Douglass-PG",
       "finalist_coach": null,
       "score": "43-6",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1980,12 +1980,12 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Lawrence Smith",
-      "finalist_school": null,
+      "finalist_school": "Perryville",
       "finalist_coach": null,
       "score": "32-11",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -1993,12 +1993,12 @@
       "classification": "4A",
       "champion_school": "Dr. Henry A. Wise, Jr.",
       "champion_coach": "DaLawn Parrish",
-      "finalist_school": null,
+      "finalist_school": "Quince Orchard",
       "finalist_coach": null,
       "score": "12-7",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -2006,12 +2006,12 @@
       "classification": "3A",
       "champion_school": "River Hill",
       "champion_coach": "Brian Van Deusen",
-      "finalist_school": null,
+      "finalist_school": "Huntingtown",
       "finalist_coach": null,
       "score": "18-14",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -2019,12 +2019,12 @@
       "classification": "2A",
       "champion_school": "Middletown",
       "champion_coach": "Kevin Lynott",
-      "finalist_school": null,
+      "finalist_school": "Frederick Douglass-PG",
       "finalist_coach": null,
       "score": "30-12",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -2032,12 +2032,12 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Lawrence Smith",
-      "finalist_school": null,
+      "finalist_school": "New Town",
       "finalist_coach": null,
       "score": "39-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -2045,12 +2045,12 @@
       "classification": "4A",
       "champion_school": "Northwest",
       "champion_coach": "Mike Neubeiser",
-      "finalist_school": null,
+      "finalist_school": "Suitland",
       "finalist_coach": null,
       "score": "33-16",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -2058,12 +2058,12 @@
       "classification": "3A",
       "champion_school": "Franklin",
       "champion_coach": "Anthony Burgos",
-      "finalist_school": null,
+      "finalist_school": "Linganore",
       "finalist_coach": null,
       "score": "20-7",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -2071,12 +2071,12 @@
       "classification": "2A",
       "champion_school": "Middletown",
       "champion_coach": "Kevin Lynott",
-      "finalist_school": null,
+      "finalist_school": "Patuxent",
       "finalist_coach": null,
       "score": "17-3",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -2084,12 +2084,12 @@
       "classification": "1A",
       "champion_school": "Fort Hill",
       "champion_coach": "Todd Appel",
-      "finalist_school": null,
+      "finalist_school": "Frederick Douglass-B",
       "finalist_coach": null,
       "score": "25-0",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -2097,12 +2097,12 @@
       "classification": "4A",
       "champion_school": "Northwest",
       "champion_coach": "Mike Neubeiser",
-      "finalist_school": null,
+      "finalist_school": "Old Mill",
       "finalist_coach": null,
       "score": "34-31",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -2110,12 +2110,12 @@
       "classification": "3A",
       "champion_school": "Franklin",
       "champion_coach": "Anthony Burgos",
-      "finalist_school": null,
+      "finalist_school": "Damascus",
       "finalist_coach": null,
       "score": "35-21",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -2123,12 +2123,12 @@
       "classification": "2A",
       "champion_school": "Douglass-PG",
       "champion_coach": "J.C. Pinkney",
-      "finalist_school": null,
+      "finalist_school": "Paul Laurence Dunbar",
       "finalist_coach": null,
       "score": "38-0",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",
@@ -2136,12 +2136,12 @@
       "classification": "1A",
       "champion_school": "Fort Hill",
       "champion_coach": "Todd Appel",
-      "finalist_school": null,
+      "finalist_school": "Frederick Douglass-B",
       "finalist_coach": null,
       "score": "40-8",
       "champion_undefeated": true,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Football",

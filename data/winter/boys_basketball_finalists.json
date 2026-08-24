@@ -3,6 +3,81 @@
   "season": "winter",
   "note": "Runner-up (finalist) schools for MPSSAA boys basketball state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Add entries year-by-year; keep sources. Note: no 2020/2021 state tournament (COVID).",
   "entries": [
+    {"year": "2000", "classification": "AA", "champion": "Oxon Hill",          "score": "60-42",      "finalist": "Gwynn Park",              "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2000", "classification": "A",  "champion": "Paint Branch",       "score": "67-50",      "finalist": "Quince Orchard",          "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2000", "classification": "B",  "champion": "Aberdeen",           "score": "50-48",      "finalist": "Randallstown",            "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2000", "classification": "C",  "champion": "Crisfield",          "score": "42-37",      "finalist": "Pikesville",              "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2001", "classification": "4A", "champion": "Magruder",           "score": "70-58",      "finalist": "Eleanor Roosevelt",       "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2001", "classification": "3A", "champion": "Randallstown",       "score": "62-54",      "finalist": "Gov. Thomas Johnson",     "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2001", "classification": "2A", "champion": "Dunbar",             "score": "45-43",      "finalist": "Wicomico",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2001", "classification": "1A", "champion": "Snow Hill",          "score": "69-60",      "finalist": "Oakland Mills",           "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2002", "classification": "4A", "champion": "Eleanor Roosevelt",  "score": "50-45",      "finalist": "Central-PG",              "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2002", "classification": "3A", "champion": "Douglass-B",         "score": "76-72",      "finalist": "Gwynn Park",              "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2002", "classification": "2A", "champion": "Wicomico",           "score": "72-50",      "finalist": "Gov. Thomas Johnson",     "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2002", "classification": "1A", "champion": "Pocomoke",           "score": "88-70",      "finalist": "Paul Laurence Dunbar",    "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2003", "classification": "4A", "champion": "Oxon Hill",          "score": "50-40",      "finalist": "Col. Zadok Magruder",     "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2003", "classification": "3A", "champion": "Friendly",           "score": "66-57",      "finalist": "Central-PG",              "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2003", "classification": "2A", "champion": "James M. Bennett",   "score": "56-52",      "finalist": "Chopticon",               "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2003", "classification": "1A", "champion": "Dunbar",             "score": "72-55",      "finalist": "Pocomoke",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2004", "classification": "4A", "champion": "Northwestern-PG",    "score": "61-59",      "finalist": "Springbrook",             "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2004", "classification": "3A", "champion": "Douglass-B",         "score": "66-65",      "finalist": "Gwynn Park",              "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2004", "classification": "2A", "champion": "Friendly",           "score": "84-58",      "finalist": "Lansdowne",               "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2004", "classification": "1A", "champion": "Dunbar",             "score": "68-43",      "finalist": "Allegany",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2005", "classification": "4A", "champion": "Walbrook",           "score": "45-38",      "finalist": "James Hubert Blake",      "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2005", "classification": "3A", "champion": "Randallstown",       "score": "78-76 OT",   "finalist": "Bethesda-Chevy Chase",    "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2005", "classification": "2A", "champion": "Potomac",            "score": "83-74",      "finalist": "Aberdeen",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2005", "classification": "1A", "champion": "Dunbar",             "score": "69-56",      "finalist": "Pocomoke",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2006", "classification": "4A", "champion": "Walt Whitman",       "score": "39-38",      "finalist": "Eleanor Roosevelt",       "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2006", "classification": "3A", "champion": "Long Reach",         "score": "54-49",      "finalist": "Henry E. Lackey",         "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2006", "classification": "2A", "champion": "Randallstown",       "score": "64-54",      "finalist": "Wicomico",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2006", "classification": "1A", "champion": "Dunbar",             "score": "68-47",      "finalist": "Allegany",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2007", "classification": "4A", "champion": "Sherwood",           "score": "61-38",      "finalist": "Col. Zadok Magruder",     "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2007", "classification": "3A", "champion": "River Hill",         "score": "60-51",      "finalist": "Bethesda-Chevy Chase",    "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2007", "classification": "2A", "champion": "Randallstown",       "score": "66-63",      "finalist": "Fairmont Heights",        "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2007", "classification": "1A", "champion": "New Town",           "score": "74-69 OT",   "finalist": "Paul Laurence Dunbar",    "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2008", "classification": "4A", "champion": "Springbrook",        "score": "61-57",      "finalist": "Long Reach",              "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2008", "classification": "3A", "champion": "Largo",              "score": "84-58",      "finalist": "Randallstown",            "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2008", "classification": "2A", "champion": "Winters Mill",       "score": "54-47",      "finalist": "Thomas Stone",            "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2008", "classification": "1A", "champion": "Snow Hill",          "score": "92-75",      "finalist": "Surrattsville",           "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2009", "classification": "4A", "champion": "Springbrook",        "score": "73-61",      "finalist": "Dr. Henry A. Wise, Jr.",  "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2009", "classification": "3A", "champion": "Lake Clifton",       "score": "75-50",      "finalist": "Friendly",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2009", "classification": "2A", "champion": "City College",       "score": "55-42",      "finalist": "Frederick Douglass-PG",   "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2009", "classification": "1A", "champion": "Digital Harbor",     "score": "75-60",      "finalist": "Pocomoke",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2010", "classification": "4A", "champion": "Springbrook",        "score": "74-67",      "finalist": "Old Mill",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2010", "classification": "3A", "champion": "Milford Mill",       "score": "60-46",      "finalist": "Gwynn Park",              "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2010", "classification": "2A", "champion": "City College",       "score": "56-45",      "finalist": "Owings Mills",            "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2010", "classification": "1A", "champion": "Dunbar",             "score": "64-53",      "finalist": "Thomas Stone",            "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2011", "classification": "4A", "champion": "North Point",        "score": "76-72",      "finalist": "Centennial",              "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2011", "classification": "3A", "champion": "Milford Mill",       "score": "56-44",      "finalist": "Patterson",               "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2011", "classification": "2A", "champion": "Digital Harbor",     "score": "64-46",      "finalist": "Williamsport",            "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2011", "classification": "1A", "champion": "Dunbar",             "score": "64-43",      "finalist": "Easton",                  "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2012", "classification": "4A", "champion": "Magruder",           "score": "39-36",      "finalist": "Eleanor Roosevelt",       "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2012", "classification": "3A", "champion": "Patterson",          "score": "86-75",      "finalist": "Largo",                   "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2012", "classification": "2A", "champion": "Lake Clifton",       "score": "70-64",      "finalist": "Thomas Stone",            "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2012", "classification": "1A", "champion": "Dunbar",             "score": "60-36",      "finalist": "New Town",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2013", "classification": "4A", "champion": "Eleanor Roosevelt",  "score": "61-56",      "finalist": "Col. Zadok Magruder",     "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2013", "classification": "3A", "champion": "Milford Mill",       "score": "84-55",      "finalist": "Wicomico",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2013", "classification": "2A", "champion": "Edmondson/Westside", "score": "56-54",      "finalist": "Potomac",                 "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2013", "classification": "1A", "champion": "Dunbar",             "score": "54-52",      "finalist": "New Town",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
+    {"year": "2014", "classification": "4A", "champion": "Dr. Henry A. Wise",  "score": "70-43",      "finalist": "Walt Whitman",            "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2014", "classification": "3A", "champion": "City College",       "score": "59-48",      "finalist": "Oakdale",                 "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2014", "classification": "2A", "champion": "Potomac",            "score": "64-51",      "finalist": "Westlake",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+    {"year": "2014", "classification": "1A", "champion": "Edmondson/Westside", "score": "54-51",      "finalist": "Allegany",                "source": "https://www.mpssaa.org/wp-content/uploads/2025/12/Winter-record-book.pdf"},
+
     {"year": "2015", "classification": "4A", "champion": "Meade",                   "score": "80-45",   "finalist": "Bethesda-Chevy Chase", "source": "https://www.mpssaa.org/mobile/2015-state-basketball-titles-are-hard-earned/?F_All=y"},
     {"year": "2015", "classification": "3A", "champion": "Centennial",              "score": "57-43",   "finalist": "Westlake",             "source": "https://www.mpssaa.org/mobile/2015-state-basketball-titles-are-hard-earned/?F_All=y"},
     {"year": "2015", "classification": "2A", "champion": "Oakland Mills",           "score": "64-55",   "finalist": "Patterson",            "source": "https://www.mpssaa.org/mobile/2015-state-basketball-titles-are-hard-earned/?F_All=y"},

@@ -3,10 +3,80 @@
   "season": "fall",
   "note": "Runner-up (finalist) schools for MPSSAA football state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is checked as a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Add entries year-by-year; keep sources.",
   "entries": [
+    {"year": "2000", "classification": "1A", "champion": "Elkton",         "score": "21-8",         "finalist": "Forestville",           "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2000", "classification": "2A", "champion": "Urbana",         "score": "49-8",         "finalist": "Gwynn Park",            "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2000", "classification": "3A", "champion": "Calvert",        "score": "34-22",        "finalist": "Annapolis",             "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2000", "classification": "4A", "champion": "Gaithersburg",   "score": "24-21",        "finalist": "Sherwood",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2001", "classification": "1A", "champion": "Allegany",       "score": "27-26",        "finalist": "Oakland Mills",         "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2001", "classification": "2A", "champion": "Hereford",       "score": "43-15",        "finalist": "Joppatowne",            "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2001", "classification": "3A", "champion": "Urbana",         "score": "7-6",          "finalist": "Patuxent",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2001", "classification": "4A", "champion": "Bowie",          "score": "23-6",         "finalist": "Eleanor Roosevelt",     "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2002", "classification": "1A", "champion": "Bohemia Manor",  "score": "34-27",        "finalist": "Beall",                 "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2002", "classification": "2A", "champion": "Hereford",       "score": "20-9",         "finalist": "Middletown",            "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2002", "classification": "3A", "champion": "Seneca Valley",  "score": "14-7",         "finalist": "Linganore",             "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2002", "classification": "4A", "champion": "Parkdale",       "score": "34-14",        "finalist": "Sherwood",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2003", "classification": "1A", "champion": "Joppatowne",     "score": "26-6",         "finalist": "Beall",                 "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2003", "classification": "2A", "champion": "Aberdeen",       "score": "33-25 (OT)",   "finalist": "Potomac",               "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2003", "classification": "3A", "champion": "Linganore",      "score": "28-0",         "finalist": "Henry E. Lackey",       "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2003", "classification": "4A", "champion": "Damascus",       "score": "13-7",         "finalist": "Broadneck",             "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2004", "classification": "1A", "champion": "Dunbar",         "score": "16-14",        "finalist": "Joppatowne",            "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2004", "classification": "2A", "champion": "Potomac",        "score": "19-12",        "finalist": "Hereford",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2004", "classification": "3A", "champion": "Northwest",      "score": "14-9",         "finalist": "Henry E. Lackey",       "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2004", "classification": "4A", "champion": "Suitland",       "score": "14-7",         "finalist": "Damascus",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2005", "classification": "1A", "champion": "Allegany",       "score": "41-20",        "finalist": "Snow Hill",             "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2005", "classification": "2A", "champion": "Potomac",        "score": "38-3",         "finalist": "South Carroll",         "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2005", "classification": "3A", "champion": "Gwynn Park",     "score": "20-14 (2 OT)", "finalist": "Westminster",           "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2005", "classification": "4A", "champion": "Damascus",       "score": "20-6",         "finalist": "Sherwood",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2006", "classification": "1A", "champion": "Dunbar",         "score": "38-23",        "finalist": "Fort Hill",             "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2006", "classification": "2A", "champion": "Edmondson",      "score": "37-9",         "finalist": "Maurice J. McDonough",  "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2006", "classification": "3A", "champion": "Friendly",       "score": "37-18",        "finalist": "River Hill",            "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2006", "classification": "4A", "champion": "Suitland",       "score": "39-38 (OT)",   "finalist": "Sherwood",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2007", "classification": "1A", "champion": "Dunbar",         "score": "58-34",        "finalist": "Allegany",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2007", "classification": "2A", "champion": "River Hill",     "score": "14-7",         "finalist": "Eastern Technical",     "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2007", "classification": "3A", "champion": "Damascus",       "score": "40-20",        "finalist": "Hereford",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2007", "classification": "4A", "champion": "Quince Orchard", "score": "36-30",        "finalist": "Arundel",               "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2008", "classification": "1A", "champion": "Dunbar",         "score": "20-19",        "finalist": "Fort Hill",             "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2008", "classification": "2A", "champion": "River Hill",     "score": "31-6",         "finalist": "Eastern Technical",     "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2008", "classification": "3A", "champion": "Westlake",       "score": "13-0",         "finalist": "Wilde Lake",            "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2008", "classification": "4A", "champion": "Sherwood",       "score": "21-3",         "finalist": "Linganore",             "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2009", "classification": "1A", "champion": "Catoctin",       "score": "37-12",        "finalist": "Joppatowne",            "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2009", "classification": "2A", "champion": "Eastern Technical","score": "16-8",       "finalist": "Queen Anne's",          "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2009", "classification": "3A", "champion": "Linganore",      "score": "31-14",        "finalist": "Huntingtown",           "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2009", "classification": "4A", "champion": "Old Mill",       "score": "17-16",        "finalist": "Dr. Henry A. Wise, Jr.","source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
     {"year": "2010", "classification": "1A", "champion": "Dunbar",              "score": "22-12", "finalist": "Havre de Grace",        "source": "https://www.mpssaa.org/football-teams-grind-out-titles/"},
     {"year": "2010", "classification": "2A", "champion": "McDonough",           "score": "21-14", "finalist": "Middletown",            "source": "https://www.mpssaa.org/football-teams-grind-out-titles/"},
     {"year": "2010", "classification": "3A", "champion": "Wilde Lake",         "score": "21-14", "finalist": "Franklin",              "source": "https://www.mpssaa.org/football-teams-grind-out-titles/"},
     {"year": "2010", "classification": "4A", "champion": "Urbana",              "score": "6-0",   "finalist": "Dr. Henry A. Wise, Jr.", "source": "https://www.mpssaa.org/football-teams-grind-out-titles/"},
+
+    {"year": "2011", "classification": "1A", "champion": "Dunbar",         "score": "32-11",        "finalist": "Perryville",            "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2011", "classification": "2A", "champion": "Middletown",     "score": "43-6",         "finalist": "Frederick Douglass-PG", "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2011", "classification": "3A", "champion": "River Hill",     "score": "41-13",        "finalist": "Gov. Thomas Johnson",   "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2011", "classification": "4A", "champion": "Old Mill",       "score": "36-35",        "finalist": "Quince Orchard",        "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2012", "classification": "1A", "champion": "Dunbar",         "score": "39-0",         "finalist": "New Town",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2012", "classification": "2A", "champion": "Middletown",     "score": "30-12",        "finalist": "Frederick Douglass-PG", "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2012", "classification": "3A", "champion": "River Hill",     "score": "18-14",        "finalist": "Huntingtown",           "source": "https://www.cbsnews.com/baltimore/news/river-hill-beats-huntingtown-18-14-in-md-state-class-3a-championship/"},
+    {"year": "2012", "classification": "4A", "champion": "Dr. Henry A. Wise, Jr.", "score": "12-7","finalist": "Quince Orchard",        "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2013", "classification": "1A", "champion": "Fort Hill",      "score": "25-0",         "finalist": "Frederick Douglass-B",  "source": "https://www.cbsnews.com/baltimore/news/fort-hill-beats-douglass-25-0/"},
+    {"year": "2013", "classification": "2A", "champion": "Middletown",     "score": "17-3",         "finalist": "Patuxent",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2013", "classification": "3A", "champion": "Franklin",       "score": "20-7",         "finalist": "Linganore",             "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+    {"year": "2013", "classification": "4A", "champion": "Northwest",      "score": "33-16",        "finalist": "Suitland",              "source": "https://mdfootballhistory.wordpress.com/2014/01/29/mpssaa-state-tournament-history-1974-2013/"},
+
+    {"year": "2014", "classification": "1A", "champion": "Fort Hill",      "score": "40-8",         "finalist": "Frederick Douglass-B",  "source": "https://thebaltimorewire.com/2014/12/08/maryland-state-football-championships-2014/"},
+    {"year": "2014", "classification": "2A", "champion": "Douglass-PG",    "score": "38-0",         "finalist": "Paul Laurence Dunbar",  "source": "https://thebaltimorewire.com/2014/12/08/maryland-state-football-championships-2014/"},
+    {"year": "2014", "classification": "3A", "champion": "Franklin",       "score": "35-21",        "finalist": "Damascus",              "source": "https://www.washingtonpost.com/sports/highschools/maryland-3a-final-preview-damascus-vs-franklin/2014/12/03/14bcaafc-7b21-11e4-9a27-6fdbc612bff8_story.html"},
+    {"year": "2014", "classification": "4A", "champion": "Northwest",      "score": "34-31",        "finalist": "Old Mill",              "source": "https://thebaltimorewire.com/2014/12/08/maryland-state-football-championships-2014/"},
 
     {"year": "2019", "classification": "1A", "champion": "Catoctin",           "score": "31-8",  "finalist": "Paul Laurence Dunbar",  "source": "http://www.mpssaa.org/2019-state-football-title-winners-played-with-the-heart-of-a-champion/"},
     {"year": "2019", "classification": "2A", "champion": "Middletown",         "score": "34-15", "finalist": "Potomac",               "source": "http://www.mpssaa.org/2019-state-football-title-winners-played-with-the-heart-of-a-champion/"},

@@ -4,6 +4,462 @@
   "note": "Runner-up (finalist) schools for MPSSAA baseball state finals, authoritatively sourced from MPSSAA and state-media recaps. The record-book PDFs print only champion + score + coach per class, so the runner-up is NOT in the extracted cache — it must be sourced. Only the entries listed here are written to championship_results; every other year's finalist_school stays blank until a recap is sourced and an entry is added here. Each entry is validated against the championship row (champion + score must match) before writing; finalist == champion or reuse across classes in a year is rejected. Membership in the school_records candidate set is a soft warning (school_records is known-incomplete) but does not block a recap-verified entry. Scope: the four-classification era 2018-2025 (no 2020 = COVID). Add entries year-by-year; keep sources.",
   "entries": [
     {
+      "year": "2000",
+      "classification": "4A",
+      "champion": "Watkins Mill",
+      "score": "3-2",
+      "finalist": "Dulaney",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2000",
+      "classification": "2A",
+      "champion": "Towson",
+      "score": "7-5",
+      "finalist": "Fallston",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2000",
+      "classification": "1A",
+      "champion": "Rising Sun",
+      "score": "8-2",
+      "finalist": "St. Michaels",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2001",
+      "classification": "4A",
+      "champion": "Arundel",
+      "score": "5-4",
+      "finalist": "Dulaney",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2001",
+      "classification": "3A",
+      "champion": "Northeast-AA",
+      "score": "6-2",
+      "finalist": "Westlake",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2001",
+      "classification": "2A",
+      "champion": "Centennial",
+      "score": "6-4",
+      "finalist": "James Hubert Blake",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2001",
+      "classification": "1A",
+      "champion": "St. Michaels",
+      "score": "3-2",
+      "finalist": "Brunswick",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2002",
+      "classification": "4A",
+      "champion": "Thomas Johnson",
+      "score": "13-3",
+      "finalist": "La Plata",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2002",
+      "classification": "3A",
+      "champion": "South Carroll",
+      "score": "3-1",
+      "finalist": "Southern-AA",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2002",
+      "classification": "2A",
+      "champion": "Atholton",
+      "score": "10-0",
+      "finalist": "Catoctin",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2002",
+      "classification": "1A",
+      "champion": "Boonsboro",
+      "score": "11-3",
+      "finalist": "High Point",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2003",
+      "classification": "4A",
+      "champion": "Old Mill",
+      "score": "7-0",
+      "finalist": "Perry Hall",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2003",
+      "classification": "3A",
+      "champion": "Severna Park",
+      "score": "7-1",
+      "finalist": "Patuxent",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2003",
+      "classification": "2A",
+      "champion": "Walkersville",
+      "score": "5-4",
+      "finalist": "Eastern Technical",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2003",
+      "classification": "1A",
+      "champion": "South Hagerstown",
+      "score": "8-4",
+      "finalist": "Catoctin",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2004",
+      "classification": "4A",
+      "champion": "Bowie",
+      "score": "8-2",
+      "finalist": "Sherwood",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2004",
+      "classification": "3A",
+      "champion": "Centennial",
+      "score": "10-1",
+      "finalist": "J. M. Bennett",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2004",
+      "classification": "2A",
+      "champion": "Liberty",
+      "score": "4-3 (9)",
+      "finalist": "C. Milton Wright",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2005",
+      "classification": "4A",
+      "champion": "Quince Orchard",
+      "score": "10-9",
+      "finalist": "Arundel",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2005",
+      "classification": "3A",
+      "champion": "Severna Park",
+      "score": "9-0",
+      "finalist": "North Hagerstown",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2005",
+      "classification": "2A",
+      "champion": "Eastern Technical",
+      "score": "9-4",
+      "finalist": "North Caroline",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2005",
+      "classification": "1A",
+      "champion": "Beall",
+      "score": "7-6",
+      "finalist": "Pocomoke",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2006",
+      "classification": "4A",
+      "champion": "Arundel",
+      "score": "5-3",
+      "finalist": "Huntingtown",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2006",
+      "classification": "3A",
+      "champion": "J. M. Bennett",
+      "score": "3-2 (10)",
+      "finalist": "C. Milton Wright",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2006",
+      "classification": "2A",
+      "champion": "North East-C",
+      "score": "2-1 (8)",
+      "finalist": "Eastern Technical",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2006",
+      "classification": "1A",
+      "champion": "Snow Hill",
+      "score": "2-1",
+      "finalist": "Bohemia Manor",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2007",
+      "classification": "4A",
+      "champion": "Eleanor Roosevelt",
+      "score": "8-1",
+      "finalist": "Sherwood",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2007",
+      "classification": "3A",
+      "champion": "Westminster",
+      "score": "4-1",
+      "finalist": "Centennial",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2007",
+      "classification": "2A",
+      "champion": "Eastern Technical",
+      "score": "3-2",
+      "finalist": "High Point",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2007",
+      "classification": "1A",
+      "champion": "Col. Richardson",
+      "score": "9-7",
+      "finalist": "Northern Garrett",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2008",
+      "classification": "4A",
+      "champion": "Sherwood",
+      "score": "7-6",
+      "finalist": "Marriotts Ridge",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2008",
+      "classification": "3A",
+      "champion": "La Plata",
+      "score": "8-2",
+      "finalist": "C. Milton Wright",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2008",
+      "classification": "2A",
+      "champion": "Kent Island",
+      "score": "6-5",
+      "finalist": "Patapsco",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2008",
+      "classification": "1A",
+      "champion": "St. Michael's",
+      "score": "4-3",
+      "finalist": "Harford Technical",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2009",
+      "classification": "4A",
+      "champion": "Severna Park",
+      "score": "11-1 (5)",
+      "finalist": "Quince Orchard",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2009",
+      "classification": "3A",
+      "champion": "Frederick",
+      "score": "7-2",
+      "finalist": "Annapolis",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2009",
+      "classification": "2A",
+      "champion": "River Hill",
+      "score": "3-2",
+      "finalist": "Eastern Technical",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2009",
+      "classification": "1A",
+      "champion": "Bohemia Manor",
+      "score": "6-0",
+      "finalist": "Catoctin",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2010",
+      "classification": "4A",
+      "champion": "Sherwood",
+      "score": "2-1",
+      "finalist": "Chesapeake-AA",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2010",
+      "classification": "3A",
+      "champion": "C.M. Wright",
+      "score": "4-1",
+      "finalist": "Huntingtown",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2010",
+      "classification": "2A",
+      "champion": "North Hagerstown",
+      "score": "10-7 (9)",
+      "finalist": "Parkside",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2010",
+      "classification": "1A",
+      "champion": "St. Michael's",
+      "score": "4-0",
+      "finalist": "Clear Spring",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2011",
+      "classification": "4A",
+      "champion": "Westminster",
+      "score": "8-7",
+      "finalist": "Lansdowne",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2011",
+      "classification": "3A",
+      "champion": "James M. Bennett",
+      "score": "5-2 (8)",
+      "finalist": "Severna Park",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2011",
+      "classification": "2A",
+      "champion": "North Caroline",
+      "score": "4-0",
+      "finalist": "Patterson Mill",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2012",
+      "classification": "4A",
+      "champion": "Northwest",
+      "score": "7-6 (12)",
+      "finalist": "Arundel",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2012",
+      "classification": "3A",
+      "champion": "James M. Bennett",
+      "score": "4-2",
+      "finalist": "Patuxent",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2012",
+      "classification": "2A",
+      "champion": "Williamsport",
+      "score": "2-1 (9)",
+      "finalist": "North Harford",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2012",
+      "classification": "1A",
+      "champion": "Mountain Ridge",
+      "score": "2-1",
+      "finalist": "St. Michaels",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2013",
+      "classification": "4A",
+      "champion": "South River",
+      "score": "6-0",
+      "finalist": "Catonsville",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2013",
+      "classification": "3A",
+      "champion": "Bel Air",
+      "score": "3-2",
+      "finalist": "La Plata",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2013",
+      "classification": "2A",
+      "champion": "Catoctin",
+      "score": "4-2",
+      "finalist": "North Caroline",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2013",
+      "classification": "1A",
+      "champion": "Cambridge-SD",
+      "score": "15-0 (6)",
+      "finalist": "Allegany",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2014",
+      "classification": "4A",
+      "champion": "Chesapeake-AA",
+      "score": "2-0",
+      "finalist": "Sherwood",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2014",
+      "classification": "3A",
+      "champion": "Reservoir",
+      "score": "2-0",
+      "finalist": "North Harford",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2014",
+      "classification": "2A",
+      "champion": "Southern-AA",
+      "score": "3-2",
+      "finalist": "Parkside",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
+      "year": "2014",
+      "classification": "1A",
+      "champion": "Smithsburg",
+      "score": "9-0",
+      "finalist": "Sparrows Point",
+      "source": "https://www.mpssaa.org/wp-content/uploads/2025/04/Spring-Record-Book-2025.pdf"
+    },
+    {
       "year": "2018",
       "classification": "1A",
       "champion": "Boonsboro",

@@ -16,9 +16,10 @@
       "classification": "4A",
       "champion_school": "Magruder",
       "champion_coach": "Dan Harwood",
-      "finalist_school": null,
+      "finalist_school": "Eleanor Roosevelt",
       "finalist_coach": null,
-      "score": "70-58"
+      "score": "70-58",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -26,9 +27,10 @@
       "classification": "3A",
       "champion_school": "Randallstown",
       "champion_coach": "Kim Rivers",
-      "finalist_school": null,
+      "finalist_school": "Gov. Thomas Johnson",
       "finalist_coach": null,
-      "score": "62-54"
+      "score": "62-54",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -36,9 +38,10 @@
       "classification": "2A",
       "champion_school": "Dunbar",
       "champion_coach": "Eric Lee",
-      "finalist_school": null,
+      "finalist_school": "Wicomico",
       "finalist_coach": null,
-      "score": "45-43"
+      "score": "45-43",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -46,9 +49,10 @@
       "classification": "1A",
       "champion_school": "Snow Hill",
       "champion_coach": "Allen Miller",
-      "finalist_school": null,
+      "finalist_school": "Oakland Mills",
       "finalist_coach": null,
-      "score": "69-60"
+      "score": "69-60",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -56,9 +60,10 @@
       "classification": "4A",
       "champion_school": "Eleanor Roosevelt",
       "champion_coach": "Glenn Farello",
-      "finalist_school": null,
+      "finalist_school": "Central-PG",
       "finalist_coach": null,
-      "score": "50-45"
+      "score": "50-45",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -66,9 +71,10 @@
       "classification": "3A",
       "champion_school": "Douglass-B",
       "champion_coach": "Rodney Coffield",
-      "finalist_school": null,
+      "finalist_school": "Gwynn Park",
       "finalist_coach": null,
-      "score": "76-72"
+      "score": "76-72",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -76,9 +82,10 @@
       "classification": "2A",
       "champion_school": "Wicomico",
       "champion_coach": "Butch Waller",
-      "finalist_school": null,
+      "finalist_school": "Gov. Thomas Johnson",
       "finalist_coach": null,
-      "score": "72-50"
+      "score": "72-50",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -86,9 +93,10 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "David Byrd",
-      "finalist_school": null,
+      "finalist_school": "Paul Laurence Dunbar",
       "finalist_coach": null,
-      "score": "88-70"
+      "score": "88-70",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -96,9 +104,10 @@
       "classification": "4A",
       "champion_school": "Oxon Hill",
       "champion_coach": "Billy Lanier",
-      "finalist_school": null,
+      "finalist_school": "Col. Zadok Magruder",
       "finalist_coach": null,
-      "score": "50-40"
+      "score": "50-40",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -106,9 +115,10 @@
       "classification": "3A",
       "champion_school": "Friendly",
       "champion_coach": "Gerald Moore, Jr.",
-      "finalist_school": null,
+      "finalist_school": "Central-PG",
       "finalist_coach": null,
-      "score": "66-57"
+      "score": "66-57",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -116,9 +126,10 @@
       "classification": "2A",
       "champion_school": "James M. Bennett",
       "champion_coach": "Bruce Wharton",
-      "finalist_school": null,
+      "finalist_school": "Chopticon",
       "finalist_coach": null,
-      "score": "56-52"
+      "score": "56-52",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -126,9 +137,10 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Eric Lee",
-      "finalist_school": null,
+      "finalist_school": "Pocomoke",
       "finalist_coach": null,
-      "score": "72-55"
+      "score": "72-55",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -136,9 +148,10 @@
       "classification": "4A",
       "champion_school": "Northwestern-PG",
       "champion_coach": "Anthony Dickens",
-      "finalist_school": null,
+      "finalist_school": "Springbrook",
       "finalist_coach": null,
-      "score": "61-59"
+      "score": "61-59",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -146,9 +159,10 @@
       "classification": "3A",
       "champion_school": "Douglass-B",
       "champion_coach": "Rodney Coffield",
-      "finalist_school": null,
+      "finalist_school": "Gwynn Park",
       "finalist_coach": null,
-      "score": "66-65"
+      "score": "66-65",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -156,9 +170,10 @@
       "classification": "2A",
       "champion_school": "Friendly",
       "champion_coach": "Gerald Moore, Jr.",
-      "finalist_school": null,
+      "finalist_school": "Lansdowne",
       "finalist_coach": null,
-      "score": "84-58"
+      "score": "84-58",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -166,9 +181,10 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Eric Lee",
-      "finalist_school": null,
+      "finalist_school": "Allegany",
       "finalist_coach": null,
-      "score": "68-43"
+      "score": "68-43",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -176,9 +192,10 @@
       "classification": "4A",
       "champion_school": "Walbrook",
       "champion_coach": "Kelvin Bridgers",
-      "finalist_school": null,
+      "finalist_school": "James Hubert Blake",
       "finalist_coach": null,
-      "score": "45-38"
+      "score": "45-38",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -186,9 +203,10 @@
       "classification": "3A",
       "champion_school": "Randallstown",
       "champion_coach": "Kim Rivers",
-      "finalist_school": null,
+      "finalist_school": "Bethesda-Chevy Chase",
       "finalist_coach": null,
-      "score": "78-76 OT"
+      "score": "78-76 OT",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -196,9 +214,10 @@
       "classification": "2A",
       "champion_school": "Potomac",
       "champion_coach": "Rico Reed",
-      "finalist_school": null,
+      "finalist_school": "Aberdeen",
       "finalist_coach": null,
-      "score": "83-74"
+      "score": "83-74",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -206,9 +225,10 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Eric Lee",
-      "finalist_school": null,
+      "finalist_school": "Pocomoke",
       "finalist_coach": null,
-      "score": "69-56"
+      "score": "69-56",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -216,9 +236,10 @@
       "classification": "4A",
       "champion_school": "Walt Whitman",
       "champion_coach": "Chris Lun",
-      "finalist_school": null,
+      "finalist_school": "Eleanor Roosevelt",
       "finalist_coach": null,
-      "score": "39-38"
+      "score": "39-38",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -226,9 +247,10 @@
       "classification": "3A",
       "champion_school": "Long Reach",
       "champion_coach": "Al Moraz, Sr.",
-      "finalist_school": null,
+      "finalist_school": "Henry E. Lackey",
       "finalist_coach": null,
-      "score": "54-49"
+      "score": "54-49",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -236,9 +258,10 @@
       "classification": "2A",
       "champion_school": "Randallstown",
       "champion_coach": "Kim Rivers",
-      "finalist_school": null,
+      "finalist_school": "Wicomico",
       "finalist_coach": null,
-      "score": "64-54"
+      "score": "64-54",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -246,9 +269,10 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Eric Lee",
-      "finalist_school": null,
+      "finalist_school": "Allegany",
       "finalist_coach": null,
-      "score": "68-47"
+      "score": "68-47",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -256,9 +280,10 @@
       "classification": "4A",
       "champion_school": "Sherwood",
       "champion_coach": "Dondrell Whitmore",
-      "finalist_school": null,
+      "finalist_school": "Col. Zadok Magruder",
       "finalist_coach": null,
-      "score": "61-38"
+      "score": "61-38",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -266,9 +291,10 @@
       "classification": "3A",
       "champion_school": "River Hill",
       "champion_coach": "Matthew Graves",
-      "finalist_school": null,
+      "finalist_school": "Bethesda-Chevy Chase",
       "finalist_coach": null,
-      "score": "60-51"
+      "score": "60-51",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -276,9 +302,10 @@
       "classification": "2A",
       "champion_school": "Randallstown",
       "champion_coach": "Kim Rivers",
-      "finalist_school": null,
+      "finalist_school": "Fairmont Heights",
       "finalist_coach": null,
-      "score": "66-63"
+      "score": "66-63",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -286,9 +313,10 @@
       "classification": "1A",
       "champion_school": "New Town",
       "champion_coach": "Mike Smith",
-      "finalist_school": null,
+      "finalist_school": "Paul Laurence Dunbar",
       "finalist_coach": null,
-      "score": "74-69 OT"
+      "score": "74-69 OT",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -296,9 +324,10 @@
       "classification": "4A",
       "champion_school": "Springbrook",
       "champion_coach": "Thomas Crowell",
-      "finalist_school": null,
+      "finalist_school": "Long Reach",
       "finalist_coach": null,
-      "score": "61-57"
+      "score": "61-57",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -306,9 +335,10 @@
       "classification": "3A",
       "champion_school": "Largo",
       "champion_coach": "Lewis Howard",
-      "finalist_school": null,
+      "finalist_school": "Randallstown",
       "finalist_coach": null,
-      "score": "84-58"
+      "score": "84-58",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -316,9 +346,10 @@
       "classification": "2A",
       "champion_school": "Winters Mill",
       "champion_coach": "David Herman",
-      "finalist_school": null,
+      "finalist_school": "Thomas Stone",
       "finalist_coach": null,
-      "score": "54-47"
+      "score": "54-47",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -326,9 +357,10 @@
       "classification": "1A",
       "champion_school": "Snow Hill",
       "champion_coach": "Allen Miller",
-      "finalist_school": null,
+      "finalist_school": "Surrattsville",
       "finalist_coach": null,
-      "score": "92-75"
+      "score": "92-75",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -336,9 +368,10 @@
       "classification": "4A",
       "champion_school": "Springbrook",
       "champion_coach": "Thomas Crowell",
-      "finalist_school": null,
+      "finalist_school": "Dr. Henry A. Wise, Jr.",
       "finalist_coach": null,
-      "score": "73-61"
+      "score": "73-61",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -346,9 +379,10 @@
       "classification": "3A",
       "champion_school": "Lake Clifton",
       "champion_coach": "Herman Harried",
-      "finalist_school": null,
+      "finalist_school": "Friendly",
       "finalist_coach": null,
-      "score": "75-50"
+      "score": "75-50",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -356,9 +390,10 @@
       "classification": "2A",
       "champion_school": "City College",
       "champion_coach": "Mike Daniel",
-      "finalist_school": null,
+      "finalist_school": "Frederick Douglass-PG",
       "finalist_coach": null,
-      "score": "55-42"
+      "score": "55-42",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -366,9 +401,10 @@
       "classification": "1A",
       "champion_school": "Digital Harbor",
       "champion_coach": "Johnnie Grimes",
-      "finalist_school": null,
+      "finalist_school": "Pocomoke",
       "finalist_coach": null,
-      "score": "75-60"
+      "score": "75-60",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -376,9 +412,10 @@
       "classification": "4A",
       "champion_school": "Springbrook",
       "champion_coach": "Thomas Crowell",
-      "finalist_school": null,
+      "finalist_school": "Old Mill",
       "finalist_coach": null,
-      "score": "74-67"
+      "score": "74-67",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -386,9 +423,10 @@
       "classification": "3A",
       "champion_school": "Milford Mill",
       "champion_coach": "Albert Holley",
-      "finalist_school": null,
+      "finalist_school": "Gwynn Park",
       "finalist_coach": null,
-      "score": "60-46"
+      "score": "60-46",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -396,9 +434,10 @@
       "classification": "2A",
       "champion_school": "City College",
       "champion_coach": "Mike Daniel",
-      "finalist_school": null,
+      "finalist_school": "Owings Mills",
       "finalist_coach": null,
-      "score": "56-45"
+      "score": "56-45",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -406,9 +445,10 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Cyrus Jones",
-      "finalist_school": null,
+      "finalist_school": "Thomas Stone",
       "finalist_coach": null,
-      "score": "64-53"
+      "score": "64-53",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -416,9 +456,10 @@
       "classification": "4A",
       "champion_school": "North Point",
       "champion_coach": "Jimmy Ball",
-      "finalist_school": null,
+      "finalist_school": "Centennial",
       "finalist_coach": null,
-      "score": "76-72"
+      "score": "76-72",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -426,9 +467,10 @@
       "classification": "3A",
       "champion_school": "Milford Mill",
       "champion_coach": "Albert Holley",
-      "finalist_school": null,
+      "finalist_school": "Patterson",
       "finalist_coach": null,
-      "score": "56-44"
+      "score": "56-44",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -436,9 +478,10 @@
       "classification": "2A",
       "champion_school": "Digital Harbor",
       "champion_coach": "Johnnie Grimes",
-      "finalist_school": null,
+      "finalist_school": "Williamsport",
       "finalist_coach": null,
-      "score": "64-46"
+      "score": "64-46",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -446,9 +489,10 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Cyrus Jones",
-      "finalist_school": null,
+      "finalist_school": "Easton",
       "finalist_coach": null,
-      "score": "64-43"
+      "score": "64-43",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -456,9 +500,10 @@
       "classification": "4A",
       "champion_school": "Magruder",
       "champion_coach": "Dan Harwood",
-      "finalist_school": null,
+      "finalist_school": "Eleanor Roosevelt",
       "finalist_coach": null,
-      "score": "39-36"
+      "score": "39-36",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -466,9 +511,10 @@
       "classification": "3A",
       "champion_school": "Patterson",
       "champion_coach": "Harry Martin",
-      "finalist_school": null,
+      "finalist_school": "Largo",
       "finalist_coach": null,
-      "score": "86-75"
+      "score": "86-75",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -476,9 +522,10 @@
       "classification": "2A",
       "champion_school": "Lake Clifton",
       "champion_coach": "Herman Harried",
-      "finalist_school": null,
+      "finalist_school": "Thomas Stone",
       "finalist_coach": null,
-      "score": "70-64"
+      "score": "70-64",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -486,9 +533,10 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Cyrus Jones",
-      "finalist_school": null,
+      "finalist_school": "New Town",
       "finalist_coach": null,
-      "score": "60-36"
+      "score": "60-36",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -496,9 +544,10 @@
       "classification": "4A",
       "champion_school": "Eleanor Roosevelt",
       "champion_coach": "Brendan O'Connell",
-      "finalist_school": null,
+      "finalist_school": "Col. Zadok Magruder",
       "finalist_coach": null,
-      "score": "61-56"
+      "score": "61-56",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -506,9 +555,10 @@
       "classification": "3A",
       "champion_school": "Milford Mill",
       "champion_coach": "Michael Silverman",
-      "finalist_school": null,
+      "finalist_school": "Wicomico",
       "finalist_coach": null,
-      "score": "84-55"
+      "score": "84-55",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -516,9 +566,10 @@
       "classification": "2A",
       "champion_school": "Edmondson/Westside",
       "champion_coach": "Darnell Dantzler",
-      "finalist_school": null,
+      "finalist_school": "Potomac",
       "finalist_coach": null,
-      "score": "56-54"
+      "score": "56-54",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -526,9 +577,10 @@
       "classification": "1A",
       "champion_school": "Dunbar",
       "champion_coach": "Cyrus Jones",
-      "finalist_school": null,
+      "finalist_school": "New Town",
       "finalist_coach": null,
-      "score": "54-52"
+      "score": "54-52",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -536,9 +588,10 @@
       "classification": "4A",
       "champion_school": "Dr. Henry A. Wise",
       "champion_coach": "Robert Garner",
-      "finalist_school": null,
+      "finalist_school": "Walt Whitman",
       "finalist_coach": null,
-      "score": "70-43"
+      "score": "70-43",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -546,9 +599,10 @@
       "classification": "3A",
       "champion_school": "City College",
       "champion_coach": "Daryl Wade",
-      "finalist_school": null,
+      "finalist_school": "Oakdale",
       "finalist_coach": null,
-      "score": "59-48"
+      "score": "59-48",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -556,9 +610,10 @@
       "classification": "2A",
       "champion_school": "Potomac",
       "champion_coach": "Renard Johnson",
-      "finalist_school": null,
+      "finalist_school": "Westlake",
       "finalist_coach": null,
-      "score": "64-51"
+      "score": "64-51",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -566,9 +621,10 @@
       "classification": "1A",
       "champion_school": "Edmondson/Westside",
       "champion_coach": "Darnell Dantzler",
-      "finalist_school": null,
+      "finalist_school": "Allegany",
       "finalist_coach": null,
-      "score": "54-51"
+      "score": "54-51",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",

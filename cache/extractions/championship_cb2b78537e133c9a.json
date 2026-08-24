@@ -8,7 +8,7 @@
       30
     ],
     "extracted_at": "2026-08-02T14:31:39Z",
-    "manual_correction": "Restored the prior-reviewed rows for this chunk. A fresh LLM re-extract changed Field Hockey 1990 3A from 'Calvert & Col. Zadok Magruder' to 'Calvert & Magruder'; both are imperfect extractions of a messy multi-column table (the PDF reads 'TIE: Calvert & Fallston'). Reverted to the prior-reviewed state to avoid unintended drift; this row remains in the messy-PHF review bucket."
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -1278,12 +1278,12 @@
       "classification": "4A",
       "champion_school": "Severna Park",
       "champion_coach": "Lillian Shelton",
-      "finalist_school": null,
+      "finalist_school": "Walt Whitman",
       "finalist_coach": null,
       "score": "3-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1291,12 +1291,12 @@
       "classification": "3A",
       "champion_school": "South River",
       "champion_coach": "Laura Gerrior",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
       "score": "3-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1304,12 +1304,12 @@
       "classification": "2A",
       "champion_school": "Bethesda-Chevy Chase",
       "champion_coach": "Amy Wood",
-      "finalist_school": null,
+      "finalist_school": "Rising Sun",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1317,12 +1317,12 @@
       "classification": "1A",
       "champion_school": "Washington",
       "champion_coach": "Susan Grudis",
-      "finalist_school": null,
+      "finalist_school": "Long Reach",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1343,12 +1343,12 @@
       "classification": "3A",
       "champion_school": "Fallston",
       "champion_coach": "Alice Puckett",
-      "finalist_school": null,
+      "finalist_school": "Mount Hebron",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1382,12 +1382,12 @@
       "classification": "4A",
       "champion_school": "Broadneck",
       "champion_coach": "Melissa Quigley",
-      "finalist_school": null,
+      "finalist_school": "Westminster",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1395,12 +1395,12 @@
       "classification": "3A",
       "champion_school": "South Carroll",
       "champion_coach": "Erin Stulen",
-      "finalist_school": null,
+      "finalist_school": "Towson",
       "finalist_coach": null,
       "score": "2-1 (2 OT)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1408,12 +1408,12 @@
       "classification": "2A",
       "champion_school": "Bethesda-Chevy Chase",
       "champion_coach": "Amy Wood",
-      "finalist_school": null,
+      "finalist_school": "Fallston",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1434,12 +1434,12 @@
       "classification": "4A",
       "champion_school": "Springbrook",
       "champion_coach": "Kearney Francis",
-      "finalist_school": null,
+      "finalist_school": "Quince Orchard",
       "finalist_coach": null,
       "score": "3-2 OT",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1447,12 +1447,12 @@
       "classification": "3A",
       "champion_school": "Severna Park",
       "champion_coach": "Lillian Shelton",
-      "finalist_school": null,
+      "finalist_school": "Bethesda-Chevy Chase",
       "finalist_coach": null,
       "score": "3-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1460,12 +1460,12 @@
       "classification": "2A",
       "champion_school": "Rising Sun",
       "champion_coach": "Kay Miller",
-      "finalist_school": null,
+      "finalist_school": "Hereford",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1473,12 +1473,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Susan Pusey",
-      "finalist_school": null,
+      "finalist_school": "Poolesville",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1486,12 +1486,12 @@
       "classification": "4A",
       "champion_school": "South River",
       "champion_coach": "Laura Hoffner",
-      "finalist_school": null,
+      "finalist_school": "Walt Whitman",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1499,12 +1499,12 @@
       "classification": "3A",
       "champion_school": "Bethesda-Chevy Chase",
       "champion_coach": "Amy Wood",
-      "finalist_school": null,
+      "finalist_school": "Severna Park",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1512,12 +1512,12 @@
       "classification": "2A",
       "champion_school": "Hereford",
       "champion_coach": "Tammy Mundie",
-      "finalist_school": null,
+      "finalist_school": "Glenelg",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1525,12 +1525,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Susan Pusey",
-      "finalist_school": null,
+      "finalist_school": "Poolesville",
       "finalist_coach": null,
       "score": "3-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1538,12 +1538,12 @@
       "classification": "4A",
       "champion_school": "South River",
       "champion_coach": "Katie Corcoran",
-      "finalist_school": null,
+      "finalist_school": "Springbrook",
       "finalist_coach": null,
       "score": "3-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1551,12 +1551,12 @@
       "classification": "3A",
       "champion_school": "Severna Park",
       "champion_coach": "Lillian Shelton",
-      "finalist_school": null,
+      "finalist_school": "Fallston",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1564,12 +1564,12 @@
       "classification": "2A",
       "champion_school": "Parkside",
       "champion_coach": "Jodi Hollamon",
-      "finalist_school": null,
+      "finalist_school": "Rising Sun",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1577,12 +1577,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Susan Pusey",
-      "finalist_school": null,
+      "finalist_school": "Patuxent",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1590,12 +1590,12 @@
       "classification": "4A",
       "champion_school": "Quince Orchard",
       "champion_coach": "Jenna Ries",
-      "finalist_school": null,
+      "finalist_school": "South River",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1603,12 +1603,12 @@
       "classification": "3A",
       "champion_school": "Severna Park",
       "champion_coach": "Lillian Shelton",
-      "finalist_school": null,
+      "finalist_school": "Bethesda-Chevy Chase",
       "finalist_coach": null,
       "score": "3-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1616,12 +1616,12 @@
       "classification": "2A",
       "champion_school": "Hereford",
       "champion_coach": "Tammy Mundie",
-      "finalist_school": null,
+      "finalist_school": "Glenelg",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1642,12 +1642,12 @@
       "classification": "4A",
       "champion_school": "Severna Park",
       "champion_coach": "Lillian Shelton",
-      "finalist_school": null,
+      "finalist_school": "Quince Orchard",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1655,12 +1655,12 @@
       "classification": "3A",
       "champion_school": "Fallston",
       "champion_coach": "Alice Puckett",
-      "finalist_school": null,
+      "finalist_school": "Bethesda-Chevy Chase",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1668,12 +1668,12 @@
       "classification": "2A",
       "champion_school": "Rising Sun",
       "champion_coach": "Gail Dillaway",
-      "finalist_school": null,
+      "finalist_school": "Century",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1681,12 +1681,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Susan Pusey",
-      "finalist_school": null,
+      "finalist_school": "Poolesville",
       "finalist_coach": null,
       "score": "3-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1707,12 +1707,12 @@
       "classification": "3A",
       "champion_school": "Fallston",
       "champion_coach": "Alice Puckett",
-      "finalist_school": null,
+      "finalist_school": "Atholton",
       "finalist_coach": null,
       "score": "4-3",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1720,12 +1720,12 @@
       "classification": "2A",
       "champion_school": "Kent Island",
       "champion_coach": "Rick Tubman",
-      "finalist_school": null,
+      "finalist_school": "Glenelg",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1733,12 +1733,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Susan Pusey",
-      "finalist_school": null,
+      "finalist_school": "Winters Mill",
       "finalist_coach": null,
       "score": "5-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1746,12 +1746,12 @@
       "classification": "4A",
       "champion_school": "Severna Park",
       "champion_coach": "Lillian Shelton",
-      "finalist_school": null,
+      "finalist_school": "Westminster",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1759,12 +1759,12 @@
       "classification": "3A",
       "champion_school": "Hereford",
       "champion_coach": "Julia Wilson",
-      "finalist_school": null,
+      "finalist_school": "James Hubert Blake",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1772,12 +1772,12 @@
       "classification": "2A",
       "champion_school": "Fallston",
       "champion_coach": "Megan Grant",
-      "finalist_school": null,
+      "finalist_school": "Century",
       "finalist_coach": null,
       "score": "3-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Field Hockey",
@@ -1785,12 +1785,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Susan Pusey",
-      "finalist_school": null,
+      "finalist_school": "Bohemia Manor",
       "finalist_coach": null,
       "score": "5-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     }
   ]
 }

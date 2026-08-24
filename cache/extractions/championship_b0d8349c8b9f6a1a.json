@@ -7,7 +7,8 @@
       63,
       64
     ],
-    "extracted_at": "2026-08-02T14:36:23Z"
+    "extracted_at": "2026-08-02T14:36:23Z",
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -1901,12 +1902,12 @@
       "classification": "4A",
       "champion_school": "Walt Whitman",
       "champion_coach": "Dave Greene",
-      "finalist_school": null,
+      "finalist_school": "Bowie",
       "finalist_coach": null,
       "score": "4-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -1914,12 +1915,12 @@
       "classification": "3A",
       "champion_school": "Walter Johnson",
       "champion_coach": "Corky Logsdon",
-      "finalist_school": null,
+      "finalist_school": "Franklin",
       "finalist_coach": null,
       "score": "3-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -1927,12 +1928,12 @@
       "classification": "2A",
       "champion_school": "Mount Hebron",
       "champion_coach": "Jeff Doolan",
-      "finalist_school": null,
+      "finalist_school": "Williamsport",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -1940,12 +1941,12 @@
       "classification": "1A",
       "champion_school": "Oakland Mills",
       "champion_coach": "Don Shea",
-      "finalist_school": null,
+      "finalist_school": "Parkside",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -1953,12 +1954,12 @@
       "classification": "4A",
       "champion_school": "Col. Zadok Magruder",
       "champion_coach": "Scott Alexander",
-      "finalist_school": null,
+      "finalist_school": "Dulaney",
       "finalist_coach": null,
       "score": "3-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -1966,12 +1967,12 @@
       "classification": "3A",
       "champion_school": "Severna Park",
       "champion_coach": "Don Gregg",
-      "finalist_school": null,
+      "finalist_school": "Perry Hall",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -1979,12 +1980,12 @@
       "classification": "2A",
       "champion_school": "Bethesda-CC",
       "champion_coach": "Ron Forline",
-      "finalist_school": null,
+      "finalist_school": "Havre de Grace",
       "finalist_coach": null,
       "score": "2-1 (OT)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -1992,12 +1993,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Alan Byrd",
-      "finalist_school": null,
+      "finalist_school": "Oakland Mills",
       "finalist_coach": null,
       "score": "3-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2005,12 +2006,12 @@
       "classification": "4A",
       "champion_school": "Winston Churchill",
       "champion_coach": "David Kelley",
-      "finalist_school": null,
+      "finalist_school": "Rockville",
       "finalist_coach": null,
       "score": "3-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2018,12 +2019,12 @@
       "classification": "3A",
       "champion_school": "River Hill",
       "champion_coach": "Bill Stara",
-      "finalist_school": null,
+      "finalist_school": "Dulaney",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2031,12 +2032,12 @@
       "classification": "2A",
       "champion_school": "Stephen Decatur",
       "champion_coach": "Steve Berquist",
-      "finalist_school": null,
+      "finalist_school": "High Point",
       "finalist_coach": null,
       "score": "3-2",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2044,12 +2045,12 @@
       "classification": "1A",
       "champion_school": "Oakland Mills",
       "champion_coach": "Don Shea",
-      "finalist_school": null,
+      "finalist_school": "Smithsburg",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2057,12 +2058,12 @@
       "classification": "4A",
       "champion_school": "Kenwood",
       "champion_coach": "Gary Schneehagen",
-      "finalist_school": null,
+      "finalist_school": "Old Mill",
       "finalist_coach": null,
       "score": "1-0 OT",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2083,12 +2084,12 @@
       "classification": "2A",
       "champion_school": "Century",
       "champion_coach": "Scott Smith",
-      "finalist_school": null,
+      "finalist_school": "Parkside",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2096,12 +2097,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Alan Byrd",
-      "finalist_school": null,
+      "finalist_school": "Williamsport",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2109,12 +2110,12 @@
       "classification": "4A",
       "champion_school": "Sherwood",
       "champion_coach": "Hector Morales, Jr.",
-      "finalist_school": null,
+      "finalist_school": "Old Mill",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2122,12 +2123,12 @@
       "classification": "3A",
       "champion_school": "River Hill",
       "champion_coach": "Bill Stara",
-      "finalist_school": null,
+      "finalist_school": "Severna Park",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2135,12 +2136,12 @@
       "classification": "2A",
       "champion_school": "Atholton",
       "champion_coach": "Roch DeFrances",
-      "finalist_school": null,
+      "finalist_school": "Eastern Technical",
       "finalist_coach": null,
       "score": "2-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2148,12 +2149,12 @@
       "classification": "1A",
       "champion_school": "Beall",
       "champion_coach": "Tim Nightengale",
-      "finalist_school": null,
+      "finalist_school": "Pocomoke",
       "finalist_coach": null,
       "score": "1-0 (2 OTs)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2161,12 +2162,12 @@
       "classification": "4A",
       "champion_school": "Sherwood",
       "champion_coach": "Hector Morales, Jr.",
-      "finalist_school": null,
+      "finalist_school": "Broadneck",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2187,12 +2188,12 @@
       "classification": "2A",
       "champion_school": "Liberty",
       "champion_coach": "Ed DeVincent",
-      "finalist_school": null,
+      "finalist_school": "Hammond",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2226,12 +2227,12 @@
       "classification": "3A",
       "champion_school": "Mount Hebron",
       "champion_coach": "Michael Linsenmyer",
-      "finalist_school": null,
+      "finalist_school": "Loch Raven",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2239,12 +2240,12 @@
       "classification": "2A",
       "champion_school": "Hammond",
       "champion_coach": "Jeff Reinoehl",
-      "finalist_school": null,
+      "finalist_school": "North Carroll",
       "finalist_coach": null,
       "score": "3-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2265,12 +2266,12 @@
       "classification": "4A",
       "champion_school": "Magruder",
       "champion_coach": "Steve Pfeil",
-      "finalist_school": null,
+      "finalist_school": "Perry Hall",
       "finalist_coach": null,
       "score": "5-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2278,12 +2279,12 @@
       "classification": "3A",
       "champion_school": "Bethesda-CC",
       "champion_coach": "Sean Karns",
-      "finalist_school": null,
+      "finalist_school": "Loch Raven",
       "finalist_coach": null,
       "score": "1-0",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2291,12 +2292,12 @@
       "classification": "2A",
       "champion_school": "River Hill",
       "champion_coach": "Matt Shagogue",
-      "finalist_school": null,
+      "finalist_school": "Bel Air",
       "finalist_coach": null,
       "score": "3-2 (OT)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2304,12 +2305,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Alan Byrd",
-      "finalist_school": null,
+      "finalist_school": "Poolesville",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2317,12 +2318,12 @@
       "classification": "4A",
       "champion_school": "Bowie",
       "champion_coach": "Richard Kirkland",
-      "finalist_school": null,
+      "finalist_school": "Perry Hall",
       "finalist_coach": null,
       "score": "2-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2330,12 +2331,12 @@
       "classification": "3A",
       "champion_school": "Tuscarora",
       "champion_coach": "Martin Stiteler",
-      "finalist_school": null,
+      "finalist_school": "Fallston",
       "finalist_coach": null,
       "score": "2-1 (PKs)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2343,12 +2344,12 @@
       "classification": "2A",
       "champion_school": "J.M. Bennett",
       "champion_coach": "Skip Ruark",
-      "finalist_school": null,
+      "finalist_school": "Liberty",
       "finalist_coach": null,
       "score": "1-0 (PKs)",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Soccer",
@@ -2356,12 +2357,12 @@
       "classification": "1A",
       "champion_school": "Pocomoke",
       "champion_coach": "Alan Byrd",
-      "finalist_school": null,
+      "finalist_school": "Boonsboro",
       "finalist_coach": null,
       "score": "3-1",
       "champion_undefeated": false,
       "co_champion": false,
-      "notes": null
+      "notes": "finalist:recap-verified"
     }
   ]
 }

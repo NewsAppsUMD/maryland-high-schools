@@ -8,7 +8,7 @@
       15
     ],
     "extracted_at": "2026-08-02T19:27:06Z",
-    "manual_correction": "Removed 2 segregated-school tournament semifinal rows (1950 State Semis North Street, 1951 C-State Semis Lincoln) extracted from the 'SEGREGATED SCHOOL TOURNAMENTS' section. These are not MPSSAA championships (1951 Lincoln lost the C-State Finals); segregated-section handling deferred."
+    "manual_correction": "finalist back-filled from authoritatively-sourced state-final recaps (see data/<season>/<sport>_finalists.json)"
   },
   "rows": [
     {
@@ -2190,9 +2190,10 @@
       "classification": "AA",
       "champion_school": "Oxon Hill",
       "champion_coach": "Billy Lanier",
-      "finalist_school": null,
+      "finalist_school": "Gwynn Park",
       "finalist_coach": null,
-      "score": "60-42"
+      "score": "60-42",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -2200,9 +2201,10 @@
       "classification": "A",
       "champion_school": "Paint Branch",
       "champion_coach": "Walter Hardy",
-      "finalist_school": null,
+      "finalist_school": "Quince Orchard",
       "finalist_coach": null,
-      "score": "67-50"
+      "score": "67-50",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -2210,9 +2212,10 @@
       "classification": "B",
       "champion_school": "Aberdeen",
       "champion_coach": "Richard Hart",
-      "finalist_school": null,
+      "finalist_school": "Randallstown",
       "finalist_coach": null,
-      "score": "50-48"
+      "score": "50-48",
+      "notes": "finalist:recap-verified"
     },
     {
       "sport": "Boys Basketball",
@@ -2220,9 +2223,10 @@
       "classification": "C",
       "champion_school": "Crisfield",
       "champion_coach": "Phillip Rayfield",
-      "finalist_school": null,
+      "finalist_school": "Pikesville",
       "finalist_coach": null,
-      "score": "42-37"
+      "score": "42-37",
+      "notes": "finalist:recap-verified"
     }
   ]
 }

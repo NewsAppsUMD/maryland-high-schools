@@ -513,14 +513,14 @@ class TestFastFacts:
         ff = fast_facts_paragraph("James Hubert Blake",
                                   r.lookup("James Hubert Blake"))
         # 45 individual champions: includes the "JHB" code rows.
-        assert ff == ("James Hubert Blake has reached 4 state finals without "
+        assert ff == ("James Hubert Blake has reached 10 state finals without "
                       "a title. It has produced 45 individual state champions and won "
                       "3 sportsmanship awards.")
 
     def test_no_history_at_all(self, index):
         r, _ = index
         ff = fast_facts_paragraph("Carver A&t", r.lookup("Carver A&t"))
-        assert ff == "Carver A&t has no recorded state championship appearances."
+        assert ff == "Carver A&t has reached 1 state final without a title."
 
     def test_no_title_individual_only(self, index):
         r, _ = index
