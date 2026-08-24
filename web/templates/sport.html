@@ -38,7 +38,7 @@
   <section>
     <h2>Championship honor roll</h2>
     <table class="results">
-      <thead><tr><th>Year</th><th>Class</th><th>Champion</th><th>Score</th><th>Finalist</th><th>Source</th></tr></thead>
+      <thead><tr><th>Year</th><th>Class</th><th>Champion</th><th>Coach</th><th>Score</th><th>Finalist</th><th>Source</th></tr></thead>
       <tbody>
       {% for r in sport.championships %}
         <tr>
@@ -49,6 +49,7 @@
             {%- if r.co_champion %} <span class="tag">co-champions</span>{% endif %}
             {%- if r.notes %} <span class="tag">{{ r.notes }}</span>{% endif %}
           </td>
+          <td>{{ r.champion_coach or '' }}</td>
           <td>{{ r.score or '' }}</td>
           <td>{% for f in r.finalists %}{{ school_link(f) }}{% if not loop.last %} &amp; {% endif %}{% endfor %}</td>
           <td class="cite">{{ r|cite }}</td>

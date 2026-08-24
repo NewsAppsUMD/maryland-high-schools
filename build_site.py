@@ -763,6 +763,34 @@ def _last_title_phrase(titles: list[dict]) -> str | None:
     return f"{prefix} in {t.get('year')}"
 
 
+def _winningest_coach_phrase(titles: list[dict]) -> str:
+    """Sentence naming the school's most-decorated coach, or '' if none qualifies.
+
+    Counts raw ``champion_coach`` strings (no alias normalization); only emits
+    when a single coach strictly leads with >= 3 titles.
+    """
+    by_coach: dict[str, list[dict]] = defaultdict(list)
+    for t in titles:
+        coach = (t.get("champion_coach") or "").strip()
+        if coach:
+            by_coach[coach].append(t)
+    if not by_coach:
+        return ""
+    ranked = sorted(by_coach.items(), key=lambda kv: len(kv[1]), reverse=True)
+    (name, rows) = ranked[0]
+    n = len(rows)
+    if n < 3:
+        return ""
+    if len(ranked) > 1 and len(ranked[1][1]) == n:
+        return ""  # no strict leader
+    years = sorted(r.get("year") for r in rows if r.get("year"))
+    span = f" ({years[0]}–{years[-1]})" if years else ""
+    sports = {r.get("sport") for r in rows}
+    kind = f" {next(iter(sports)).lower()}" if len(sports) == 1 else ""
+    noun = "title" if n == 1 else "titles"
+    return f" Its winningest coach is {name}, with {n}{kind} {noun}{span}."
+
+
 def fast_facts_paragraph(name: str, school: School) -> str:
     """Deterministic, paste-ready summary paragraph for a school clip file."""
     n_titles = len(school.titles)
@@ -773,6 +801,8 @@ def fast_facts_paragraph(name: str, school: School) -> str:
 
     def pl(n: int, sing: str, plur: str) -> str:
         return f"{n} {sing if n == 1 else plur}"
+
+    coach_str = _winningest_coach_phrase(school.titles)
 
     extras: list[str] = []
     if n_indiv:
@@ -785,7 +815,7 @@ def fast_facts_paragraph(name: str, school: School) -> str:
         phrase = _last_title_phrase(school.titles)
         return (f"{name} has won {pl(n_titles, 'state championship', 'state championships')} "
                 f"across {pl(len(sports_won), 'sport', 'sports')}, most recently {phrase}."
-                + extra_str)
+                + coach_str + extra_str)
     if n_finals:
         return (f"{name} has reached {pl(n_finals, 'state final', 'state finals')} "
                 f"without a title." + extra_str)
@@ -813,10 +843,11 @@ def school_page_data(school: School) -> dict:
     sports = []
     for sport in all_sports:
         titles = sorted(titles_by_sport.get(sport, []), key=lambda r: (r.get("year") or 0))
-        # Opponent = finalist school (fall/winter); spring rows lack it.
+        # Opponent = finalist school (curated per-sport; may be blank for years not yet sourced).
         title_rows = [{
             "year": r.get("year"), "classification": r.get("classification"),
             "score": r.get("score"), "opponent": r.get("finalist_school"),
+            "coach": r.get("champion_coach"),
             "co_champion": r.get("co_champion"),
             "source_pdf": r.get("source_pdf"), "source_pages": r.get("source_pages"),
         } for r in titles]

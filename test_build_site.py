@@ -34,6 +34,7 @@ from build_site import (
     render_report,
     render_timeline_svg,
     school_json,
+    school_page_data,
     schools_index_json,
     slugify,
     split_cochampions,
@@ -493,7 +494,9 @@ class TestFastFacts:
         # 75 individual champions: includes the "Allegeny" typo row and the
         # "ALL" Athlete-School-Mark code rows merged by the alias map.
         assert ff == ("Allegany has won 34 state championships across 7 sports, "
-                      "most recently 1A baseball in 2025. It has produced 75 "
+                      "most recently 1A baseball in 2025. Its winningest coach is "
+                      "Bill Bowers, with 10 boys basketball titles (1927–1950). "
+                      "It has produced 75 "
                       "individual state champions and won 2 sportsmanship awards.")
 
     def test_singular_grammar_one_title_one_sport(self, index):
@@ -539,6 +542,30 @@ class TestFastFacts:
         ff = fast_facts_paragraph("Eleanor Roosevelt", r.lookup("Eleanor Roosevelt"))
         # last title is 4A Boys Basketball 2022
         assert "4A boys basketball in 2022" in ff
+
+    def test_winningest_coach_single_sport(self, index):
+        # Lillian Shelton won 20 field hockey titles at Severna Park — a
+        # dominant single-sport coach, so the sport name is included.
+        r, _ = index
+        ff = fast_facts_paragraph("Severna Park", r.lookup("Severna Park"))
+        assert ("Its winningest coach is Lillian Shelton, with 20 field hockey "
+                "titles (1979–2011).") in ff
+
+    def test_no_winningest_coach_below_threshold(self, index):
+        # Old Post has a single title, so no coach passes the >= 3 threshold.
+        r, _ = index
+        ff = fast_facts_paragraph("Old Post", r.lookup("Old Post"))
+        assert "winningest coach" not in ff
+
+
+class TestSchoolPageData:
+    def test_title_rows_carry_coach(self, index):
+        r, _ = index
+        data = school_page_data(r.lookup("Severna Park"))
+        fh = next(s for s in data["sports"] if s["sport"] == "Field Hockey")
+        # every title row exposes a coach key; Shelton's fill the older rows.
+        assert all("coach" in row for row in fh["titles"])
+        assert "Lillian Shelton" in {row["coach"] for row in fh["titles"]}
 
 
 class TestCanonicalDisplayName:

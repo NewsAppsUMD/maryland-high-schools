@@ -30,7 +30,7 @@
     {% if g.titles %}
     <table class="results">
       <caption>State championship games</caption>
-      <thead><tr><th>Year</th><th>Class</th><th>Score</th><th>Opponent</th><th>Source</th></tr></thead>
+      <thead><tr><th>Year</th><th>Class</th><th>Score</th><th>Opponent</th><th>Coach</th><th>Source</th></tr></thead>
       <tbody>
       {% for r in g.titles %}
         <tr>
@@ -38,6 +38,7 @@
           <td>{{ r.classification or '' }}</td>
           <td>{{ r.score or '' }}</td>
           <td>{{ r.opponent or '' }}{% if r.co_champion %} <span class="tag">co-champion</span>{% endif %}</td>
+          <td>{{ r.coach or '' }}</td>
           <td class="cite">{{ r|cite }}</td>
         </tr>
       {% endfor %}
