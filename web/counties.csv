@@ -1,0 +1,206 @@
+school,county
+# Curated school -> Maryland jurisdiction map, consumed by build_site.load_counties.
+#
+# `school` is any name form that normalize_school resolves (aliases in
+# aliases.csv are applied first), so canonical display names are preferred but
+# alias forms work too. `county` MUST be one of the 24 values in
+# build_site.MD_JURISDICTIONS (23 counties without the word "County", plus
+# "Baltimore County" and "Baltimore City"). Never write "Unknown" here — a
+# school with no row simply renders as Unknown in the schools filter.
+#
+# Seed rows for current schools come from scripts/fetch_msde_schools.py (the
+# MSDE report-card list); closed/historical schools are proposed by
+# scripts/propose_counties.py and hand-reviewed. Each build prints the schools
+# still without a county to site/site-build-report.txt.
+#
+# ── Hand-seeded suffix-disambiguated schools ─────────────────────────────────
+# These carry a county/class suffix in their name; the suffix already tells us
+# the jurisdiction, so they are safe to map by hand.
+Carver-B,Baltimore City
+Central-PG,Prince George's
+Chesapeake-AA,Anne Arundel
+Chesapeake-BC,Baltimore County
+Frederick Douglass-B,Baltimore City
+Frederick Douglass-PG,Prince George's
+Northeast-AA,Anne Arundel
+Northwestern-B,Baltimore City
+Northwestern-PG,Prince George's
+Southern-AA,Anne Arundel
+Southern-B,Baltimore City
+Western-B,Baltimore City
+# The SEED School of Maryland (MSDE district l=32) is a statewide public
+# boarding school in Baltimore City. It has no MPSSAA championship history in
+# the record book, so there is no school page to file it under; the row is kept
+# commented out so it maps automatically if SEED ever appears in the data.
+# The SEED School of Maryland,Baltimore City
+
+# ── Current high schools from MSDE (scripts/fetch_msde_schools.py) ────────────
+# Reached via aliases.csv rows for their MSDE spellings:
+Charles H. Flowers,Prince George's
+Queen Anne's,Queen Anne's
+Carver Center for Arts & Technology,Baltimore County
+Patapsco,Baltimore County
+# MSDE lists this as bare "Northern High" (Calvert); the name is ambiguous with
+# Northern Garrett, so it is hand-mapped rather than scraped.
+Northern-Calvert,Calvert
+Allegany,Allegany
+Fort Hill,Allegany
+Mountain Ridge,Allegany
+Annapolis,Anne Arundel
+Arundel,Anne Arundel
+Broadneck,Anne Arundel
+Crofton,Anne Arundel
+Glen Burnie,Anne Arundel
+Meade,Anne Arundel
+North County,Anne Arundel
+Old Mill,Anne Arundel
+Severna Park,Anne Arundel
+South River,Anne Arundel
+Baltimore Polytechnic Institute,Baltimore City
+Carver Vo-Tech,Baltimore City
+City College,Baltimore City
+Coppin Academy,Baltimore City
+Digital Harbor,Baltimore City
+Edmondson-Westside,Baltimore City
+Forest Park,Baltimore City
+Mergenthaler,Baltimore City
+Patterson,Baltimore City
+Paul Laurence Dunbar,Baltimore City
+Catonsville,Baltimore County
+Dulaney,Baltimore County
+Dundalk,Baltimore County
+Eastern Technical,Baltimore County
+Franklin,Baltimore County
+Hereford,Baltimore County
+Kenwood,Baltimore County
+Lansdowne,Baltimore County
+Loch Raven,Baltimore County
+Milford Mill,Baltimore County
+New Town,Baltimore County
+Overlea,Baltimore County
+Owings Mills,Baltimore County
+Parkville,Baltimore County
+Perry Hall,Baltimore County
+Pikesville,Baltimore County
+Randallstown,Baltimore County
+Sparrows Point,Baltimore County
+Towson,Baltimore County
+Woodlawn,Baltimore County
+Calvert,Calvert
+Huntingtown,Calvert
+Patuxent,Calvert
+Col Richardson,Caroline
+North Caroline,Caroline
+Century,Carroll
+Francis Scott Key,Carroll
+Liberty,Carroll
+Manchester Valley,Carroll
+South Carroll,Carroll
+Westminster,Carroll
+Winters Mill,Carroll
+Bohemia Manor,Cecil
+Elkton,Cecil
+North East-Cecil,Cecil
+Perryville,Cecil
+Rising Sun,Cecil
+Henry E. Lackey,Charles
+La Plata,Charles
+Maurice J. McDonough,Charles
+North Point,Charles
+Saint Charles,Charles
+Thomas Stone,Charles
+Westlake,Charles
+Cambridge-South Dorchester,Dorchester
+North Dorchester,Dorchester
+Brunswick,Frederick
+Catoctin,Frederick
+Frederick,Frederick
+Gov. Thomas Johnson,Frederick
+Linganore,Frederick
+Middletown,Frederick
+Oakdale,Frederick
+Tuscarora,Frederick
+Urbana,Frederick
+Walkersville,Frederick
+Aberdeen,Harford
+Bel Air,Harford
+C. Milton Wright,Harford
+Edgewood,Harford
+Fallston,Harford
+Harford Technical,Harford
+Havre de Grace,Harford
+Joppatowne,Harford
+North Harford,Harford
+Patterson Mill,Harford
+Atholton,Howard
+Centennial,Howard
+Glenelg,Howard
+Hammond,Howard
+Howard,Howard
+Long Reach,Howard
+Marriotts Ridge,Howard
+Mount Hebron,Howard
+Oakland Mills,Howard
+Reservoir,Howard
+River Hill,Howard
+Wilde Lake,Howard
+Kent County,Kent
+Albert Einstein,Montgomery
+Bethesda-Chevy Chase,Montgomery
+Clarksburg,Montgomery
+Col. Zadok Magruder,Montgomery
+Damascus,Montgomery
+Gaithersburg,Montgomery
+James Hubert Blake,Montgomery
+John F. Kennedy,Montgomery
+Montgomery Blair,Montgomery
+Northwest,Montgomery
+Northwood,Montgomery
+Paint Branch,Montgomery
+Poolesville,Montgomery
+Quince Orchard,Montgomery
+Richard Montgomery,Montgomery
+Rockville,Montgomery
+Seneca Valley,Montgomery
+Sherwood,Montgomery
+Springbrook,Montgomery
+Thomas S. Wootton,Montgomery
+Walt Whitman,Montgomery
+Walter Johnson,Montgomery
+Watkins Mill,Montgomery
+Wheaton,Montgomery
+Winston Churchill,Montgomery
+Bladensburg,Prince George's
+Bowie,Prince George's
+Crossland,Prince George's
+"Dr. Henry A. Wise, Jr.",Prince George's
+DuVal,Prince George's
+Eleanor Roosevelt,Prince George's
+Fairmont Heights,Prince George's
+Friendly,Prince George's
+Gwynn Park,Prince George's
+High Point,Prince George's
+Largo,Prince George's
+Laurel,Prince George's
+Oxon Hill,Prince George's
+Parkdale,Prince George's
+Potomac,Prince George's
+Suitland,Prince George's
+Surrattsville,Prince George's
+Kent Island,Queen Anne's
+Chopticon,St. Mary's
+Great Mills,St. Mary's
+Leonardtown,St. Mary's
+Easton,Talbot
+Boonsboro,Washington
+Clear Spring,Washington
+North Hagerstown,Washington
+Smithsburg,Washington
+South Hagerstown,Washington
+Williamsport,Washington
+James M. Bennett,Wicomico
+Parkside,Wicomico
+Wicomico,Wicomico
+Pocomoke,Worcester
+Snow Hill,Worcester
+Stephen Decatur,Worcester

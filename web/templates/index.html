@@ -5,15 +5,22 @@
 <p class="muted">{{ schools|length }} schools with championship history. Type to filter.</p>
 <div class="search">
   <input id="school-search" type="search" placeholder="Filter by name…" autocomplete="off" aria-label="Filter schools by name">
+  <select id="county-filter" aria-label="Filter schools by county">
+    <option value="">All counties</option>
+  {% for c in counties %}
+    <option value="{{ c }}">{{ c }}</option>
+  {% endfor %}
+  </select>
 </div>
 <table class="school-index">
   <thead>
-    <tr><th>School</th><th class="num">Titles</th><th class="num">Finals</th><th class="num">Indiv. champs</th><th class="num">Sportsmanship</th></tr>
+    <tr><th>School</th><th>County</th><th class="num">Titles</th><th class="num">Finals</th><th class="num">Indiv. champs</th><th class="num">Sportsmanship</th></tr>
   </thead>
   <tbody>
   {% for s in schools %}
-    <tr>
+    <tr data-county="{{ s.county }}">
       <td><a href="{{ root }}schools/{{ s.slug }}/index.html">{{ s.name }}</a></td>
+      <td>{{ s.county }}</td>
       <td class="num">{{ s.titles }}</td>
       <td class="num">{{ s.finals }}</td>
       <td class="num">{{ s.individual_champions }}</td>
@@ -22,5 +29,5 @@
   {% endfor %}
   </tbody>
 </table>
-<p class="muted" id="no-results" hidden>No schools match that filter.</p>
+<p class="muted" id="no-results" hidden>No schools match those filters.</p>
 {% endblock %}

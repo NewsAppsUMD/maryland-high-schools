@@ -30,8 +30,24 @@ ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 WEB_DIR = ROOT / "web"
 ALIASES_CSV = WEB_DIR / "aliases.csv"
+COUNTIES_CSV = WEB_DIR / "counties.csv"
 OUT_DIR = ROOT / "site"
 SEASONS = ("fall", "winter", "spring")
+
+# The 24 Maryland school jurisdictions: 23 counties + Baltimore City. Spelled
+# without the trailing "County" EXCEPT "Baltimore County", which keeps it to
+# stay distinct from "Baltimore City". This is the single source of truth for
+# valid values in web/counties.csv; anything else is flagged by load_counties.
+MD_JURISDICTIONS = frozenset({
+    "Allegany", "Anne Arundel", "Baltimore City", "Baltimore County",
+    "Calvert", "Caroline", "Carroll", "Cecil", "Charles", "Dorchester",
+    "Frederick", "Garrett", "Harford", "Howard", "Kent", "Montgomery",
+    "Prince George's", "Queen Anne's", "St. Mary's", "Somerset", "Talbot",
+    "Washington", "Wicomico", "Worcester",
+})
+
+# Label shown for schools with no curated county (never a counties.csv value).
+UNKNOWN_COUNTY = "Unknown"
 
 # Tables we pull from each season book.
 TABLES = (
@@ -137,6 +153,48 @@ def load_aliases(path: Path = ALIASES_CSV) -> tuple[dict[str, str], dict[str, st
     return alias_map, canonical_display
 
 
+def load_counties(normalize_school, path: Path = COUNTIES_CSV
+                  ) -> tuple[dict[str, str], list[str]]:
+    """Load ``school,county`` rows into a normalized-key -> county map.
+
+    Rows are keyed by ``normalize_school(row["school"])`` — the same
+    alias-chased key space as ``SchoolRegistry.by_key`` — so any name form that
+    resolves to a school (canonical, alias, or suffix-disambiguated like
+    "Northeast-AA") maps cleanly. The county value must be one of
+    ``MD_JURISDICTIONS``.
+
+    Returns ``(county_by_key, problems)`` where ``problems`` is a list of
+    human-readable strings for rows with an unknown county value or a school
+    name that normalizes to empty. Comment lines (``#``) and short rows are
+    skipped, mirroring :func:`load_aliases`.
+    """
+    county_by_key: dict[str, str] = {}
+    problems: list[str] = []
+    if not path.exists():
+        return county_by_key, problems
+    with path.open(newline="", encoding="utf-8") as fh:
+        reader = csv.reader(fh)
+        for row in reader:
+            if not row or row[0].strip().startswith("#"):
+                continue
+            if len(row) < 2:
+                continue
+            school_raw = row[0].strip()
+            county = row[1].strip()
+            if school_raw.lower() == "school" and county.lower() == "county":
+                continue  # header row
+
+            key = normalize_school(school_raw)
+            if not key:
+                problems.append(f"{school_raw!r}: school name normalizes to empty")
+                continue
+            if county not in MD_JURISDICTIONS:
+                problems.append(f"{school_raw!r}: unknown county {county!r}")
+                continue
+            county_by_key[key] = county  # last write wins
+    return county_by_key, problems
+
+
 def make_normalizer(aliases: dict[str, str]):
     """Return a normalize_school(name) that applies the alias map after base normalization."""
 
@@ -239,6 +297,7 @@ class School:
     slug: str
     display_name: str
     normalized_key: str
+    county: str | None = None  # Maryland jurisdiction from web/counties.csv
     raw_variants: set[str] = field(default_factory=set)
     # sport -> list of championship rows where this school is champion.
     titles: list[dict] = field(default_factory=list)
@@ -486,6 +545,29 @@ def build_school_index(books: dict[str, dict], normalize_school,
     return registry, report
 
 
+def attach_counties(registry: SchoolRegistry,
+                    county_by_key: dict[str, str]) -> dict:
+    """Set ``School.county`` for every registry school present in the map.
+
+    Returns a report dict with two curation signals:
+    - ``schools_without_county``: display names of schools that got no county
+      (the worklist — they render as "Unknown" in the filter).
+    - ``stale_county_rows``: normalized keys in counties.csv that match no
+      school in the registry (a row to fix or drop).
+    """
+    matched_keys: set[str] = set()
+    for key, school in registry.by_key.items():
+        county = county_by_key.get(key)
+        if county:
+            school.county = county
+            matched_keys.add(key)
+    without = sorted(
+        s.display_name for s in registry.by_key.values() if not s.county
+    )
+    stale = sorted(set(county_by_key) - matched_keys)
+    return {"schools_without_county": without, "stale_county_rows": stale}
+
+
 def _bucket_unmatched(registry: SchoolRegistry, normalize_school) -> dict:
     """Group unmatched names into actionable buckets for curation.
 
@@ -519,6 +601,7 @@ def schools_index_json(registry: SchoolRegistry) -> list[dict]:
         entry = {
             "slug": school.slug,
             "name": school.display_name,
+            "county": school.county or UNKNOWN_COUNTY,
             "titles": len(school.titles),
             "finals": len(school.finals),
             "individual_champions": len(school.individual_champions),
@@ -763,6 +846,7 @@ def school_page_data(school: School) -> dict:
         "school": {
             "name": school.display_name,
             "slug": school.slug,
+            "county": school.county,
             "closed": school.closed,
             "total_titles": len(school.titles),
             "total_finals": len(school.finals),
@@ -780,6 +864,7 @@ def school_json(school: School) -> dict:
     return {
         "slug": school.slug,
         "name": school.display_name,
+        "county": school.county,
         "closed": school.closed,
         "totals": {
             "titles": len(school.titles),
@@ -1204,8 +1289,14 @@ def build_site(registry: SchoolRegistry, report: dict, out_dir: Path,
     index_tmpl = env.get_template("index.html")
     schools_dir = out_dir / "schools"
     schools_dir.mkdir(parents=True, exist_ok=True)
+    schools_idx = schools_index_json(registry)
+    # Distinct counties present, alphabetical, with "Unknown" forced last.
+    present = {e["county"] for e in schools_idx}
+    county_list = sorted(present - {UNKNOWN_COUNTY})
+    if UNKNOWN_COUNTY in present:
+        county_list.append(UNKNOWN_COUNTY)
     (schools_dir / "index.html").write_text(
-        index_tmpl.render(root="../", schools=schools_index_json(registry)),
+        index_tmpl.render(root="../", schools=schools_idx, counties=county_list),
         encoding="utf-8")
 
     # Per-school pages + JSON. Pages live at site/schools/{slug}/index.html,
@@ -1415,6 +1506,25 @@ def render_report(report: dict) -> str:
     if not (n_junk or n_near or n_unr):
         lines.append("No unmatched school names — aliases.csv covers everything.")
 
+    # County coverage (only present once attach_counties has run).
+    without = report.get("schools_without_county")
+    stale = report.get("stale_county_rows")
+    if without is not None:
+        lines.append("")
+        lines.append(f"Schools without a county: {len(without)} "
+                     f"(add rows to web/counties.csv):")
+        lines.append("-" * 60)
+        for name in without[:120]:
+            lines.append(f"  {name}")
+        if len(without) > 120:
+            lines.append(f"  … and {len(without) - 120} more")
+    if stale:
+        lines.append("")
+        lines.append(f"Stale counties.csv rows (match no school — fix or drop): {len(stale)}")
+        lines.append("-" * 60)
+        for key in stale:
+            lines.append(f"  [{key}]")
+
     return "\n".join(lines) + "\n"
 
 
@@ -1430,6 +1540,11 @@ def main(argv: list[str] | None = None) -> int:
     alias_map, canonical_display = load_aliases()
     normalize_school = make_normalizer(alias_map)
     registry, report = build_school_index(books, normalize_school, canonical_display)
+
+    county_by_key, county_problems = load_counties(normalize_school)
+    report.update(attach_counties(registry, county_by_key))
+    for problem in county_problems:
+        print(f"counties.csv: {problem}", file=sys.stderr)
 
     print(render_report(report))
 

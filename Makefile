@@ -8,7 +8,7 @@ SPRING_PDF := pdfs/Spring record book 2025.pdf
 SEASONS    := fall winter spring
 
 .PHONY: test routes extract extract-all diff verify rebuild-offline \
-        site serve check-links clean clean-build
+        site serve check-links counties-proposals clean clean-build
 
 # ── Tests ────────────────────────────────────────────────────────────────────
 test:
@@ -70,6 +70,13 @@ serve:
 # Internal link check: no 404s in the built site.
 check-links: site
 	uv run scripts/check_site_links.py site
+
+# ── County map curation (manual; not run in CI) ───────────────────────────────
+# Propose web/counties.csv rows from MSDE's current-school list. Review the
+# output, then paste the good rows into web/counties.csv. Closed/historical
+# schools are proposed separately by scripts/propose_counties.py (needs an LLM).
+counties-proposals:
+	uv run python scripts/fetch_msde_schools.py
 
 # ── Cleanup ──────────────────────────────────────────────────────────────────
 clean-build:

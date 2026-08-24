@@ -5,20 +5,24 @@
 (function () {
   var input = document.getElementById('school-search');
   if (!input) return;
+  var county = document.getElementById('county-filter');
   var rows = document.querySelectorAll('.school-index tbody tr');
   var none = document.getElementById('no-results');
   function filter() {
     var q = input.value.trim().toLowerCase();
+    var c = county ? county.value : '';
     var shown = 0;
     rows.forEach(function (tr) {
       var name = tr.cells[0].textContent.toLowerCase();
-      var hit = !q || name.indexOf(q) !== -1;
+      var hit = (!q || name.indexOf(q) !== -1) &&
+                (!c || tr.getAttribute('data-county') === c);
       tr.style.display = hit ? '' : 'none';
       if (hit) shown++;
     });
     if (none) none.hidden = shown !== 0;
   }
   input.addEventListener('input', filter);
+  if (county) county.addEventListener('change', filter);
 })();
 
 // Copy-to-clipboard for fast-facts paragraphs.

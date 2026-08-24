@@ -45,8 +45,9 @@ a:hover { text-decoration: underline; }
 .stats .label { color: var(--muted); font-size: .9rem; }
 
 /* search + tables */
-.search { margin: 16px 0; }
-.search input { padding: 8px 10px; font-size: 1rem; width: 100%; max-width: 420px; border: 1px solid var(--line); border-radius: 4px; background: var(--bg); color: var(--ink); }
+.search { margin: 16px 0; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.search input { padding: 8px 10px; font-size: 1rem; flex: 1 1 260px; max-width: 420px; border: 1px solid var(--line); border-radius: 4px; background: var(--bg); color: var(--ink); }
+.search select { padding: 8px 10px; font-size: 1rem; border: 1px solid var(--line); border-radius: 4px; background: var(--bg); color: var(--ink); }
 table { border-collapse: collapse; width: 100%; margin: 12px 0 24px; font-size: .95rem; }
 caption { text-align: left; font-weight: 600; padding: 6px 0; color: var(--muted); }
 th, td { padding: 6px 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }

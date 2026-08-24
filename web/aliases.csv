@@ -397,3 +397,8 @@ Northern-G,Northern Garrett
 Northern (G),Northern Garrett
 Northern-C,Northern-Calvert
 Northern (C),Northern-Calvert
+# MSDE report-card list forms (for scripts/fetch_msde_schools.py county matching).
+Charles Herbert Flowers,Charles H. Flowers
+Queen Anne's County High School,Queen Anne's
+George Washington Carver Center for Arts and Technology,Carver Center for Arts & Technology
+Patapsco High and Center for Arts,Patapsco

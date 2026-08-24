@@ -10,8 +10,11 @@ import pytest
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from build_site import (
+    MD_JURISDICTIONS,
+    UNKNOWN_COUNTY,
     _base_normalize,
     _longest_consecutive_run,
+    attach_counties,
     best_display_name,
     build_embeds,
     build_school_index,
@@ -25,9 +28,12 @@ from build_site import (
     fast_facts_paragraph,
     load_aliases,
     load_books,
+    load_counties,
     make_normalizer,
     pdf_label,
+    render_report,
     render_timeline_svg,
+    school_json,
     schools_index_json,
     slugify,
     split_cochampions,
@@ -190,6 +196,15 @@ def index():
     return registry, report
 
 
+@pytest.fixture
+def fresh_index():
+    """A freshly-built registry, safe to mutate (e.g. attach_counties)."""
+    books = load_books()
+    am, cd = load_aliases()
+    registry, report = build_school_index(books, make_normalizer(am), cd)
+    return registry, report
+
+
 class TestBuildSchoolIndex:
     def test_report_counts_match_data(self, index):
         _, report = index
@@ -270,9 +285,125 @@ class TestSchoolsIndexJson:
         idx = schools_index_json(registry)
         names = [e["name"] for e in idx]
         assert names == sorted(names, key=str.lower)
-        assert idx[0].keys() >= {"slug", "name", "titles", "finals",
+        assert idx[0].keys() >= {"slug", "name", "county", "titles", "finals",
                                  "individual_champions", "sportsmanship"}
         assert len(idx) == len(registry.by_key)
+
+    def test_entries_carry_county_with_unknown_fallback(self, fresh_index):
+        registry, _ = fresh_index
+        attach_counties(registry, {NORM("Northeast-AA"): "Anne Arundel"})
+        idx = schools_index_json(registry)
+        # Every entry has a non-empty county string; unmapped -> "Unknown".
+        assert all(e["county"] for e in idx)
+        by_name = {e["name"]: e for e in idx}
+        # A mapped school carries its real county.
+        assert by_name["Northeast-AA"]["county"] == "Anne Arundel"
+        # Schools with no row read as Unknown.
+        assert any(e["county"] == UNKNOWN_COUNTY for e in idx)
+
+
+# ── county load + attach ─────────────────────────────────────────────────────
+class TestLoadCounties:
+    def test_header_and_comments_skipped(self, tmp_path):
+        csv = tmp_path / "counties.csv"
+        csv.write_text("school,county\n# a comment\nAberdeen,Harford\n",
+                       encoding="utf-8")
+        cmap, problems = load_counties(NORM, csv)
+        assert problems == []
+        assert cmap[NORM("Aberdeen")] == "Harford"
+        assert len(cmap) == 1  # header not counted
+
+    def test_normalized_and_alias_keying(self, tmp_path):
+        csv = tmp_path / "counties.csv"
+        # "Mt. Hebron" normalizes to the same key as "Mount Hebron"; "Mervo" is
+        # an alias for Mergenthaler in aliases.csv.
+        csv.write_text("Mt. Hebron,Howard\nMervo,Baltimore City\n",
+                       encoding="utf-8")
+        cmap, problems = load_counties(NORM, csv)
+        assert problems == []
+        assert cmap[NORM("Mount Hebron")] == "Howard"
+        assert cmap[NORM("Mergenthaler")] == "Baltimore City"
+
+    def test_invalid_county_reported(self, tmp_path):
+        csv = tmp_path / "counties.csv"
+        csv.write_text("Aberdeen,Harford\nBogus,Nowhere County\n",
+                       encoding="utf-8")
+        cmap, problems = load_counties(NORM, csv)
+        assert NORM("Aberdeen") in cmap
+        assert NORM("Bogus") not in cmap
+        assert len(problems) == 1 and "Nowhere County" in problems[0]
+
+    def test_quoted_name_with_comma(self, tmp_path):
+        csv = tmp_path / "counties.csv"
+        csv.write_text('"Dr. Henry A. Wise, Jr.",Prince George\'s\n',
+                       encoding="utf-8")
+        cmap, problems = load_counties(NORM, csv)
+        assert problems == []
+        assert cmap[NORM("Dr. Henry A. Wise, Jr.")] == "Prince George's"
+
+    def test_missing_file_returns_empty(self, tmp_path):
+        cmap, problems = load_counties(NORM, tmp_path / "nope.csv")
+        assert cmap == {} and problems == []
+
+    def test_seeded_counties_are_valid_jurisdictions(self):
+        # The committed web/counties.csv loads cleanly against real data.
+        cmap, problems = load_counties(NORM)
+        assert problems == []
+        assert set(cmap.values()) <= MD_JURISDICTIONS
+
+
+class TestAttachCounties:
+    def test_attaches_and_reports_unmapped(self, fresh_index):
+        registry, _ = fresh_index
+        cmap = {NORM("Aberdeen"): "Harford"}
+        rep = attach_counties(registry, cmap)
+        assert registry.lookup("Aberdeen").county == "Harford"
+        # A school not in the map has no county and is on the worklist.
+        other = registry.lookup("Eleanor Roosevelt")
+        assert other.county is None
+        assert "Eleanor Roosevelt" in rep["schools_without_county"]
+
+    def test_suffix_pair_get_distinct_counties(self, fresh_index):
+        registry, _ = fresh_index
+        cmap = {NORM("Northeast-AA"): "Anne Arundel",
+                NORM("Northwestern-PG"): "Prince George's"}
+        attach_counties(registry, cmap)
+        assert registry.lookup("Northeast-AA").county == "Anne Arundel"
+        assert registry.lookup("Northwestern-PG").county == "Prince George's"
+
+    def test_stale_row_reported(self, fresh_index):
+        registry, _ = fresh_index
+        cmap = {"this key matches nothing": "Howard"}
+        rep = attach_counties(registry, cmap)
+        assert "this key matches nothing" in rep["stale_county_rows"]
+
+
+class TestSchoolJsonCounty:
+    def test_county_present_and_nullable(self, fresh_index):
+        registry, _ = fresh_index
+        attach_counties(registry, {NORM("Aberdeen"): "Harford"})
+        mapped = school_json(registry.lookup("Aberdeen"))
+        assert mapped["county"] == "Harford"
+        # A school with no row serializes county as null.
+        unmapped = school_json(registry.lookup("Eleanor Roosevelt"))
+        assert unmapped["county"] is None
+
+
+class TestRenderReportCounty:
+    def test_without_county_section_shown(self):
+        report = {
+            "seasons": ["fall"], "school_records_rows": 0, "championship_rows": 0,
+            "individual_rows": 0, "sportsmanship_rows": 0, "golf_rows": 0,
+            "stat_records_rows": 0, "schools": 1, "unmatched_keys": 0,
+            "unmatched": {"junk": [], "near_known": [], "unresolved": []},
+            "schools_without_county": ["Ghost High"],
+            "stale_county_rows": ["some stale key"],
+        }
+        out = render_report(report)
+        assert "Schools without a county: 1" in out
+        assert "Ghost High" in out
+        assert "Stale counties.csv rows" in out
+        assert "some stale key" in out
 
 
 # ── SVG timeline renderer ────────────────────────────────────────────────────
